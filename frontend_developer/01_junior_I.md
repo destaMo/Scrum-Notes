@@ -197,6 +197,7 @@ Familiarize yourself with the concepts from the book, be able to explain then, a
         - [Http and the forms](http://eloquentjavascript.net/18_http.html)
         - [Project: Pixlr editor](http://eloquentjavascript.net/19_paint.html)
 - 📙 [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
+- 📙 [Introduction to Regulax Expressions](https://scrimba.com/g/gregularexpressions)
 - 📙 [regular expresions](http://regexr.com/) as much as you need to practice
 
 ### 🎤 Interview
