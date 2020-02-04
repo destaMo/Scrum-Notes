@@ -243,7 +243,7 @@ Knows how to use Redux.
 ### 🎓 Learn
 
 - 📗 [When Redux is not needed](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
-- 📗 [Redux introduction](https://redux.js.org/introduction)
+- 📗 [Redux introduction](https://redux.js.org/introduction/getting-started)
 - 📗 [Functional programming paradigms](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-immutability-4e9751ca005c)
 - 📗 [Redux step-by-step](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092)
 - 📗 [Seamless immutable](https://medium.com/@ckoster22/seamless-immutable-an-alternative-to-immutablejs-12795d6bf577)
