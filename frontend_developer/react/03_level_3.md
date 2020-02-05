@@ -209,10 +209,15 @@ Knows how to create Static Site with Gatsby.
 
 - What are static sites and what’s the difference with SPA’s?
 - How to use Gatsby to create static sites?
+- How to install and configure a Gatsby plugin?
+- How to enter and operate GraphiQL in Gatsby?
 
 ### 📝 Katas
 
 - Setup and deploy static site with using gatsby.js
+- Generate a static page sourced from `/pages` directory
+- Generate a static page that uses StaticQuery (could be a simple site metadata from config like in [this tutorial](https://www.gatsbyjs.org/tutorial/part-four/#your-first-graphql-query))
+- Generate a static page using `createPage` in `gatsby-node.js`. Pass properties to pageContext and display the data in view.
 
 ---
 
