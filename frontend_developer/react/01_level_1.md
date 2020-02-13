@@ -319,9 +319,6 @@ Knows how to create forms in React using the popular libraries.
 - Create one form for create and edit
 - Create form handling nested data (eg. user.address.postalCode)
 - Create form handling data arrays
-- Add validation
-    - on input change
-    - on form submit
 
 ---
 
@@ -345,9 +342,6 @@ Knows how to validate forms in different stages of the user interaction.
 
 ### 📝 Katas
 
-- Redirect programmatically using history object (from React Router)
-- Create form handling nested data (eg. user.address.postalCode)
-- Create form handling data arrays
 - Add validation
     - on input change
     - on form submit
