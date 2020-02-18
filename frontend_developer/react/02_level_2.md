@@ -203,8 +203,6 @@ Knows how to use Context and understands asynchronous behavior of setState.
 ### 📝 Katas
 
 - Use React Context to share data across the app
-- Implement data normalization between request and redux store
-- Implement selectors transforming the data from store to component needs
 
 ---
 
