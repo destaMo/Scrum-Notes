@@ -37,7 +37,7 @@ This path include some of the requirements from original React lvl 1. They are l
 - [Linking](#-reactnative--linking)
 - [Styling](#-reactnative--styling)
 - [Navigation](#-reactnative--navigation)
-- [Platfom Specyfic Code](#-reactnative--platform-specyfic-code)
+- [Platfom Specific Code](#-reactnative--platform-specific-code)
 - [Lists](#-reactnative--lists)
 
 
