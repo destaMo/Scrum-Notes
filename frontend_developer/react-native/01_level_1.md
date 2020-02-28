@@ -6,29 +6,29 @@ This path include some of the requirements from original React lvl 1. They are l
 
 **React**
 
-- [Validating props structure](../react/01_level_1.md#-react--validating-props-structure)
-- [Structuring the app](../react/01_level_1.md#-react--structuring-the-app)
-- [Cleaning up on end of component life](../react/01_level_1.md#-react--cleaning-up-on-end-of-component-life)
-- [Performance](../react/01_level_1.md#-react--performance)
+- [Validating props structure](../react/01_level_1.md#-react--validating-props-structure) (original React path)
+- [Structuring the app](../react/01_level_1.md#-react--structuring-the-app) (original React path)
+- [Cleaning up on end of component life](../react/01_level_1.md#-react--cleaning-up-on-end-of-component-life) (original React path)
+- [Performance](../react/01_level_1.md#-react--performance) (original React path)
 
 **State management**
 
-- [React state and props](../react/01_level_1.md#-state-management--react-state-and-props)
-- [Redux](../react/01_level_1.md#-state-management--redux)
+- [React state and props](../react/01_level_1.md#-state-management--react-state-and-props) (original React path)
+- [Redux](../react/01_level_1.md#-state-management--redux) (original React path)
 
 **Forms**
 
-- [Forms](../react/01_level_1.md#-forms)
-- [Validation](../react/01_level_1.md#-forms--validation)
+- [Forms](../react/01_level_1.md#-forms) (original React path)
+- [Validation](../react/01_level_1.md#-forms--validation) (original React path)
 
 **Testing**
 
-- [Testing](../react/01_level_1.md#-testing)
-- [Rendering React](../react/01_level_1.md#-testing--rendering-react)
+- [Testing](../react/01_level_1.md#-testing) (original React path)
+- [Rendering React](../react/01_level_1.md#-testing--rendering-react) (original React path)
 
 **Patterns**
 
-- [Patterns](../react/01_level_1.md#-patterns)
+- [Patterns](../react/01_level_1.md#-patterns) (original React path)
 
 **ReactNative**
 
