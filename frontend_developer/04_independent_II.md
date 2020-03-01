@@ -54,6 +54,7 @@
 
 - 📗 [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 - 📗 [CloudFront](https://aws.amazon.com/cloudfront/)
+- 📗 [Memory leaks discovery](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
 
 ### 🎤 Interview
 
@@ -64,6 +65,7 @@
 
 - How you can check your app fps?
 - Make (and show me) a website that will reach 90+ score in **PageInsights** test.
+- How you can identify memory leak in your application?
 
 ---
 
