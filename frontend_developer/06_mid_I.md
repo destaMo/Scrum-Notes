@@ -42,7 +42,7 @@
 
 ---
 
-## 📦 **Language & Browser API** / Local storage
+## 📦 **Language & Browser API** / IndexedDB
 
 ### 🎓 Learn
 
