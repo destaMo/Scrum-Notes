@@ -150,6 +150,7 @@
 - 📗 [Composing Software](https://leanpub.com/composingsoftware)
 - 📗 [How to improve analytical skills in general](https://www.wikihow.com/Improve-Analytical-Skills)
 - 📗 [Currying](https://www.sitepoint.com/currying-in-functional-javascript/)
+- 📗 [Functors & Monads video](https://www.youtube.com/watch?v=2jp8N6Ha7tY)
 - 📗 [Functors & Monads](https://hackernoon.com/functional-javascript-functors-monads-and-promises-679ce2ab8abe)
 - 📗 [Functors & Monads in pictures](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221)
 - 📗 [Function & object composition](https://alligator.io/js/class-composition/)
