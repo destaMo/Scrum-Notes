@@ -1,12 +1,14 @@
-## Dev Paths
+# Dev Paths
 
-### Common knowledge
+## Common knowledge
 - GIT (Coming soon...)
 - Systems (Coming soon...)
   - MacOS (Coming soon...)
   - Linux (Coming soon...)
+ 
+---
 
-### Frontend
+## Frontend
 * [Junior I](frontend_developer/01_junior_I.md)
 * [Junior II](frontend_developer/02_junior_II.md)
 * [Independent I](frontend_developer/03_independent_I.md)
@@ -14,33 +16,33 @@
 * [Independent III](frontend_developer/05_independent_III.md)
 * [Mid I](frontend_developer/06_mid_I.md)
 
-#### React
+### React
 * [React I](frontend_developer/react/01_level_1.md)
 * [React II](frontend_developer/react/02_level_2.md)
 * [React III](frontend_developer/react/03_level_3.md)
 
-#### ReactNative
+### ReactNative
 * [React Native I](frontend_developer/react-native/01_level_1.md)
 
-#### Presentation layer
+### Presentation layer
 * Styling
 
 ---
 
-### Backend
+## Backend
 * General knowledge (Junior I-Mid I coming soon...)
 * Databases (Coming soon...)
 * DevOps (Coming soon...)
 * Full-text search engines (Coming soon...)
 
-#### JavaScript (NodeJS)
+### JavaScript (NodeJS)
 Coming soon...
 
-#### Ruby (Rails)
+### Ruby (Rails)
 Coming soon...
 
-#### Elixir (Phoenix)
+### Elixir (Phoenix)
 Coming soon...
 
-#### React
+### React
 * [React I](backend_developer/frameworks/react.md) (minimal knowledge for simple UI tasks)
