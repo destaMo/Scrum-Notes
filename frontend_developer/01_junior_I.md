@@ -133,6 +133,8 @@ Read about how the web works - you do not need to remember all the details, just
 
 - How dev tools will help you develop and debug the app? (Inspector / console / debugger / network / break points usage)
 
+---
+
 ## 📦 Language & Browser API / JavaScript Basic
 
 Familiarize yourself with the concepts from the book, be able to explain then, and give an example where you would use it. Have a decent skill in writing solutions & tests in javascript.
