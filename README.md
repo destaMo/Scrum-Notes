@@ -1,7 +1,7 @@
 # Dev Paths
 
 ## Common knowledge
-- GIT (Coming soon...)
+* [GIT](common/git.md) 
 - Systems (Coming soon...)
   - MacOS (Coming soon...)
   - Linux (Coming soon...)
