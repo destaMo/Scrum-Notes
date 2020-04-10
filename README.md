@@ -36,7 +36,7 @@
 * Full-text search engines (Coming soon...)
 
 ### JavaScript (NodeJS)
-Coming soon...
+* [Javascript Prerequisites](/backend_developer/nodejs/javascript_prerequisites.md)
 
 ### Ruby (Rails)
 Coming soon...
