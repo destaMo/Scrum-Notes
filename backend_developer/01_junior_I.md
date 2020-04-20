@@ -1,36 +1,7 @@
 # Junior - level I
 
-| English Level | Experience | Verification (pick one) | Other |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|  | N/A | [check outline](https://docs.google.com/spreadsheets/d/1KhP0BHtOKEo7VnnHt81gog88lyrTV3KgPTFxY4azTts/edit#gid=493855829) |  |
-| | | |  |
-
----
-
 ## 📦 GIT CLI
-
-### 🎓 Resources
-
-- 📗 [Keeping history flat](https://www.google.com/url?q=https://medium.com/selleo/a-curated-list-of-git-commands-enough-to-keep-your-git-history-flat-288748998132)
-- 📗 [Git prefixes specification](https://www.conventionalcommits.org/en/v1.0.0-beta.2/#specification)
-- 📗 [Git prefixes examples](https://gist.github.com/johnstew/941676d525271359a4b2d7f1bf2cb421)
-
-### 📝 Katas
-
-- [Labs from 1 to 49](http://gitimmersion.com/)
-- [Git Katas](https://github.com/praqma-training/git-katas)
-
-### 🎤 Interview
-
-- What is git and what is it for?
-- What is the difference between "local" and "remote"
-- Tell me about basic commands such as commit, push etc.
-- How can I ignore files from the git repository?
-- How do you work with branches?
-- What is the difference between merge vs rebase?
-- How do you move commits between branches?
-- Why would I use `git stash`?
-- Teach me about git prefixes - what, why and how would I use them.
+* [GIT](/common/git.md)
 
 ## 📦 Authentication
 
@@ -430,6 +401,6 @@ This is limited to numeric, character, boolean and date time types.
 
 ## 📦 Linux
 
-- [UNIX file types](/service_delivery_paths/backend_developer/devops/linux.md#unix-file-types)
-- [commands](/service_delivery_paths/backend_developer/devops/linux.md#junior-i)
-- [useful tricks](/service_delivery_paths/backend_developer/devops/linux.md#useful-tricks)
+- [UNIX file types](/common/linux.md#unix-file-types)
+- [commands](/common/linux.md#junior-i)
+- [useful tricks](/common/linux.md#useful-tricks)
