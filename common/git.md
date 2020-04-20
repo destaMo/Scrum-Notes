@@ -14,6 +14,13 @@ Be proficient in dealing with GIT from command line - only chapters mention belo
 
 ### 🎤 Interview
 
+- What is git and what is it for?
+- What is the difference between "local" and "remote"
+- Tell me about basic commands such as commit, push etc.
+- What is the difference between merge vs rebase?
+- How do you move commits between branches?
+- Why would I use git stash?
+- Teach me about git prefixes - what, why and how would I use them.
 - What is specific about Git (DVCS in general)
 - Can you show me your git config?
 - How you like browse git history?
