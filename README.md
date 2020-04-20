@@ -41,7 +41,7 @@
 * Full-text search engines (Coming soon...)
 
 ### JavaScript (NodeJS)
-Coming soon...
+* [Javascript Prerequisites](/frontend_developer/01_junior_I.md) ( `Language & Browser API` and `Networking` )
 
 ### Ruby (Rails)
 Coming soon...
