@@ -11,6 +11,9 @@ Be proficient in dealing with GIT from command line - only chapters mention belo
 - 📗 [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 - 📗 [Distributed Git](https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows)
 - 📗 [Github](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
+- 📗 [Keeping history flat](https://www.google.com/url?q=https://medium.com/selleo/a-curated-list-of-git-commands-enough-to-keep-your-git-history-flat-288748998132)
+- 📗 [Git prefixes specification](https://www.conventionalcommits.org/en/v1.0.0-beta.2/#specification)
+- 📗 [Git prefixes examples](https://gist.github.com/johnstew/941676d525271359a4b2d7f1bf2cb421)
 
 ### 🎤 Interview
 
