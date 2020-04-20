@@ -1,11 +1,5 @@
 # Junior - level II
 
-| English Level | Experience | Verification (pick one) | Framework |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|  > B1.2  | **450 hours** in relevant technologies | [check outline](https://docs.google.com/spreadsheets/d/1KhP0BHtOKEo7VnnHt81gog88lyrTV3KgPTFxY4azTts/edit#gid=493855829) |  |
-
----
-
 ## 📦 Open discussion topics
 
 **A selection of topics from the list below will be discussed during verification session**
