@@ -43,7 +43,8 @@ Know your environment (operating system, terminal, basic command lines, running 
 
 ### 🎓 Learn
 
-- [MacOS or Linux](/backend_developer/devops/os.md)
+- [MacOS](/common/macos.md)
+- [Linux](/common/linux.md)
 
 ---
 
