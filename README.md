@@ -30,10 +30,11 @@
 ---
 
 ## Backend
-* General knowledge (Junior I-Mid I coming soon...)
-* Databases (Coming soon...)
-* DevOps (Coming soon...)
-* Full-text search engines (Coming soon...)
+### General knowledge
+- [Junior II](/backend_developer/02_junior_II.md)
+### Databases (Coming soon...)
+### DevOps (Coming soon...)
+### Full-text search engines (Coming soon...)
 
 ### JavaScript (NodeJS)
 Coming soon...
