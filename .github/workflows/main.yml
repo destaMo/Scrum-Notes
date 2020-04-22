@@ -15,8 +15,5 @@ jobs:
       with:
         node-version: 12
 
-    - name: Install packages
-      run: npm install nodegit glob-fs linkifyjs node-fetch @actions/core
-    
-    - name: Run URLs checker script
-      run: node index.js
+    - name: URLs Checker
+      uses: RobertMrowiec/URLs-checker@v1
