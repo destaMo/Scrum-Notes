@@ -11,9 +11,19 @@ Be proficient in dealing with GIT from command line - only chapters mention belo
 - 📗 [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 - 📗 [Distributed Git](https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows)
 - 📗 [Github](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
+- 📗 [Keeping history flat](https://www.google.com/url?q=https://medium.com/selleo/a-curated-list-of-git-commands-enough-to-keep-your-git-history-flat-288748998132)
+- 📗 [Git prefixes specification](https://www.conventionalcommits.org/en/v1.0.0-beta.2/#specification)
+- 📗 [Git prefixes examples](https://gist.github.com/johnstew/941676d525271359a4b2d7f1bf2cb421)
 
 ### 🎤 Interview
 
+- What is git and what is it for?
+- What is the difference between "local" and "remote"
+- Tell me about basic commands such as commit, push etc.
+- What is the difference between merge vs rebase?
+- How do you move commits between branches?
+- Why would I use git stash?
+- Teach me about git prefixes - what, why and how would I use them.
 - What is specific about Git (DVCS in general)
 - Can you show me your git config?
 - How you like browse git history?
