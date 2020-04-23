@@ -36,7 +36,8 @@
 
 ## Backend
 ### General knowledge
-- [Junior I](/backend_developer/01_junior_I.md)
+* [Junior I](/backend_developer/01_junior_I.md)
+* [Junior II](/backend_developer/02_junior_II.md)
 ### Databases (Coming soon...)
 ### DevOps (Coming soon...)
 ### Full-text search engines (Coming soon...)
