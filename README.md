@@ -35,10 +35,11 @@
 ---
 
 ## Backend
-* General knowledge (Junior I-Mid I coming soon...)
-* Databases (Coming soon...)
-* DevOps (Coming soon...)
-* Full-text search engines (Coming soon...)
+### General knowledge
+- [Junior I](/backend_developer/01_junior_I.md)
+### Databases (Coming soon...)
+### DevOps (Coming soon...)
+### Full-text search engines (Coming soon...)
 
 ### JavaScript (NodeJS)
 * [Javascript Prerequisites](/frontend_developer/01_junior_I.md) ( `Language & Browser API` and `Networking` )
