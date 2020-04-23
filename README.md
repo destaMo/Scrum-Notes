@@ -21,6 +21,11 @@
 * [React II](frontend_developer/react/02_level_2.md)
 * [React III](frontend_developer/react/03_level_3.md)
 
+### Ember
+* Ember I (Coming soon...)
+* Ember II (Coming soon...)
+* Ember III (Coming soon...)
+
 ### ReactNative
 * [React Native I](frontend_developer/react-native/01_level_1.md)
 
@@ -31,13 +36,14 @@
 
 ## Backend
 ### General knowledge
-- [Junior II](/backend_developer/02_junior_II.md)
+* [Junior I](/backend_developer/01_junior_I.md)
+* [Junior II](/backend_developer/02_junior_II.md)
 ### Databases (Coming soon...)
 ### DevOps (Coming soon...)
 ### Full-text search engines (Coming soon...)
 
 ### JavaScript (NodeJS)
-Coming soon...
+* [Javascript Prerequisites](/frontend_developer/01_junior_I.md) ( `Language & Browser API` and `Networking` )
 
 ### Ruby (Rails)
 Coming soon...
