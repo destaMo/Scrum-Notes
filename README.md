@@ -2,9 +2,9 @@
 
 ## Common knowledge
 * [GIT](common/git.md) 
-- Systems (Coming soon...)
-  - MacOS (Coming soon...)
-  - Linux (Coming soon...)
+- Systems 
+  - [MacOS](common/macos.md)
+  - [Linux](common/linux.md)
  
 ---
 
