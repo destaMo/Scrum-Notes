@@ -10,7 +10,7 @@ Provide the list or PR or other contributions that prove to understand each subj
 
 ### 🎓 Learn
 
-*  [Advanced CSS](https://www.w3schools.com/Css/css3_borders.asp) ("CSS Advanced" section)
+* 📗 [Advanced CSS](https://www.w3schools.com/Css/css3_borders.asp) ("CSS Advanced" section)
 * 📗 [Part 1](https://css-irl.info/debugging-css-grid-part-1-understanding-implicit-tracks/)
 * 📗 [Part 2](https://css-irl.info/debugging-css-grid-part-2-what-the-fraction/)
 * 📗 [Part 3](https://css-irl.info/debugging-css-grid-part-3-auto-flow-order-and-item-placement/)
