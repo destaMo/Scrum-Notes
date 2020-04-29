@@ -83,7 +83,7 @@ Provide the list or PR or other contributions that prove to understand each subj
 
 ### 🎓 Learn
 
-* Basic asset optimisation - Always make sure the images you use are properly sized and compressed. When exporting from sketch or photoshop use ~80% quality for JPG images. For large images use the real size that they're displayed on, eg. if the content's width is 1200px resize the image to 1200px width max. For smaller images like 300px you can save them at 2x the size to make sure it's rendered nicely on Retina. Use JPG for photos and images with a lot of colour, for simpler images try PNG, GIF or even vector SVG.
+* 📗 Basic asset optimisation - Always make sure the images you use are properly sized and compressed. When exporting from sketch or photoshop use ~80% quality for JPG images. For large images use the real size that they're displayed on, eg. if the content's width is 1200px resize the image to 1200px width max. For smaller images like 300px you can save them at 2x the size to make sure it's rendered nicely on Retina. Use JPG for photos and images with a lot of colour, for simpler images try PNG, GIF or even vector SVG.
 * 📗 [Image compression tool](https://tinypng.com/)
 * 📗 [Fonts and icons](https://gist.github.com/ArekJanik/265e334cf795176bc6d9b8feb2b3b7ba#fonts-and-icons)
 
