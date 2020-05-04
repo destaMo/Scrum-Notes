@@ -30,7 +30,11 @@
 * [React Native I](frontend_developer/react-native/01_level_1.md)
 
 ### Presentation layer
-* Styling
+* [Junior I](frontend_developer/CSS%20%26%20HTML/01_junior_I.md)
+* [Junior II](frontend_developer/CSS%20%26%20HTML/02_junior_II.md)
+* [Independent I](frontend_developer/CSS%20%26%20HTML/03_independent_I.md)
+* [Independent II](frontend_developer/CSS%20%26%20HTML/04_independent_II.md)
+* [Independent III](frontend_developer/CSS%20%26%20HTML/05_independent_III.md)
 
 ---
 
