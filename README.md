@@ -53,3 +53,14 @@ Coming soon...
 
 ### React
 * [React I](backend_developer/frameworks/react.md) (minimal knowledge for simple UI tasks)
+
+---
+
+## Designer
+* [Junior I](designer/01_junior_I.md)
+* [Junior II](designer/02_junior_II.md)
+* [Independent I](designer/03_independent_I.md)
+* [Independent II](designer/04_independent_II.md)
+* [Independent III](designer/05_independent_III.md)
+* [Mid I](designer/06_middle_I.md)
+* [Mid II](designer/07_middle_II.md)
