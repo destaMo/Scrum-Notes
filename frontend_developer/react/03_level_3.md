@@ -30,7 +30,7 @@ Knows how React compares to other frameworks, and how JSX works internally.
 
 ### 🎓 Learn
 
-- 📗 [Angular vs React vs Ember vs Vue.js](http://voidcanvas.com/angular-vs-react-vs-ember-vs-vue-js/)
+- 📗 [Angular vs React vs Ember vs Vue.js](http://voidcanvas.com/angular-vs-react-vs-ember-vs-vue-js)
 - 📙 [Spectacle](https://github.com/FormidableLabs/spectacle)
 - 📙 [JSX rewired](https://engineering.hexacta.com/jsx-can-do-that-1b2666c23a32)
 - 📙 [React-dom-server](https://reactjs.org/docs/react-dom-server.html)

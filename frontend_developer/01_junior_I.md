@@ -185,14 +185,7 @@ Developer knows how to run the backend based on the project documentation (it do
 
 - Run your current project backend base on the documentation (it doesn't have to be any specific framework project, but you need to prove that you know how to achieve this)
 - RoR example (optional to your current project)
-    - install ruby `asdf ruby install 2.6.0 && asdf global ruby 2.6.0`
-    - install postgresql `brew install postgresql`
-    - fetch rails project `git clone git@github.com:Selleo/selleo-mail-log-api.git`
-    - setup the project, based on the readme
-    - run the server `bin/rails server`
-    - browse the source code (`config/route.rb and app/controllers/**/*.rb`)
-    - [run rails project on docker](https://docs.docker.com/compose/rails/)
-    - Guide me [through the files of rails app](https://github.com/Selleo/dm3), starting from the endpoint path (eq. `/api/v1/finance/customer-balances`)
+    - Guide me [through the files of rails app](https://github.com/RussellSnyder/RoR5-RestfulApi), starting from the endpoint path (eq. `/todos`)
 
 ---
 
