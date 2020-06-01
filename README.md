@@ -43,6 +43,7 @@
 * [Junior I](/backend_developer/01_junior_I.md)
 * [Junior II](/backend_developer/02_junior_II.md)
 * [Independent I](/backend_developer/03_independent_I.md)
+* [Independent II](/backend_developer/04_independent_II.md)
 ### Databases (Coming soon...)
 ### DevOps (Coming soon...)
 ### Full-text search engines (Coming soon...)
