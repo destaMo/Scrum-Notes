@@ -32,7 +32,6 @@
 - Single Table Inheritance (STI)
 - Duck-typing
 
-
 **DevOps**
 - S3
 - Linux
