@@ -60,13 +60,13 @@ Know what is JSX and how to use it in React.
 
 ### 🎓 Learn
 
-- 📗[JSX in depth](https://reactjs.org/docs/jsx-in-depth.html)
-- 📗[Function and class components](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
-- 📗[Functional stateless component](https://stackoverflow.com/questions/40703675/react-functional-stateless-component-purecomponent-component-what-are-the-dif)
-- 📗[Conditional rendering](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
-- 📗[ClassNames package](https://github.com/JedWatson/classnames)
-- 📗[Fragments](https://reactjs.org/docs/fragments.html)
-- 📗[Portals](https://reactjs.org/docs/portals.html)
+- 📗 [JSX in depth](https://reactjs.org/docs/jsx-in-depth.html)
+- 📗 [Function and class components](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
+- 📗 [Functional stateless component](https://stackoverflow.com/questions/40703675/react-functional-stateless-component-purecomponent-component-what-are-the-dif)
+- 📗 [Conditional rendering](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
+- 📗 [ClassNames package](https://github.com/JedWatson/classnames)
+- 📗 [Fragments](https://reactjs.org/docs/fragments.html)
+- 📗 [Portals](https://reactjs.org/docs/portals.html)
 
 ### 🎤 Interview
 
