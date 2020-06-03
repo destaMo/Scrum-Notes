@@ -406,7 +406,7 @@ Flexible, affordable, and highly-scalable email sending and receiving platform f
 
 ## 📦 Linux
 
-- 📗 [Commands](/service_delivery_paths/backend_developer/devops/linux.md#junior-ii)
-- 📗 [Useful tricks](/service_delivery_paths/backend_developer/devops/linux.md#command-control-shortcuts)
-- 📗 [Daemons & services](/service_delivery_paths/backend_developer/devops/linux.md#linux-daemons--services)
-- 📗 [Setting a domain on local server](/service_delivery_paths/backend_developer/devops/linux.md#setting-hostnamedomain-name-of-own-local-server)
+- 📗 [Commands](/backend_developer/devops/linux.md#junior-ii)
+- 📗 [Useful tricks](/backend_developer/devops/linux.md#command-control-shortcuts)
+- 📗 [Daemons & services](/backend_developer/devops/linux.md#linux-daemons--services)
+- 📗 [Setting a domain on local server](/backend_developer/devops/linux.md#setting-hostnamedomain-name-of-own-local-server)

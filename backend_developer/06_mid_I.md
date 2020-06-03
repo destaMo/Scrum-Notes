@@ -331,21 +331,21 @@ Teach me how you understand:
 ### 🎓 Learn
 
 - a monitoring on AWS
-- 📗 [service description](/service_delivery_paths/backend_developer/devops/amazon/cloudwatch.md)
+- 📗 [service description](/backend_developer/devops/amazon/cloudwatch.md)
 
 ## 📦 DevOps / SQS
 
 ### 🎓 Learn
 
 - a queue service on AWS
-- 📗 [service description](/service_delivery_paths/backend_developer/devops/amazon/sqs.md)
+- 📗 [service description](/backend_developer/devops/amazon/sqs.md)
 
 ## 📦 DevOps / SNS
 
 ### 🎓 Learn
 
 - a notification web service on AWS
-- 📗 [service description](/service_delivery_paths/backend_developer/devops/amazon/sns.md)
+- 📗 [service description](/backend_developer/devops/amazon/sns.md)
 
 ## 📦 DevOps / Docker
 
@@ -357,7 +357,7 @@ Teach me how you understand:
 
 ### 🎓 Learn
 
-- 📗 [commands](/service_delivery_paths/backend_developer/devops/linux.md#mid-i)
+- 📗 [commands](/backend_developer/devops/linux.md#mid-i)
 
 ## 📦 DevOps / Elasticsearch
 

@@ -390,7 +390,7 @@
 - helps create and manage user identities and grant permissions for those users to access AWS resources
 - helps create groups for multiple users with similar permissions
 - is Global and does not need to be migrated to a different region
-- 📗 [service description](/service_delivery_paths/backend_developer/devops/amazon/iam.md)
+- 📗 [service description](/backend_developer/devops/amazon/iam.md)
 
 ### 📝 Katas
 - Set up two different accounts
@@ -399,10 +399,10 @@
 
 ## 📦 DevOps / Linux
 
-- 📗 [commands](/service_delivery_paths/backend_developer/devops/linux.md#independent-ii)
-- 📗 [streams and operators](/service_delivery_paths/backend_developer/devops/linux.md#streams-and-operators)
-- 📗 [command editing shortcuts](/service_delivery_paths/backend_developer/devops/linux.md#command-editing-shortcuts)
-- 📗 [useful tools](/service_delivery_paths/backend_developer/devops/linux.md#useful-tools)
+- 📗 [commands](/backend_developer/devops/linux.md#independent-ii)
+- 📗 [streams and operators](/backend_developer/devops/linux.md#streams-and-operators)
+- 📗 [command editing shortcuts](/backend_developer/devops/linux.md#command-editing-shortcuts)
+- 📗 [useful tools](/backend_developer/devops/linux.md#useful-tools)
 
 ## 📦 Elasticsearch
 

@@ -333,7 +333,7 @@
 ## 📦 DevOps / S3
 
 ### 🎓 Learn
-- 📗 [service description](/service_delivery_paths/backend_developer/devops/amazon/s3.md)
+- 📗 [service description](/backend_developer/devops/amazon/s3.md)
 
 📝 Katas
 
@@ -345,7 +345,7 @@
 
 ### 🎓 Learn
 
-- 📗 [commands](/service_delivery_paths/backend_developer/devops/linux.md#independent-i)
-- 📗 [ssh](/service_delivery_paths/backend_developer/devops/linux.md#ssh)
-- 📗 [file permissions](/service_delivery_paths/backend_developer/devops/linux.md#permissions)
-- 📗 [file ownership](/service_delivery_paths/backend_developer/devops/linux.md#ownership)
+- 📗 [commands](/backend_developer/devops/linux.md#independent-i)
+- 📗 [ssh](/backend_developer/devops/linux.md#ssh)
+- 📗 [file permissions](/backend_developer/devops/linux.md#permissions)
+- 📗 [file ownership](/backend_developer/devops/linux.md#ownership)
