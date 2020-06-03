@@ -394,7 +394,7 @@
 ### 🎓 Learn
 
 - allow to create, publish, maintain, monitor, and secure APIs at any scale.
-- [service description](/service_delivery_paths/backend_developer/devops/amazon/api-gateway.md)
+- [service description](/backend_developer/devops/amazon/api-gateway.md)
 
 ## 📦 DevOps / Lambda
 
@@ -404,7 +404,7 @@
 - serveless computing
 - is priced on a pay per use
 - allows to run different backends (python, nodejs, ruby etc)
-- [service description](/service_delivery_paths/backend_developer/devops/amazon/lambda.md)
+- [service description](/backend_developer/devops/amazon/lambda.md)
 
 ## 📦 DevOps / RDS
 
@@ -413,7 +413,7 @@
 - [EXERCISE] Set up PostgreSQL and connect to the database through a pg client
 - relational database service
 - supports (MySQL/MariaDB, PostgeSQL, Aurora (MySQL/PostgreSQL-compatible implementation of relational database on steroids))
-- [service description](/service_delivery_paths/backend_developer/devops/amazon/rds.md)
+- [service description](/backend_developer/devops/amazon/rds.md)
 
 > make sure that you deleted all backups/snapshots
 
@@ -423,7 +423,7 @@
 
 - [EXERCISE] Set up the service and put some data into Elasticsearch
 - fully managed Elasticsearch service on AWS
-- [service description](/service_delivery_paths/backend_developer/devops/amazon/ess.md)
+- [service description](/backend_developer/devops/amazon/ess.md)
 
 > make sure that you deleted all backups/snapshots
 
@@ -456,9 +456,9 @@
 
 ### 🎓 Learn
 
-- 📗 [commands](/service_delivery_paths/backend_developer/devops/linux.md#independent-iii)
-- 📗 [command bangs](/service_delivery_paths/backend_developer/devops/linux.md#commandbangbang)
-- 📗 [/proc filesystem](/service_delivery_paths/backend_developer/devops/linux.md#proc-filesystem)
+- 📗 [commands](/backend_developer/devops/linux.md#independent-iii)
+- 📗 [command bangs](/backend_developer/devops/linux.md#commandbangbang)
+- 📗 [/proc filesystem](/backend_developer/devops/linux.md#proc-filesystem)
 
 ## 📦 DevOps / Elasticsearch
 
