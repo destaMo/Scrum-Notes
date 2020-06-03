@@ -38,10 +38,10 @@ Know what is JSX and how to use it in React.
 
 ### 🎓 Learn
 
-- 📗[JSX in depth](https://reactjs.org/docs/jsx-in-depth.html)
-- 📗[Function and class components](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
-- 📗[Conditional rendering](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
-- 📗[ClassNames package](https://github.com/JedWatson/classnames)
+- 📗 [JSX in depth](https://reactjs.org/docs/jsx-in-depth.html)
+- 📗 [Function and class components](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
+- 📗 [Conditional rendering](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
+- 📗 [ClassNames package](https://github.com/JedWatson/classnames)
 
 ### 🎤 Interview
 

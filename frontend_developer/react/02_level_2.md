@@ -33,8 +33,8 @@ Knows differences between class and functional components.
 
 ### 🎓 Learn
 
-- 📗[class vs function component](https://overreacted.io/how-are-function-components-different-from-classes/)
-- 📗[why import React is needed](https://hackernoon.com/why-import-react-from-react-in-a-functional-component-657aed821f7a)
+- 📗 [class vs function component](https://overreacted.io/how-are-function-components-different-from-classes/)
+- 📗 [why import React is needed](https://hackernoon.com/why-import-react-from-react-in-a-functional-component-657aed821f7a)
 
 ### 🎤 Interview
 
@@ -49,13 +49,13 @@ Knows how to improve performance and find issues.
 
 ### 🎓 Learn
 
-- 📗[Reconciliation](https://pl.reactjs.org/docs/reconciliation.html)
-- 📗[Chrome devtools](https://developers.google.com/web/tools/chrome-devtools/)
-- 📗[Why-did-you-update v2](https://blog.logrocket.com/make-react-fast-again-part-2-why-did-you-update-dd1faf79399f) (in article is mentioned deprecated package why-did-you-update. Use https://github.com/welldone-software/why-did-you-render instead)
-- 📗[Why-did-you-update v3](https://blog.logrocket.com/make-react-fast-again-part-3-highlighting-component-updates-6119e45e6833)
-- 📗[Should component update](https://developmentarc.gitbooks.io/react-indepth/content/life_cycle/update/using_should_component_update.html)
-- 📗[Optimizing selectors](https://github.com/reduxjs/reselect#q-why-is-my-selector-recomputing-when-the-input-state-stays-the-same)
-- 📗[Optimizing functional components](https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control)
+- 📗 [Reconciliation](https://pl.reactjs.org/docs/reconciliation.html)
+- 📗 [Chrome devtools](https://developers.google.com/web/tools/chrome-devtools/)
+- 📗 [Why-did-you-update v2](https://blog.logrocket.com/make-react-fast-again-part-2-why-did-you-update-dd1faf79399f) (in article is mentioned deprecated package why-did-you-update. Use https://github.com/welldone-software/why-did-you-render instead)
+- 📗 [Why-did-you-update v3](https://blog.logrocket.com/make-react-fast-again-part-3-highlighting-component-updates-6119e45e6833)
+- 📗 [Should component update](https://developmentarc.gitbooks.io/react-indepth/content/life_cycle/update/using_should_component_update.html)
+- 📗 [Optimizing selectors](https://github.com/reduxjs/reselect#q-why-is-my-selector-recomputing-when-the-input-state-stays-the-same)
+- 📗 [Optimizing functional components](https://scotch.io/tutorials/react-166-reactmemo-for-functional-components-rendering-control)
 
 ### 🎤 Interview
 
@@ -73,7 +73,7 @@ Knows how React handles events internally.
 
 ### 🎓 Learn
 
-- 📗[Event pooling](https://reactjs.org/docs/events.html)
+- 📗 [Event pooling](https://reactjs.org/docs/events.html)
 
 ### 🎤 Interview
 
@@ -88,9 +88,9 @@ Knows how to pass refs to child components.
 
 ### 🎓 Learn
 
-- 📗[Forwarding refs](https://reactjs.org/docs/forwarding-refs.html)
-- 📗[When ref are empty](https://stackoverflow.com/questions/22238320/react-js-refs-are-not-available-on-initial-render)
-- 📗[Refs and function components](https://reactjs.org/docs/refs-and-the-dom.html#refs-and-function-components)
+- 📗 [Forwarding refs](https://reactjs.org/docs/forwarding-refs.html)
+- 📗 [When ref are empty](https://stackoverflow.com/questions/22238320/react-js-refs-are-not-available-on-initial-render)
+- 📗 [Refs and function components](https://reactjs.org/docs/refs-and-the-dom.html#refs-and-function-components)
 
 ### 🎤 Interview
 
@@ -106,8 +106,8 @@ Knows possible attack vectors.
 
 ### 🎓 Learn
 
-- 📗[React security](https://medium.com/@baphemot/understanding-react-frontend-security-4963d35feea7)
-- 📗[Avoiding xss](https://medium.com/javascript-security/avoiding-xss-in-react-is-still-hard-d2b5c7ad9412)
+- 📗 [React security](https://medium.com/@baphemot/understanding-react-frontend-security-4963d35feea7)
+- 📗 [Avoiding xss](https://medium.com/javascript-security/avoiding-xss-in-react-is-still-hard-d2b5c7ad9412)
 
 ### 🎤 Interview
 
@@ -122,8 +122,8 @@ Knows how to use error boundaries and when they are not effective.
 
 ### 🎓 Learn
 
-- 📗[Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
-- 📗[CRA adds overlay on error](https://github.com/facebook/create-react-app/issues/3627)
+- 📗 [Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
+- 📗 [CRA adds overlay on error](https://github.com/facebook/create-react-app/issues/3627)
 
 ### 🎤 Interview
 
@@ -142,8 +142,8 @@ Knows types of history and when to use them.
 
 ### 🎓 Learn
 
-- 📗[History](https://medium.com/@pshrmn/a-little-bit-of-history-f245306f48dd)
-- 📗[Route with redirect](https://serverless-stack.com/chapters/create-a-route-that-redirects.html)
+- 📗 [History](https://medium.com/@pshrmn/a-little-bit-of-history-f245306f48dd)
+- 📗 [Route with redirect](https://serverless-stack.com/chapters/create-a-route-that-redirects.html)
 
 ### 🎤 Interview
 
@@ -163,10 +163,10 @@ Knows how to use useState and useEffect hooks.
 
 ### 🎓 Learn
 
-- 📗[Hooks intro](https://reactjs.org/docs/hooks-intro.html)
-- 📗[Use effect](https://leewarrick.com/blog/react-use-effect-explained/)
-- 📙[Use hooks](https://usehooks.com/)
-- 📙[Fetching data using hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
+- 📗 [Hooks intro](https://reactjs.org/docs/hooks-intro.html)
+- 📗 [Use effect](https://leewarrick.com/blog/react-use-effect-explained/)
+- 📙 [Use hooks](https://usehooks.com/)
+- 📙 [Fetching data using hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
 ### 🎤 Interview
 
@@ -212,12 +212,12 @@ Knows how to structure Redux store and normalize the data.
 
 ### 🎓 Learn
 
-- 📗[Normalization](https://blog.brainsandbeards.com/advanced-redux-patterns-normalisation-6b9a5aa46e1f)
-- 📗[Reselect](https://github.com/reduxjs/reselect)
-- 📗[Hooks vs Redux](https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672)
-- 📗[Redux antipatters](https://itnext.io/the-perils-of-using-a-common-redux-anti-pattern-344d778e59da)
-- 📗[Redux architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
-- 📗[Handling side effects](https://goshakkk.name/redux-side-effect-approaches/)
+- 📗 [Normalization](https://blog.brainsandbeards.com/advanced-redux-patterns-normalisation-6b9a5aa46e1f)
+- 📗 [Reselect](https://github.com/reduxjs/reselect)
+- 📗 [Hooks vs Redux](https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672)
+- 📗 [Redux antipatters](https://itnext.io/the-perils-of-using-a-common-redux-anti-pattern-344d778e59da)
+- 📗 [Redux architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
+- 📗 [Handling side effects](https://goshakkk.name/redux-side-effect-approaches/)
 
 ### 🎤 Interview
 
@@ -239,10 +239,10 @@ Knows how to chain or run requests in parallel.
 
 ### 🎓 Learn
 
-- 📗[Chaining promises](https://javascript.info/promise-chaining#bigger-example-fetch)
-- 📗[Promise.all](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
-- 📗[Fetch request cancellation](https://robwise.github.io/blog/cancel-whatwg-fetch-requests-in-react)
-- 📗[Axios request cancellation](https://github.com/axios/axios#cancellation)
+- 📗 [Chaining promises](https://javascript.info/promise-chaining#bigger-example-fetch)
+- 📗 [Promise.all](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
+- 📗 [Fetch request cancellation](https://robwise.github.io/blog/cancel-whatwg-fetch-requests-in-react)
+- 📗 [Axios request cancellation](https://github.com/axios/axios#cancellation)
 
 ### 🎤 Interview
 
@@ -264,8 +264,8 @@ Knows what are wizard forms, and when they can be useful.
 
 ### 🎓 Learn
 
-- 📗[Wizard in Formik](https://github.com/jaredpalmer/formik/blob/master/examples/MultistepWizard.js)
-- 📙[Wizard in Redux form](https://redux-form.com/8.1.0/examples/wizard/)
+- 📗 [Wizard in Formik](https://github.com/jaredpalmer/formik/blob/master/examples/MultistepWizard.js)
+- 📙 [Wizard in Redux form](https://redux-form.com/8.1.0/examples/wizard/)
 
 ### 🎤 Interview
 
@@ -280,8 +280,8 @@ Knows how to test async code, and code dependent on time.
 
 ### 🎓 Learn
 
-- 📗[Jest timer mocks](https://jestjs.io/docs/en/timer-mocks)
-- 📗[MockDate](https://github.com/boblauer/MockDate)
+- 📗 [Jest timer mocks](https://jestjs.io/docs/en/timer-mocks)
+- 📗 [MockDate](https://github.com/boblauer/MockDate)
 
 ### 🎤 Interview
 
@@ -303,12 +303,12 @@ Knows RenderProps, Specialization, and Containment patterns and how to test them
 
 ### 🎓 Learn
 
-- 📗[RenderProps](https://tylermcginnis.com/react-render-props/)
-- 📗[Containment part1](https://twitter.com/dan_abramov/status/1021850251865587712)
-- 📗[Containment part2](https://twitter.com/a_wazard/status/1021861930603036672)
-- 📗[Containment & Specialization](https://reactjs.org/docs/composition-vs-inheritance.html)
-- 📗[Golden Rule for components](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb)
-- 📗[Containment (here called Compound)](https://medium.com/@Dane_s/react-js-compound-components-a6e54b5c9992)
+- 📗 [RenderProps](https://tylermcginnis.com/react-render-props/)
+- 📗 [Containment part1](https://twitter.com/dan_abramov/status/1021850251865587712)
+- 📗 [Containment part2](https://twitter.com/a_wazard/status/1021861930603036672)
+- 📗 [Containment & Specialization](https://reactjs.org/docs/composition-vs-inheritance.html)
+- 📗 [Golden Rule for components](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb)
+- 📗 [Containment (here called Compound)](https://medium.com/@Dane_s/react-js-compound-components-a6e54b5c9992)
 
 ### 🎤 Interview
 
