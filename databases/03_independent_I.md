@@ -1,4 +1,4 @@
-# Junior - Independent I
+# Independent - level I
 
 ---
 
