@@ -1,6 +1,22 @@
 # Independent - level II
 
-## JSON / JSONB basics
+---
+
+## Areas
+
+**Competence**
+
+- JSON / JSONB basics
+- Advanced constraints
+- Indexing basics
+- UUIDs
+- Transactions basics
+- View basics
+- Set operations
+
+---
+
+## 📦 JSON / JSONB basics
 -  only operators
 
 ### 🎓 Resources
@@ -8,14 +24,18 @@
 - 📗 [datatype-json](https://www.postgresql.org/docs/11/static/datatype-json.html)
 - 📗 [functions-json](https://www.postgresql.org/docs/11/functions-json.html)
 
-## Advanced constraints
+---
+
+## 📦 Advanced constraints
 -  FOREIGN KEY
 
 ### 🎓 Resources
 
 - 📗 [ddl-constraints](https://www.postgresql.org/docs/11/static/ddl-constraints.html)
 
-## Indexing basics
+---
+
+## 📦 Indexing basics
 - BTREE
 - GIN
 - Unique
@@ -27,24 +47,32 @@
 - 📗 [heroku postgres indexes](https://devcenter.heroku.com/articles/postgresql-indexes)
 - 📗 [principles-and-applications-of-the-index-types-supported-by-postgresql](https://medium.com/@Alibaba_Cloud/principles-and-applications-of-the-index-types-supported-by-postgresql-481f59bab67d)
 - 📗 [tour-of-postgres-index-types](https://www.citusdata.com/blog/2017/10/17/tour-of-postgres-index-types/)
-- 📗 [habr blog](https://habr.com/en/company/postgrespro/blog/441962/) (1-10) 
+- 📗 [habr blog](https://habr.com/en/company/postgrespro/blog/441962/) (1-10)
 
-## UUIDs
+---
+
+## 📦 UUIDs
 ### 🎓 Resources
 - 📗 [datatype-uuid](https://www.postgresql.org/docs/11/static/datatype-uuid.html)
 - 📗 [uuid-ossp](https://www.postgresql.org/docs/11/static/uuid-ossp.html)
 
-## Transactions basics
+---
+
+## 📦 Transactions basics
 ### 🎓 Resources
 - 📗 [sql-begin](https://www.postgresql.org/docs/11/static/sql-begin.html)
 - 📗 [sql-commit](https://www.postgresql.org/docs/11/static/sql-commit.html)
 - 📗 [sql-rollback](https://www.postgresql.org/docs/11/static/sql-rollback.html)
 
-## View basics
+---
+
+## 📦 View basics
 ### 🎓 Resources
 - 📗 [sql-createview](https://www.postgresql.org/docs/11/static/sql-createview.html)
 
-## Set operations
+---
+
+## 📦 Set operations
 - UNION
 - INTERSECT
 - EXCEPT [ALL]
