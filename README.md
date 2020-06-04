@@ -39,6 +39,7 @@
 ---
 
 ## Backend
+
 ### General knowledge
 * [Junior I](/backend_developer/01_junior_I.md)
 * [Junior II](/backend_developer/02_junior_II.md)
@@ -46,8 +47,17 @@
 * [Independent II](/backend_developer/04_independent_II.md)
 * [Independent III](/backend_developer/05_independent_III.md)
 * [Mid I](/backend_developer/06_mid_I.md)
-### Databases (Coming soon...)
+
+### Databases
+* [Junior I](/databases/01_junior_I.md)
+* [Junior II](/databases/02_junior_II.md)
+* [Independent I](/databases/03_independent_I.md)
+* [Independent II](/databases/04_independent_II.md)
+* [Independent III](/databases/05_independent_III.md)
+* [Mid I](/databases/06_mid_I.md)
+
 ### DevOps (Coming soon...)
+
 ### Full-text search engines (Coming soon...)
 
 ### JavaScript (NodeJS)
