@@ -1,5 +1,21 @@
 # Junior - level II
 
+---
+
+## Areas
+
+**Competence**
+
+- Managing tables/schemas
+- Basic constraints
+- Adding data
+- Updating data
+- Removing data
+- Basic aggregate functions
+- Grouping
+
+---
+
 ## 📦 Managing tables/schemas
 
 ### 🎓 Resources
@@ -8,7 +24,10 @@
 - 📗 [sql-droptable](https://www.postgresql.org/docs/11/static/sql-droptable.html)
 - 📗 [ddl-schemas](https://www.postgresql.org/docs/11/static/ddl-schemas.html)
 
-## 📦 Basic constraints 
+---
+
+## 📦 Basic constraints
+
 - DEFAULT
 - UNIQUE
 - NULL
@@ -18,23 +37,31 @@
 ### 🎓 Resources
 - 📗 [ddl-constraints](https://www.postgresql.org/docs/11/static/ddl-constraints.html)
 
+---
+
 ## 📦 Adding data
+
 - INSERT
 
 ### 🎓 Resources
 
 - 📗 [sql-insert](https://www.postgresql.org/docs/11/static/sql-insert.html)
 
+---
+
 ## 📦 Updating data
+
 - UPDATE
 
 ### 🎓 Resources
 
 - 📗 [sql-update](https://www.postgresql.org/docs/11/static/sql-update.html)
 
-## 📦 Removing data 
+---
 
-- DELETE 
+## 📦 Removing data
+
+- DELETE
 - TRUNCATE
 
 ### 🎓 Resources
@@ -42,7 +69,10 @@
 - 📗 [sql-delete](https://www.postgresql.org/docs/11/static/sql-delete.html)
 - 📗 [sql-truncate](https://www.postgresql.org/docs/11/sql-truncate.html)
 
-## 📦 Basic aggregate functions 
+---
+
+## 📦 Basic aggregate functions
+
 - SUM
 - AVG
 - COUNT
@@ -53,7 +83,10 @@
 
 - 📗 [functions-aggregate](https://www.postgresql.org/docs/11/static/functions-aggregate.html)
 
-## 📦 Grouping 
+---
+
+## 📦 Grouping
+
 - GROUP BY
 - HAVING
 

@@ -1,5 +1,19 @@
 # Junior - level I
 
+---
+
+## Areas
+
+**Competence**
+
+- Filtering and projection
+- Retrieving portions of data
+- Simple joins
+- Sorting data
+- Basic data types
+
+---
+
 ## 📦 Filtering and projection
 
 - SELECT
@@ -15,7 +29,10 @@
 - 📗 [functions-comparison](https://www.postgresql.org/docs/11/functions-comparison.html)
 - 📗 [functions-matching](https://www.postgresql.org/docs/11/functions-matching.html)
 
+---
+
 ## 📦 Retrieving portions of data
+
 - LIMIT
 - OFFSET
 
@@ -23,7 +40,9 @@
 
 - 📗 [queries-limit](https://www.postgresql.org/docs/11/queries-limit.html)
 
-## 📦 Simple joins 
+---
+
+## 📦 Simple join 
 
 - INNER JOIN
 
@@ -31,13 +50,17 @@
 
 - 📗 [queries-table-expressions](https://www.postgresql.org/docs/11/static/queries-table-expressions.html)
 
-## 📦 Sorting data 
+---
+
+## 📦 Sorting data
 
 - ORDER BY
 
 ### 🎓 Resources
 
 - 📗 [queries-order](https://www.postgresql.org/docs/11/static/queries-order.html)
+
+---
 
 ## 📦 Basic data types
 ### 🎓 Resources
