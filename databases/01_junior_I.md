@@ -20,6 +20,10 @@
 - WHERE
 - FROM
 
+### 🎤 Interview
+
+- Tell me how do you use SELECT, WHERE and FROM.
+
 ### 🎓 Resources
 
 - 📗 [sql-select](https://www.postgresql.org/docs/11/sql-select.html)
@@ -36,15 +40,23 @@
 - LIMIT
 - OFFSET
 
+### 🎤 Interview
+
+- Tell me about LIMIT and OFFSET when querying the database.
+
 ### 🎓 Resources
 
 - 📗 [queries-limit](https://www.postgresql.org/docs/11/queries-limit.html)
 
 ---
 
-## 📦 Simple join 
+## 📦 Simple join
 
 - INNER JOIN
+
+### 🎤 Interview
+
+- Tell me why and how would I use INNER JOIN in the query.
 
 ### 🎓 Resources
 
@@ -56,6 +68,10 @@
 
 - ORDER BY
 
+### 🎤 Interview
+
+- Teach me about "ORDER BY" for specifying order of queried data.
+
 ### 🎓 Resources
 
 - 📗 [queries-order](https://www.postgresql.org/docs/11/static/queries-order.html)
@@ -63,6 +79,11 @@
 ---
 
 ## 📦 Basic data types
+
+### 🎤 Interview
+
+- Tell me about the basic data types in PostgreSQL.
+
 ### 🎓 Resources
 - 📗 [datatype-numeric](https://www.postgresql.org/docs/11/static/datatype-numeric.html)
 - 📗 [datatype-character](https://www.postgresql.org/docs/11/static/datatype-character.html)
