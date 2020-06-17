@@ -1,3 +1,8 @@
++++
+aliases = ["frontend","javascript","typescript","react","ember","css", "junior"]
+title = "Backend - React"
++++
+
 # React
 
 ## Areas
