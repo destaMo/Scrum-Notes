@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/Selleo/DevPath/raw/master/devpath.png" alt="DevPath" width="100%">
-</p>
+![DevPath](https://github.com/Selleo/DevPath/raw/master/devpath.png)
+
+----
 
 This repo contains the content for "nice" version, that is available here: https://selleo.com/devpath/
 
