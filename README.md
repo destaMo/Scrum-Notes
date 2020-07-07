@@ -1,5 +1,3 @@
-# Dev Paths
-
 <p align="center">
   <img src="https://github.com/Selleo/DevPath/raw/master/devpath.png" alt="DevPath" width="100%">
 </p>
