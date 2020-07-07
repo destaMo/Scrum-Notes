@@ -2,9 +2,9 @@
 title = "DevPath"
 +++
 
-<p align="center">
-  <img src="https://github.com/Selleo/DevPath/raw/master/devpath.png" alt="DevPath" width="100%">
-</p>
+![DevPath](https://github.com/Selleo/DevPath/raw/master/devpath.png)
+
+----
 
 Welcome in our knowledge base **DevPath** repository.
 
