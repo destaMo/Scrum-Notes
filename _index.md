@@ -1,5 +1,5 @@
 +++
-title = "DevPath - Software fundamentals"
+title = "DevPath - Software development fundamentals"
 tags = ["programming", "development", "growth path", "developer path", "javascript", "ember", "react", "mongodb", "postgresql", "ruby", "rails", "elixir", "docker", "terraform", "vault"]
 +++
 
