@@ -1,5 +1,11 @@
 # Dev Paths
 
+<p align="center">
+  <img src="https://github.com/Selleo/DevPath/raw/master/devpath.png" alt="DevPath" width="100%">
+</p>
+
+This repo contains the content for "nice" version, that is available here: https://selleo.com/devpath/
+
 ## Common knowledge
 * [GIT](common/git.md) 
 - Systems 
