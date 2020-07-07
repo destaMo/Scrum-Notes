@@ -1,5 +1,5 @@
 +++
-title = "DevPath"
+title = "DevPath - Software fundamentals"
 +++
 
 ![DevPath](https://github.com/Selleo/DevPath/raw/master/devpath.png)
