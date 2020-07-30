@@ -36,7 +36,7 @@ Prerequisites:
 
 - Docker engine: Engine: 18.06 or newer
 
-### Independent developer
+### Independent 1 - Independent 3
 
 You need to:
 
@@ -45,6 +45,8 @@ You need to:
   - shell
   - ENV variables
   - BASH scripting
+- know how to work/administrate databases (SQL/NoSQL) or linux services
+- have a basic know-how about network administration and Nginx configuration
 
 #### Exercise 1
 
@@ -59,8 +61,7 @@ You need to:
 
 #### Exercise 3
 
-- [ ] Preapre a *Dockerfile* which will setup and run a Rails app. :small_blue_diamond:
-
+- [ ] Preapre a *Dockerfile* which will setup and run a Rails app (use local instances of a database or cache engine). :small_blue_diamond:
 
 > **Note:**
 > Please **DO NOT USE** containers delivered by community.
@@ -69,16 +70,6 @@ You need to:
 
 - [ ] Prepare a *Dockerfile* for one of 3rd part services (database, cache storage, search engine etc.) what you use in one of your apps.
 Replace the service by a service served by Docker. :small_blue_diamond:
-
-> **Note:**
-> Feel free to use containers delivered by community.
-
-### MID
-
-You need to:
-
-- know how to work/administrate databases (SQL/NoSQL) or linux services
-- have a basic know-how about network administration and Nginx configuration
 
 #### Exercise 5
 
