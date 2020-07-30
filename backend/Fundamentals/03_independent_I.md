@@ -20,10 +20,10 @@
 
 **Tooling**
 - CRON
-- Git: bisect 
+- Git: bisect
 
 **Laws and principles**
-- LSP 
+- LSP
 
 **Patterns and Techniques**
 - Policies
@@ -32,9 +32,6 @@
 - Single Table Inheritance (STI)
 - Duck-typing
 
-**DevOps**
-- S3
-- Linux
 ---
 
 ## 📦 Skills & practices / Uploading files
@@ -329,23 +326,3 @@
 - Two classes / objects / modules share the same interface / API
 - "If it walks like a duck, quacks like a duck, then it has to be a duck"
 - TODO: Upcase quote
-
-## 📦 DevOps / S3
-
-### 🎓 Learn
-- 📗 [service description](/backend_developer/devops/amazon/s3.md)
-
-📝 Katas
-
-- Create a bucket, make it private (access key and secret required to access)
-- Generate expiring link to given resource
-- Create a public read-only bucket
-
-## 📦 DevOps / Linux
-
-### 🎓 Learn
-
-- 📗 [commands](/backend_developer/devops/linux.md#independent-i)
-- 📗 [ssh](/backend_developer/devops/linux.md#ssh)
-- 📗 [file permissions](/backend_developer/devops/linux.md#permissions)
-- 📗 [file ownership](/backend_developer/devops/linux.md#ownership)

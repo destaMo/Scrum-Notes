@@ -30,14 +30,6 @@
 **Patterns and Techniques**
 - Data structures
 
-**DevOps**
-- Cloudwatch
-- SQS
-- SNS
-- Docker
-- Linux
-- Elasticsearch
-
 ## 📦 Open discussion topics
 
 **A selection of topics from the list below will be discussed during verification session**
@@ -325,45 +317,3 @@ Teach me how you understand:
 - Dictionary / Map / Hash
 - Binary tree (in context of Decision trees)
 - Graph (where vectors have values)
-
-## 📦 DevOps /  CloudWatch
-
-### 🎓 Learn
-
-- a monitoring on AWS
-- 📗 [service description](/backend_developer/devops/amazon/cloudwatch.md)
-
-## 📦 DevOps / SQS
-
-### 🎓 Learn
-
-- a queue service on AWS
-- 📗 [service description](/backend_developer/devops/amazon/sqs.md)
-
-## 📦 DevOps / SNS
-
-### 🎓 Learn
-
-- a notification web service on AWS
-- 📗 [service description](/backend_developer/devops/amazon/sns.md)
-
-## 📦 DevOps / Docker
-
-### 📝 Katas
-- https://gist.github.com/bartlomiejdanek/2259049477238a5f420568a7b6f1f0b1
-- feel free to have these exercices done before evaluation
-
-## 📦 DevOps / Linux
-
-### 🎓 Learn
-
-- 📗 [commands](/backend_developer/devops/linux.md#mid-i)
-
-## 📦 DevOps / Elasticsearch
-
-### 🎓 Learn
-
-- 📗 [batch & bulk processing](https://www.elastic.co/guide/en/elasticsearch/reference/7.5/docs-bulk.html)
-- 📗 [delete by query](https://www.elastic.co/guide/en/elasticsearch/reference/7.5/docs-delete-by-query.html)
-- 📗 [update by query](https://www.elastic.co/guide/en/elasticsearch/reference/7.5/docs-update-by-query.html)
-- 📗 [geo queries](https://www.elastic.co/guide/en/elasticsearch/reference/7.5/geo-queries.html)

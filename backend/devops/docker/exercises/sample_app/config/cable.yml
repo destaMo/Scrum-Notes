@@ -1,8 +1,0 @@
-redis: &redis
-  adapter: redis
-  url: <%= ENV.fetch('REDIS_URL') %>
-  channel_prefix: sample_app
-
-production: *redis
-development: *redis
-test: *redis

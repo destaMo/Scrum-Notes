@@ -88,11 +88,11 @@
 
 - 📙 https://www.theodinproject.com/courses/ruby-on-rails/lessons/sessions-cookies-and-authentication
 
-#### NodeJS 
+#### NodeJS
 
 - 📙 https://expressjs.com/en/resources/middleware/cookie-parser.html
 
-### 🎤 Interview 
+### 🎤 Interview
 
 - Cookies (client)
   - When does it expire?
@@ -171,7 +171,7 @@
 - 📗 https://medium.com/selleo/essential-rubyonrails-patterns-form-objects-b199aada6ec9
 - 📗 https://thoughtbot.com/upcase/videos/form_objects
 
-#### Rails 
+#### Rails
 
 - 📙 https://github.com/Selleo/pattern#form
 - 📙 https://dry-rb.org
@@ -243,7 +243,7 @@
 
 - Explain/show examples of some of the tags:
     - `html`, `head`, `body`
-    - `div`, `span`, tables (`table`, `thead`, `tbody`, `th`, `tr`, `td`), lists (`ul`, `ol`, `li`), headers, links, paragraphs + text formatting, forms, `class`/`id`/`data` 
+    - `div`, `span`, tables (`table`, `thead`, `tbody`, `th`, `tr`, `td`), lists (`ul`, `ol`, `li`), headers, links, paragraphs + text formatting, forms, `class`/`id`/`data`
 
 ## 📦 Templating languages
 
@@ -256,7 +256,7 @@
 - 📙 [SLIM](http://slim-lang.com/)
 - 📙 [Liquid (templating language for users)](https://github.com/Shopify/liquid)
 - 📙 [Handlebars](http://handlebarsjs.com/)
-  
+
 #### NodeJS
 
 - 📙 [Pug](https://pugjs.org/api/getting-started.html)
@@ -365,7 +365,7 @@ This is limited to the usage of LIMIT and OFFSET.
 This is limited to the usage of INNER JOIN.
 
 #### 🎓 Resources
- 
+
 - 📗 https://www.postgresql.org/docs/11/static/queries-table-expressions.html
 
 #### 🎤 Interview
@@ -398,9 +398,3 @@ This is limited to numeric, character, boolean and date time types.
 #### 🎤 Interview
 
 - Tell me about the basic data types in PostgreSQL.
-
-## 📦 Linux
-
-- [UNIX file types](/common/linux.md#unix-file-types)
-- [commands](/common/linux.md#junior-i)
-- [useful tricks](/common/linux.md#useful-tricks)

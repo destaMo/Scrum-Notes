@@ -32,12 +32,6 @@
 - State Machine
 - Dependency Injection
 
-**DevOps**
-- IAM
-- Linux commands
-
-**ElasticSearch**
-
 ## 📦 Skills & practices / Test driven development (TDD)
 
 ### 🎓 Learn
@@ -145,7 +139,7 @@
   - never rescue from `Exception`
   - inherit from `StandardError`
   - leverage `rescue_from` in Controllers
-  
+
 ## 📦 Misc / UUID
 
 ### 🎓 Learn
@@ -211,7 +205,7 @@
   - Static code analysis
     - Security
     - Libraries are up to date
-    
+
 ## 📦 Tooling / Error reporting
 
 ### 🎓 Learn
@@ -244,11 +238,11 @@
 - Pure OCP
   - Plugin Architecture
   - DI Architecture
-  
+
 ### Rails
 
 - 📗 https://thoughtbot.com/upcase/videos/open-closed-principle
-  
+
 ## 📦 Laws and principles / Composition over Inheritance
 
 ### 🎓 Learn
@@ -307,7 +301,7 @@
 - Keep Clients isolated from your main app
 - Provide an instance Client users can work with
   - for reusing session/connection
-  
+
 ### Rails
 - 📗 [Selleo Way](https://medium.com/selleo/essential-rubyonrails-patterns-clients-and-wrappers-c19320bcda0)
 
@@ -383,69 +377,3 @@
 - Providing dependencies from outside
 - To initialiser if an object makes no sense without dependency
 - To method if a method makes no sense without dependency and dependency can change during object lifetime
-
-## 📦 DevOps / IAM
-
-### 🎓 Learn
-- helps create and manage user identities and grant permissions for those users to access AWS resources
-- helps create groups for multiple users with similar permissions
-- is Global and does not need to be migrated to a different region
-- 📗 [service description](/backend_developer/devops/amazon/iam.md)
-
-### 📝 Katas
-- Set up two different accounts
-  - first account can **only** create S3 objects
-  - first account can **delete** create S3 objects
-
-## 📦 DevOps / Linux
-
-- 📗 [commands](/backend_developer/devops/linux.md#independent-ii)
-- 📗 [streams and operators](/backend_developer/devops/linux.md#streams-and-operators)
-- 📗 [command editing shortcuts](/backend_developer/devops/linux.md#command-editing-shortcuts)
-- 📗 [useful tools](/backend_developer/devops/linux.md#useful-tools)
-
-## 📦 Elasticsearch
-
-### 🎓 Learn
-- ElasticSearch (ES) is a search engine written in JAVA. It provides a distributed, full-text search engine with simple RESTful interface.
-- Why should I use ES?
-  - fuzzy/full-text search
-  - analytics
-  - schema free
-  - user-defined searches
-  - 📗 [Guide](https://www.elastic.co/guide/index.html)
-  - 📗 [Videos and Webinars](https://www.elastic.co/videos)
-  - 📗 [Discuss](https://discuss.elastic.co/)
-  - 📗 [Mappings](https://www.youtube.com/watch?v=IGQCiAlYiuY)
-
-> **Note:**
-> So far all books look *outdated*. If you will find something useful, please let us know.
-
-### Overview
-
-You need to:
-
-- have a basic knowledge about Linux administration e.g.
-  - shell
-  - cURL / HTTPie / Postman / insomnia
-  - docker / swarm / docker compose
-
-### Elasticsearch setup
-
-```bash
-$ curl https://gist.githubusercontent.com/bartlomiejdanek/2413a5f19a1471f78856772cdb5b8130/raw/2967ba039e098fdab78f98ca278158c5be84f462/docker-compose.yml
-$ docker-compose up
-```
-
-Visit `http://localhost:5601` to get access to Kibana or `http://localhost:9200` to get pure ES.
-
-### 📝 Katas
-
-- make sure that you have a general knownledge about ES (how it works, what is the difference between index and document and so on)
-- feel free to have a code samples in Kibana
-- 📗 [create index](https://www.elastic.co/guide/en/elasticsearch/reference/7.5/indices-create-index.html)
-- 📗 [create document](https://www.elastic.co/guide/en/elasticsearch/reference/7.5/docs-index_.html)
-- 📗 [update document](https://www.elastic.co/guide/en/elasticsearch/reference/7.5/docs-update.html)
-- 📗 [delete document](https://www.elastic.co/guide/en/elasticsearch/reference/7.5/docs-delete.html)
-- 📗 [basic search](https://www.elastic.co/guide/en/elasticsearch/reference/7.5/search-search.html)
-- 📗 [snapshot and restore](https://www.elastic.co/guide/en/elasticsearch/reference/7.5/snapshot-restore.html)
