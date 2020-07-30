@@ -20,19 +20,19 @@ technology lead: Bartlomiej Danek
 # Independent
 ## Independent III
 
-- [IAM - AWS Identity and Access Management](../aws)/iam)
-- [S3 - Simple Storage Service](../aws)/s3)
-- [Lambda](../aws)/lambda)
-- [API Gateway](../aws)/api-gateway)
+- [IAM - AWS Identity and Access Management](../aws/iam)
+- [S3 - Simple Storage Service](../aws/s3)
+- [Lambda](../aws/lambda)
+- [API Gateway](../aws/api-gateway)
 
 # Mid
 ## Mid I
 
-- [CloudWatch](../aws)/cloudwatch)
-- [RDS - Relational Database Service](../aws)/rds)
-- [Route53](../aws)/route53)
-- [SNS - Simple Notification Service](../aws)/sns)
-- [SQS - Simple Queue Service](../aws)/sqs)
+- [CloudWatch](../aws/cloudwatch)
+- [RDS - Relational Database Service](../aws/rds)
+- [Route53](../aws/route53)
+- [SNS - Simple Notification Service](../aws/sns)
+- [SQS - Simple Queue Service](../aws/sqs)
 
 ---
 
@@ -47,75 +47,75 @@ technology lead: Bartlomiej Danek
 
 ### Security, Identity & Compliance
 
-- [IAM - AWS Identity and Access Management](../aws)/iam)
-- [Security](../aws)/security)
-- [Certificate Manager](../aws)/certificate-manager)
-- [Organizations](../aws)/organizations)
-- [Cognito](../aws)/cognito)
+- [IAM - AWS Identity and Access Management](../aws/iam)
+- [Security](../aws/security)
+- [Certificate Manager](../aws/certificate-manager)
+- [Organizations](../aws/organizations)
+- [Cognito](../aws/cognito)
 
 ### Storage
 
-- [S3 - Simple Storage Service](../aws)/s3)
-- [Glacier](../aws)/glacier)
-- [Storage Gateway](../aws)/storagegateway)
+- [S3 - Simple Storage Service](../aws/s3)
+- [Glacier](../aws/glacier)
+- [Storage Gateway](../aws/storagegateway)
 
 ### Databases
 
-- [RDS - Relational Database Service](../aws)/rds)
-- [DynamoDB](../aws)/dynamodb)
-- [Aurora](../aws)/aurora)
-- [Redshift](../aws)/redshift)
+- [RDS - Relational Database Service](../aws/rds)
+- [DynamoDB](../aws/dynamodb)
+- [Aurora](../aws/aurora)
+- [Redshift](../aws/redshift)
 
 ### Compute Cloud
 
-- [Lambda](../aws)/lambda)
-- [EC2 - Elastic Compute Cloud](../aws)/ec2)
-- [ECS - Elastic Container Service](../aws)/ecs)
-- [ELB - Elastic Load Balancing](../aws)/elb)
-- [Batch](../aws)/batch)
+- [Lambda](../aws/lambda)
+- [EC2 - Elastic Compute Cloud](../aws/ec2)
+- [ECS - Elastic Container Service](../aws/ecs)
+- [ELB - Elastic Load Balancing](../aws/elb)
+- [Batch](../aws/batch)
 
 ### Analytics
 
-- [CloudSearch](../aws)/cloudsearch)
-- [Elasticsearch Service](../aws)/ess)
-- [Athena](../aws)/athena)
-- [EMR](../aws)/emr)
-- [QuickSight](../aws)/quicksight)
-- [Kinesis](../aws)/kinesis)
-- [Data Pipeline](../aws)/datapipeline)
-- [Glue](../aws)/glue)
+- [CloudSearch](../aws/cloudsearch)
+- [Elasticsearch Service](../aws/ess)
+- [Athena](../aws/athena)
+- [EMR](../aws/emr)
+- [QuickSight](../aws/quicksight)
+- [Kinesis](../aws/kinesis)
+- [Data Pipeline](../aws/datapipeline)
+- [Glue](../aws/glue)
 
 ### Network and delivery
 
-- [Route53](../aws)/route53)
-- [API Gateway](../aws)/api-gateway)
-- [CloudFront](../aws)/cloudfront)
+- [Route53](../aws/route53)
+- [API Gateway](../aws/api-gateway)
+- [CloudFront](../aws/cloudfront)
 
 ### Application integratration
 
 - [SES - Simple Email Service](./aws/ses)
-- [SNS - Simple Notification Service](../aws)/sns)
-- [SQS - Simple Queue Service](../aws)/sqs)
+- [SNS - Simple Notification Service](../aws/sns)
+- [SQS - Simple Queue Service](../aws/sqs)
 - [MQ](./aws/mg)
 
 ### Management tools
 
-- [CloudWatch](../aws)/cloudwatch)
+- [CloudWatch](../aws/cloudwatch)
 
 ### Machine Learning
 
-- [SageMaker](../aws)/sagemaker)
-- [Comprehend](../aws)/comprehend)
-- [DeepLens](../aws)/deeplens)
-- [Lex](../aws)/lex)
-- [Polly](../aws)/polly)
-- [Rekognition](../aws)/rekognition)
-- [Transcribe](../aws)/transcribe)
-- [Translate](../aws)/translate)
+- [SageMaker](../aws/sagemaker)
+- [Comprehend](../aws/comprehend)
+- [DeepLens](../aws/deeplens)
+- [Lex](../aws/lex)
+- [Polly](../aws/polly)
+- [Rekognition](../aws/rekognition)
+- [Transcribe](../aws/transcribe)
+- [Translate](../aws/translate)
 - [Deep Learning AMIs](./aws/deeplearningamis)
 
 ### Developer tools
 
-- [CodeDeploy](../aws)/codedeploy)
+- [CodeDeploy](../aws/codedeploy)
 
 > **NOTE**: most of Amazon services have secitons like *Getting Started Guide* or *Developer Guide*.
