@@ -173,8 +173,8 @@ Just follow steps from [community notes](https://help.ubuntu.com/community/SSH/O
 
 > **NOTE** you can use your public key for an authentication with foreign server
 
-![pub_vs_pem](keys_1.png)
-![sign_with_pem](keys_2.png)
+![pub_vs_pem](../keys_1.png)
+![sign_with_pem](../keys_2.png)
 
 ###### Generate keys
 
