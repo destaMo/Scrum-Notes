@@ -213,7 +213,7 @@
 
 ### 📝 Katas
 
-- Find and refactor piece of code that doesn't follow the LoD or create an artificial 
+- Find and refactor piece of code that doesn't follow the LoD or create an artificial
     example.
 
 ### 🎤 Interview
@@ -370,43 +370,3 @@
 - What is a guard clause?
 - Why would I use a guard clause?
 - Show me one example where you used a guard clause.
-
-## 📦 Amazon Simple Email Service
-
-### 🎓 Learn
-
-- 📗 [Service overview](https://aws.amazon.com/ses/)
-- 📗 [Add Header Action](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/receiving-email-action-add-header.html)
-- 📗 [Bounce Action](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/receiving-email-action-bounce.html)
-- 📗 [Lambda Action](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/receiving-email-action-lambda.html)
-- 📗 [S3 Action](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/receiving-email-action-s3.html)
-- 📗 [SNS Action](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/receiving-email-action-sns.html)
-- 📗 [Stop Action](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/receiving-email-action-stop.html)
-- 📗 [WorkMail Action](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/receiving-email-action-workmail.html)
-
-#### 🔍 Short Summary
-
-Flexible, affordable, and highly-scalable email sending and receiving platform for businesses and developers
-- highly scalable and cost-effective email service,
-- uses content filtering technologies to scan outgoing emails to check standards and email content for spam and malware,
-- supports full fledged emails to be sent as compared to SNS where only the message is sent in Email,
-- ideal for sending bulk emails at scale,
-- guarantees first hop,
-- eliminates the need to support custom software or applications to do heavy lifting of email transport.
-
-### 📝 Katas
-
-- Set up SES and send sample email
-
-### 🎤 Interview
-
-- Tell me about Amazon SES
-- Tell me about use cases for SES
-- Tell mw how you set up SES in the application
-
-## 📦 Linux
-
-- 📗 [Commands](/backend_developer/devops/linux.md#junior-ii)
-- 📗 [Useful tricks](/backend_developer/devops/linux.md#command-control-shortcuts)
-- 📗 [Daemons & services](/backend_developer/devops/linux.md#linux-daemons--services)
-- 📗 [Setting a domain on local server](/backend_developer/devops/linux.md#setting-hostnamedomain-name-of-own-local-server)
