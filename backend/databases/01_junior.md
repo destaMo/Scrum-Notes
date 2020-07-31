@@ -1,4 +1,4 @@
-# Junior - level I
+# Junior 
 
 ---
 
@@ -11,8 +11,11 @@
 - Simple joins
 - Sorting data
 - Basic data types
-
----
+- Managing tables/schemas
+- Basic constraints
+- Managing data
+- Grouping
+- Basic aggregate functions
 
 ## 📦 Filtering and projection
 
@@ -33,7 +36,7 @@
 - 📗 [functions-comparison](https://www.postgresql.org/docs/11/functions-comparison.html)
 - 📗 [functions-matching](https://www.postgresql.org/docs/11/functions-matching.html)
 
----
+    ---
 
 ## 📦 Retrieving portions of data
 
@@ -86,6 +89,78 @@
 
 ### 🎓 Resources
 - 📗 [datatype-numeric](https://www.postgresql.org/docs/11/static/datatype-numeric.html)
+- 📗 [datatype-serial](https://www.postgresql.org/docs/current/datatype-numeric.html#DATATYPE-SERIAL)
 - 📗 [datatype-character](https://www.postgresql.org/docs/11/static/datatype-character.html)
 - 📗 [datatype-boolean](https://www.postgresql.org/docs/11/static/datatype-boolean.html)
 - 📗 [datatype-datetime](https://www.postgresql.org/docs/11/static/datatype-datetime.html)
+- 📗 [datatype-uuid](https://www.postgresql.org/docs/11/static/datatype-uuid.html)
+- 📗 [uuid-ossp](https://www.postgresql.org/docs/11/static/uuid-ossp.html)
+- 📙 [datatype-enum](https://www.postgresql.org/docs/11/static/datatype-enum.html)
+
+---
+
+## 📦 Managing tables/schemas
+
+### 🎓 Resources
+- 📗 [sql-createtable](https://www.postgresql.org/docs/11/static/sql-createtable.html)
+- 📗 [sql-altertable](https://www.postgresql.org/docs/11/static/sql-altertable.html)
+- 📗 [sql-droptable](https://www.postgresql.org/docs/11/static/sql-droptable.html)
+- 📗 [ddl-schemas](https://www.postgresql.org/docs/11/static/ddl-schemas.html)
+
+---
+
+## 📦 Basic constraints
+
+- DEFAULT
+- UNIQUE
+- NULL
+- NOT NULL
+- PRIMARY KEY
+
+### 🎓 Resources
+- 📗 [ddl-constraints](https://www.postgresql.org/docs/11/static/ddl-constraints.html)
+
+### 🎤 Interview
+
+- What is a Primary Key?
+
+---
+
+## 📦 Managing data
+
+- INSERT
+- UPDATE
+- DELETE
+- TRUNCATE
+
+### 🎓 Resources
+
+- 📗 [sql-insert](https://www.postgresql.org/docs/11/static/sql-insert.html)
+- 📗 [sql-update](https://www.postgresql.org/docs/11/static/sql-update.html)
+- 📗 [sql-delete](https://www.postgresql.org/docs/11/static/sql-delete.html)
+- 📗 [sql-truncate](https://www.postgresql.org/docs/11/sql-truncate.html)
+
+---
+
+## 📦 Grouping
+
+- GROUP BY
+- HAVING
+
+### 🎓 Resources
+- 📗 [querues-group](https://www.postgresql.org/docs/11/static/queries-table-expressions.html#QUERIES-GROUP)
+
+---
+
+## 📦 Basic aggregate functions
+
+- SUM
+- AVG
+- COUNT
+- MIN
+- MAX
+
+### 🎓 Resources
+
+- 📗 [functions-aggregate](https://www.postgresql.org/docs/11/static/functions-aggregate.html)
+

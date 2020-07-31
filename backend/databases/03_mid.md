@@ -1,4 +1,4 @@
-# Middle - level I
+# Middle
 
 ---
 
@@ -6,51 +6,25 @@
 
 **Competence**
 
-- Backup / Import
-- Advanced JSON / JSONB
-- Aggregates
+- Common table expressions aka CTE
 - Generating series for different data types
 - Window functions
+- Indexing
 - Query planner
 - More joins
 - Merge (aka upsert)
 - Simple locking
 - Text search
-- More types
-- Date/time with intervals
-- Enums
-- Triggers
-- Backup / Import
+- Triggers & generated-columns
 
 ---
 
-## 📦 Backup / Import
+## 📦 Common table expressions aka CTE
 
 ### 🎓 Resources
 
-- 📗 [app-pgrestore](https://www.postgresql.org/docs/11/app-pgrestore.html)
-- 📗 [app-pgdump](https://www.postgresql.org/docs/11/app-pgdump.html)
-- 📗 [app-psql](https://www.postgresql.org/docs/11/app-psql.html)
-
----
-
-## 📦 Advanced JSON / JSONB
-
-- part 2 - processing functions
-
-### 🎓 Resources
-
-- 📗 [functions-json](https://www.postgresql.org/docs/11/static/functions-json.html)
-
-
----
-
-## 📦 Aggregates
-
-### 🎓 Resources
-
-- 📗 [functions-aggregate](https://www.postgresql.org/docs/11/static/functions-aggregate.html)
-- 📗 [Custom aggregates](https://www.postgresql.org/docs/11/static/xaggr.html)
+- 📗 [queries-with](https://www.postgresql.org/docs/11/static/queries-with.html)
+- 📗 [workshop-db-03](https://github.com/qbart/workshop-db-03)
 
 ---
 
@@ -70,6 +44,18 @@
 - 📗 [sql-select](https://www.postgresql.org/docs/11/static/sql-select.html#SQL-WINDOW)
 - 📗 [functions-window](https://www.postgresql.org/docs/11/static/functions-window.html)
 - 📗 [workshop-db-03](https://github.com/qbart/workshop-db-03)
+
+---
+
+## 📦 Indexing
+
+### 🎓 Resources
+
+- 📗 [indexes](https://www.postgresql.org/docs/11/static/indexes.html)
+- 📗 [heroku postgres indexes](https://devcenter.heroku.com/articles/postgresql-indexes)
+- 📗 [principles-and-applications-of-the-index-types-supported-by-postgresql](https://medium.com/@Alibaba_Cloud/principles-and-applications-of-the-index-types-supported-by-postgresql-481f59bab67d)
+- 📗 [tour-of-postgres-index-types](https://www.citusdata.com/blog/2017/10/17/tour-of-postgres-index-types/)
+- 📗 [habr blog](https://habr.com/en/company/postgrespro/blog/441962/) (1-10)
 
 ---
 
@@ -115,7 +101,6 @@
 - 📗 [sql-for-update-share](https://www.postgresql.org/docs/current/sql-select.html#SQL-FOR-UPDATE-SHARE)
 - 📗 [explicit-locking](https://www.postgresql.org/docs/11/static/explicit-locking.html)
 
-
 ---
 
 ## 📦 Text search
@@ -128,41 +113,12 @@
 
 ---
 
-## 📦 More types
+## 📦 Triggers & generated-columns
 
 ### 🎓 Resources
 
-- 📙 [money](https://www.postgresql.org/docs/11/static/datatype-money.html)
-- 📙 [geometric](https://www.postgresql.org/docs/11/static/datatype-geometric.html)
-- 📙 [binary](https://www.postgresql.org/docs/11/static/datatype-binary.html)
-- 📙 [bit](https://www.postgresql.org/docs/11/static/datatype-bit.html)
-- 📙 [xml](https://www.postgresql.org/docs/11/static/datatype-xml.html)
-- 📙 [net](https://www.postgresql.org/docs/11/static/datatype-net-types.html)
-
----
-
-## 📦 Date/time with intervals
-
-### 🎓 Resources
-
-- 📙 [datatype-datetime](https://www.postgresql.org/docs/11/static/datatype-datetime.html)
-- 📙 [functions-datetime](https://www.postgresql.org/docs/11/static/functions-datetime.html)
-
----
-
-## 📦 Enums
-
-### 🎓 Resources
-
-- 📙 [datatype-enum](https://www.postgresql.org/docs/11/static/datatype-enum.html)
-
----
-
-## 📦 Triggers
-
-### 🎓 Resources
-
-- 📙 [sql-createtrigger](https://www.postgresql.org/docs/11/static/sql-createtrigger.html)
-- 📙 [plpgsql-trigger](https://www.postgresql.org/docs/11/static/plpgsql-trigger.html)
-- 📙 [trigger-definition](https://www.postgresql.org/docs/11/static/trigger-definition.html)
-- 📙 [functions-event-triggers](https://www.postgresql.org/docs/11/functions-event-triggers.html)
+- 📗 [generated-columns](https://www.postgresql.org/docs/12/ddl-generated-columns.html)
+- 📗 [sql-createtrigger](https://www.postgresql.org/docs/11/static/sql-createtrigger.html)
+- 📗 [plpgsql-trigger](https://www.postgresql.org/docs/11/static/plpgsql-trigger.html)
+- 📗 [trigger-definition](https://www.postgresql.org/docs/11/static/trigger-definition.html)
+- 📗 [functions-event-triggers](https://www.postgresql.org/docs/11/functions-event-triggers.html)
