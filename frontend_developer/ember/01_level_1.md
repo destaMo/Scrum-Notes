@@ -83,7 +83,7 @@ Knows the core concepts and anatomy of every Ember.js application
 
 ## 📦 Ember / Ember CLI
 
-Optimalize your work with Ember CLI in your toolbelt
+Optimize your work with Ember CLI in your toolbelt
 
 ### 🎓 Learn
 
