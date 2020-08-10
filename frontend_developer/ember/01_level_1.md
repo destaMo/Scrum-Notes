@@ -5,7 +5,6 @@ After finishing this course you should be able to setup an Ember application, cr
 
 **Ember Basic Concepts I**
 - Application structure
-- Ember Object
 - Models
 - Router
 - Route
@@ -67,7 +66,7 @@ Knows the core concepts and anatomy of every Ember.js application
 - 📗 [Ember guides](https://guides.emberjs.com/)
 - 📗 [Ember tutorial](https://guides.emberjs.com/release/tutorial/part-1/)
 - 📗 [Anatomy of Ember App](https://guides.emberjs.com/release/getting-started/anatomy-of-an-ember-app/)
-- 📗 [Models] (https://guides.emberjs.com/release/getting-started/anatomy-of-an-ember-app/#toc_models)
+- 📗 [Models](https://guides.emberjs.com/release/getting-started/anatomy-of-an-ember-app/#toc_models)
 - 📗 [Router and routes](https://guides.emberjs.com/release/getting-started/anatomy-of-an-ember-app/#toc_router-and-route-handlers)
 
 ### 🎤 Interview
@@ -118,7 +117,7 @@ Understand role of templates and helpers in Ember application
 
 ### 🎤 Interview
 
-- How can you display properties in the template
+- How can you display component's own properties, properties passed from the component above
 - What should you use to display a label depending on given value?
 - Explain a difference between `each` and `each-in`
 - Are we able to use multiple helpers together?
