@@ -26,7 +26,7 @@ This repo contains the content for "nice" version, that is available here: https
 * [React III](frontend_developer/react/03_level_3.md)
 
 ### Ember
-* Ember I (Coming soon...)
+* [Ember I](https://github.com/Selleo/DevPath/blob/master/frontend/Frameworks%20and%20libs/ember/01_level_1.md)
 * Ember II (Coming soon...)
 * Ember III (Coming soon...)
 
