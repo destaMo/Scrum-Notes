@@ -58,7 +58,7 @@
 - Why it is good that IndexDB is transactional?
 - How to handle migration in IndexedDB?
 - Explain the role of `IDBCursor`
-- Explain the difference between `KeyPath` and `KeyGenerator`.
+- Explain the difference between `Key Path` and `Key Generator`. What are they responsible of? [See article](https://www.raymondcamden.com/2012/04/26/Sample-of-IndexedDB-with-Autogenerating-Keys)
 
 ### 📝 Katas
 
@@ -84,7 +84,7 @@
 - Explain `observable`
 - Explain [hot and cold observables](https://medium.com/@luukgruijs/understanding-hot-vs-cold-observables-62d04cf92e03)
 - Elaborate about `Subject` vs `BehaviorSubject`
-- Elaborate about `mergeMap` vs `flatMap`
+- Elaborate about `map` vs `flatMap/mergeMap`
 - Explain `combineLatest`
 - How to use `interval` and provide an usage example
 
