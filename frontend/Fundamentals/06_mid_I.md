@@ -58,7 +58,7 @@
 - Why it is good that IndexDB is transactional?
 - How to handle migration in IndexedDB?
 - Explain the role of `IDBCursor`
-- Explain the difference between `KeyPath` and `KeyGenerator`.
+- Explain the difference between `Key Path` and `Key Generator`. What are they responsible for? [See article](https://www.raymondcamden.com/2012/04/26/Sample-of-IndexedDB-with-Autogenerating-Keys)
 
 ### 📝 Katas
 
