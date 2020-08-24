@@ -84,7 +84,7 @@
 - Explain `observable`
 - Explain [hot and cold observables](https://medium.com/@luukgruijs/understanding-hot-vs-cold-observables-62d04cf92e03)
 - Elaborate about `Subject` vs `BehaviorSubject`
-- Elaborate about `map` vs `flatMap/mergeMap`
+- Elaborate about `mergeMap` vs `flatMap`
 - Explain `combineLatest`
 - How to use `interval` and provide an usage example
 
