@@ -86,3 +86,8 @@ Coming soon...
 * [Independent III](designer/05_independent_III.md)
 * [Mid I](designer/06_middle_I.md)
 * [Mid II](designer/07_middle_II.md)
+
+---
+
+## Quality Assurance
+* [Junior I](qa/01_junior_I.md)
