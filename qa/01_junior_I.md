@@ -63,6 +63,7 @@ Get together with helpful testing tools. Find out what are good ways to simulate
   * Console
   * Elements
   * Device toolbar
+  * Throttling
 
 - 📗 [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - 📗 [Browserstack](https://www.browserstack.com/)
@@ -81,6 +82,7 @@ Get together with helpful testing tools. Find out what are good ways to simulate
   * Change your timezone
 - Run a basic performance test in Lighthouse and analyze the results
 - Use Browserstack to test on different OSes, browsers and resolutions
+- Use throttling to slow down the Internet connection
 
 ---
 
