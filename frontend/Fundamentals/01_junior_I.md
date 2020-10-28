@@ -86,7 +86,7 @@ Read about how the web works - you do not need to remember all the details, just
 - 📗 choose your tool:
     - **Chrome DevTools**
         - 📗 [crash course](https://www.youtube.com/watch?v=x4q86IjJFag)
-        - 📗 [official guide](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/) - Home/ Open Dev tools / DevTools for beginners / CSS / JavaScript / Console / Network / HTML
+        - Home/ Open Dev tools / DevTools for beginners / CSS / JavaScript / Console / Network / HTML
     - **Firefox Developer tools**
         - 📗 [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
         - 📗 [Core Tools](https://developer.mozilla.org/en-US/docs/Tools) - Page inspector / Web Console / JavaScript Debugger / Network Monitor
@@ -154,6 +154,7 @@ Familiarize yourself with the concepts from the book, be able to explain then, a
 ### 🎓 Learn
 
 - 📗 [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP)
+- 📗 [Cookies](https://javascript.info/cookie)
 
 ### 🎤 Interview
 
