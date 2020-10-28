@@ -5,7 +5,7 @@
 **Competence**
 
 - PWA
-- Profiling
+- Profiling, Performance
 - Authentication
 - Authorization
 
@@ -48,13 +48,16 @@
 
 ---
 
-## 📦 Competence / Profiling
+## 📦 Competence / Profiling, Performance
 
 ### 🎓 Learn
 
 - 📗 [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 - 📗 [CloudFront](https://aws.amazon.com/cloudfront/)
 - 📗 [Memory leaks discovery](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
+- 📗 [Runtime performance](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/)
+- 📗 [Speed up web page guide](https://auth0.com/blog/12-steps-to-a-faster-web-app/)
+- 📙 [Analyze web performance with PageInsights](https://devrix.com/tutorial/analyze-web-page-performance-using-google-pagespeed-insights/)
 
 ### 🎤 Interview
 
