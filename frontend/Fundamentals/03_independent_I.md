@@ -88,6 +88,7 @@
 
 - 📗 [Book](https://www.amazon.com/Effective-Debugging-Specific-Software-Development-ebook-dp-B01HMR617O/dp/B01HMR617O/ref=mt_kindle?_encoding=UTF8&me=&qid=)
 - 📗 [Source maps](https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps)
+- 📗 [Breakpoints](https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints)
 
 ### 🎤 Interview
 
