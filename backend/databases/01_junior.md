@@ -23,10 +23,6 @@
 - WHERE
 - FROM
 
-### 🎤 Interview
-
-- Tell me how do you use SELECT, WHERE and FROM.
-
 ### 🎓 Resources
 
 - 📗 [sql-select](https://www.postgresql.org/docs/11/sql-select.html)
@@ -43,10 +39,6 @@
 - LIMIT
 - OFFSET
 
-### 🎤 Interview
-
-- Tell me about LIMIT and OFFSET when querying the database.
-
 ### 🎓 Resources
 
 - 📗 [queries-limit](https://www.postgresql.org/docs/11/queries-limit.html)
@@ -56,10 +48,6 @@
 ## 📦 Simple join
 
 - INNER JOIN
-
-### 🎤 Interview
-
-- Tell me why and how would I use INNER JOIN in the query.
 
 ### 🎓 Resources
 
@@ -71,9 +59,6 @@
 
 - ORDER BY
 
-### 🎤 Interview
-
-- Teach me about "ORDER BY" for specifying order of queried data.
 
 ### 🎓 Resources
 
@@ -82,10 +67,6 @@
 ---
 
 ## 📦 Basic data types
-
-### 🎤 Interview
-
-- Tell me about the basic data types in PostgreSQL.
 
 ### 🎓 Resources
 - 📗 [datatype-numeric](https://www.postgresql.org/docs/11/static/datatype-numeric.html)
@@ -119,10 +100,6 @@
 
 ### 🎓 Resources
 - 📗 [ddl-constraints](https://www.postgresql.org/docs/11/static/ddl-constraints.html)
-
-### 🎤 Interview
-
-- What is a Primary Key?
 
 ---
 
@@ -163,4 +140,18 @@
 ### 🎓 Resources
 
 - 📗 [functions-aggregate](https://www.postgresql.org/docs/11/static/functions-aggregate.html)
+
+## Questions
+
+1. What is a Primary Key?
+2. Tell me about basic data types in PostgreSQL.
+3. What's the difference between single quotes `'` and double quotes `"` in PostgreSQL?
+4. How to perform type casting?
+5. What `UNIQUE` constraint guarentees?
+- Can it be used for multiple columns?
+- How `UNIQUE` behaves in combination with `NULL` values? Why it works this way?
+6. What is the purpose of `INNER JOIN`? 
+7. How do `LIMIT` and `OFFSET` work?
+8. How to sort data?
+9. Give an example of query that uses `GROUP BY` and `HAVING`.
 
