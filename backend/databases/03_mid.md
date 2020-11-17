@@ -14,8 +14,8 @@
 - More joins
 - Merge (aka upsert)
 - Simple locking
-- Text search
 - Triggers & generated-columns
+- Text search
 
 ---
 
@@ -103,16 +103,6 @@
 
 ---
 
-## 📦 Text search
-
-### 🎓 Resources
-
-- 📙 [datatype-textsearch](https://www.postgresql.org/docs/11/static/datatype-textsearch.html)
-- 📙 [functions-textsearch](https://www.postgresql.org/docs/11/static/functions-textsearch.html)
-- 📙 [textsearch](https://www.postgresql.org/docs/11/static/textsearch.html)
-
----
-
 ## 📦 Triggers & generated-columns
 
 ### 🎓 Resources
@@ -122,3 +112,36 @@
 - 📗 [plpgsql-trigger](https://www.postgresql.org/docs/11/static/plpgsql-trigger.html)
 - 📗 [trigger-definition](https://www.postgresql.org/docs/11/static/trigger-definition.html)
 - 📗 [functions-event-triggers](https://www.postgresql.org/docs/11/functions-event-triggers.html)
+
+---
+
+## 📦 Text search
+
+As a general rule you understand differences and similiartites between two approaches and you know when to use Postgres or ElasticSearch.
+
+### 🎓 Resources
+
+- 📙 [datatype-textsearch](https://www.postgresql.org/docs/11/static/datatype-textsearch.html)
+- 📙 [functions-textsearch](https://www.postgresql.org/docs/11/static/functions-textsearch.html)
+- 📙 [textsearch](https://www.postgresql.org/docs/11/static/textsearch.html)
+
+### 🎓 Elastic Search
+
+Elasticsearch is a distributed, open source search and analytics engine for all types of data, including textual, numerical, geospatial, structured, and unstructured.
+Possible use cases:
+
+* Application search
+* Website search
+* Logging and log analytics
+* Infrastructure metrics and container monitoring
+* Application performance monitoring
+* Geospatial data analysis and visualization
+* Security analytics
+* Business analytics
+
+- 📙 [es-intro](https://www.elastic.co/guide/en/elasticsearch/reference/current/elasticsearch-intro.html)
+- 📙 [es-docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html)
+- 📙 [es-indices](https://www.elastic.co/guide/en/elasticsearch/reference/current/indices.html)
+- 📙 [es-mapping](https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html)
+- 📙 [es-query-dsl](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html)
+
