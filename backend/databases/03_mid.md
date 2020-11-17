@@ -145,3 +145,24 @@ Possible use cases:
 - 📙 [es-mapping](https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html)
 - 📙 [es-query-dsl](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html)
 
+## Questions
+
+1. Describe difference between `FULL JOIN` and `CROSS JOIN`.
+2. In which situations `INSERT` command will trigger `ON CONFLICT` action that was specified in the upsert query?
+3. How do database triggers work? 
+4. How do generated columns work?
+5. Compare PostgreSQL text-search capabilities with ElasticSearch.
+- In which situations you would recommend customer using PostgreSQL FTS vs. ElasticSearch?
+6. Describe locking. What is it for?
+- Describe row-level, table-level, advisory locks.
+- What is a deadlock?
+7. Indexing:
+- What are partial indexes?
+- What are expressions indexes?
+- What are include indexes?
+- What is a index-only scan? How does it correlate to include indexes?
+8. What is a query planner?
+- Does it always generate fully optimal plan?
+- Can you force query planner to choose different plan?
+
+
