@@ -147,3 +147,21 @@ Math:
 - 📗 [queries-union](https://www.postgresql.org/docs/11/static/queries-union.html)
 - 📗 [sql-select](https://www.postgresql.org/docs/11/static/sql-select.html)
 
+
+## Questions
+
+1. What's the difference between `DISTINCT` and `DISTINCT ON`?
+2. What's the difference between `UNION/INTERSECT/EXCEPT` and `UNION/INTERSECT/EXCEPT ALL`?
+3. Describe transactions.
+4. What are views?
+5. What are materialized views?
+- Example usage? 
+- How to refresh it?
+- Can we create indexes? Why/Why not?
+- What conditions must be met to refresh materialized view via `CONCURRENTLY` option? 
+6. Describe basic index types and their operators support.
+- What types/data are worth indexing?
+- In which situations is[is not] beneficial to create an index?
+- Does order of indexed columns for multicolumn index matter? Why/Why not?
+7. What is the purpose of referential integrity and how do we implement one?
+8. Describe ACID.
