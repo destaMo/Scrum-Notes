@@ -161,7 +161,7 @@ Math:
 - What conditions must be met to refresh materialized view via `CONCURRENTLY` option? 
 6. Describe basic index types and their operators support.
 - What types/data are worth indexing?
-- In which situations is[is not] beneficial to create an index?
-- Does order of indexed columns for multicolumn index matter? Why/Why not?
+- In which situations is it [is it not] beneficial to create an index?
+- Does the order of indexed columns for the multicolumn index matter? Why/Why not?
 7. What is the purpose of referential integrity and how do we implement one?
 8. Describe ACID.

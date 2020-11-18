@@ -148,11 +148,11 @@ Possible use cases:
 ## Questions
 
 1. Describe difference between `FULL JOIN` and `CROSS JOIN`.
-2. In which situations `INSERT` command will trigger `ON CONFLICT` action that was specified in the upsert query?
+2. In which situations the `INSERT` command will trigger `ON CONFLICT` action that was specified in the upsert query?
 3. How do database triggers work? 
 4. How do generated columns work?
 5. Compare PostgreSQL text-search capabilities with ElasticSearch.
-- In which situations you would recommend customer using PostgreSQL FTS vs. ElasticSearch?
+- In which situations you would recommend customer to use PostgreSQL FTS vs. ElasticSearch?
 6. Describe locking. What is it for?
 - Describe row-level, table-level, advisory locks.
 - What is a deadlock?
@@ -160,9 +160,9 @@ Possible use cases:
 - What are partial indexes?
 - What are expressions indexes?
 - What are include indexes?
-- What is a index-only scan? How does it correlate to include indexes?
+- What is an index-only scan? How does it correlate to include indexes?
 8. What is a query planner?
 - Does it always generate fully optimal plan?
-- Can you force query planner to choose different plan?
+- Can you force query planner to choose a different plan?
 
 

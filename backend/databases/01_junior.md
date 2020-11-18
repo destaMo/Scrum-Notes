@@ -149,9 +149,9 @@
 4. How to perform type casting?
 5. What `UNIQUE` constraint guarentees?
 - Can it be used for multiple columns?
-- How `UNIQUE` behaves in combination with `NULL` values? Why it works this way?
+- How does `UNIQUE` behave in combination with `NULL` values? Why does it work this way?
 6. What is the purpose of `INNER JOIN`? 
 7. How do `LIMIT` and `OFFSET` work?
 8. How to sort data?
-9. Give an example of query that uses `GROUP BY` and `HAVING`.
+9. Give an example of a query that uses `GROUP BY` and `HAVING`.
 
