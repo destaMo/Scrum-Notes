@@ -1,6 +1,6 @@
 # TECHNOLOGY :: Frontend :: CSS/HTML
 
-Provide the list or PR or other contributions that prove to understand each subject or ask for tech interview, where we will go step by step through the following list.
+Prepare for a tech interview, where we will go step by step through the following list. J1 is all about theory, but if it suits your learning style more, you can already start implementing the project required for the next level. See [Junior II](../02_junior_ii) for more details. 
 
 &nbsp;
 
@@ -13,6 +13,12 @@ Provide the list or PR or other contributions that prove to understand each subj
 * 📗 [Selleo CSS writing best practices](https://gist.github.com/ArekJanik/0f2a101935aed483782c15f2d5b73273)
 * 📗 [The CSS mindset](https://mxb.dev/blog/the-css-mindset/)
 
+### 🎤 Interview
+
+* how to work with BEM
+* what are magic numbers?
+* is setting `background: red` a good practise?
+* when to use `!important`
 
 ## 📦 HTML
 
@@ -27,12 +33,12 @@ Provide the list or PR or other contributions that prove to understand each subj
 
 * what is the difference between `<div>`, `<span>` and `<p>`
 * what is `<input>` and what types it can have
-* how to work with BEM
 * do all HTML tags have closing tags
 * how to link to the section within the same page
 * write a table with 3 columns and 2 rows
 * how many `<h>` elements are in html
 * types of lists in HTML
+* `<a>` vs `<button>`
 * `<b>` vs `<strong>`
 * `inline` vs `inline-block`
 * what happens when you nest `<a>` inside another `<a>`
@@ -55,13 +61,11 @@ Provide the list or PR or other contributions that prove to understand each subj
 ### 🎤 Interview
 
 * tell me about box model
-* what are magic numbers?
 * what CSS stand for and what it means
 * name basic selectors
 * how to center vertically / horizontally
 * how to center a modal?
 * how to add same rules to multiple selectors at once
-* when to use floats
 * which CSS properties are inheritable
 * `em` and `rem` difference
 * how to override inline styles
@@ -69,7 +73,6 @@ Provide the list or PR or other contributions that prove to understand each subj
 * how to check element's default styles?
 * what is required for `top: 10px` to work?
 * positioning types and their differences
-* is setting `background: red` a good practise?
 * what is specificity and how it's calculated?
 
 
@@ -77,16 +80,17 @@ Provide the list or PR or other contributions that prove to understand each subj
 
 ### 🎓 Learn
 
+* 📗 [Floats](https://css-tricks.com/all-about-floats/)
 * 📗 [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * 📗 [More flexbox centering](https://css-tricks.com/the-peculiar-magic-of-flexbox-and-auto-margins/)
 * 📗 [Video course](https://flexbox.io/)
 * 📗 [Alternative tutorial](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
-* 📗 [Flexbox excersize](https://flexboxfroggy.com/)
-* 📗 [Another flexbox excersize](http://www.flexboxdefense.com/)
-
+* 📗 [Flexbox exercise](https://flexboxfroggy.com/)
+* 📗 [Another flexbox exercise](http://www.flexboxdefense.com/)
 
 ### 🎤 Interview
 
+* when and how to use floats
 * what `flex: 1 1 50%` means?
 * `flexbox` vs `floats`
 * default value of `flex` parameter, what it means and when it’s added

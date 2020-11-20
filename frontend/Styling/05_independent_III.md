@@ -16,7 +16,7 @@ Provide the list or PR or other contributions that prove to understand each subj
 * 📗 [Part 3](https://css-irl.info/debugging-css-grid-part-3-auto-flow-order-and-item-placement/)
 * 📗 [Grid vs flexbox](https://www.webdesignerdepot.com/2018/09/grid-vs-flexbox-which-should-you-choose/)
 * 📗 [Tips & tricks](https://medium.com/@elad/becoming-a-css-grid-ninja-f4c6db018cc1)
-* 📗 [Grid excersize](http://cssgridgarden.com/)
+* 📗 [Grid exercise](http://cssgridgarden.com/)
 * 📗 [Video tutorial 1 *](https://scrimba.com/g/gR8PTE)
 * 📗 [Video tutorial 2 *](https://cssgrid.io/)
 

@@ -36,7 +36,6 @@ Provide the list or PR or other contributions that prove to understand each subj
 * How to set a gradient and what types are there?
 * Shadow types
 * How to truncate text in CSS?
-* How to create a single element tooltip in CSS?
 * What does object-fit do?
 * How CSS variables work?
 
@@ -46,13 +45,14 @@ Provide the list or PR or other contributions that prove to understand each subj
 * `:last-child` vs `:last-of-type`
 * How to style 5th element
 * How to style based on attribute?
-* How to style all 3 elements: `.dupa1` `.dupa2` `.dupa3` with 1 attribute selector
+* How to style all 3 elements: `.selleo1` `.selleo2` `.selleo3` with 1 attribute selector
 
 
 ## 📦 Frameworks (just be aware that these exist)
 
 ### 🎓 Learn
 
+* 📗 [Ant Design *](https://ant.design/)
 * 📗 [Material UI *](https://material-ui.com/)
 * 📗 [Materialize *](https://materializecss.com/)
 * 📗 [Semantic UI *](https://semantic-ui.com/)
@@ -69,6 +69,7 @@ Provide the list or PR or other contributions that prove to understand each subj
 * 📗 [Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
 * 📗 [Magic property that fixes everything](https://dfmcphee.com/flex-items-and-min-width-0/)
 * 📗 [Flex sizing exercise](https://codepen.io/ArekJanik/pen/dwOJma) - you can fix that with 1 line of code :)
+* 📗 [Flex image sizing](https://codepen.io/ArekJanik/pen/ZEOjVLG)
 * 📗 [Workshop recording](https://www.youtube.com/watch?v=_OmSic-XicI)
 * 📗 [Workshop start](https://codepen.io/ArekJanik/pen/VgXzwJ)
 * 📗 [Workshop done](https://codepen.io/ArekJanik/pen/RdbrNQ)
@@ -77,6 +78,7 @@ Provide the list or PR or other contributions that prove to understand each subj
 ### 🎤 Interview
 
 * How to shrink flex items below their minimum content size?
+* How to properly size images with flexbox?
 
 
 ## 📦 Animations
@@ -88,12 +90,18 @@ Provide the list or PR or other contributions that prove to understand each subj
 * 📗 [How to achieve smooth animations](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
 * 📗 [CSS @keyframe animations 1](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 * 📗 [CSS @keyframe animations 2](https://robots.thoughtbot.com/css-animation-for-beginners)
+* 📗 [Scroll behaviour](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior)
 
+### 📝 Katas
+
+On your project, add:
+* one animation triggered on hover
+* one looped keyframe animation
 
 ### 🎤 Interview
 
 * Name a few transforms and what’s the case for them?
-* How to animate?
+* How (not) to animate?
 
 
 ## 📦 SVG icons
@@ -105,6 +113,10 @@ Provide the list or PR or other contributions that prove to understand each subj
 * 📗 [Complete guide](https://blog.usejournal.com/svg-icons-from-sketch-to-react-dfbedbf56484)
 * 📗 [Minifying svg icons](https://jakearchibald.github.io/svgomg/)
 
+### 📝 Katas
+
+On your project, add:
+* optimized SVG icons
 
 ### 🎤 Interview
 
@@ -118,13 +130,29 @@ Provide the list or PR or other contributions that prove to understand each subj
  
 * 📗 [Article on image compression](https://medium.com/@arekjanik/compressing-assets-for-web-dbfd25674c2e?sk=8a53480e19ae65bf2a6343b32af63b46)
 * 📗 [Different formats walkthrough](https://gizmodo.com/what-s-the-difference-between-jpg-png-and-gif-5656669)
+* 📗 Always make sure the images you use are properly sized and compressed. For large images use the real size that they're displayed on, eg. if the content's width is 1200px resize the image to 1200px. For smaller images like 300px you can save them at 2x the size to make sure it's rendered nicely on Retina. Use JPG for photos and images with a lot of colour, for simpler images try PNG or even better - vector SVG. Don't use GIF, PNG is always better.
+* 📗 [Compressing tool](https://squoosh.app/)
+* 📗 Compress using the following options:
+    * MozJPEG ~89 for smaller photos
+    * MozJPEG ~80 for larger ones
+    * OxiPNG 256 colors, dithering enabled
+    * Browser WebP, quality 0.9 [more on that](https://selleo.com/til/posts/9kdnziefk3-great-case-for-webp-format)
+* TODO: provide links for performance features in the presentation
+* 📗 [How to make your website faster](https://docs.google.com/presentation/d/1hX1rrSXSXKR4lY7bw0BtfSaKOFagVu8RBOsjwod_elI/)
 
+### 📝 Katas
+
+On your project, add:
+* optimized assets
+* HTML performance improvements
 
 ### 🎤 Interview
 
 * Which image format to choose when?
 * How to optimize for mobile/retina?
 * How would you optimize for size/quality/performance?
+* What is lighthouse?
+* What HTML features improve performance?
 
 
 ## 📦 Debugging
