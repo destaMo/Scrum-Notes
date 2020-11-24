@@ -3,3 +3,6 @@ languageCode = "en-us"
 title = "Selleo DevPath Framework"
 theme = "selleo"
 canonifyURLs = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
