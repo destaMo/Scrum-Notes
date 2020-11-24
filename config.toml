@@ -1,0 +1,5 @@
+baseURL = "https://selleo.com/devpath/"
+languageCode = "en-us"
+title = "Selleo DevPath Framework"
+theme = "selleo"
+canonifyURLs = true

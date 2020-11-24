@@ -1,93 +1,30 @@
-![DevPath](https://github.com/Selleo/DevPath/raw/master/devpath.png)
+<p align="center">
+  <img src="https://github.com/Selleo/devpath/raw/master/content/logo.png" alt="DevPath Framework" width="250">
+</p>
 
-----
+[![Netlify Status](https://api.netlify.com/api/v1/badges/078b6eb3-93da-450e-aabb-819100f1c056/deploy-status)](https://app.netlify.com/sites/selleo-devpath/deploys)
 
-This repo contains the content for "nice" version, that is available here: https://selleo.com/devpath/
+# Learn.selleo.dev
 
-## Common knowledge
-* [GIT](common/git.md) 
-- Systems 
-  - [MacOS](common/macos.md)
-  - [Linux](common/linux.md)
- 
----
+This repo contains web page source code that agregates learning/growth paths for web developers.
 
-## Frontend
-* [Junior I](frontend_developer/01_junior_I.md)
-* [Junior II](frontend_developer/02_junior_II.md)
-* [Independent I](frontend_developer/03_independent_I.md)
-* [Independent II](frontend_developer/04_independent_II.md)
-* [Independent III](frontend_developer/05_independent_III.md)
-* [Mid I](frontend_developer/06_mid_I.md)
+## Demo
 
-### React
-* [React I](frontend_developer/react/01_level_1.md)
-* [React II](frontend_developer/react/02_level_2.md)
-* [React III](frontend_developer/react/03_level_3.md)
+[selleo.com/devpath](https://selleo.com/devpath)
 
-### Ember
-* [Ember I](https://github.com/Selleo/DevPath/blob/master/frontend/Frameworks%20and%20libs/ember/01_level_1.md)
-* Ember II (Coming soon...)
-* Ember III (Coming soon...)
+## Installation
 
-### ReactNative
-* [React Native I](frontend_developer/react-native/01_level_1.md)
+```
+brew install hugo # https://gohugo.io/getting-started/installing/
 
-### Presentation layer
-* [Junior I](frontend_developer/CSS%20%26%20HTML/01_junior_I.md)
-* [Junior II](frontend_developer/CSS%20%26%20HTML/02_junior_II.md)
-* [Independent I](frontend_developer/CSS%20%26%20HTML/03_independent_I.md)
-* [Independent II](frontend_developer/CSS%20%26%20HTML/04_independent_II.md)
-* [Independent III](frontend_developer/CSS%20%26%20HTML/05_independent_III.md)
+git clone https://github.com/selleo/devpath.git
 
----
+cd devpath
 
-## Backend
+git submodule update --init --recursive
 
-### General knowledge
-* [Junior I](/backend_developer/01_junior_I.md)
-* [Junior II](/backend_developer/02_junior_II.md)
-* [Independent I](/backend_developer/03_independent_I.md)
-* [Independent II](/backend_developer/04_independent_II.md)
-* [Independent III](/backend_developer/05_independent_III.md)
-* [Mid I](/backend_developer/06_mid_I.md)
+hugo server -D
+```
 
-### Databases
-* [Junior I](/databases/01_junior_I.md)
-* [Junior II](/databases/02_junior_II.md)
-* [Independent I](/databases/03_independent_I.md)
-* [Independent II](/databases/04_independent_II.md)
-* [Independent III](/databases/05_independent_III.md)
-* [Mid I](/databases/06_mid_I.md)
-
-### DevOps (Coming soon...)
-
-### Full-text search engines (Coming soon...)
-
-### JavaScript (NodeJS)
-* [Javascript Prerequisites](/frontend_developer/01_junior_I.md) ( `Language & Browser API` and `Networking` )
-
-### Ruby (Rails)
-Coming soon...
-
-### Elixir (Phoenix)
-Coming soon...
-
-### React
-* [React I](backend_developer/frameworks/react.md) (minimal knowledge for simple UI tasks)
-
----
-
-## Designer
-* [Junior I](designer/01_junior_I.md)
-* [Junior II](designer/02_junior_II.md)
-* [Independent I](designer/03_independent_I.md)
-* [Independent II](designer/04_independent_II.md)
-* [Independent III](designer/05_independent_III.md)
-* [Mid I](designer/06_middle_I.md)
-* [Mid II](designer/07_middle_II.md)
-
----
-
-## Quality Assurance
-* [Junior I](qa/01_junior_I.md)
+## License
+See the LICENSE file included in this repository.
