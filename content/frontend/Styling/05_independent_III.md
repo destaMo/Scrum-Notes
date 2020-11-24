@@ -14,6 +14,7 @@ Provide the list or PR or other contributions that prove to understand each subj
 * 📗 [Part 1](https://css-irl.info/debugging-css-grid-part-1-understanding-implicit-tracks/)
 * 📗 [Part 2](https://css-irl.info/debugging-css-grid-part-2-what-the-fraction/)
 * 📗 [Part 3](https://css-irl.info/debugging-css-grid-part-3-auto-flow-order-and-item-placement/)
+* 📗 [Ultimate guide](https://jstutorial.medium.com/the-ultimate-guide-to-css-grid-2c5ba7b47356)
 * 📗 [Grid vs flexbox](https://www.webdesignerdepot.com/2018/09/grid-vs-flexbox-which-should-you-choose/)
 * 📗 [Tips & tricks](https://medium.com/@elad/becoming-a-css-grid-ninja-f4c6db018cc1)
 * 📗 [Grid exercise](http://cssgridgarden.com/)
