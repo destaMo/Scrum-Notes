@@ -11,6 +11,7 @@ Provide the list or PR or other contributions that prove to understand each subj
 ### 🎓 Learn
 
 * 📗 [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb)
+* 📗 [In depth z-index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 * 📗 [The checkbox hack](https://css-tricks.com/the-checkbox-hack/)
 * 📗 [Nth selectors](http://nthmaster.com/)
 * 📗 [Aspect ratio boxes](https://css-tricks.com/aspect-ratio-boxes/)

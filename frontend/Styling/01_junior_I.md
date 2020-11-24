@@ -19,6 +19,7 @@ Prepare for a tech interview, where we will go step by step through the followin
 * what are magic numbers?
 * is setting `background: red` a good practise?
 * when to use `!important`
+* which selector is better? `header ul li a svg` or `.header .nav .list .item .icon`
 
 ## 📦 HTML
 
