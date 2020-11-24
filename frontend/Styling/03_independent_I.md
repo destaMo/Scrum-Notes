@@ -1,6 +1,6 @@
 # TECHNOLOGY :: Frontend :: CSS/HTML
 
-Provide the list or PR or other contributions that prove to understand each subject or ask for tech interview, where we will go step by step through the following list.
+Provide the list of PR's or other contributions that prove you understand each subject, or add the Katas listed below to your project from J2.
 
 &nbsp;
 
@@ -137,8 +137,12 @@ On your project, add:
     * MozJPEG ~80 for larger ones
     * OxiPNG 256 colors, dithering enabled
     * Browser WebP, quality 0.9 [more on that](https://selleo.com/til/posts/9kdnziefk3-great-case-for-webp-format)
-* TODO: provide links for performance features in the presentation
-* 📗 [How to make your website faster](https://docs.google.com/presentation/d/1hX1rrSXSXKR4lY7bw0BtfSaKOFagVu8RBOsjwod_elI/)
+* 📗 [What is lighthouse and how to run it (skip the video)](https://developers.google.com/web/tools/lighthouse)
+* 📗 [How the scoring works](https://web.dev/performance-scoring/)
+* 📗 [In-depth performance *](https://web.dev/lighthouse-performance/)
+* 📗 [Eliminating render-blocking resources](https://www.digitalocean.com/community/tutorials/html-defer-async)
+* 📗 [Deferring offscreen images](https://css-tricks.com/native-lazy-loading/)
+* 📗 [Preloading key requests](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content)
 
 ### 📝 Katas
 
@@ -151,7 +155,7 @@ On your project, add:
 * Which image format to choose when?
 * How to optimize for mobile/retina?
 * How would you optimize for size/quality/performance?
-* What is lighthouse?
+* What is lighthouse and how to use it?
 * What HTML features improve performance?
 
 
