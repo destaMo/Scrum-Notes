@@ -63,15 +63,15 @@
 
 ### 🎓 Resources
 
-- 📗 [performance-tips](https://www.postgresql.org/docs/11/performance-tips.html)
-- 📗 [parallel-query](https://www.postgresql.org/docs/11/parallel-query.html)
-- 📗 [performance-cheat-sheet-postgresql](https://severalnines.com/blog/performance-cheat-sheet-postgresql)
-- 📗 [reading-an-explain-analyze-query-plan](https://robots.thoughtbot.com/reading-an-explain-analyze-query-plan)
-- 📗 [reading-an-explain-analyze-query-plan](http://tatiyants.com/pev/#/plans)
 - 📗 [explaining-the-unexplainable 1](https://www.depesz.com/2013/04/16/explaining-the-unexplainable/)
 - 📗 [explaining-the-unexplainable 2](https://www.depesz.com/2013/04/27/explaining-the-unexplainable-part-2/)
 - 📗 [explaining-the-unexplainable 3](https://www.depesz.com/2013/05/09/explaining-the-unexplainable-part-3/)
 - 📗 [explaining-the-unexplainable 4](https://www.depesz.com/2013/05/19/explaining-the-unexplainable-part-4/)
+- 📗 [performance-tips](https://www.postgresql.org/docs/11/performance-tips.html)
+- 📗 [parallel-query](https://www.postgresql.org/docs/11/parallel-query.html)
+- 📗 [performance-cheat-sheet-postgresql](https://severalnines.com/blog/performance-cheat-sheet-postgresql)
+- 📗 [reading-an-explain-analyze-query-plan](https://robots.thoughtbot.com/reading-an-explain-analyze-query-plan)
+- 📗 [plan-visualization](http://tatiyants.com/pev/#/plans)
 
 ---
 
