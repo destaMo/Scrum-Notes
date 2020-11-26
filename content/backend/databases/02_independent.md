@@ -146,12 +146,13 @@ Math:
 ### 🎓 Resources
 - 📗 [queries-union](https://www.postgresql.org/docs/11/static/queries-union.html)
 - 📗 [sql-select](https://www.postgresql.org/docs/11/static/sql-select.html)
-
+- 📗 [type-resolution](https://www.postgresql.org/docs/current/typeconv-union-case.html)
 
 ## Questions
 
 1. What's the difference between `DISTINCT` and `DISTINCT ON`?
 2. What's the difference between `UNION/INTERSECT/EXCEPT` and `UNION/INTERSECT/EXCEPT ALL`?
+- When combining two queries with `UNION/INTERSECT/EXCEPT [ALL]`, what conditions must be met to produce a valid output?
 3. Describe transactions.
 4. What are views?
 5. What are materialized views?
