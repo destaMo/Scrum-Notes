@@ -1,4 +1,22 @@
-# Ember - level III
++++
+title = "Ember - Mastery"
+weight = 3
++++
+
+{{%bubble %}}
+
+## Framework & Language Basics
+
+**Points:** 2 
+
+**Description:** You can demonstrate the complete knowledge of the specific framework. You can freely customize it and extend it if needed.
+
+**Person which succesfully completed requirement for given block can:** 
+
+- TODO
+
+{{% /bubble%}}
+
 After finishing this course you should be comfortable with components patterns, addons, engines or how to write an acceptance test
 
 ## Areas
