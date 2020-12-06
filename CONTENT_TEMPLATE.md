@@ -2,6 +2,34 @@
 
 This file contains a basic structure template for each level of DevPath. Please use it in your paths and remove redundant parts if needed. Please stick to the template for consistency.
 
+{{%bubble %}}
+
+## Bubble title
+
+**Points:** 1 / 2 / 3 
+
+**Description:** General description what's is the bubble about
+
+**Person which succesfully completed requirement for given block can:** 
+
+Use predefined words from the list to describe what person can for the given block:
+- Define, name repeat - knowledge
+- Explain, Identify, Recognize- comprehension
+- Apply, Demonstrate, Use - application
+- distinguish, compare, relate - analysis
+- design, prepare, compose - synthesis
+- evaluate, revise, estimate - evaluation
+
+Sample: 
+- Can deliver simple, typical functionalities with little to no additional help
+- When asking for help, can present the problem and already explored solutions clearly and in detail
+- Can debug simple problems within the application (excluding framework) using the right tooling
+- Can present the strenghts and use cases for the framework
+- Is capable of leveraging most commonly used standard library capabilities
+- Has working knowledge of most commonly used packages/libraries
+
+{{% /bubble%}}
+
 ## Basic sections example:
 ### Level Name - Grade I
 ## Areas
