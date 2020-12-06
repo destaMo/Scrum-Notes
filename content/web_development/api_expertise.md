@@ -31,6 +31,8 @@ title = "API Expertise"
 - Authorization
 - Authentication
 
+---
+
 ## 📦 JSON API
 
 ### 🎓 Learn

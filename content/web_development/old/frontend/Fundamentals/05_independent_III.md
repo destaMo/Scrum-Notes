@@ -7,7 +7,6 @@
 - Wireframing
 - A11y
 - Charts
-- Security
 
 **Language & Browser API**
 
@@ -16,20 +15,6 @@
 **Testing**
 
 - E2E
-
----
-
-## 📦 Competence / Wireframing
-
-### 🎓 Learn
-
-- 📗 [Adobe XD](https://www.adobe.com/pl/creativecloud/business/enterprise/how-to-wireframe-xd.html)
-- 📺 [Adobe XD Course](https://www.youtube.com/watch?v=wNPoK1TT5cs&list=PLSOZBpgNzv42dFSo_JvBFNZPFn95UuafG) ([base wireframe](https://www.youtube.com/watch?v=wNPoK1TT5cs&list=PLSOZBpgNzv42dFSo_JvBFNZPFn95UuafG&index=15), [view transition](https://www.youtube.com/watch?v=E94Q4PNYkKo&list=PLSOZBpgNzv42dFSo_JvBFNZPFn95UuafG&index=24))
-- 📙 [Balsamiq](https://balsamiq.com)
-
-### 📝 Katas
-
-- Build a base prototype with login screen. After login list of items is visible, after clicking on the item - item details are presented
 
 ---
 
