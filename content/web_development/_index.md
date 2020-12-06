@@ -17,8 +17,8 @@ title = "Web Development"
 - Performance tuning and monitoring
 - Data Extraction
 - Planning
-- Persistance - Advanced
-- Persistance - Mastery
+- Persistence - Advanced
+- Persistence - Mastery
 - Testing Expertise
 - Wireframing and prototyping
 - Security / OWASP

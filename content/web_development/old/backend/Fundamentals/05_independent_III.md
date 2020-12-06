@@ -307,7 +307,7 @@
 
 ### 🎓 Learn
 
-- Layer separating object and its business logic from persistance layer
+- Layer separating object and its business logic from persistence layer
 - `Repository.save(object)` vs `object.save`
 - TODO: Todoist case, KAFKA/ES case
 - Keeping clean interfaces and conventions is important when using repository
