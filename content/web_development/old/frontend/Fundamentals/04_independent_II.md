@@ -72,43 +72,6 @@
 
 ---
 
-## 📦 Competence / Authentication
-
-### 🎓 Learn
-
-- 📗 [OAuth](https://oauth.net/)
-- 📗 [JWT](https://jwt.io/)
-
-### 🎤 Interview
-
-- Explain JWT
-- Should you use cookies for authentication and if yes then when?
-- Explain the concept of expired token
-- Explain basics of OAuth
-
-### 📝 Katas
-
-- Show me your sample usage of OAuth
-
----
-
-## 📦 Competence / Authorization
-
-### 🎓 Learn
-
-- 📗 [RBAC example in React](https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/)
-- 📗 [RBAC example in Ember](https://github.com/minutebase/ember-can)
-
-### 🎤 Interview
-
-- What authorization strategy are you using in your apps?
-
-### 📝 Katas
-
-- Present sample usage of yours RBAC-driven app
-
----
-
 ## 📦 Tools / Error reporting
 
 ### 🎓 Learn
@@ -137,21 +100,3 @@
 ### 🎤 Interview
 
 - When to use built-in browser `intl` and when to rely on libraries?
-
----
-
-## 📦 **Networking /** GraphQL
-
-### 🎓 Learn
-
-- 📗 [Documentation](https://graphql.org/)
-- 📗 [Spec](https://graphql.github.io/graphql-spec/)
-
-### 🎤 Interview
-
-- Explain the differences between REST-like APIs and GraphQL
-- When GraphQL is a good fit for the application?
-
-### 📝 Katas
-
-- Show me and explain GraphQL consumer code in your application

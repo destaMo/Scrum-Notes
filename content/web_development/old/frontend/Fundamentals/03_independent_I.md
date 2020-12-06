@@ -202,26 +202,3 @@
 ### 📝 Katas
 
 - [**Collection of Katas**](https://www.codewars.com/collections/javascript-patterns)
-
-## 📦 Networking / JSON API
-
-### 🎓 Learn
-
-- 📗 [Documentation](https://jsonapi.org/)
-
-### 🎤 Interview
-
-- Explain role of `links`, `data`, `included`, `errors`
-- Explain default structure of entity payload (`type`, `id`, `attributes` etc.)
-- How to deal with pagination?
-- How to deal with search?
-- How to deal with sort?
-- How to deal with includes?
-- How to deal with errors?
-- How to create/update/delete resource?
-- What is the role of sparse fieldsets?
-- What is the default valid header in JSON API spec?
-
-### 📝 Katas
-
-- Provide sample usage of `data` attribute
