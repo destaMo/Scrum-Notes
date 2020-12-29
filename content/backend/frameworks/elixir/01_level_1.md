@@ -3,7 +3,7 @@ aliases = ["backend","elixir", "phoenix", "erlang", "junior"]
 title = "Backend - Elixir/Phoenix"
 +++
 
-# Elixir
+# Elixir - Level I
 
 ## Areas
 
@@ -88,6 +88,8 @@ Elixir language fundamentals.
 - What are module attributes and what should we know about them?
 - How we can inspect process on running system?
 - What is the difference between cond, with and case?
+- What is the defference between .ex and .exs files
+- Compile time vs Runtime differenes.
 
 ### 📝 Katas
 
