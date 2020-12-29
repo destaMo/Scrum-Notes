@@ -36,6 +36,7 @@ Know what is Elixir language, what are the pros and cons. Unique selling points 
 
 - 📗 [Elixir homepage](https://elixir-lang.org/)
 - 📗 [Erlang homepage](https://www.erlang.org/)
+- 📗 [Elixir School](https://elixirschool.com/en/)
 
 ### 🎤 Interview
 
