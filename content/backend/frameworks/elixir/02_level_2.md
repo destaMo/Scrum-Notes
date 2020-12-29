@@ -58,4 +58,6 @@ Phoenix framework advanced features.
   - 📗 [Absinthe](https://github.com/absinthe-graphql/absinthe)
   - 📗 [jsonapi](https://github.com/jeregrine/jsonapi)
   - 📗 [Channels](https://hexdocs.pm/phoenix/channels.html#content)
+  - 📗 [Testing Channels](https://hexdocs.pm/phoenix/testing_channels.html#content)
+
 
