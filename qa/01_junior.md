@@ -1,11 +1,13 @@
-# Junior - level I
+# Junior
 
 ## Areas
 
 **Competence**
 
-- Cucumber/Gherkin
-- JSON and XML
+- fundamentals of software testing
+- Cucumber/Gherkin syntax
+- JSON and XML syntax
+- basic terminal commands
 
 **Tools**
 
@@ -16,7 +18,30 @@
 **Best practices**
 
 - keeping good communication in a project team
-- basic terminal commands
+
+---
+
+## 📦 Testing
+
+Get familiar with basics of software testing. Be aware of differences between test levels and test types classifications. Use the ISTQB nomenclature from the very first steps.
+
+### 🎓 Learn
+
+- 📗 [test levels](https://www.seguetech.com/the-four-levels-of-software-testing/)
+- 📗 [test types](https://softwaretestingfundamentals.com/software-testing-types/)
+- 📗 [static and dynamic tests](https://softwaretestingfundamentals.com/static-testing-vs-dynamic-testing/)
+- 📗 [functional and non-functional tests](https://softwaretestingfundamentals.com/functional-testing-vs-non-functional-testing/)
+- 📗 [black-box and white-box tests](https://softwaretestingfundamentals.com/black-box-testing-vs-white-box-testing/)
+
+
+### 🎤 Interview
+
+- Describe the four test levels
+- What test types do you know? Provide an example of each test type
+- Describe what are static and dynamic testing? What products or artifacts do they focus on? 
+- What is the difference between functional and non-functional tests? Provide exmaples of test types specific for both functional and non-functional tests
+- What is the difference between black-box and white-box tests?
+
 
 ---
 
@@ -49,6 +74,7 @@ Build good relations in your team. Find out how the team works and fit into the 
 ### 📝 Katas
 
 - Report a bug in JIRA/Clubhouse/Trello
+- Try to find an example of a bug reported by you for which the assignee needed help with reproducing
 
 ---
 
@@ -90,7 +116,7 @@ Find out what are some useful technologies for testers, including those connecte
 
 ### 🎓 Learn
 
-- 📗 [Cucumber/Gherkin](https://automationpanda.com/2017/01/30/bdd-101-writing-good-gherkin/)
+- 📗 [Gherkin syntax](https://cucumber.io/docs/gherkin/)
 - 📗 [JSON/XML](https://www.geeksforgeeks.org/difference-between-json-and-xml/)
 - 📗 [basic terminal commands](https://www.suse.com/c/working-command-line-basic-linux-commands/)
 
