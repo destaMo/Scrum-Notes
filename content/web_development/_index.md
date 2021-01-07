@@ -5,7 +5,7 @@ title = "Web Development"
 📗 - Obligatory, 📙 - Optional
 
 ## Junior 1
-- 📗 [Fundamentals](/fundamentals/)
+- 📗 [Fundamentals](/web_development/fundamentals/)
 - 📗 [Framework & Language - basics](/web_development/framework-and-language/)
 - 📗 [Styling basics](/web_development/styling/01_junior_i/)
 

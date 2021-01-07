@@ -24,6 +24,7 @@ title = "API Expertise"
 
 **API Expertise**
 
+- Types of APIs
 - JSON API
 - GraphQL
 - Documentation
