@@ -158,7 +158,7 @@ Knows Phoenix web framework and concepts behind it.
 
 ### 📝 Katas
 
-- Create an application with Phoenix Framework which contains:
+Create an application with Phoenix Framework which contains:
 - Registration
 - JWT based authentication
 - Roles based authorization
