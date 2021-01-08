@@ -1,6 +1,7 @@
 +++
 aliases = ["backend","elixir", "phoenix", "erlang", "junior"]
-title = "Backend - Elixir/Phoenix"
+title = "Elixir/Phoenix - Basics"
+weight = 1
 +++
 
 # Elixir - Level I

@@ -1,3 +1,8 @@
++++
+title = "Backend - Elixir/Phoenix - Content bank"
+weight = 4
++++
+
 # Elixir - Content Bank
 
 ## 📘 Books

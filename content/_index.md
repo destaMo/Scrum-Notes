@@ -1,6 +1,6 @@
 +++
-title = "DevPath - Software development fundamentals"
-tags = ["programming", "development", "growth path", "developer path", "javascript", "ember", "react", "mongodb", "postgresql", "ruby", "rails", "elixir", "docker", "terraform", "vault"]
+title = "DevPath"
+tags = ["programming", "development", "growth path", "developer path", "javascript", "ember", "react", "mongodb", "postgresql", "ruby", "rails", "elixir", "docker", "terraform", "vault", "software", "development", "fundamentals"]
 +++
 
 ![DevPath](https://github.com/Selleo/DevPath/raw/master/content/devpath.png)
