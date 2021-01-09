@@ -34,6 +34,16 @@ title = "API Expertise"
 
 ---
 
+{{%todo %}}
+## 📦 Types of APIs
+
+### 🎓 Learn
+
+### 🎤 Interview
+
+### 📝 Katas
+{{% /todo%}}
+
 ## 📦 JSON API
 
 ### 🎓 Learn

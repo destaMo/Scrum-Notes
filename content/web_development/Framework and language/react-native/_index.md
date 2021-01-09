@@ -1,3 +1,3 @@
 +++
-title = "React Native"
+title = "JavaScript / React Native"
 +++

@@ -1,6 +1,30 @@
-# Junior - level I
++++
+title = "JavaScript/React Native - Basics"
+weight = 1
++++
 
-This path include some of the requirements from original React lvl 1. They are linked down here.
+{{%bubble %}}
+
+## Framework & Language Basics
+
+**Points:** 2 
+
+**Description:** You can use basic features of the framework, that allows you to deliver the most common features.
+
+**Person which succesfully completed requirement for given block can:** 
+
+- Can deliver simple, typical functionalities with little to no additional help
+- When asking for help, can present the problem and already explored solutions clearly and in detail
+- Can debug simple problems within the application (excluding framework) using the right tooling
+- Can present the strenghts and use cases for the framework
+- Is capable of leveraging most commonly used standard library capabilities
+- Has working knowledge of most commonly used packages/libraries
+
+{{% /bubble%}}
+
+{{%todo %}}
+After finishing this course you should be...
+{{% /todo%}}
 
 ## Areas
 

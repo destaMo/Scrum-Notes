@@ -170,16 +170,16 @@ Be proficient in dealing with GIT from command line - only chapters mention belo
 
 ## 📦 Language & Browser API / JavaScript Basic
 
-Familiarize yourself with the concepts from the book, be able to explain then, and give an example where you would use it. Have a decent skill in writing solutions & tests in javascript.
+Familiarize yourself with the concepts from the book, be able to explain then, and give an example where you would use it. Have a decent skill in writing solutions & tests in JavaScript.
 
 ### 🎓 Learn
 
-- 📗 [Eloquent JavaScript](http://eloquentjavascript.net/) ([our crash course](https://github.com/miksturait/od-zera-do-js-developera))
+- 📗 [Eloquent JavaScript](http://eloquentJavaScript.net/) ([our crash course](https://github.com/miksturait/od-zera-do-js-developera))
     - **Optional**
-        - [Project: A Programming Language](http://eloquentjavascript.net/12_language.html)
-        - [Drawing on Canvas](http://eloquentjavascript.net/17_canvas.html)
-        - [Http and the forms](http://eloquentjavascript.net/18_http.html)
-        - [Project: Pixlr editor](http://eloquentjavascript.net/19_paint.html)
+        - [Project: A Programming Language](http://eloquentJavaScript.net/12_language.html)
+        - [Drawing on Canvas](http://eloquentJavaScript.net/17_canvas.html)
+        - [Http and the forms](http://eloquentJavaScript.net/18_http.html)
+        - [Project: Pixlr editor](http://eloquentJavaScript.net/19_paint.html)
 - 📙 [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
 
 ### 🎤 Interview

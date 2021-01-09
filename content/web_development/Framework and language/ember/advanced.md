@@ -1,5 +1,5 @@
 +++
-title = "Ember - Advanced"
+title = "JavaScript/Ember - Advanced"
 weight = 2
 +++
 

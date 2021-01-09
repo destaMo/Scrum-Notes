@@ -1,3 +1,3 @@
 +++
-title = "React"
+title = "JavaScript / React"
 +++

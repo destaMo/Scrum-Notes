@@ -114,7 +114,7 @@ Go throght [common git requirements](/common/git/).
 ### 🎓 Learn
 
 - 📗 [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP)
-- 📗 [Cookies](https://javascript.info/cookie)
+- 📗 [Cookies](https://JavaScript.info/cookie)
 
 ### 🎤 Interview
 

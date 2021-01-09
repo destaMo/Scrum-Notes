@@ -1,4 +1,29 @@
-# React - level II
++++
+title = "JavaScript/React - Advanced"
+weight = 2
++++
+
+{{%bubble %}}
+
+## Framework & Language Basics
+
+**Points:** 2 
+
+**Description:** You can apply the best practices across the framework while delivering solution.
+
+**Person which succesfully completed requirement for given block can:** 
+
+- Comprehend, design and deliver a full range of functionalities with no need for consultation (yet intuitively knows, when to ask for second opinion)
+- Demonstrate debuggins skills for a full range of problems within application, also by investigating the framework code
+- Identify all framework capabilities and best-practices
+- Name, explain, choose and apply a wide range of software desing patterns to solve particular problems 
+- Demonstrate strong skills in TDD/BDD
+
+{{% /bubble%}}
+
+{{%todo %}}
+After finishing this course you should be
+{{% /todo%}}
 
 ## Areas
 
@@ -107,7 +132,7 @@ Knows possible attack vectors.
 ### 🎓 Learn
 
 - 📗 [React security](https://medium.com/@baphemot/understanding-react-frontend-security-4963d35feea7)
-- 📗 [Avoiding xss](https://medium.com/javascript-security/avoiding-xss-in-react-is-still-hard-d2b5c7ad9412)
+- 📗 [Avoiding xss](https://medium.com/JavaScript-security/avoiding-xss-in-react-is-still-hard-d2b5c7ad9412)
 
 ### 🎤 Interview
 
@@ -214,9 +239,9 @@ Knows how to structure Redux store and normalize the data.
 
 - 📗 [Normalization](https://blog.brainsandbeards.com/advanced-redux-patterns-normalisation-6b9a5aa46e1f)
 - 📗 [Reselect](https://github.com/reduxjs/reselect)
-- 📗 [Hooks vs Redux](https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672)
+- 📗 [Hooks vs Redux](https://medium.com/JavaScript-scene/do-react-hooks-replace-redux-210bab340672)
 - 📗 [Redux antipatters](https://itnext.io/the-perils-of-using-a-common-redux-anti-pattern-344d778e59da)
-- 📗 [Redux architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
+- 📗 [Redux architecture](https://medium.com/JavaScript-scene/10-tips-for-better-redux-architecture-69250425af44)
 - 📗 [Handling side effects](https://goshakkk.name/redux-side-effect-approaches/)
 
 ### 🎤 Interview
@@ -239,7 +264,7 @@ Knows how to chain or run requests in parallel.
 
 ### 🎓 Learn
 
-- 📗 [Chaining promises](https://javascript.info/promise-chaining#bigger-example-fetch)
+- 📗 [Chaining promises](https://JavaScript.info/promise-chaining#bigger-example-fetch)
 - 📗 [Promise.all](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
 - 📗 [Fetch request cancellation](https://robwise.github.io/blog/cancel-whatwg-fetch-requests-in-react)
 - 📗 [Axios request cancellation](https://github.com/axios/axios#cancellation)

@@ -1,3 +1,3 @@
 +++
-title = "Ember.js"
+title = "JavaScript / Ember.js"
 +++

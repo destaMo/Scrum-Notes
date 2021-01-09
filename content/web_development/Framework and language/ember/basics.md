@@ -1,5 +1,5 @@
 +++
-title = "Ember - Basics"
+title = "JavaScript/Ember - Basics"
 weight = 1
 +++
 
@@ -161,7 +161,7 @@ Get know basic of tooling in Ember.js
 
 - 📗 [Ember Inspector](https://guides.emberjs.com/release/ember-inspector/)
 - 📗 [Testing introduction](https://guides.emberjs.com/release/testing/)
-- 📗 [Javascript debugger](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger)
+- 📗 [JavaScript debugger](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger)
 - 📗 [Heroku deployment](https://www.heroku.com/emberjs)
 - 📗 [Netlify deployment](https://devjournal.balinterdi.com/how-to-deploy-an-ember-app-to-netlify/)
 

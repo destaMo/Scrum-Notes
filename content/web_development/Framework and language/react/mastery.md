@@ -1,4 +1,27 @@
-# React - level III
++++
+title = "JavaScript/React - Mastery"
+weight = 3
++++
+
+{{%bubble %}}
+
+## Framework & Language Basics
+
+**Points:** 2 
+
+**Description:** You can demonstrate the complete knowledge of the specific framework. You can freely customize it and extend it if needed.
+
+**Person which succesfully completed requirement for given block can:** 
+
+{{%todo %}}
+- TODO
+{{% /todo%}}
+
+{{% /bubble%}}
+
+{{%todo %}}
+After finishing this course you should be
+{{% /todo%}}
 
 ## Areas
 

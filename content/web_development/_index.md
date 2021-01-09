@@ -3,6 +3,7 @@ title = "Web Development"
 +++
 
 📗 - Obligatory, 📙 - Optional
+1️⃣ - 1 point, 2️⃣ - 2 points
 
 ## Junior 1
 - 📗 [Fundamentals](/web_development/fundamentals/)
@@ -14,19 +15,19 @@ title = "Web Development"
 - 📗 [Styling advanced](/web_development/styling/02_junior_ii/)
 
 ## Independent-Mid
-- 📗 [APIs Expertise](/web_development/api_expertise/)
-- 📗 Framework & Language - Advanced
-- 📙 Performance tuning and monitoring
-- 📙 Data Extraction
-- 📙 Planning
-- 📙 Persistence - Advanced
-- 📙 Persistence - Mastery
-- 📙 Testing Expertise
-- 📙 [Wireframing and prototyping](/web_development/wireframing_and_prototyping/)
-- 📙 [Security](/web_development/security/)
-- 📙 i18n / l10n
-- 📙 Compliance
-- 📙 PWA
-- 📙 Accessibility 
+- 📗 2️⃣ [APIs Expertise](/web_development/api_expertise/)
+- 📗 2️⃣ Framework & Language - Advanced
+- 📙 2️⃣ Performance tuning and monitoring
+- 📙 2️⃣ Data Extraction
+- 📙 2️⃣ Planning
+- 📙 2️⃣ Persistence - Advanced
+- 📙 2️⃣ Persistence - Mastery
+- 📙 2️⃣ Testing Expertise
+- 📙 1️⃣ [Wireframing and prototyping](/web_development/wireframing_and_prototyping/)
+- 📙 1️⃣ [Security](/web_development/security/)
+- 📙 1️⃣ i18n / l10n
+- 📙 1️⃣ Compliance
+- 📙 1️⃣ PWA
+- 📙 1️⃣ Accessibility 
 
 ---

@@ -1,4 +1,30 @@
-# React - level I
++++
+title = "JavaScript/React - Basics"
+weight = 1
++++
+
+{{%bubble %}}
+
+## Framework & Language Basics
+
+**Points:** 2 
+
+**Description:** You can use basic features of the framework, that allows you to deliver the most common features.
+
+**Person which succesfully completed requirement for given block can:** 
+
+- Can deliver simple, typical functionalities with little to no additional help
+- When asking for help, can present the problem and already explored solutions clearly and in detail
+- Can debug simple problems within the application (excluding framework) using the right tooling
+- Can present the strenghts and use cases for the framework
+- Is capable of leveraging most commonly used standard library capabilities
+- Has working knowledge of most commonly used packages/libraries
+
+{{% /bubble%}}
+
+{{%todo %}}
+After finishing this course you should be
+{{% /todo%}}
 
 ## Areas
 
@@ -244,7 +270,7 @@ Knows how to use Redux.
 
 - 📗 [When Redux is not needed](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 - 📗 [Redux introduction](https://redux.js.org/introduction/getting-started)
-- 📗 [Functional programming paradigms](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-immutability-4e9751ca005c)
+- 📗 [Functional programming paradigms](https://hackernoon.com/functional-programming-paradigms-in-modern-JavaScript-immutability-4e9751ca005c)
 - 📗 [Redux step-by-step](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092)
 - 📗 [Seamless immutable](https://medium.com/@ckoster22/seamless-immutable-an-alternative-to-immutablejs-12795d6bf577)
 - 📗 [Selectors](https://redux.js.org/introduction/learning-resources#selectors)
@@ -356,7 +382,7 @@ Knows how to test frontend application and how to provide the test data.
 
 - 📗 [Jest.js](https://jestjs.io/)
 - 📗 [Faker.js](https://github.com/marak/Faker.js)
-- 📗 [Unit testing react](https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2)
+- 📗 [Unit testing react](https://medium.com/JavaScript-scene/unit-testing-react-components-aeda9a44aae2)
 - 📗 [Factory girl](https://github.com/aexmachina/factory-girl)
 
 ### 🎤 Interview
