@@ -89,10 +89,19 @@ title = "API Expertise"
 
 ## 📦 Authentication
 
+## 📦 Skills & practices / Authorization
+
 ### 🎓 Learn
 
 - 📗 [OAuth](https://oauth.net/)
 - 📗 [JWT](https://jwt.io/)
+- Authorization is a process of confirming if given identity (already authenticated) should have access to given resource
+- Roles implementation
+  - flags - simple, straight-forward, require extra column for each role (difficult to extend), easy to search and read. Nice when there are only two roles in the system.
+  - enum - simple, straight-forward, quite easy to extend, easy to search and read. Nice when you have many roles and each user has only one.
+  - relation based - i.e. rolify. Less performing (more complex SQL queries). More to difficult to filter read. Nice when you have many roles and each user can have many of those and you would like to configure and introduce new roles from UI level.
+  - STI - Easy to search and read. Provide contextual place for role-based code out of the box. Hard to extend, as you need to introduce new class to handle it. Nice when you have limited number of roles and each user can have only one. Also when you need to contextualize some of your code per role.
+  - Bit encoded - Works similarly to permission setting mechanism in UNIX systems. Each bit represents one role and roles are encoded as integer on DB level. Not easy to read and search, but very efficient to query for. Moderately difficult to extend (just add a new bit, still those need to be in order). Nice when you have many roles and each user can have many of those and you do not need to introduce new ones from UI.
 
 ### 🎤 Interview
 
