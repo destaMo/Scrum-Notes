@@ -11,7 +11,7 @@ title = "Web Development"
 - 📗 [Styling basics](/web_development/styling/01_junior_i/)
 
 ## Junior 2
-- 📗 Interview
+- 📗 [Interview](/web_development/interview/)
 - 📗 [Styling advanced](/web_development/styling/02_junior_ii/)
 
 ## Independent-Mid

@@ -4,17 +4,11 @@
 
 **Competence**
 
-- Wireframing
-- A11y
 - Charts
 
 **Language & Browser API**
 
 - Local storage
-
-**Testing**
-
-- E2E
 
 ---
 
@@ -62,20 +56,3 @@
 - Prepare an sample application that uses local storage integrated with framework of your choice (for instance, store darkMode setting of your application that will be saved only locally and can be toggled from the UI - once the browser will be refreshed, the setting is persisted - user can also clean up saved setting from UI) - use your FE framework integration as an advantage in this task.
 
 ---
-
-## 📦 **Testing** / E2E
-
-### 🎓 Learn
-
-- 📗 [Overview article](https://www.lambdatest.com/blog/all-you-need-to-know-about-end-to-end-testing/)
-- 📙 [Cypress](https://www.cypress.io/)
-- 📙 [Ember Testing guide](https://github.com/PoslinskiNet/ember-testing-guide) (acceptance section)
-
-### 🎤 Interview
-
-- What should we test in E2E?
-- What should we avoid in E2E tests?
-
-### 📝 Katas
-
-- Present your sample acceptance test and elaborate about it (it could be a test for the excercise from Local storage section)

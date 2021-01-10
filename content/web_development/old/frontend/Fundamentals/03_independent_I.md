@@ -17,14 +17,6 @@
 - Composing software
 - Patterns
 
-**Networking**
-
-- JSON API
-
-**Testing**
-
-- Integration
-
 **Framework & Libs**
 
 - Framework A Level II
@@ -127,20 +119,7 @@
 
 ---
 
-## 📦 **Testing / Integration**
 
-## 🎓 Learn
-
-- 📗 [Integration tests in React](https://medium.com/homeaway-tech-blog/integration-testing-in-react-21f92a55a894)
-- 📗 [Integration tests in Ember](https://github.com/PoslinskiNet/ember-testing-guide)
-
-### 🎤 Interview
-
-- Explain the role of integration tests
-
-## 📝 Katas
-
-- Write integration test and then matching component in the framework of your choice
 
 ---
 

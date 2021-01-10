@@ -29,11 +29,25 @@ title = "Performance and monitoring"
 
 ---
 
-## 📦 Sub section...
+## 📦 Competence / Profiling, Performance
 
 ### 🎓 Learn
 
+- 📗 [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+- 📗 [CloudFront](https://aws.amazon.com/cloudfront/)
+- 📗 [Memory leaks discovery](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
+- 📗 [Runtime performance](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/)
+- 📗 [Speed up web page guide](https://auth0.com/blog/12-steps-to-a-faster-web-app/)
+- 📙 [Analyze web performance with PageInsights](https://devrix.com/tutorial/analyze-web-page-performance-using-google-pagespeed-insights/)
+
 ### 🎤 Interview
 
+- What you can do to make your app faster? (at least 7 things)
+- Explain the concept of optimistic UI.
+
 ### 📝 Katas
+
+- How you can check your app fps?
+- Make (and show me) a website that will reach 90+ score in **PageInsights** test.
+- How you can identify memory leak in your application?
 {{% /todo%}}
