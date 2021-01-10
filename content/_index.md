@@ -17,9 +17,8 @@ Welcome in our knowledge base **DevPath** repository.
 
 # The structure
 
-This website contains paths that contain fundamentals on one of our 5 paths that you can pick from:
-- Backend development
-- Frontend development
+This website contains paths that contain fundamentals on one of our 4 paths that you can pick from:
+- Web development (backend & frontend)
 - UX/UI design
 - DevOps
 - Quality assurance
