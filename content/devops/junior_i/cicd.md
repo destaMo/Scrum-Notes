@@ -22,4 +22,15 @@ title = "CICD"
 
 ### 🎓 Learn
 ### 📝 Katas
+- prepare a working pipeline for backend application with the following requirements:
+  - static code checks
+  - tests
+  - production image build(?)
+  - push to ECR(?)
+  - new task in ECS(?)
+  - staging and prodution workflows
+  - production workflow requires approval
+  - make steps parallel if it makes sense
 ### 🎤 Interview
+- Explain the differences between Continuous integration, Continuous delivery, Continuous deployment
+- When would you use Canary deployment and when Blue/Green (A/B, Black/White)?

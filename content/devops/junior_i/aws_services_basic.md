@@ -21,4 +21,30 @@ title = "AWS Services Basics"
 
 ### 🎓 Learn
 ### 📝 Katas
+**For this challange use configure it using terraform as described in the [IaaC Fundamentals](/iaac_fundamentals)**
+
+Create a small AWS infrastructure for a simple Rails/Node app with simple frontend that can be found [here](). The following resources should be used and setup as in the following diagram:
+- VPC and subnets
+- ECS with EC2
+- Elastic Cache (Redis)
+- RDS - PostgreSQL
+- S3 for files storage
+- CloudFront for the front-end app
+- Route53 for DNS setup
+- AWS Cert Manager
+- ALB
+- NAT Gateway
+- SQS
 ### 🎤 Interview
+- When is the purpose of EBS?
+- What is the general idea behind CloudFront?
+- S3 events and file processing - describe a potential flow.
+- Explain briefly S3 lifecycle and what can you achieve with it?
+- How to spawn instances in two availability zones?
+- What is the purpose of EC2 keys?
+- AMI - pros and cons.
+- Explain when would you use custom AMI and when user-data?
+- Describe the difference between EC2 instance types across regions.
+- Describe metrics in CloudWatch for a running service.
+
+
