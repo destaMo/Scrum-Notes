@@ -20,4 +20,7 @@ title = "Documentation"
 
 ### 🎓 Learn
 ### 📝 Katas
+- prepare documentation, diagrams and runbooks for the application created [here](../junior_i/aws_services_basic)
 ### 🎤 Interview
+- What is the role of runbook?
+- What is an architecture decision record?

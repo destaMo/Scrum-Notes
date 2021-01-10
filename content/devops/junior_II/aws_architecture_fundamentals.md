@@ -19,5 +19,15 @@ title = "AWS Architecture Fundamentals"
 {{% /bubble%}}
 
 ### 🎓 Learn
-### 📝 Katas
 ### 🎤 Interview
+- What is a region and AZ?
+- How resources are replicated across regions and AZ?
+- Explain briefly what Shared Responsibility Model is?
+- Describe AWS Global Infrastructure
+- Explain High-Availability, Fault-Tolerance, Distaster Recovery
+- What does IOPS mean?
+- AWS Public vs Private services
+- What the ARN stands for?
+- When would you use Auto Scaling Groups?
+- How would you use AWS Organization to divide AWS project?
+- What is the purpose of resource tags?
