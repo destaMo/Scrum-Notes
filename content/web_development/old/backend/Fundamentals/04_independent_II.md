@@ -78,13 +78,6 @@
 ### 🎓 Learn
 - Metaprogramming technique - Retrieving metadata of given code (i.e. hey, Product, what columns do you have)
 
-## 📦 Tooling / Error reporting
-
-### 🎓 Learn
-
-- Rollbar
-- Sentry
-
 ## 📦 Laws and principles / Open-closed principle
 
 ### 🎓 Learn
