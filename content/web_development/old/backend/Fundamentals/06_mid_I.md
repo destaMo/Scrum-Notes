@@ -8,7 +8,6 @@
 
 - Code Benchmarking
 - Optimistic / Pessimistic / Distributed locking
-- GraphQL API
 - Message Brokers
 - (Micro)Service Oriented Architecture
 
@@ -91,28 +90,6 @@
 - Rollbacks / Transactions in external systems that do not support it
   - Command pattern
   - "Test driving" (to_sql vs to_a on relation)
-
-## 📦 Skills & practices / GraphQL API
-
-### 🎓 Learn
-
-- Advantages
-  - Easy to use on frontend (get exactly what they want)
-  - Single endpoint
-  - Schema exploration
-  - Efficient (transport)
-  - Statically / Strongly typed
-  - Comfortable to extend (especially Read Layer)
-  - Does not enforce any transport layer (it can work easily on WebSockets)
-- Disadvantages
-  - Errors tracking may be problematic (need query analyzer)
-  - Lack of standards / good practices for some common tasks (pagination, file upload)
-  - Higher level of entry (more complex than i.e. REST or JSON Api)
-  - May be difficult to optimize for performance (i.e. n+1)
-  - Query can be infinitely complex if such case is not handled properly
-- Complexity query
-  - Nested (# depth)
-  - Complexity (scoring queries)
 
 ## 📦 Skills & practices / Message Brokers
 

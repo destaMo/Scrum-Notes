@@ -7,9 +7,7 @@
 **Skills & practices**
 - BDD
 - Websockets
-- OAuth2
 - FullText Search
-- JSON API
 - OWASP
 
 **Misc**
@@ -143,26 +141,6 @@
 - https://blog.teamtreehouse.com/an-introduction-to-websockets
 - https://www.youtube.com/watch?v=vQjiN8Qgs3c
 
-## 📦 Skills & practices / OAuth2
-
-### 🎓 Learn
-
-- Framework/Tool/Standard allowing delegating authorisation process to specialized provider (authorisation server)
-	1. Access request to given resource is sent
-	1. Authorisation provider asks user for permission
-	1. Callback is sent back to client with token
-	1. On backend side, access is requested from authorisation provider using token retrieved
-	1. Access credentials are provided by authorisation provider
-	1. Communication is performed using credentials retrieved
-- Application needs to be registered on authorization provider side prior to using the process
-- OpenID provides layer over OAuth2 just for authentication
-
-### Resources
-
-- https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
-- https://www.youtube.com/watch?v=996OiexHze0
-- https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
-
 ## 📦 Skills & practices / FullText Search
 
 ### 🎓 Learn
@@ -182,61 +160,6 @@
 - Refs
   - https://www.elastic.co/products/elasticsearch/features
   - https://www.joshgraham.com/full-text-search-explained/
-
-## 📦 Skills & practices / JSON API
-
-### 🎓 Learn
-
-- Standard describing API Design based on JSON encoded payloads
-  - Format of request/response
-  - Pagination
-  - Filtering
-  - Metadata
-  - Manipulation (CRUD)
-  - Subsetting / Resource Inclusion
-- Libs
-  - JSONAPI-Resources gem
-
-### Resources
-
-- https://dri.es/headless-cms-rest-vs-jsonapi-vs-graphql
-- https://thoughtbot.com/upcase/videos/rest
-
-## 📦 Skills & practices / OWASP
-
-### 🎓 Learn
-
-- Report https://www.cloudflare.com/learning/security/threats/owasp-top-10/
-- Look at this list as potential sources of security vulnerabilities
-  - Broken authentication
-  - Broken access control
-  - Injections (SQL, XSS, CSRF)
-  - Mass assignment
-  - Using components with known vulnerabilities
-  - Insecure deserialization
-  - Sensitive data exposure
-  - Security Misconfiguration
-- Recommendations https://cheatsheetseries.owasp.org/
-
-## 📦 Misc / XSS vulnerability
-
-### 🎓 Learn
-
-- 📗 https://www.netsparker.com/blog/web-security/preventing-xss-ruby-on-rails-web-applications/
-- 📗 https://guides.rubyonrails.org/security.html#cross-site-scripting-xss
-
-## 📦 Misc / SQL Injection vulnerability
-
-### 🎓 Learn
-
-- 📗 http://gavinmiller.io/2015/fixing-sql-injection-vulnerabilities/
-- 📗 https://guides.rubyonrails.org/security.html#sql-injection
-
-## 📦 Misc / Mass assignment vulnerability
-
-### 🎓 Learn
-
-- 📗 https://en.wikipedia.org/wiki/Mass_assignment_vulnerability
 
 ## 📦 Misc / REST
 
