@@ -26,8 +26,12 @@ title = "Testing Expertise"
 
 **Types of tests**
 
+- Unit
 - Integration
 - E2E
+- System testing
+- A/B
+- Load testing
 
 **Tooling**
 - Test coverage
@@ -116,6 +120,22 @@ title = "Testing Expertise"
     - using real connections to fake services
         - i.e. locally set up servers, sandboxes or services mimicking original service behaviour
         - especially useful for frontend development
+
+## 📦 Testing / Unit
+
+### 🎓 Learn
+
+- 📗 [Jest](https://jestjs.io/docs/en/getting-started.html)
+
+
+### 🎤 Interview
+
+- Explain role of unit tests
+- What you should test in unit tests?
+
+### 📝 Katas
+
+- Show example usage of your unit test and describe it
 
 ## 📦 Integration
 

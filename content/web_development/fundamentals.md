@@ -20,10 +20,6 @@ title = "Fundamentals"
 
 - HTTP
 
-**Backend**
-
-- Backend for Frontend developer
-
 **Testing**
 
 - Unit
@@ -133,35 +129,3 @@ Go throght [common git requirements](/common/git/).
 - Show me how would you access web socket traffic information in the browser
 
 ---
-
-## 📦 Backend / Backend for Frontend developer
-
-Developer knows how to run the backend based on the project documentation (it doesn't have to be any specific framework project, but you need to proove that you know how to achieve this)
-
-### 🎓 Learn
-
-- 📗 [rails guide - just learn about the app structure](https://guides.rubyonrails.org/getting_started.html)
-
-### 📝 Katas
-
-- Run your current project backend base on the documentation (it doesn't have to be any specific framework project, but you need to prove that you know how to achieve this)
-- RoR example (optional to your current project)
-    - Guide me [through the files of rails app](https://github.com/RussellSnyder/RoR5-RestfulApi), starting from the endpoint path (eq. `/todos`)
-
----
-
-## 📦 Testing / Unit
-
-### 🎓 Learn
-
-- 📗 [Jest](https://jestjs.io/docs/en/getting-started.html)
-
-
-### 🎤 Interview
-
-- Explain role of unit tests
-- What you should test in unit tests?
-
-### 📝 Katas
-
-- Show example usage of your unit test and describe it

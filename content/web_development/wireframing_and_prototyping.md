@@ -22,6 +22,7 @@ Is knowledgeble of basic aspects of UX
 **Wireframing and prototyping**
 
 - Wireframing
+- Low-code & no-code prototypes
 
 ---
 

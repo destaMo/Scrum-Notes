@@ -12,7 +12,8 @@ title = "Security"
 
 **Person which succesfully completed requirement for given block can:** 
 
-- TODO
+- Evaluate the state of the system from security perspective
+- Prepare an security audit that points out weak spots of the system
 
 {{% /bubble%}}
 
@@ -24,6 +25,7 @@ title = "Security"
 - XSS
 - SQL Injection
 - Mass assignment vulnerability
+- Auditing tools
 
 ---
 

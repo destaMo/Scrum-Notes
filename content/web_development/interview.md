@@ -42,6 +42,14 @@ Pick no more than 15 questions from each link.
 
 - Pass internal test interview (recommended, but optional, nice to have from CTL perspective)
 - Pass the interview on the commercial project (sold on commercial projected)
+- What do you think about custom controller actions (outside CRUD)?
+- What do you consider clean code?
+- How about testing? Are there any principles you identify with regarding TDD?
+- How would you ensure that tests are easy to understand by other developers?
+- Does writing tests after implementation affects process & quality in positive or negative way? Please explain.
+- What do you like about [framework] the most?
+- What is your preferred way in working with repository? (i.e. GitFlow) :poodle:
+- What options can you see in terms of static code analysis? :poodle:
 
 ### 📝 Katas
 

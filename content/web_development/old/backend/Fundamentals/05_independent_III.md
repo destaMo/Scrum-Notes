@@ -8,12 +8,8 @@
 - BDD
 - Websockets
 - FullText Search
-- OWASP
 
 **Misc**
-- XSS
-- SQL Injection
-- Mass assignment vulnerability
 - REST
 
 **Tooling**

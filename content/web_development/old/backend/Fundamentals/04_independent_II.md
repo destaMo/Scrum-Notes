@@ -11,9 +11,6 @@
 - Reflection
 - Introspection
 
-**Tooling**
-- Error reporting
-
 **Laws and principles**
 - Open-closed principle
 - Composition over Inheritance
