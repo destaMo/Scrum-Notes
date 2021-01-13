@@ -25,7 +25,7 @@ title = "API Expertise"
 **API Expertise**
 
 - Types of APIs
-  - Open API
+  - Public API
   - Internal API
 - JSON API
 - GraphQL

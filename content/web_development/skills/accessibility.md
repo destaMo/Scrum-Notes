@@ -24,6 +24,11 @@ title = "Accessibility"
 ## Areas
 
 **A11y**
+- Semantic
+- Navigation
+- Levels of accessibility
+- Auditing & automation
+- Emails
 
 ---
 
@@ -41,7 +46,7 @@ title = "Accessibility"
 ### 🎤 Interview
 
 - Explain the role of a11y and what it addresses?
-- How power user can benefit from A11y?
+- How power-user can benefit from A11y?
 - What are the accessibility compliance levels? Explain briefly each level.
 - Explain accessible navigation through the page
 - Why "tab" does matter?
@@ -56,4 +61,4 @@ title = "Accessibility"
 - Automate a11y audits in your application (CI)
 - Integrate Axe Core with your application, so it will mark objects that are breaking accessible contrast rules
 - Create an app with list of products: bike, car, doll. Recognize user voice and allow him to navigate just through voice to car details.
-- Add high-contrast theme to your website for greater accessibility
+- Add high-contrast theme mode (with switcher) to your website for greater accessibility
