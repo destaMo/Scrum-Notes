@@ -56,3 +56,4 @@ title = "Accessibility"
 - Automate a11y audits in your application (CI)
 - Integrate Axe Core with your application, so it will mark objects that are breaking accessible contrast rules
 - Create an app with list of products: bike, car, doll. Recognize user voice and allow him to navigate just through voice to car details.
+- Add high-contrast theme to your website for greater accessibility
