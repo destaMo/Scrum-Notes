@@ -34,7 +34,7 @@ title = "Security"
 ### 🎓 Learn
 
 - 📗 [Frontend checklist](https://frontendchecklist.io/) ([security](https://github.com/thedaviddias/Front-End-Checklist#security))
-- 📗 [OWASP attacks](https://www.owasp.org/index.php/Category:Attack)
+- 📗 [OWASP top 10 attacks](https://owasp.org/www-project-top-ten/)
 - Report https://www.cloudflare.com/learning/security/threats/owasp-top-10/
 - Look at this list as potential sources of security vulnerabilities
   - Broken authentication

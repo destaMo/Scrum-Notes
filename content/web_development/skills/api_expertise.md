@@ -36,15 +36,14 @@ title = "API Expertise"
 
 ---
 
-{{%todo %}}
 ## 📦 Types of APIs
 
-### 🎓 Learn
-
 ### 🎤 Interview
-
-### 📝 Katas
-{{% /todo%}}
+- Explain the difference between public & internal API?
+  - What does it mean that API will be consumed by 3rd parties?
+  - What does it mean that API will be consumed within one system/product?
+- Explain how would you build an API that will be consumed by 3rd party applications?
+- What should we remember of, when we are releasing a new version of Public API?
 
 ## 📦 JSON API
 
@@ -115,9 +114,41 @@ title = "API Expertise"
 
 ---
 
-## 📦 Authentication
+## 📦 Documentation
 
-## 📦 Skills & practices / Authorization
+### 🎓 Learn
+
+- 📗 [Swagger](https://swagger.io/)
+- 📗 [OpenAPI Specification](https://www.openapis.org/)
+- Some API Documentation examples: 
+  - https://docs.github.com/en/rest
+  - https://stripe.com/docs/api
+
+### 📝 Katas
+
+- Document and present API documentation made with Swagger
+
+---
+
+## 📦 Versioning
+
+### 🎓 Learn
+
+- 📗 [Version REST API](https://www.freecodecamp.org/news/how-to-version-a-rest-api/)
+- 📗 [API Versioning](https://apisyouwonthate.com/blog/api-versioning-has-no-right-way)
+- 📗 [Deprecations](https://swagger.io/specification/#operationDeprecated)
+
+### 🎤 Interview
+- How to deal with API version change on the project?
+- What's the difference between different type of versioning (Resource/Mime/Method)
+- How to handle API deprecations?
+- Explain the concept of API versioning
+- When it is a good idea to version API?
+- When it is not a good idea to version API?
+
+---
+
+## 📦 Authentication
 
 ### 🎓 Learn
 
@@ -146,7 +177,7 @@ title = "API Expertise"
 
 ### 📝 Katas
 
-- Show me your sample usage of OAuth
+- Demonstrate sample usage of OAuth in your application
 
 ---
 
@@ -154,8 +185,8 @@ title = "API Expertise"
 
 ### 🎓 Learn
 
-- 📗 [RBAC example in React](https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/)
-- 📗 [RBAC example in Ember](https://github.com/minutebase/ember-can)
+- 📗 [RBAC example - React](https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/)
+- 📗 [RBAC example - Ember](https://github.com/minutebase/ember-can)
 - Authorization is a process of confirming if given identity (already authenticated) should have access to given resource
 - Roles implementation
   - flags - simple, straight-forward, require extra column for each role (difficult to extend), easy to search and read. Nice when there are only two roles in the system.
