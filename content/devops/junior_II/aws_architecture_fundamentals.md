@@ -6,7 +6,7 @@ title = "AWS Architecture Fundamentals"
 
 ## AWS Architecture Fundamentals
 
-**Points:** X
+**Required**
 
 **Description:** You understand fundemental concepts regarding AWS architecture and structure.
 
@@ -19,15 +19,19 @@ title = "AWS Architecture Fundamentals"
 {{% /bubble%}}
 
 ### 🎓 Learn
+- [AWS Regions & Zones](https://docs.aws.amazon.com/AWSEC2latest/UserGuide/using-regions-availability-zones.html)
+- [HA vs FT vd DR](https://www.lunavi.com/blog/high-availability-vs-fault-tolerance-vs-disaster-recovery)
+- [AWS Organization basics](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_getting-started_concepts.html)
+- [AWS ARN](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
+- [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+- [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
+
 ### 🎤 Interview
-- What is a region and AZ?
+- What is a Region and AZ?
 - How resources are replicated across regions and AZ?
 - Explain briefly what Shared Responsibility Model is?
 - Describe AWS Global Infrastructure
 - Explain High-Availability, Fault-Tolerance, Distaster Recovery
-- What does IOPS mean?
-- AWS Public vs Private services
 - What the ARN stands for?
-- When would you use Auto Scaling Groups?
 - How would you use AWS Organization to divide AWS project?
 - What is the purpose of resource tags?

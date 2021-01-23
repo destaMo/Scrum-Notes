@@ -6,45 +6,44 @@ title = "AWS Services Basics"
 
 ## AWS Services Basics
 
-**Points:** X
+**Required**
 
-**Description:** You understand AWS services that allow you to solve basic issues and implement most common requests.
+**Description:** You understand AWS services that allow you to deploy frontend applications.
 
 **Person which succesfully completed requirement for given block can:**
 
-- Work with most common AWS services
-- Understand key features of AWS services
-- Evaluate which service should be used for given scenario
+- Work with AWS services needed to setup frontend application
+- Understand key features of some AWS services
 - Use and configure AWS services based on requirements
 
 {{% /bubble%}}
 
 ### 🎓 Learn
-### 📝 Katas
-**For this challange use configure it using terraform as described in the [IaaC Fundamentals](/iaac_fundamentals)**
+- [S3 docs](https://docs.aws.amazon.com/s3/index.html)
+- [CloudFront docs](https://docs.aws.amazon.com/cloudfront/index.html)
+- [Route53 docs](https://docs.aws.amazon.com/route53/index.html)
+- [AWS Cert Manager docs](https://docs.aws.amazon.com/acm/index.html)
+- [IAM docs](https://docs.aws.amazon.com/iam/index.html)
 
-Create a small AWS infrastructure for a simple Rails/Node app with simple frontend that can be found [here](). The following resources should be used and setup as in the following diagram:
-- VPC and subnets
-- ECS with EC2
-- Elastic Cache (Redis)
-- RDS - PostgreSQL
-- S3 for files storage
-- CloudFront for the front-end app
-- Route53 for DNS setup
+### 📝 Katas
+**For this challange configure it using Terraform as described in the [IaaC Fundamentals](/devops/junior_i/iacc_fundamentals/)**
+
+Create a small AWS infrastructure for a frontend application that can be found [here](). The following resources should be used:
+- S3
+- CloudFront
+- Route53
 - AWS Cert Manager
-- ALB
-- NAT Gateway
-- SQS
+- IAM
+
 ### 🎤 Interview
-- When is the purpose of EBS?
-- What is the general idea behind CloudFront?
-- S3 events and file processing - describe a potential flow.
+- What is the general idea behind Cloudfront?
+- What purpose does invalidation in Cloudfront serve??
+- How would you migrate exisiting DNS settings to Route53?
+- Explain some points in which Route53 differes from a typical DNS service?
 - Explain briefly S3 lifecycle and what can you achieve with it?
-- How to spawn instances in two availability zones?
-- What is the purpose of EC2 keys?
-- AMI - pros and cons.
-- Explain when would you use custom AMI and when user-data?
-- Describe the difference between EC2 instance types across regions.
-- Describe metrics in CloudWatch for a running service.
+- What types of S3 storage are available and how they differ?
+- Explain the difference between role and user?
+- Explain example policy and the policy structure
+- What is the purpose of AWS Cert Manager
 
 

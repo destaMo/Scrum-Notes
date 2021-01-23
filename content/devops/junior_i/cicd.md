@@ -6,7 +6,7 @@ title = "CICD"
 
 ## CICD
 
-**Points:** X
+**Required**
 
 **Description:** You can deliver CICD configuration for a typical project.
 
@@ -21,16 +21,20 @@ title = "CICD"
 {{% /bubble%}}
 
 ### 🎓 Learn
+- [CircleCI docs](https://circleci.com/docs/)
+- [CircleCI deploy to S3 guide](https://circleci.com/docs/2.0/deployment-examples/)
+- [Github Actions docs](https://docs.github.com/en/actions)
+- [CI/CD explained I](https://www.freecodecamp.org/news/the-real-difference-between-ci-and-cd)
+- [CI/CD explained II](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+
 ### 📝 Katas
-- prepare a working pipeline for backend application with the following requirements:
+- prepare a working pipeline for frontend application with the following requirements:
   - static code checks
   - tests
-  - production image build(?)
-  - push to ECR(?)
-  - new task in ECS(?)
-  - staging and prodution workflows
+  - production build
+  - staging and production workflows
   - production workflow requires approval
   - make steps parallel if it makes sense
+  - deploy app to s3 createad in [AWS Service Basics](/devops/junior_i/aws_services_basic/)
 ### 🎤 Interview
 - Explain the differences between Continuous integration, Continuous delivery, Continuous deployment
-- When would you use Canary deployment and when Blue/Green (A/B, Black/White)?

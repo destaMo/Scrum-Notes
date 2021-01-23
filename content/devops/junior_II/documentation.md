@@ -6,7 +6,7 @@ title = "Documentation"
 
 ## Documentation
 
-**Points:** X
+**Required**
 
 **Description:** You understand the importance of documentation and can prepare documentation for implemented solutions.
 
@@ -19,8 +19,13 @@ title = "Documentation"
 {{% /bubble%}}
 
 ### 🎓 Learn
+- [Runbooks](https://octopus.com/docs/runbooks)
+- [Cloudcraft](https://www.cloudcraft.co/)
+- [ADR](https://github.com/joelparkerhenderson/architecture_decision_record)
+
 ### 📝 Katas
-- prepare documentation, diagrams and runbooks for the application created [here](../junior_i/aws_services_basic)
+- prepare documentation, diagrams and runbooks for the application created [here](/devops/junior_i/aws_services_basic/)
+
 ### 🎤 Interview
 - What is the role of runbook?
 - What is an architecture decision record?
