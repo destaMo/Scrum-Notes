@@ -20,6 +20,7 @@ weight = 1
 - Can create simple navigation inside project
 - Can manage data with usage of redux
 - Can create simple form with Formik
+- Can add custom font
 
 {{% /bubble%}}
 
@@ -97,6 +98,10 @@ After finishing this course you should be able to run an ReactNative environment
 - Is able to write simple snap tests
 - Is able to write simple integration test
 - Is able to write test that checks redux
+
+**Custom Fonts**
+
+- Is able to add custom font into project and use it
 
 ---
 
@@ -364,3 +369,14 @@ Everyone that is using React Native should be able to write simple integration (
 
 - Setups specs and run specs (can be problematic because of Navigation, feel free to reach me in case of troubles)
 - Write specs that checks if your implementation of components that display Habit entry - check if it runs proper redux action upon clicking into check and if it is displaying right when there is a different difficulty
+
+---
+
+## ReactNative / Custom Fonts
+
+- 📗 [Add Custom Fonts](https://dev.to/aneeqakhan/add-custom-fonts-in-react-native-0-63-for-ios-and-android-3a9e )
+- 📙 [Ultimate Guide to Use fonts in ReactNative](https://medium.com/@mehrankhandev/ultimate-guide-to-use-custom-fonts-in-react-native-77fcdf859cf4 )
+
+### 📝 Katas
+
+- Add [Dancing Script Font](https://fonts.google.com/specimen/Dancing+Script) into project and make Habit's name use that font

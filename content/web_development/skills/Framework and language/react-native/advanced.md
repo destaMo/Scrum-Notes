@@ -23,7 +23,7 @@ After finishing this course you should be able to run an ReactNative environment
 ## Areas
 
 **Performance and Optimization**
-- Is able to tell what it a bridge
+- Is able to tell what is a bridge
 - Knows about limitations of JS thread
 - Knows best rendering practice
 - Knows what is Hermes
@@ -63,6 +63,15 @@ After finishing this course you should be able to run an ReactNative environment
 - Knows why app should work in offline mode
 - Knows how to setup app with redux-offline
 - Writes offline redux action creators
+
+**I18n**
+- Know how to get device's language
+- Is aware of Localization as a service
+
+**Camera**
+- Know what is CameraRoll
+- Is able to run Camera component and take photo
+- Know what EXIF data is
 
 ---
 
@@ -266,5 +275,53 @@ How to setup app to be used in many languages. With detection of device's langua
 
 - Add two languages polish and english
 - Setup i18n and add translation for main screens and tab navigator
+
+---
+
+## 📦 ReactNative / i18n
+
+How to setup app to be used in many languages. With detection of device's language.
+
+### 🎓 Learn
+
+- 📗 [i18next](https://github.com/i18next/react-i18next)
+- 📗 [i18next how to](https://medium.com/@raazthemystery273/how-to-use-i18next-react-i18next-in-react-native-f81ece184cd2)
+
+### 🎤 Interview
+
+- How to detect and pass device default language to i18next?
+- Describe in your own worlds what benefits we can from  integration with locize.com?
+
+
+### 📝 Katas
+
+- Add two languages polish and english
+- Setup i18n and add translation for main screens and tab navigator
+
+---
+
+
+
+## 📦 ReactNative / Camera
+
+How to setup app to be used in many languages. With detection of device's language.
+
+### 🎓 Learn
+
+- 📗 [ReactNative Camera](https://react-native-camera.github.io/react-native-camera/)
+- 📗 [ReactNative CameraRoll](https://github.com/react-native-cameraroll/react-native-cameraroll#readme)
+
+### 🎤 Interview
+
+- What is CameraRoll?
+- What EXIF data can contain?
+- What configuration options react-native-camera offer when taking photo (unless 3)?
+
+
+### 📝 Katas
+
+- Add react-native-camera into project
+- Add button inside settings that take selfie photo - use proper prop of Camera component
+- Inside setting create a small round Image component that will render a photo that was took by Camera
 
 ---
