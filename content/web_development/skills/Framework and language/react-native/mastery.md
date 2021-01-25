@@ -14,6 +14,7 @@ weight = 3
 ## 📦 ReactNative / Files Manipulation
 ## 📦 ReactNative / Gestures handler
 ## 📦 ReactNative / Animations
+## 📦 ReactNative / Lottie Animations
 ## 📦 ReactNative / Detox
 ## 📦 ReactNative / Biometry
 ## 📦 ReactNative / Deep Linking
