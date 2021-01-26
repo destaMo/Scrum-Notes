@@ -1,10 +1,10 @@
 +++
-title = "AWS Services Basics"
+title = "AWS Services Basics - Frontend"
 +++
 
 {{%bubble %}}
 
-## AWS Services Basics
+## AWS Services Basics - Frontend
 
 **Required**
 
@@ -45,5 +45,4 @@ Create a small AWS infrastructure for a frontend application that can be found [
 - Explain the difference between role and user?
 - Explain example policy and the policy structure
 - What is the purpose of AWS Cert Manager
-
 

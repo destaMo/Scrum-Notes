@@ -20,7 +20,7 @@ title = "AWS Architecture Fundamentals"
 
 ### 🎓 Learn
 - [AWS Regions & Zones](https://docs.aws.amazon.com/AWSEC2latest/UserGuide/using-regions-availability-zones.html)
-- [HA vs FT vd DR](https://www.lunavi.com/blog/high-availability-vs-fault-tolerance-vs-disaster-recovery)
+- [HA vs FT vs DR](https://www.lunavi.com/blog/high-availability-vs-fault-tolerance-vs-disaster-recovery)
 - [AWS Organization basics](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_getting-started_concepts.html)
 - [AWS ARN](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
 - [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)

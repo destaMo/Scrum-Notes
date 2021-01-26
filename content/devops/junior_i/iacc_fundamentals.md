@@ -32,7 +32,7 @@ title = "IaaC Fundamentals"
 - 📗 [Terraform CLI Documentation](https://www.terraform.io/docs/cli-index.html)
 
 ### 📝 Katas
-  - Build a small AWS infrastructure (based on requirements described in [AWS Service Basics](/devops/junior_i/aws_services_basic/)) using Terraform, while doing it:
+  - Build a small AWS infrastructure (based on requirements described in [AWS Service Basics](/devops/junior_i/aws_services_basic_frontend/)) using Terraform, while doing it:
     - Use local and remote backend
     - Demonstrate using multiple providers
     - Interact with module inputs and outputs
