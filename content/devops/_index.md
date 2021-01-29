@@ -22,4 +22,15 @@ When you complete this part you will be able to work with AWS Services that we u
 - 📗 [Security basics](/devops/junior_ii/security_basics/)
 - 📗 [Documentation](/devops/junior_ii/documentation/)
 
+
+## Independent
+
+This part is a work in progress list of potential topic in devops for Independent DevOps engineers.
+
+- 📗 [IaaC Advanced](/devops/independent/iaac_advanced/)
+- 📗 [AWS Services Advanced](/devops/independent/aws_services_advanced/)
+- 📗 [Monitoring and observability](/devops/independent/monitoring_and_observability/)
+- 📗 [Security Advanced](/devops/independent/security_advanced/)
+- 📗 [Container orchestration](/devops/independent/container_orchestration/)
+
 ---
