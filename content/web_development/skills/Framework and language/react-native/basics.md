@@ -1,5 +1,5 @@
 +++
-title = JavaScript/React Native - Basics"
+title = "JavaScript/React Native - Basics"
 weight = 1
 +++
 
