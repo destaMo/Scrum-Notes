@@ -1,6 +1,6 @@
 # Junior - level I
 
-This path include some of the requirements from original React lvl 1. They are linked down here.
+This path includes some of the requirements from original React level 1. They are linked down here.
 
 ## Areas
 
@@ -40,12 +40,11 @@ This path include some of the requirements from original React lvl 1. They are l
 - [Platfom Specific Code](#-reactnative--platform-specific-code)
 - [Lists](#-reactnative--lists)
 
-
 ---
 
 ## 📦 ReactNative / Overview
 
-You need to know that it is acctualy React Native and thinks like Expo. Should be able to answer questions about pros and const vs native apps.
+You need to know what React Native is and what things like Expo are. You should be able to answer questions about pros and cons of react native/expo vs native apps.
 
 ### 🎓 Learn
 
@@ -56,21 +55,21 @@ You need to know that it is acctualy React Native and thinks like Expo. Should b
 
 ### 🎤 Interview
 
-- What is RN and who create it/maintain it?
-- What are the advantages of use RN over Native
+- What is RN and who creates it/maintains it?
+- What are the advantages of using RN over Native
 - What dependencies you need to build and run RN app on iOS and Android
 - What is expo? Cons and pros using it?
 - What is the metro?
 
 ### 📝 Katas
 
-- Setup React Native app (with latest version of library) on Android or iOS (can be simualtors)
+- Setup React Native app (with latest version of library) on Android or iOS (can use simualtors)
 
 ---
 
 ## 📦 ReactNative / Debugging
 
-I need to check if you know how to debug RN app with usage of React Native DevTools
+You need to know how to debug RN app using React Native DevTools
 
 ### 🎓 Learn
 
@@ -84,13 +83,13 @@ I need to check if you know how to debug RN app with usage of React Native DevTo
 
 ### 📝 Katas
 
-- Install React Native Debugger and debbug app by using it
+- Install React Native Debugger and debug app by using it
 
 ---
 
 ## 📦 ReactNative / Linking
 
-From react-native 0.60 linking is easier, however when adding libraries to our project it is important for run for example `pod install`. However, you need to know what is grandle and cocoapods.
+Since react-native 0.60 linking is easier, however when adding libraries to our project it is important to run `pod install`. Moreover, you need to know what **gradle** and **cocoapods** are.
 
 ### 🎓 Learn
 
@@ -116,7 +115,6 @@ From react-native 0.60 linking is easier, however when adding libraries to our p
 I need to know that you are able to style components, by using original ReactNative StyleSheets or StyledComponents
 
 ### 🎓 Learn
-
 
 - 📗 [StyleSheets Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
 - 📗 [FlexBox](https://facebook.github.io/react-native/docs/flexbox)
@@ -150,9 +148,9 @@ Instead of React Router we have React Navigation that is a leading library in ca
 
 ### 🎤 Interview
 
-- How to navigate from screen to another?
+- How to navigate from one screen to another?
 - How to go back?
-- Drawer? What it is?
+- Explain what is "Drawer"?
 - Show sample navigation structure
 - Push vs navigate?
 - Other RN alternatives for Navigation
@@ -165,7 +163,7 @@ Instead of React Router we have React Navigation that is a leading library in ca
 
 ## 📦 ReactNative / Platform specific code
 
-Sometimes we need to apply code only to iOS or Android platform
+You need to know how to apply platform-specific code (to iOS or Android platform)
 
 ### 🎓 Learn
 
@@ -179,13 +177,13 @@ Sometimes we need to apply code only to iOS or Android platform
 
 ### 📝 Katas
 
-- Using `&&` or tendary render `<Text>iOS it the best</Text>` only on `iOS`
+- Using `&&` or ternary render `<Text>iOS it the best</Text>` only on `iOS`
 
 ---
 
 ## 📦 ReactNative / Lists
 
-Very offen we using virtual list components to render some results from B/E
+You need to know how to render virtual list component from Backend
 
 ### 🎓 Learn
 
@@ -196,10 +194,10 @@ Very offen we using virtual list components to render some results from B/E
 ### 🎤 Interview
 
 - Can you say in own words what is virtualization?
-- What is diff between SectionList and FlatList?
+- What is difference between SectionList and FlatList?
 - What is RefreshControll?
-- What prop trigger FlatList rerender?
+- Which prop triggers FlatList rerender?
 
 ### 📝 Katas
 
-- Render list of months using FlatList - overy 3rd month should have blue name
+- Render list of months using FlatList - every 3rd month should have blue name
