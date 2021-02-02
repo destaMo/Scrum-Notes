@@ -107,7 +107,7 @@ After finishing this course you should be able to run an ReactNative environment
 
 ## 📦 ReactNative / Overview
 
-You need to know that it is actually React Native and Expo. Should be able to answer questions about pros and const vs native apps.
+You need to know what React Native is and what things like Expo are. You should be able to answer questions about pros and cons of react native/expo vs native apps.
 
 ### 🎓 Learn
 
@@ -118,8 +118,8 @@ You need to know that it is actually React Native and Expo. Should be able to an
 
 ### 🎤 Interview
 
-- What is RN and who create it/maintain it?
-- What are the advantages of use RN over Native(delete or change)
+- What is RN and who creates it/maintains it?
+- What are the advantages of using RN over Native
 - What dependencies you need to build and run RN app on iOS and Android
 - What is expo? Cons and pros using it?
 - What is the metro?
@@ -127,7 +127,7 @@ You need to know that it is actually React Native and Expo. Should be able to an
 
 ### 📝 Katas
 
-- Setup React Native app (with latest version of library) on Android or iOS (can be simulators)
+- Setup React Native app (with latest version of library) on Android or iOS (can use simulators)
 
 ---
 
@@ -155,7 +155,7 @@ We need to check if you know how to debug RN app with usage of React Native DevT
 
 ## 📦 ReactNative / Linking
 
-From react-native 0.60 linking is easier (almost out-of-box), however when adding libraries to our project it is important for run for example `pod install`. However, you need to know what is grandle and cocoapods.
+Since react-native 0.60 linking is easier, however when adding libraries to our project it is important to run `pod install`. Moreover, you need to know what **gradle** and **cocoapods** are.
 
 ### 🎓 Learn
 
@@ -188,9 +188,9 @@ Instead of React Router we have React Navigation that is a leading library in ca
 
 ### 🎤 Interview
 
-- How to navigate from screen to another?
+- How to navigate from one screen to another?
 - How to go back?
-- Drawer? What it is?
+- Explain what is "Drawer"?
 - Show sample navigation structure
 - Push vs navigate?
 
@@ -238,7 +238,7 @@ Knows how to use Redux data managment.
 
 ## 📦 ReactNative / Lists
 
-Very often we using virtual list components to render some results from B/E
+You need to know how to render virtual list component from Backend
 
 ### 🎓 Learn
 
@@ -249,9 +249,9 @@ Very often we using virtual list components to render some results from B/E
 ### 🎤 Interview
 
 - Can you say in own words what is virtualization?
-- What is diff between SectionList and FlatList?
+- What is difference between SectionList and FlatList?
 - What is RefreshControl?
-- What prop trigger FlatList re-render?
+- Which prop triggers FlatList rerender?
 
 ### 📝 Katas
 
@@ -311,7 +311,7 @@ I need to know that you are able to style components, by using original ReactNat
 
 ## 📦 ReactNative / Platform specific code
 
-Sometimes we need to apply code only to iOS or Android platform
+You need to know how to apply platform-specific code (to iOS or Android platform)
 
 ### 🎓 Learn
 
