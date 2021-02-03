@@ -6,11 +6,11 @@ title = "Testing Expertise"
 
 ## Testing Expertise
 
-**Points:** 2 
+**Points:** 2
 
 **Description:** You can use testing automation tool in critical area of the system, to increase the overall stability of the solution in terms of business requirements.
 
-**Person which succesfully completed requirement for given block can:** 
+**Person which succesfully completed requirement for given block can:**
 
 - TODO
 
@@ -34,6 +34,7 @@ title = "Testing Expertise"
 - Load testing
 
 **Tooling**
+
 - Test coverage
 - Continuous Integration/Deployment/Delivery
 
@@ -55,24 +56,23 @@ title = "Testing Expertise"
   - TDD often guides good architecture and helps ensuring long-term stability and extensibility (by keeping tech debt under control)
   - we add only what we need - not too much and not too little
 - basic types of tests we use
-    - unit tests
-    - integration tests
-    - feature tests
-    - end-to-end tests
-    - smoke tests
-    - performance/load/stress/volume(...) tests (i.e. how system behave under some specific/maximum/peak load, lots of data, query count, code benchmarking)
+  - unit tests
+  - integration tests
+  - feature tests
+  - end-to-end tests
+  - smoke tests
+  - performance/load/stress/volume(...) tests (i.e. how system behave under some specific/maximum/peak load, lots of data, query count, code benchmarking)
 - inside-out (pre-planned implementation architecture)
-    - great for problems that need algorithmical solution where specification is unlikely to change much
-    - results in highly optimised solution and tests
-    - also results in soldified solution, that may be difficult to change or refactor for reuse
-    - requires skills in planning implementation of solutions for complex problems
+  - great for problems that need algorithmical solution where specification is unlikely to change much
+  - results in highly optimised solution and tests
+  - also results in soldified solution, that may be difficult to change or refactor for reuse
+  - requires skills in planning implementation of solutions for complex problems
 - outside-in (implementation architecture planned on-the-fly)
-    - great for "simple" problems (process oriented) where specification may be likely to change
-    - results in not overcomplicated, elastic-for-refactoring solution
-    - does not require sophisticated skills in planning implementation architecture
-    - applied to problem that requires algorithmical solution can result in ugly, complex, hard to understand and inefficient code
+  - great for "simple" problems (process oriented) where specification may be likely to change
+  - results in not overcomplicated, elastic-for-refactoring solution
+  - does not require sophisticated skills in planning implementation architecture
+  - applied to problem that requires algorithmical solution can result in ugly, complex, hard to understand and inefficient code
 - going out of sync between tests and code during refactoring (or even implementation) phase vs keeping all units fully tested
-
 
 ## 📦 Test doubles
 
@@ -84,6 +84,7 @@ title = "Testing Expertise"
 - **Fakes**: simpler versions of complex objects, generally “hand crafted” (not using a special tool or framework) and used when the real code would cause the tests to be too slow, cumbersome or unreliable.
 
 #### Rails
+
 📗 [Source](https://www.sitepoint.com/solid-ruby-dependency-inversion-principle/)
 
 ## 📦 API Integration (patterns, recommendations and testing)
@@ -103,30 +104,29 @@ title = "Testing Expertise"
   - check how often it is updated/maintained so you are safe if/when API changes
 - `Client` and `Facade` (`Wrapper`) patterns are useful in the context of integrating APIs (refer to their descriptions in this document)
 - Testing API integrations
-    - Mocking clients
-        - Especially when we have implemented client library ourselves
-    - mocking request
-        - Webmock
-            - especially for well documented APIs (copy&paste straight from documentation)
-            - ...and testing API Client classes
-        - VCR (recording responses)
-            - for large responses (that would render tests unreadable)
-            - for responses consisting of lots of irrelevant data (i.e. non-documented APIs, scraping)
-            - smoke tests (especially when coupled with "expiring cassettes")
-            - sequenced calls
-    - using real connections to real services
-        - useful in context of smoke specs
-        - sandboxes can also be leveraged if available (need to be aware, that some sandboxes can go out-of-sync with their parent applications)
-    - using real connections to fake services
-        - i.e. locally set up servers, sandboxes or services mimicking original service behaviour
-        - especially useful for frontend development
+  - Mocking clients
+    - Especially when we have implemented client library ourselves
+  - mocking request
+    - Webmock
+      - especially for well documented APIs (copy&paste straight from documentation)
+      - ...and testing API Client classes
+    - VCR (recording responses)
+      - for large responses (that would render tests unreadable)
+      - for responses consisting of lots of irrelevant data (i.e. non-documented APIs, scraping)
+      - smoke tests (especially when coupled with "expiring cassettes")
+      - sequenced calls
+  - using real connections to real services
+    - useful in context of smoke specs
+    - sandboxes can also be leveraged if available (need to be aware, that some sandboxes can go out-of-sync with their parent applications)
+  - using real connections to fake services
+    - i.e. locally set up servers, sandboxes or services mimicking original service behaviour
+    - especially useful for frontend development
 
 ## 📦 Testing / Unit
 
 ### 🎓 Learn
 
 - 📗 [Jest](https://jestjs.io/docs/en/getting-started.html)
-
 
 ### 🎤 Interview
 
@@ -164,6 +164,11 @@ title = "Testing Expertise"
 
 - What should we test in E2E?
 - What should we avoid in E2E tests?
+- What is conditional testing and when is it helpful?
+- What are pros and cons of using mocked data over real data, when would you use it and why?
+- How to work with requests (waiting/reading data/overwriting)?
+- How to debug test runs?
+- How would you prepare your app to run E2E tests on it?
 
 ### 📝 Katas
 
@@ -180,7 +185,7 @@ title = "Testing Expertise"
   - Data fixes
   - CLI Tools (rake tasks)
   - `/lib` that is outside of main app context - i.e. console tools / extensions
--  enforcing certain level, ensuring “no drop”
+- enforcing certain level, ensuring “no drop”
 
 ### Rails
 
@@ -190,6 +195,7 @@ title = "Testing Expertise"
 ## 📦 Tooling / Continuous Integration/Deployment/Delivery
 
 ### 🎓 Learn
+
 - Continuous integration
   - continuously integration with main branch
 - Continuous delivery
