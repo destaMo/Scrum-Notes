@@ -23,15 +23,15 @@ weight = 1
 
 ---
 
-## Ruby / Overview
+## 📦 Ruby / Overview
 
 Know what is a Ruby language, what are the pros and cons. Unique selling points of the language.
 
-### Learn
+### 🎓 Learn
 
 - [ruby-lang.org](https://www.ruby-lang.org/en/about/)
 
-### Interview
+### 🎤 Interview
 
 - What is Ruby?
 - Why do you like Ruby? / What are the best features Ruby provides for you?
@@ -39,18 +39,18 @@ Know what is a Ruby language, what are the pros and cons. Unique selling points 
 
 ---
 
-## Ruby / Language Basics
+## 📦 Ruby / Language Basics
 
 Ruby language fundamentals. The Goal is to learn how to use Ruby in an efficient way when solving basic algorithmic problems. We also try to teach you answers to common Ruby questions that you can encounter on technical interviews with the client.
 
-### Learn
+### 🎓 Learn
 
 - [Ruby Monk - primer](https://rubymonk.com/learning/books/1-ruby-primer)
 - [Ruby Monk - primer ascent](https://rubymonk.com/learning/books/4-ruby-primer-ascent)
 - [Ruby for beginners](http://ruby-for-beginners.rubymonstas.org/index.html)
 - [Ruby Guides - ruby tutorial](https://www.rubyguides.com/ruby-tutorial/)
 
-### Interview
+### 🎤 Interview
 
 - List and explain Ruby data types.
 - What is the difference between object and class?
@@ -72,21 +72,21 @@ Ruby language fundamentals. The Goal is to learn how to use Ruby in an efficient
 - List at least 3 ruby iterators.
 - How can you clone an object and why can it be helpful?
 
-### Katas
+### 📝 Katas
 
 - Solve 10 algorithmic coding challenges (HackerRank/Exercism/AdventOfCode) with Ruby
 
 ---
 
-## Ruby On Rails / Overview
+## 📦 Ruby On Rails / Overview
 
 The goal of this section is to teach you what Ruby on Rails is and give you some ideas for conversation with potential client about Rails as an ecosystem.
 
-### Learn
+### 🎓 Learn
 
 - [Why use Ruby on Rails?](https://www.monterail.com/blog/why-ruby-on-rails-development-2020)
 
-### Interview
+### 🎤 Interview
 
 - What is the difference between "Ruby" and "Ruby on Rails"?
 - What do you like/dislike in Rails?
@@ -97,11 +97,11 @@ The goal of this section is to teach you what Ruby on Rails is and give you some
 
 ---
 
-## Ruby On Rails / Framework Basics
+## 📦 Ruby On Rails / Framework Basics
 
 In this section we will build a Rails application with most common features and learn how to answer some of the common Rails/OOP interview questions.
 
-### Learn
+### 🎓 Learn
 
 - [Rails Guides](https://guides.rubyonrails.org/) (read parts that you have to use to create application described in katas below)
 - [RubyOnRails doctrine](https://rubyonrails.org/doctrine/)
@@ -111,7 +111,7 @@ In this section we will build a Rails application with most common features and 
   - [Thoughtbot - LSP](https://thoughtbot.com/upcase/videos/liskov-substitution-principle)
   - [Thoughtbot - ISP](https://thoughtbot.com/upcase/videos/interface-segregation-principle) (OPTIONAL)
   - [Thoughtbot - DIP](https://thoughtbot.com/upcase/videos/dependency-inversion-principle) (OPTIONAL)
-
+- [Thoughtbot - LoD](https://thoughtbot.com/upcase/videos/law-of-demeter)
 - [Thoughtbot - Tell don't ask](https://thoughtbot.com/blog/tell-dont-ask)
 - [Tools for code optimization](https://infinum.com/the-capsized-eight/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
 - [Thoughtbot - Decorators](https://thoughtbot.com/blog/decorators-compared-to-strategies-composites-and)
@@ -122,16 +122,16 @@ In this section we will build a Rails application with most common features and 
 - [Rails naming convention](https://medium.com/selleo/a-subjective-guide-to-naming-stuff-in-ruby-on-rails-classes-b44928b6c49a)
 - [Eliminating N+1 queries](https://semaphoreci.com/blog/2017/08/09/faster-rails-eliminating-n-plus-one-queries.html)
 
-
-### Interview
+### 🎤 Interview
 
 **IMPORTANT TOPICS FOR DISCUSSION:**
 
 - "Convention over Configuration" - convince me that it is a good thing in Rails :)
 - "Single Source of Truth" - explain what is it and what can happen when you neglect this practice?
-- "Single Responsibility Principle" - explain what is it and what can happen when you neglect this principal?
+- "Single Responsibility Principle" - explain this principle in simple words. Describe how you evaluate given class to decide if or if not this class follows the principle. Explain consequences of not adhering to this principle. Explain if and what are the situations in which you would violate this rule. Provide examples that would fit our context.
 - "Open–closed Principle" - explain what is it and what can happen when you neglect this principal?
 - "Liskov substitution principle" - explain what is it and what can happen when you neglect this principle?
+- "Law of Demeter" - explain what is it and what can happen when you neglect this principle?
 - "REST API" - explain how REST API works and what are good practices when creating one for your app?
 
 **OTHER QUESTIONS:**
@@ -177,7 +177,7 @@ In this section we will build a Rails application with most common features and 
 - What is a Policy, when should we use it, what problems does it solve for us?
 
 
-### Katas
+### 📝 Katas
 
 - In all below steps use Test Driven Development (where it makes sense, which is almost everywhere).
 - Please DO NOT use any gems like active admin.
@@ -195,6 +195,7 @@ In this section we will build a Rails application with most common features and 
 - [aasm](https://github.com/aasm/aasm)
 - [letter opener](https://github.com/ryanb/letter_opener)
 - [rubocop](https://github.com/rubocop-hq/rubocop)
+- [simplecov](https://github.com/simplecov-ruby/simplecov)
 - [rubycritic](https://github.com/whitesmith/rubycritic)
 - [rails best practices](https://github.com/flyerhzm/rails_best_practices)
 - [brakeman](https://github.com/presidentbeef/brakeman)
@@ -240,11 +241,11 @@ In this section we will build a Rails application with most common features and 
 
 ---
 
-## Ruby On Rails / Testing Basics
+## 📦 Ruby On Rails / Testing Basics
 
 In this section we will understand TDD and learn when to use rspec and capybara.
 
-### Learn
+### 🎓 Learn
 
 - [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
 - [readable rspec part 1](https://medium.com/selleo/an-opinionated-guide-to-readable-rspec-part-1-of-2-fe1dce79a478)
@@ -258,7 +259,7 @@ In this section we will understand TDD and learn when to use rspec and capybara.
 - [factory bot](https://github.com/thoughtbot/factory_bot)
 - [faker](https://github.com/faker-ruby/faker)
 
-### Interview
+### 🎤 Interview
 
 - What is Test Driven Development and why is it important?
 - What do you do with existing tests when applying extract class refactoring?

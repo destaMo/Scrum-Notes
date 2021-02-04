@@ -17,19 +17,24 @@ weight = 2
 
 ---
 
-## Ruby On Rails/ Framework Advanced Topics
+## 📦 Ruby On Rails/ Framework Advanced Topics
 
 In this section we will build more advanced features in our Rails application and learn how to answer more demanding technical interview questions.
 
-### Learn
+### 🎓 Learn
 
 - [APIs comparison](https://dri.es/headless-cms-rest-vs-jsonapi-vs-graphql)
+- [An Architect's guide to APIs](https://www.redhat.com/architect/apis-soap-rest-graphql-grpc)
+- [Microservices](https://docs.microsoft.com/pl-pl/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)
+- [The Majestic Monolith](https://m.signalvnoise.com/the-majestic-monolith/)  
 - [Rails Guides - caching](https://guides.rubyonrails.org/caching_with_rails.html)
 - [Rails Guides - polymorphic-associations](https://guides.rubyonrails.org/association_basics.html#polymorphic-associations)
 - [STI vs Polymorphic Associations](https://www.freecodecamp.org/news/single-table-inheritance-vs-polymorphic-associations-in-rails-af3a07a204f2/)
 - [Thoughtbot - Polymorphism](https://thoughtbot.com/blog/back-to-basics-polymorphism-and-ruby)
 - [sidekiq](https://github.com/mperham/sidekiq)
 - [crontab](https://crontab.guru/)
+- [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources)
+- [GraphQL Ruby](https://github.com/rmosolgo/graphql-ruby)
 - [Clients and Wrappers](https://medium.com/selleo/essential-rubyonrails-patterns-clients-and-wrappers-c19320bcda0)
 - [Value Object](https://revs.runtime-revolution.com/value-objects-in-ruby-on-rails-9df64bc8db34)
 - [Thoughtbot - Null Object](https://thoughtbot.com/blog/handling-associations-on-null-objects)
@@ -40,14 +45,15 @@ In this section we will build more advanced features in our Rails application an
 - [Design Patterns - Structural Patterns](https://refactoring.guru/design-patterns/structural-patterns)
 - [Design Patterns - Behavioral Patterns](https://refactoring.guru/design-patterns/behavioral-patterns)
 
-### Interview
+### 🎤 Interview
 
 **IMPORTANT TOPICS FOR DISCUSSION:**
-
+ 
 - "Composition over Inheritance" - explain what is it and what can happen when you neglect this principle?
 - "Single-Table Inheritance vs. Polymorphic Associations" - explain when to use each of them, what kind of problems will they help you solve and what problems they can cause if you select wrong thing
 - "Asynchronous processing" - what is it? What tools can you use to implement it? What are pros and cons of introducing asynchronous processing in your application? When to use it?
 - "Caching" - what is it? Compare page/action/fragment/partial/low level caching? What are pros and cons of using caching in your application? When to use it?
+- "Microservices Oriented Architecture" - Compare it to monolith application. When to use? How communication between services looks like? What are the potential problems? What are the things that you should pay special attention to during design and implementation?  
 - "JSON API vs GraphQL API vs REST API" - what are the pros and cons of using them? When will you suggest one over another?
 
 **OTHER QUESTIONS:**
@@ -67,6 +73,7 @@ In this section we will build more advanced features in our Rails application an
 - What is the difference between Continuous Delivery/Integration/Deployment?
 - What is Dependency Injection?
 - What are Websockets? For what types of features are they great?
+- Explain each gem from content bank in one sentence. What problem does each of them solve?
 
 
 - List and explain creational patterns. Which of them have you used?
@@ -81,17 +88,16 @@ In this section we will build more advanced features in our Rails application an
 - Discuss tools you can use for static code analysis that are related to complexity?
 
 
-- What do you know about Microservices Oriented Architecture?
-- Explain Optimistic / Pessimistic / Distributed locking
-- What is Pub/Sub?
-- What is a Message Broker?
-- What is Idempotency?
-- What is Eventual Consistency?
-- What is Command/Query Responsibility Segregation? What advantages does it give?
+- Explain Optimistic / Pessimistic locking.
+- What is Pub/Sub? - What problems do they solve? Provide meaningful examples when we should care about it and explain why?
+- What is a Message Broker - What problems do they solve? Provide meaningful examples when we should care about it and explain why?
+- What is Idempotency - Provide meaningful examples when we should care about it and explain why?
+- What is Eventual Consistency? - Provide meaningful examples when we should care about it and explain why?
+- What is Command/Query Responsibility Segregation? What advantages does it give? Provide meaningful examples of when would you decide to use it?
 - What is Domain-Driven Design? What advantages does it give? For what kind of projects it can/should be used?
 - When to use JSON Web Tokens (JWT)?
 
-### Katas
+### 📝 Katas
 
 In all below steps use Test Driven Development. You can use an application from LEVEL 1 or add those features somewhere else.
 Please DO NOT use any gems like active admin.
@@ -113,19 +119,21 @@ Important: use correct patterns when applicable!
 
 ---
 
-## Ruby On Rails / Testing Advanced Topics
+## 📦 Ruby On Rails / Testing Advanced Topics
 
 In this section we will understand BDD and learn how to test external and internal API.
 
-### Learn
+### 🎓 Learn
 
 - [Applying BDD](https://medium.flatstack.com/applying-behavior-driven-development-to-ruby-on-rails-web-applications-using-rspec-cucumber-and-2c893c3ab7eb)
 - [The BDD Story](https://medium.com/@blazejkosmowski/the-bdd-story-fe82d6d4b24f)
+- [Test-induced design damage](https://dhh.dk/2014/test-induced-design-damage.html)
 - [cucumber](https://cucumber.io/)
 - [webmock](https://github.com/bblimke/webmock)
 - [vcr](https://github.com/vcr/vcr)
 
-### Interview
+
+### 🎤 Interview
 
 - Explain Behaviour Driven Development (BDD) and compare it to TDD
 - Explain difference between inside-out and outside-in testing. Describe scenarios in which each is better than the other one?
