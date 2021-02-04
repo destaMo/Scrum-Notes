@@ -6,7 +6,7 @@ weight = 2
 
 {{%bubble %}}
 
-## Framework & Language Basics
+## Framework & Language Advanced
 
 **Points:** 2 
 

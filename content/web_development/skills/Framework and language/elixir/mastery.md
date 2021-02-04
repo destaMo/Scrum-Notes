@@ -4,7 +4,21 @@ title = "Elixir/Phoenix - Mastery"
 weight = 3
 +++
 
-# Elixir - Level III
+{{%bubble %}}
+
+## Framework & Language Mastery
+
+**Points:** 2 
+
+**Description:** You can demonstrate the complete knowledge of the specific framework. You can freely customize it and extend it if needed.
+
+**Person which succesfully completed requirement for given block can:** 
+
+{{%todo %}}
+- TODO
+{{% /todo%}}
+
+{{% /bubble%}}
 
 ## Areas
 

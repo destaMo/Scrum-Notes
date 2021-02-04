@@ -6,7 +6,7 @@ weight = 3
 
 {{%bubble %}}
 
-## Framework & Language Basics
+## Framework & Language Mastery
 
 **Points:** 2 
 

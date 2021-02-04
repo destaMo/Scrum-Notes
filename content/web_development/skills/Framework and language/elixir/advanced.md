@@ -4,7 +4,23 @@ title = "Elixir/Phoenix - Advanced"
 weight = 2
 +++
 
-# Elixir - Level II
+{{%bubble %}}
+
+## Framework & Language Advanced
+
+**Points:** 2 
+
+**Description:** You can apply the best practices across the framework while delivering solution.
+
+**Person which succesfully completed requirement for given block can:** 
+
+- Comprehend, design and deliver a full range of functionalities with no need for consultation (yet intuitively knows, when to ask for second opinion)
+- Demonstrate debuggins skills for a full range of problems within application, also by investigating the framework code
+- Identify all framework capabilities and best-practices
+- Name, explain, choose and apply a wide range of software desing patterns to solve particular problems 
+- Demonstrate strong skills in TDD/BDD
+
+{{% /bubble%}}
 
 ## Areas
 

@@ -21,6 +21,8 @@ weight = 1
 - Is capable of leveraging most commonly used standard library capabilities
 - Has working knowledge of most commonly used packages/libraries
 
+**Prerequisites:** Persistance basics
+
 {{% /bubble%}}
 
 ## Areas
