@@ -12,7 +12,10 @@ title = "Testing Expertise"
 
 **Person which succesfully completed requirement for given block can:**
 
-- TODO
+- Identify the critical areas that should be automatically tested to keep the business processes continuity
+- propose a proper testing strategy for the project
+- write verious types of automated tests
+- automate the testing proces via CI tools
 
 {{% /bubble%}}
 
@@ -83,9 +86,9 @@ title = "Testing Expertise"
 - **Spies**: these are like mocks, the difference here is that with mocks you write a expectation, then invoke the code that should (or should not) trigger it. With spies you keep the “normal” testing flow of invoking the code and then checking for the interactions (like the traditional assertions);
 - **Fakes**: simpler versions of complex objects, generally “hand crafted” (not using a special tool or framework) and used when the real code would cause the tests to be too slow, cumbersome or unreliable.
 
-#### Rails
+### 📝 Katas
 
-📗 [Source](https://www.sitepoint.com/solid-ruby-dependency-inversion-principle/)
+- Show practical usage of all kind of test doubles
 
 ## 📦 API Integration (patterns, recommendations and testing)
 

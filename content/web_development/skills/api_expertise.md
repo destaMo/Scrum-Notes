@@ -38,6 +38,8 @@ title = "API Expertise"
 
 ## 📦 Types of APIs
 
+- 📙 [Do you need to build public API?](https://nordicapis.com/5-tips-starting-public-api-journey/)
+
 ### 🎤 Interview
 - Explain the difference between public & internal API?
   - What does it mean that API will be consumed by 3rd parties?
@@ -120,6 +122,7 @@ title = "API Expertise"
 
 - 📗 [Swagger](https://swagger.io/)
 - 📗 [OpenAPI Specification](https://www.openapis.org/)
+- 📙 [Building APIs with OpenAPI](https://medium.com/@ratrosy/building-apis-with-openapi-ac3c24e33ee3)
 - Some API Documentation examples: 
   - https://docs.github.com/en/rest
   - https://stripe.com/docs/api
