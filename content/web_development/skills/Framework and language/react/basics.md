@@ -20,6 +20,8 @@ weight = 1
 - Is capable of leveraging most commonly used standard library capabilities
 - Has working knowledge of most commonly used packages/libraries
 
+**Prerequisites:** [Styling basics](/web_development/skills/styling/01_junior_i/)
+
 {{% /bubble%}}
 
 ## Areas

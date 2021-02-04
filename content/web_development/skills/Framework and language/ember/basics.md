@@ -20,6 +20,8 @@ weight = 1
 - Is capable of leveraging most commonly used standard library capabilities
 - Has working knowledge of most commonly used packages/libraries
 
+**Prerequisites:** [Styling basics](/web_development/skills/styling/01_junior_i/)
+
 {{% /bubble%}}
 
 After finishing this course you should be able to setup an Ember application, create components, provide simple routing between pages and write your first tests

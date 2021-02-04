@@ -21,7 +21,7 @@ weight = 1
 - Is capable of leveraging most commonly used standard library capabilities
 - Has working knowledge of most commonly used packages/libraries
 
-**Prerequisites:** Persistance basics
+**Prerequisites:** [Persistance basics](/web_development/skills/persistance/basics/)
 
 {{% /bubble%}}
 
