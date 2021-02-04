@@ -11,10 +11,12 @@ weight = 2
 
 **Description:** Know how to support more advance libraries that comes with Mobile features like push notifications, animation or maps support. Also know how to setup Appcenter to build app for beta testers.
 
-**Person which succesfully completed requirement for given block can:**
+**Person which succesfully completed requirement for given block can:** 
 
-- Tutaj dodajemy wszystkie punkty pozostałe
--
+{{%todo %}}
+{{% /todo%}}
+
+**Prerequisites:** [Styling advanced](/web_development/skills/styling/02_junior_ii/)
 
 {{% /bubble%}}
 

@@ -11,7 +11,6 @@ title = "Web Development"
 
 ## Junior 2
 - 📗 [Interview](/web_development/skills/interview/)
-- 📗 [Styling advanced](/web_development/skills/styling/02_junior_ii/)
 
 ## Independent-Mid
 - 📗 2️⃣ [APIs Expertise](/web_development/skills/api_expertise/)

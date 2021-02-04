@@ -19,6 +19,8 @@ weight = 2
 - Name, explain, choose and apply a wide range of software desing patterns to solve particular problems 
 - Demonstrate strong skills in TDD/BDD
 
+**Prerequisites:** [Styling advanced](/web_development/skills/styling/02_junior_ii/)
+
 {{% /bubble%}}
 
 ## Areas
