@@ -54,3 +54,4 @@ weight = 4
 - [https://www.christianblavier.com/on-elixir-metaprogramming/](https://www.christianblavier.com/on-elixir-metaprogramming/)
 - [https://www.thegreatcodeadventure.com/eloquent-control-flow-and-efficient-time-complexity-in-elixir/](https://www.thegreatcodeadventure.com/eloquent-control-flow-and-efficient-time-complexity-in-elixir/)
 - [https://medium.com/genesisblock/elixir-concurrent-testing-architecture-13c5e37374dc](https://medium.com/genesisblock/elixir-concurrent-testing-architecture-13c5e37374dc)
+- [https://bego.hr/cypress-elixir-phoenix-ecto-sandbox/](https://bego.hr/cypress-elixir-phoenix-ecto-sandbox/)
