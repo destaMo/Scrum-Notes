@@ -22,10 +22,6 @@ weight = 1
 
 {{% /bubble%}}
 
-{{%todo %}}
-After finishing this course you should be
-{{% /todo%}}
-
 ## Areas
 
 **React**

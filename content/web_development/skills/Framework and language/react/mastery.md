@@ -1,5 +1,5 @@
 +++
-title = "JavaScript/React - Mastery"
+title = "Ruby/Ruby On Rails - Mastery"
 weight = 3
 +++
 
@@ -18,10 +18,6 @@ weight = 3
 {{% /todo%}}
 
 {{% /bubble%}}
-
-{{%todo %}}
-After finishing this course you should be
-{{% /todo%}}
 
 ## Areas
 
