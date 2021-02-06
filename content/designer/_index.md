@@ -1,3 +1,3 @@
 +++
-title = "Designer"
+title = "UX/UI Design"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "DevPath"
-tags = ["programming", "development", "growth path", "developer path", "javascript", "ember", "react", "mongodb", "postgresql", "ruby", "rails", "elixir", "docker", "terraform", "vault", "software", "development", "fundamentals"]
+tags = ["programming", "development", "growth path", "developer path", "JavaScript", "ember", "react", "mongodb", "postgresql", "ruby", "rails", "elixir", "docker", "terraform", "vault", "software", "development", "fundamentals"]
 +++
 
 ![DevPath](https://github.com/Selleo/DevPath/raw/master/content/devpath.png)
@@ -18,9 +18,9 @@ Welcome in our knowledge base **DevPath** repository.
 # The structure
 
 This website contains paths that contain fundamentals on one of our 4 paths that you can pick from:
-- Backend development
-- Frontend development
+- Web development (backend & frontend)
 - UX/UI design
+- DevOps
 - Quality assurance
 
 The common part is the same for each path.

@@ -2,6 +2,34 @@
 
 This file contains a basic structure template for each level of DevPath. Please use it in your paths and remove redundant parts if needed. Please stick to the template for consistency.
 
+{{%bubble %}}
+
+## Bubble title
+
+**Points:** 1 / 2 / 3 
+
+**Description:** General description what's is the bubble about
+
+**Person which succesfully completed requirement for given block can:** 
+
+Use predefined words from the list to describe what person can for the given block:
+- Define, name repeat - knowledge
+- Explain, Identify, Recognize- comprehension
+- Apply, Demonstrate, Use - application
+- distinguish, compare, relate - analysis
+- design, prepare, compose - synthesis
+- evaluate, revise, estimate - evaluation
+
+Sample: 
+- Can deliver simple, typical functionalities with little to no additional help
+- When asking for help, can present the problem and already explored solutions clearly and in detail
+- Can debug simple problems within the application (excluding framework) using the right tooling
+- Can present the strenghts and use cases for the framework
+- Is capable of leveraging most commonly used standard library capabilities
+- Has working knowledge of most commonly used packages/libraries
+
+{{% /bubble%}}
+
 ## Basic sections example:
 ### Level Name - Grade I
 ## Areas
@@ -142,16 +170,16 @@ Be proficient in dealing with GIT from command line - only chapters mention belo
 
 ## 📦 Language & Browser API / JavaScript Basic
 
-Familiarize yourself with the concepts from the book, be able to explain then, and give an example where you would use it. Have a decent skill in writing solutions & tests in javascript.
+Familiarize yourself with the concepts from the book, be able to explain then, and give an example where you would use it. Have a decent skill in writing solutions & tests in JavaScript.
 
 ### 🎓 Learn
 
-- 📗 [Eloquent JavaScript](http://eloquentjavascript.net/) ([our crash course](https://github.com/miksturait/od-zera-do-js-developera))
+- 📗 [Eloquent JavaScript](http://eloquentJavaScript.net/) ([our crash course](https://github.com/miksturait/od-zera-do-js-developera))
     - **Optional**
-        - [Project: A Programming Language](http://eloquentjavascript.net/12_language.html)
-        - [Drawing on Canvas](http://eloquentjavascript.net/17_canvas.html)
-        - [Http and the forms](http://eloquentjavascript.net/18_http.html)
-        - [Project: Pixlr editor](http://eloquentjavascript.net/19_paint.html)
+        - [Project: A Programming Language](http://eloquentJavaScript.net/12_language.html)
+        - [Drawing on Canvas](http://eloquentJavaScript.net/17_canvas.html)
+        - [Http and the forms](http://eloquentJavaScript.net/18_http.html)
+        - [Project: Pixlr editor](http://eloquentJavaScript.net/19_paint.html)
 - 📙 [Introduction to ES6+](https://scrimba.com/g/gintrotoes6)
 
 ### 🎤 Interview

@@ -100,8 +100,8 @@
         {{if and (.File.UniqueID) (eq .File.UniqueID $currentNode.File.UniqueID)}}active{{end}}
         {{if and (.IsAncestor $currentNode) (not .Params.Hidden) }}active{{end}}
         ">
-      <a href="{{.RelPermalink}}" title="{{humanize .Title}}" class="section-root">
-        {{safeHTML .Params.Pre}} {{humanize .Title}} {{safeHTML .Params.Post}}
+      <a href="{{.RelPermalink}}" title="{{.Title}}" class="section-root">
+        {{safeHTML .Params.Pre}} {{.Title}} {{safeHTML .Params.Post}}
           {{ if $showvisitedlinks}}
             <i class="fas fa-check read-icon"></i>
           {{ end }}
@@ -138,7 +138,7 @@
     {{ if not .Params.Hidden }}
       <li data-nav-id="{{.RelPermalink}}" title="{{.Title}}" class="dd-item {{if eq .File.UniqueID $currentNode.File.UniqueID}}active{{end}}">
         <a href="{{ .RelPermalink}}">
-        {{safeHTML .Params.Pre}}{{humanize (index (last 2 (split .RelPermalink "/")) 0) }}{{safeHTML .Params.Post}}
+        {{safeHTML .Params.Pre}}{{index (last 2 (split .RelPermalink "/")) 0}}{{safeHTML .Params.Post}}
         {{ if $showvisitedlinks}}<i class="fas fa-check read-icon"></i>{{end}}
         </a>
     </li>
