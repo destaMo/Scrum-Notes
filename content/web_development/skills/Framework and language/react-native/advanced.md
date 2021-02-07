@@ -16,7 +16,9 @@ weight = 2
 {{%todo %}}
 {{% /todo%}}
 
-**Prerequisites:** [Styling advanced](/web_development/skills/styling/02_junior_ii/)
+**Prerequisites:** 
+- [Styling advanced 1](/web_development/skills/styling/02_junior_ii/)
+- [Styling advanced 2](/web_development/skills/styling/03_independent_i/)
 
 {{% /bubble%}}
 
