@@ -112,7 +112,7 @@ title = "API Expertise"
 
 ### 📝 Katas
 
-- Show me and explain GraphQL consumer code in your application
+- Show me and explain GraphQL code in your application
 
 ---
 
