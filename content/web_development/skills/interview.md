@@ -10,7 +10,7 @@ title = "Interview"
 
 **Description:** TODO
 
-**Person which succesfully completed requirement for given block can:** 
+**Person which successfully completed requirement for given block can:** 
 
 TODO
 

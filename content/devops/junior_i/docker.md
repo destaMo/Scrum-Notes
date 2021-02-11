@@ -11,7 +11,7 @@ title = "Docker"
 **Description:** You can comfortably work with Docker.
 
 
-**Person which succesfully completed requirement for given block can:**
+**Person which successfully completed requirement for given block can:**
 
 - Create Docker images for backend application
 - Use community images in his day-to-day job

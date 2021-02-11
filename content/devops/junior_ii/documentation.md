@@ -10,7 +10,7 @@ title = "Documentation"
 
 **Description:** You understand the importance of documentation and can prepare documentation for implemented solutions.
 
-**Person which succesfully completed requirement for given block can:**
+**Person which successfully completed requirement for given block can:**
 
 - Prepare a documentation for project
 - Prepare runbooks for most common operations

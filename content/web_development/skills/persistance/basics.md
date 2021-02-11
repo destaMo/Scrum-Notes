@@ -11,7 +11,7 @@ weight = 1
 
 **Description:** You can store & manipulate the data in one type of the database that is required to build an application with basic framework knowledge
 
-**Person which succesfully completed requirement for given block can:** 
+**Person which successfully completed requirement for given block can:** 
 
 - Knows how to read the data from transactional database
 - Understands benefits & limitations of transactional database
