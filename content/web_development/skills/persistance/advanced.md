@@ -11,7 +11,7 @@ weight = 2
 
 **Description:** You can get the most out of the relational database (PostgreSQL) and knows when to pick different solution for persistance layer
 
-**Person which succesfully completed requirement for given block can:** 
+**Person which successfully completed requirement for given block can:** 
 
 - Knows other type of databases and common use-cases for them
 - Can build reactable database solution

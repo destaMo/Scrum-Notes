@@ -11,7 +11,7 @@ weight = 3
 
 **Description:** TODO
 
-**Person which succesfully completed requirement for given block can:** 
+**Person which successfully completed requirement for given block can:** 
 
 {{%todo %}}
 {{% /todo%}}

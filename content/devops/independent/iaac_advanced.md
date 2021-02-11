@@ -10,7 +10,7 @@ title = "IaaC Advanced"
 
 **Description:** You understand the IaaC solutions used extensivly and follow the best practices. 
 
-**Person which succesfully completed requirement for given block can:**
+**Person which successfully completed requirement for given block can:**
 
 - Improve and provide valuable feedback for current IaaC code.
 - Create complex modules that solve specific needs

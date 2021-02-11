@@ -10,7 +10,7 @@ title = "Monitoring and observability"
 
 **Description:** You can design and implement monitoring system on new and existing projects.
 
-**Person which succesfully completed requirement for given block can:**
+**Person which successfully completed requirement for given block can:**
 
 - Understand monitoring and observability
 - Prepare monitoring solution for existing systems
