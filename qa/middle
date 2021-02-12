@@ -1,0 +1,30 @@
+- dostosowanie bug temlpate do projektu (np. Alyne - problem ze reliability mre.alyne.app, w takim przypadku dołożyć Environment i last commit)
+
+- what if there is no budget for a QA on a project? What is the meaning of an audit in that case?
+
+- when is it best to create test scenarios e.g. in Gherkin?
+
+## Improving the process
+- sytuacja z Alyne - dużo ticketów, jeden zbiorczy, jak wystawiać bugi (jest lista tasków i bugów w tickecie zbiorczym - jak to usprawnić?)
+- adding priorities in clubhouse if it is not clear what to do in the first place
+- potential new article "Improving the process"
+
+## Test automation
+- Cypress - setting up the tests on a project (maybe kata?)
+- probably the best would be not to focus on one technology but general appraoch with examples (Cypress, QUnit and whatever learnt)
+- docker?
+- używanie funkcji frameworka: klikanie, wpisywanie, asercje
+- tworzenie przydatnych funkcji np generateId, restoreDb, authenticate
+
+## Git
+- klonowanie repo
+- tworzenie branchy
+- gl, gp
+- stash, stash apply
+- gco
+
+CSS selectors - https://docs.google.com/document/d/1VDdFmbDlmCj7N0mLGpgkX4rFkeNSxrG7DaQziCAt1U8/edit#heading=h.er22qrcb665g
+
+## Performance testing - basics
+
+## Security testing - basics
