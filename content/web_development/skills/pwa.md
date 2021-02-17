@@ -10,7 +10,7 @@ title = "PWA"
 
 **Description:** You can utilize native browser APIs to build Progressive Web Application
 
-**Person which successfully completed requirement for given block can:** 
+**Person which successfully completed requirement for given block can:**
 
 - Knows the most common PWA use cases (when to use it and when not to use it)
 - Has a very good knowledge of available native browser APIs that allows access to device-related features
@@ -53,6 +53,6 @@ title = "PWA"
 - Build applications  (100% PWA compatible according to Chrome audit):
   - [GEOLOCATION] The nearest PoI (point of interest) in your city (use map & geolocation)
   - [OFFLINE] Notes app that allows creation of multiple notes (title, description) that are available even if we reenter the application
-  - [CAMERA] Movement detector app (use device camera)
+  - [CAMERA] Movement detector/QR code scanner app (use device camera)
   - [REACHABILITY] Application that knows we are online or not
   - [DEVICE POSITION] Application that works as level metter
