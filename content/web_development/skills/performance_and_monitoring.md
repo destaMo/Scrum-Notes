@@ -17,13 +17,6 @@ title = "Performance and monitoring"
 - Has strong skillset in using load testing tools to prepare peak-load and volume testing scenarios and is capable of determining maximum throughput for given environment
 - Is capable of recommending right infrastructure configuration to meet performance needs
 
-## Areas
-
-- Application performance - monitoring
-- Application performance - analysis
-- Error tracking
-- Load & stress testing
-
 {{% /bubble%}}
 
 {{%todo %}}
@@ -32,51 +25,20 @@ title = "Performance and monitoring"
 - Elixir - verify existing materials and provide some more
 {{% /todo%}}
 
+## Areas
+
+**Performance**
+- Monitoring
+- Analysis
+- Profiling in browser
+- Load & stress testing
+
+**Monitoring**
+- Error tracking
+
 ---
-# OLD
 
-## 📦 Profiling, Performance
-
-### 🎓 Learn
-
-- 📗 [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-- 📗 [Memory leaks discovery](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
-- 📗 [Runtime performance](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/)
-- 📗 [Speed up web page guide](https://auth0.com/blog/12-steps-to-a-faster-web-app/)
-- 📙 [Analyze web performance with PageInsights](https://devrix.com/tutorial/analyze-web-page-performance-using-google-pagespeed-insights/)
-
-### 🎤 Interview
-
-- What you can do to make your app faster? (at least 7 things)
-- Explain the concept of optimistic UI.
-
-### 📝 Katas
-
-- How you can check your app fps?
-- Make (and show me) a website that will reach 90+ score in **PageInsights** test.
-- How you can identify memory leak in your application?
-
-## 📦 Error reporting
-
-### 🎓 Learn
-
-- 📗 [Rollbar documentation](https://docs.rollbar.com/docs/javascript)
-- 📗 [Airbrake documentation](https://airbrake.io/docs/installing-airbrake/installing-airbrake-in-a-bower-app/)
-- `Pick your favourite tool`
-- Sentry
-
-### 🎤 Interview
-
-- Explain the role of source maps in error reporting
-
-### 📝 Katas
-
-- How would you configure error reporting in various environments? Show me how your project handles multiple environments setup.
-
-# NEW
-
-
-## 📦 Application performance - monitoring
+## 📦 Performance / monitoring
 
 #### 🔨 Tools
 
@@ -109,7 +71,7 @@ title = "Performance and monitoring"
 - Integrate preferred SaaS tool in your app (or present some existing integration).
 - Set up preferred open source tool and integrate it in your app.
 
-## 📦 Application performance - analysis
+## 📦 Performance / analysis
 
 ### 📦 Profiling
 
@@ -149,7 +111,6 @@ title = "Performance and monitoring"
 - [Ruby - Benchmark module](https://ruby-doc.org/stdlib-2.5.0/libdoc/benchmark/rdoc/Benchmark.html)
 - [Elixir - benchee](https://github.com/bencheeorg/benchee)
 
-
 #### 📝 Katas
 
 - Benchmark a piece of code and explain the results
@@ -165,27 +126,28 @@ title = "Performance and monitoring"
 #### 🎤 Interview
 - Garbage collector - what it is, what is its purpose?
 
-## 📦 Error tracking
+## 📦 Profiling in browser
 
-#### 🔨Tools
+### 🎓 Learn
 
-- [Rollbar](https://rollbar.com/)
-- [Airbrake](https://airbrake.io/)
-- [Bugsnag](https://www.bugsnag.com/)
-- [Honeybadger](https://www.honeybadger.io/)
+- 📗 [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+- 📗 [Memory leaks discovery](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
+- 📗 [Runtime performance](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/)
+- 📗 [Speed up web page guide](https://auth0.com/blog/12-steps-to-a-faster-web-app/)
+- 📙 [Analyze web performance with PageInsights](https://devrix.com/tutorial/analyze-web-page-performance-using-google-pagespeed-insights/)
 
-💡 Some of the APM tools listed above provides an error tracking features too.
+### 🎤 Interview
 
-#### 🎤 Interview
+- What you can do to make your app faster? (at least 7 things)
+- Explain the concept of optimistic UI.
 
-- What aspects should be considered before selecting error tracking tool?
-- Which error tracking tools you’ve worked with? Share your thoughts about each of them.
+### 📝 Katas
 
-#### 📝 Katas
+- How you can check your app fps?
+- Make (and show me) a website that will reach 90+ score in **PageInsights** test.
+- How you can identify memory leak in your application?
 
-- Integrate preferred error tracking tool in your app (or present some existing integration)
-
-## 📦 Load & stress testing
+## 📦 Performance / Load & stress testing
 
 #### 🔨 Tools
 
@@ -208,6 +170,33 @@ title = "Performance and monitoring"
 
 - Perform load/stress test on your application using preferred tool
 
+## 📦 Monitoring / Error tracking
+
+#### 🎓 Learn
+
+- 📗 [Source Maps](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map)
+
+#### 🔨Tools
+
+- [Rollbar](https://rollbar.com/)
+- [Airbrake](https://airbrake.io/)
+- [Bugsnag](https://www.bugsnag.com/)
+- [Honeybadger](https://www.honeybadger.io/)
+
+💡 Some of the APM tools listed above provides an error tracking features too.
+
+#### 🎤 Interview
+
+- What aspects should be considered before selecting error tracking tool?
+- Which error tracking tools you’ve worked with? Share your thoughts about each of them.
+- Explain the role of source maps in error reporting
+
+#### 📝 Katas
+
+- How would you configure error reporting in various environments? Show me how your project handles multiple environments setup.
+- Integrate preferred error tracking tool in your app (or present some existing integration)
+
+---
 
 ## 🎓 Additional Resources
 #### 🎓 Learn
