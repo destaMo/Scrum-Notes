@@ -26,6 +26,7 @@ title = "Testing Expertise"
 - Test driven development (TDD)
 - Test doubles
 - API Integration (patterns, recommendations and testing)
+- Testing time/date dependent code
 
 **Types of tests**
 
@@ -86,6 +87,10 @@ title = "Testing Expertise"
 - **Spies**: these are like mocks, the difference here is that with mocks you write a expectation, then invoke the code that should (or should not) trigger it. With spies you keep the “normal” testing flow of invoking the code and then checking for the interactions (like the traditional assertions);
 - **Fakes**: simpler versions of complex objects, generally “hand crafted” (not using a special tool or framework) and used when the real code would cause the tests to be too slow, cumbersome or unreliable.
 
+### 🎤 Interview
+
+- ???
+
 ### 📝 Katas
 
 - Show practical usage of all kind of test doubles
@@ -125,6 +130,17 @@ title = "Testing Expertise"
     - i.e. locally set up servers, sandboxes or services mimicking original service behaviour
     - especially useful for frontend development
 
+## 📦 Testing time/date dependent code
+
+### 🎓 Learn
+
+- 📗 [Jest/timer mocks](https://jestjs.io/docs/en/timer-mocks)
+
+### 🎤 Interview
+
+- What should you remember about when testing time/date dependent code?
+- How would you deal with timezones?
+
 ## 📦 Testing / Unit
 
 ### 🎓 Learn
@@ -134,7 +150,7 @@ title = "Testing Expertise"
 ### 🎤 Interview
 
 - Explain role of unit tests
-- What you should test in unit tests?
+- What should you test in unit tests?
 
 ### 📝 Katas
 
@@ -165,13 +181,13 @@ title = "Testing Expertise"
 
 ### 🎤 Interview
 
-- What should we test in E2E?
-- What should we avoid in E2E tests?
+- What should we test and avoid in E2E?
 - What is conditional testing and when is it helpful?
 - What are pros and cons of using mocked data over real data, when would you use it and why?
 - How to work with requests (waiting/reading data/overwriting)?
 - How to debug test runs?
 - How would you prepare your app to run E2E tests on it?
+- What are and how to deal with flaky tests?
 
 ### 📝 Katas
 
