@@ -19,12 +19,6 @@ title = "Performance and monitoring"
 
 {{% /bubble%}}
 
-{{%todo %}}
-- **Frontend part**
-- NodeJS - add tools, learning materials, interview questions, katas
-- Elixir - verify existing materials and provide some more
-{{% /todo%}}
-
 ## Areas
 
 **Performance**
@@ -32,9 +26,6 @@ title = "Performance and monitoring"
 - Analysis
 - Profiling in browser
 - Load & stress testing
-
-**Monitoring**
-- Error tracking
 
 ---
 
@@ -61,15 +52,32 @@ title = "Performance and monitoring"
 - [Zabbix](https://www.zabbix.com/)
 - [Grafana](https://grafana.com/) (visualisation)
 
+**Browser**
+- [Rollbar](https://rollbar.com/)
+- [Airbrake](https://airbrake.io/)
+- [Bugsnag](https://www.bugsnag.com/)
+- [Honeybadger](https://www.honeybadger.io/)
+
+💡 Some of the APM tools listed above provides an error tracking features too.
+
+#### 🎓 Learn
+
+**Browser**
+- 📗 [Source Maps](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map)
+
 #### 🎤 Interview
 
 - What aspects should be considered before selecting APM tool?
 - Which APM tools you’ve worked with? Share your thoughts about each of them.
+- What aspects should be considered before selecting error tracking tool?
+- Which error tracking tools you’ve worked with? Share your thoughts about each of them.
+- Explain the role of source maps in error reporting (browser part)
 
 #### 📝 Katas
 
 - Integrate preferred SaaS tool in your app (or present some existing integration).
-- Set up preferred open source tool and integrate it in your app.
+- Set up preferred monitoring tool and integrate it in your app.
+- How would you configure error reporting in various environments? Show me how your project handles multiple environments setup.
 
 ## 📦 Performance / analysis
 
@@ -169,32 +177,6 @@ title = "Performance and monitoring"
 #### 📝 Katas
 
 - Perform load/stress test on your application using preferred tool
-
-## 📦 Monitoring / Error tracking
-
-#### 🎓 Learn
-
-- 📗 [Source Maps](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map)
-
-#### 🔨Tools
-
-- [Rollbar](https://rollbar.com/)
-- [Airbrake](https://airbrake.io/)
-- [Bugsnag](https://www.bugsnag.com/)
-- [Honeybadger](https://www.honeybadger.io/)
-
-💡 Some of the APM tools listed above provides an error tracking features too.
-
-#### 🎤 Interview
-
-- What aspects should be considered before selecting error tracking tool?
-- Which error tracking tools you’ve worked with? Share your thoughts about each of them.
-- Explain the role of source maps in error reporting
-
-#### 📝 Katas
-
-- How would you configure error reporting in various environments? Show me how your project handles multiple environments setup.
-- Integrate preferred error tracking tool in your app (or present some existing integration)
 
 ---
 
