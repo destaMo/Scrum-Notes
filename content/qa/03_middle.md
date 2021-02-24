@@ -22,7 +22,7 @@
 
 ## 📦 Test automation
 
-Create a test automation structure and cover critical paths with automation tests. Get to know with Cypress
+Create a test automation structure and cover critical paths with automation tests. Get to know with Cypress. Be aware of possibilities provided by jQuery while working with Cypress
 
 ### 🎓 Learn
 
@@ -34,6 +34,10 @@ Create a test automation structure and cover critical paths with automation test
 - 📙 [Cypress - querying elements](https://docs.cypress.io/guides/core-concepts/introduction-to-cypress.html#Querying-Elements)
 - 📗 [basic CSS selectors](https://docs.google.com/document/d/1VDdFmbDlmCj7N0mLGpgkX4rFkeNSxrG7DaQziCAt1U8/edit#heading=h.er22qrcb665g)
 - 📙 [advanced CSS selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+- 📙 [jQuery form selectors](https://api.jquery.com/category/selectors/form-selectors/)
+- 📙 [jQuery tree traversal - children, closest, find, parent, parents, siblings](https://api.jquery.com/category/traversing/tree-traversal/)
+- 📙 [jQuery filtering](https://api.jquery.com/category/traversing/filtering/)
+
 
 ### 🎤 Interview
 
@@ -59,7 +63,6 @@ Constantly monitor ongoing process and workflow on your proujects. Point out fla
 ### 🎓 Learn
 
 - 📗 [case studies](https://docs.google.com/document/d/10_nopByLN6H41ZCFd4a6HRcHHJxvCeA8dLVy9AdCIgM/edit#heading=h.btku1i1kvyib)
-- 📗 [improving the process](tbd)
 
 ### 🎤 Interview
 
