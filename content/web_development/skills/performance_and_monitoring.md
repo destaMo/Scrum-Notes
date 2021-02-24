@@ -6,11 +6,11 @@ title = "Performance and monitoring"
 
 ## Performance and monitoring
 
-**Points:** 2 
+**Points:** 2
 
 **Description:** You can identify performance weak-spots and adress them, both in development phase via load test technics, as well as during the life-cycle of the application, via proper monitoring of the app.
 
-**Person which successfully completed requirement for given block can:** 
+**Person which successfully completed requirement for given block can:**
 
 - Has strong and working knowledge in setting up and leveraging a wide range of performance monitoring and error tracking tools
 - Is capable of precisesly identifying reasons behind performance problems in web applications
@@ -87,6 +87,7 @@ title = "Performance and monitoring"
 
 - [How do Ruby/Python profilers work](https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/)
 - [Understanding ruby app with profiling](https://katafrakt.me/2020/05/03/understanding-ruby-app-with-profiling/)
+- [Erlang Profiling](http://erlang.org/doc/efficiency_guide/profiling.html)
 
 #### 🔨 Tools
 
@@ -130,6 +131,7 @@ title = "Performance and monitoring"
 - [Garbage collection fundamentals](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)
 - [Ruby garbage collection - 101](https://scoutapm.com/blog/ruby-garbage-collection)
 - [Ruby garbage collection - deep dive](https://jemma.dev/blog/gc-mark-and-sweep)
+- [Garbage collection in BEAM](https://blog.stenmans.org/theBeamBook/#CH-Memory)
 
 #### 🎤 Interview
 - Garbage collector - what it is, what is its purpose?
