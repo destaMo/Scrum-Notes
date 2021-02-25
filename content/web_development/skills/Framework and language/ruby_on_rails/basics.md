@@ -165,7 +165,6 @@ In this section we will build a Rails application with most common features and 
 - What types of associations do you know? Can you compare them?
 - What is the difference between redirect and render in Ruby on Rails?
 - What is the difference between session and cookie? How can you access them in Rails?
-
 - Can you explain to me the Request / Response lifecycle in Rails?
 - Explain difference between authorization and authentication
 - List SOLID design principles and explain each of them in one sentence

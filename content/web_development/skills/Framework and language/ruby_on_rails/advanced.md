@@ -107,10 +107,13 @@ In this section we will build more advanced features in our Rails application an
 
 ### 📝 Katas
 
-In all below steps use Test Driven Development. You can use an application from LEVEL 1 or add those features somewhere else.
-Please DO NOT use any gems like active admin.
-Please DO NOT waste your time on any styling :)
-Important: use correct patterns when applicable!
+- In all below steps use Test Driven Development.
+- You can use an application from LEVEL 1 or add those features somewhere else.
+- Please DO NOT use any gems like active admin.
+- Please DO NOT waste your time on any styling :)
+- Important: use correct patterns when applicable!
+
+**APPLICATION DESCRIPTION**
 
 - implement JSON API for resource that has has_many association
 - implement simple GraphQL API for resource that has has_many association with simple mutations and queries
