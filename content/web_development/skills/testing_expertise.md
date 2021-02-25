@@ -12,9 +12,9 @@ title = "Testing Expertise"
 
 **Person who successfully completed requirement for given block can:**
 
-- Identify the critical areas that should be automatically tested to keep the business processes continuity
+- write maintainable, readable tests of all types
+- utilize E2E & API Testing to maintain high stability
 - propose a proper testing strategy for the project
-- write various types of automated tests
 - automate the testing process via CI tools
 
 {{% /bubble%}}
@@ -23,7 +23,6 @@ title = "Testing Expertise"
 
 **Skills & practices**
 
-- Test driven development (TDD)
 - E2E
 - Tests preparation and setup
 - Contract testing
@@ -34,6 +33,7 @@ title = "Testing Expertise"
 - Test coverage
 - Continuous Integration/Deployment/Delivery
 
+<<<<<<< HEAD
 ---
 
 ## 📦 Test driven development (TDD)
@@ -62,6 +62,8 @@ title = "Testing Expertise"
   - applied to problem that requires algorithmic solution can result in ugly, complex, hard to understand and inefficient code
 - going out of sync between tests and code during refactoring (or even implementation) phase vs keeping all units fully tested
 
+=======
+>>>>>>> Cleanup
 ## 📦 API Contract testing
 
 ### 🎓 Learn
@@ -118,7 +120,12 @@ title = "Testing Expertise"
 
 ### 📝 Katas
 
+<<<<<<< HEAD
 - Present your sample acceptance test and elaborate about it (it could be a test for the exercise from Local storage section)
+=======
+- Present several acceptance tests and elaborate about them
+- ideally tests should utilize mocked request/response, interctions like clicking/typing/drag and drop
+>>>>>>> Cleanup
 
 ## 📦 Tooling / Test coverage
 
