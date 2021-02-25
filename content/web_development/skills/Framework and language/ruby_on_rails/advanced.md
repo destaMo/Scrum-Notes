@@ -8,16 +8,16 @@ weight = 2
 
 ## Framework & Language Advanced
 
-**Points:** 2 
+**Points:** 2
 
 **Description:** You can apply the best practices across the framework while delivering solution.
 
-**Person which successfully completed requirement for given block can:** 
+**Person which successfully completed requirement for given block can:**
 
 - Comprehend, design and deliver a full range of functionalities with no need for consultation (yet intuitively knows, when to ask for second opinion)
 - Demonstrate debuggins skills for a full range of problems within application, also by investigating the framework code
 - Identify all framework capabilities and best-practices
-- Name, explain, choose and apply a wide range of software desing patterns to solve particular problems 
+- Name, explain, choose and apply a wide range of software desing patterns to solve particular problems
 - Demonstrate strong skills in TDD/BDD
 
 {{% /bubble%}}
@@ -40,7 +40,7 @@ In this section we will build more advanced features in our Rails application an
 - [APIs comparison](https://dri.es/headless-cms-rest-vs-jsonapi-vs-graphql)
 - [An Architect's guide to APIs](https://www.redhat.com/architect/apis-soap-rest-graphql-grpc)
 - [Microservices](https://docs.microsoft.com/pl-pl/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)
-- [The Majestic Monolith](https://m.signalvnoise.com/the-majestic-monolith/)  
+- [The Majestic Monolith](https://m.signalvnoise.com/the-majestic-monolith/)
 - [Rails Guides - caching](https://guides.rubyonrails.org/caching_with_rails.html)
 - [Rails Guides - polymorphic-associations](https://guides.rubyonrails.org/association_basics.html#polymorphic-associations)
 - [STI vs Polymorphic Associations](https://www.freecodecamp.org/news/single-table-inheritance-vs-polymorphic-associations-in-rails-af3a07a204f2/)
@@ -62,12 +62,12 @@ In this section we will build more advanced features in our Rails application an
 ### 🎤 Interview
 
 **IMPORTANT TOPICS FOR DISCUSSION:**
- 
+
 - "Composition over Inheritance" - explain what is it and what can happen when you neglect this principle?
 - "Single-Table Inheritance vs. Polymorphic Associations" - explain when to use each of them, what kind of problems will they help you solve and what problems they can cause if you select wrong thing
 - "Asynchronous processing" - what is it? What tools can you use to implement it? What are pros and cons of introducing asynchronous processing in your application? When to use it?
 - "Caching" - what is it? Compare page/action/fragment/partial/low level caching? What are pros and cons of using caching in your application? When to use it?
-- "Microservices Oriented Architecture" - Compare it to monolith application. When to use? How communication between services looks like? What are the potential problems? What are the things that you should pay special attention to during design and implementation?  
+- "Microservices Oriented Architecture" - Compare it to monolith application. When to use? How communication between services looks like? What are the potential problems? What are the things that you should pay special attention to during design and implementation?
 - "JSON API vs GraphQL API vs REST API" - what are the pros and cons of using them? When will you suggest one over another?
 
 **OTHER QUESTIONS:**
@@ -88,20 +88,14 @@ In this section we will build more advanced features in our Rails application an
 - What is Dependency Injection?
 - What are Websockets? For what types of features are they great?
 - Explain each gem from content bank in one sentence. What problem does each of them solve?
-
-
 - List and explain creational patterns. Which of them have you used?
 - List and explain structural patterns. Which of them have you used?
 - List and explain behavioral patterns. Which of them have you used?
 - List code smells you know.
-
-
 - Discuss tools you can use for test coverage and point advantages they can bring to the project?
 - Discuss tools you can use for error reporting and point advantages they can bring to the project?
 - Discuss tools you can use for static code analysis that are related to security?
 - Discuss tools you can use for static code analysis that are related to complexity?
-
-
 - Explain Optimistic / Pessimistic locking.
 - What is Pub/Sub? - What problems do they solve? Provide meaningful examples when we should care about it and explain why?
 - What is a Message Broker - What problems do they solve? Provide meaningful examples when we should care about it and explain why?
@@ -145,7 +139,6 @@ In this section we will understand BDD and learn how to test external and intern
 - [cucumber](https://cucumber.io/)
 - [webmock](https://github.com/bblimke/webmock)
 - [vcr](https://github.com/vcr/vcr)
-
 
 ### 🎤 Interview
 
