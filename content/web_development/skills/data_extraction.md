@@ -25,9 +25,9 @@ title = "Data Extraction"
 
 ### **🎓 Learn**
 
-📗 [Legality of web scraping](https://www.notion.so/Data-extraction-429ef8d37b424ff487bd85c82f2aaa26#00a5c9eee95d4f5085b9c9ea82361c44)
-📗 [robots.txt](https://yoast.com/ultimate-guide-robots-txt/)
-📗 [Scraper vs Crawler](https://www.notion.so/Data-extraction-ae90cdccff9a43faa4fbf70c76a60e43#3cbc243de69b47af823141cf97bf7937)
+- 📗 [Legality of web scraping](https://www.notion.so/Data-extraction-429ef8d37b424ff487bd85c82f2aaa26#00a5c9eee95d4f5085b9c9ea82361c44)
+- 📗 [robots.txt](https://yoast.com/ultimate-guide-robots-txt/)
+- 📗 [Scraper vs Crawler](https://www.notion.so/Data-extraction-ae90cdccff9a43faa4fbf70c76a60e43#3cbc243de69b47af823141cf97bf7937)
 
 ### **🎤 Interview**
 
@@ -54,8 +54,8 @@ title = "Data Extraction"
 
 **🎓 Learn**
 
-📗 [How to avoid getting blocked](https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/)
-📗 [CSP & CORS](http://peterforgacs.github.io/2019/02/06/CSP-and-CORS/)
+- 📗 [How to avoid getting blocked](https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/)
+- 📗 [CSP & CORS](http://peterforgacs.github.io/2019/02/06/CSP-and-CORS/)
 
 ### **🎤 Interview**
 
@@ -75,11 +75,11 @@ title = "Data Extraction"
 
 ### **🎓 Learn**
 
-📗 [Selectors-api](https://www.w3.org/TR/selectors-api2/)
-📗 [Selectors-api2](https://www.w3.org/TR/selectors-api2/)
-📗 [Selectors](https://drafts.csswg.org/selectors-4/#complex)
-📗 [XPath](https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/)
-📗 [rpc](https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/)
+- 📗 [Selectors-api](https://www.w3.org/TR/selectors-api2/)
+- 📗 [Selectors-api2](https://www.w3.org/TR/selectors-api2/)
+- 📗 [Selectors](https://drafts.csswg.org/selectors-4/#complex)
+- 📗 [XPath](https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/)
+- 📗 [rpc](https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/)
 
 ### **🎤  Interview**
 
@@ -109,7 +109,7 @@ example DOM:
 ### **📦 Robot anonymization**
 
 **🎓 Learn**
-📗  [Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+- 📗  [Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 
 ### **🎤  Interview**
 
