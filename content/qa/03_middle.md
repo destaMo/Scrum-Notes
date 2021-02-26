@@ -2,29 +2,25 @@
 
 # Middle
 
-## Areas
+{{%bubble %}}
 
-**Competence**
+## Middle
 
-- understanding basic differences between manual and automated tests 
-- setting up test automation structure on a project
-- covering regression tests with end-to-end tests
-- using basic framework functions
-- creating useful custom functions in terms of test automation
-- using CSS selectors along with writing tests
+**Description:** You can create a test automation structure and cover critical paths with automation tests. You can propose improvements of the ongoing process and workflow on your projects.
 
-**Tools and technologies**
+**Person which successfully completed requirement for given block can:** 
+- Compare manual and automated testing and differentiate in what cases each of them should be used
+- Set up Cypress on a project from scratch
+- Write executable automation tests that give a valuable information about state of particular features
+- Create useful custom functions in terms of test automation
+- Support grabbing website elements with CSS selectors
+- Use jQuery to support writing automation tests
 
-- Cypress
-- CSS selectors
-- jQuery
-- git
+{{% /bubble%}}
 
 ---
 
 ## 📦 Test automation
-
-Create a test automation structure and cover critical paths with automation tests. Get to know with Cypress. Be aware of possibilities provided by jQuery while working with Cypress
 
 ### 🎓 Learn
 
@@ -40,14 +36,12 @@ Create a test automation structure and cover critical paths with automation test
 - 📙 [jQuery tree traversal - children, closest, find, parent, parents, siblings](https://api.jquery.com/category/traversing/tree-traversal/)
 - 📙 [jQuery filtering](https://api.jquery.com/category/traversing/filtering/)
 
-
 ### 🎤 Interview
 
 - What are the most important advantages and disadvantages of automated tests?
 - Is manual or automated testing more important/efficient than the other one? Compare those two approaches
 - What are some configurable options in Cypress?
 - When should you create custom commands or functions? Provide some examples
-
 
 ### 📝 Katas
 
@@ -59,8 +53,6 @@ Create a test automation structure and cover critical paths with automation test
 ---
 
 ## 📦 Improving the process
-
-Constantly monitor ongoing process and workflow on your projects. Point out flaws and suggest changes if needed. 
 
 ### 🎓 Learn
 
@@ -76,30 +68,3 @@ Constantly monitor ongoing process and workflow on your projects. Point out flaw
 ### 📝 Katas
 
 - What are some solutions to the imperfect process, based on case studies described in the document. How to solve those problems?
-
-
----
-
-## 📦 Git
-
-Be aware of basic git commands used for navigating between branches and handling changes. An enhanced version about git can be found in [Common section of devpath](https://selleo.com/devpath/common/git/).
-
-### 🎓 Learn
-
-- 📗 [getting started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-- 📗 [Git basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
-- 📗 [writing good commit message](https://juffalow.com/other/write-good-git-commit-message) 
-- 📗 [Git branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
-- 📗 [Github](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
-- 📗 [fetch, pull, push](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
-- 📗 [stash, stash apply](https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning)
-
-
-### 📝 Katas
-
-- Clone a repository of one of your projects
-- Create a new branch from another branch
-- Switch between branches
-- Pull the changes
-- Tell me how you would push the changes and create a pull request
-- Stash the changes
