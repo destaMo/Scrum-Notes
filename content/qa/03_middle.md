@@ -73,7 +73,7 @@ Constantly monitor ongoing process and workflow on your projects. Point out flaw
 
 ### 📝 Katas
 
-- Tell me what are some solutions of imperfect process, based on case studies described in the document. Maybe you have other ideas how to solve those problems?
+- What are some solutions to the imperfect process, based on case studies described in the document. How to solve those problems?
 
 
 ---
