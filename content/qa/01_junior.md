@@ -2,8 +2,6 @@
 title = "Junior"
 +++
 
-# Junior
-
 {{%bubble %}}
 
 ## Junior
@@ -130,4 +128,3 @@ title = "Junior"
 
 - Show me how you operate in terminal:
   * cd, ls, sudo, open
-  
