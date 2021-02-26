@@ -14,7 +14,7 @@ title = "Accessibility"
 
 - Knows the most common accessibility concerns and builds an software with accessibility in mind
 - Has a very good knowledge on A & AA levels of accessibility standarization.
-- Has a good awareness of AAAA accessibility standarization.
+- Has a good awareness of AAA accessibility standarization.
 - Knows which part of the accessibility standarization brings the biggest gain for end user.
 - Can use proper tools that supports accessibility compliance
 - Can prepare an A11y automatic audit
