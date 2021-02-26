@@ -80,7 +80,7 @@ Constantly monitor ongoing process and workflow on your projects. Point out flaw
 
 ## 📦 Git
 
-Be aware of basic git commands used for navigating between branches and handling changes. An enhanced version about git can be found in Common section of devpath.
+Be aware of basic git commands used for navigating between branches and handling changes. An enhanced version about git can be found in [Common section of devpath](https://selleo.com/devpath/common/git/).
 
 ### 🎓 Learn
 
