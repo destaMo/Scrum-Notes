@@ -58,7 +58,7 @@ Create a test automation structure and cover critical paths with automation test
 
 ## 📦 Improving the process
 
-Constantly monitor ongoing process and workflow on your proujects. Point out flaws and suggest changes if needed. 
+Constantly monitor ongoing process and workflow on your projects. Point out flaws and suggest changes if needed. 
 
 ### 🎓 Learn
 
