@@ -1,7 +1,5 @@
 +++ title = "Middle" +++
 
-# Middle
-
 {{%bubble %}}
 
 ## Middle
