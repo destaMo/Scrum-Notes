@@ -1,4 +1,6 @@
-+++ title = "Middle" +++
++++
+title = "Middle"
++++
 
 {{%bubble %}}
 
