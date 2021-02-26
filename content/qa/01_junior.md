@@ -1,29 +1,38 @@
++++
+title = "Junior"
++++
+
 # Junior
 
-## Areas
+{{%bubble %}}
 
-**Competence**
+## Junior
 
-- fundamentals of software testing
-- Cucumber/Gherkin syntax
+**Description:** You can create a test automation structure and cover critical paths with automation tests. You can propose improvements of the ongoing process and workflow on your projects.
+
+**Person which successfully completed requirement for given block can:** 
+- Perform basic tests of software alone.
+- Be aware of differences between test levels and test types classifications. Use the ISTQB nomenclature from the very first steps.
+
+- Build good relations in your team. Find out how the team works and fit into the workflow. Remember that good communication is the key for the cooperation to be efficient.
+
+- Use some helpful testing tools such as Chrome Dev Tools.
+- Simulate some specific states while testing, such as timezone or location
+- Use some useful technologies for testers, including those connected to structure and those which help with planning the tests
+- Use terminal to perform basic actions in your OS
+
+- Distinguish Gherkin syntax in Cucumber framework
 - JSON and XML syntax
 - basic terminal commands
-
-**Tools**
-
 - Chrome addons and dev tools
 - Browserstack
-
-
-**Best practices**
-
 - keeping good communication in a project team
+
+{{% /bubble%}}
 
 ---
 
 ## 📦 Testing
-
-Get familiar with basics of software testing. Be aware of differences between test levels and test types classifications. Use the ISTQB nomenclature from the very first steps.
 
 ### 🎓 Learn
 
@@ -33,7 +42,6 @@ Get familiar with basics of software testing. Be aware of differences between te
 - 📗 [functional and non-functional tests](https://softwaretestingfundamentals.com/functional-testing-vs-non-functional-testing/)
 - 📗 [black-box and white-box tests](https://softwaretestingfundamentals.com/black-box-testing-vs-white-box-testing/)
 
-
 ### 🎤 Interview
 
 - Describe the four test levels
@@ -42,12 +50,9 @@ Get familiar with basics of software testing. Be aware of differences between te
 - What is the difference between functional and non-functional tests? Provide exmaples of test types specific for both functional and non-functional tests
 - What is the difference between black-box and white-box tests?
 
-
 ---
 
 ## 📦 Processes and soft skills
-
-Build good relations in your team. Find out how the team works and fit into the workflow. Remember that good communication is the key for the cooperation to be efficient.
 
 ### 🎓 Learn
 
@@ -60,8 +65,6 @@ Build good relations in your team. Find out how the team works and fit into the 
 - 📗 [types of methodologies](https://www.innovativearchitects.com/KnowledgeCenter/basic-IT-systems/8-SDLC-models.aspx)
   * [Scrum](https://www.youtube.com/watch?v=2Vt7Ik8Ublw)
   * [Agile project management](https://www.youtube.com/watch?v=KdyV9okLRlc)
-
-
 
 ### 🎤 Interview
 
@@ -79,8 +82,6 @@ Build good relations in your team. Find out how the team works and fit into the 
 ---
 
 ## 📦 Tools
-
-Get together with helpful testing tools. Find out what are good ways to simulate some specific states while testing. Make a habit of using dev tools and be aware of the application structure.
 
 ### 🎓 Learn
 
@@ -112,8 +113,6 @@ Get together with helpful testing tools. Find out what are good ways to simulate
 
 ## 📦 Technologies
 
-Find out what are some useful technologies for testers, including those connected to structure and those which help with planning the tests. Master your efficiency while using terminal.
-
 ### 🎓 Learn
 
 - 📗 [Gherkin syntax](https://cucumber.io/docs/gherkin/)
@@ -131,4 +130,4 @@ Find out what are some useful technologies for testers, including those connecte
 
 - Show me how you operate in terminal:
   * cd, ls, sudo, open
----
+  

@@ -2,31 +2,27 @@
 title = "Independent"
 +++
 
-# Independent
+{{%bubble %}}
 
-## Areas
+## Independent
 
-**Competence**
+**Description:** 
 
-- recognizing the most risky areas business-wise
-- extending manual testing with other QA activities, such as analysing business requirements
-- supporting the testing with technical knowledge about application's structure
-- writing Gherkin test scenarios in BDD approach
+**Person which successfully completed requirement for given block can:** 
+- Recognize proper priorities of encountered risks and issues
+- Extending manual testing with other QA activities, such as analysing business requirements
+- Support the testing with technical knowledge about application's structure
+- Write Gherkin test scenarios in BDD approach
+- Support local testing with Browserstack
+- Smoothly onboard on any project using provided checklist
+- Utilize avilable resources to assure the quality in the most effective way
+- Use basic git commands to navigate between branches and handle changes
 
-**Tools**
-
-- Browserstack - local testing
-
-**Best practices**
-
-- using the onboarding checklist while setting on a project
-- utilizing avilable resources to assure the quality in the most effective way
+{{% /bubble%}}
 
 ---
 
 ## 📦 Testing and process
-
-Recognize proper priorities of encountered risks and issues. Be aware of how important is to include static testing such as reviewing business requirements. Seek for the best proportions in terms of both testing and overall QA activities.
 
 ### 🎓 Learn
 
@@ -60,15 +56,26 @@ Recognize proper priorities of encountered risks and issues. Be aware of how imp
 
 ## 📦 Technical competence
 
-Extend the way you use known technologies and tools for more advanced tasks.
-
 ### 🎓 Learn
 
 - 📗 [Browserstack - local testing](https://www.browserstack.com/docs/live/local-testing)
 - 📗 [Cucumber/Gherkin - best practices](https://automationpanda.com/2017/01/30/bdd-101-writing-good-gherkin/)
+- 📗 [Git - getting started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- 📗 [Git - basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+- 📗 [Git - writing good commit message](https://juffalow.com/other/write-good-git-commit-message) 
+- 📗 [Git - branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+- 📗 [Git - Github](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
+- 📗 [Git - fetch, pull, push](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
+- 📗 [Git - stash, stash apply](https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning)
 
 ### 📝 Katas
 
 - Gather technical information about an error (UI, console, request's response, logs) and recognize which ones are the most useful
 - Use gathered information to identify a potential area of the bug (Frontend/Backend)
 - Write test scenarios in Gherkin to cover example functionality, using BDD approach
+- Clone a repository of one of your projects
+- Create a new branch from another branch
+- Switch between branches
+- Pull the changes
+- Tell me how you would push the changes and create a pull request
+- Stash the changes
