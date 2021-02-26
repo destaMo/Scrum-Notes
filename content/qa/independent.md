@@ -1,5 +1,6 @@
 +++
 title = "Independent"
+weight = 2
 +++
 
 {{%bubble %}}

@@ -1,5 +1,6 @@
 +++
 title = "Junior"
+weight = 1
 +++
 
 {{%bubble %}}

@@ -1,5 +1,6 @@
 +++
 title = "Middle"
+weight = 3
 +++
 
 {{%bubble %}}
