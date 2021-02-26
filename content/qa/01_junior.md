@@ -1,7 +1,3 @@
-+++
-title = "Junior"
-+++
-
 # Junior
 
 ## Areas
