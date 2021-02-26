@@ -1256,3 +1256,43 @@ pre .copy-to-clipboard:hover {
     padding-left: 2.8rem;
   }
 }
+
+.bubble {
+  background: white;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.bubble-label {
+  font-size: 12px;
+  background: #ff6d2a;
+  position: relative;
+  display: inline-block;
+  padding: 5px 10px;
+  color: white;
+  left: -40px;
+}
+
+.bubble-content {
+
+}
+
+.todo {
+  background: lightyellow;
+  padding: 20px;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+
+.todo::before {
+  border-radius: 20px 0 20px 0;
+  content: 'TODO';
+  position: relative;
+  top: -20px;
+  left: -20px;
+  background: #ff6d2a;
+  color: white;
+  font-size: 12px;
+  padding: 5px 10px;
+  display: inline-block;
+}
