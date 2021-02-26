@@ -6,25 +6,19 @@ title = "Junior"
 
 ## Junior
 
-**Description:** You can create a test automation structure and cover critical paths with automation tests. You can propose improvements of the ongoing process and workflow on your projects.
+**Description:** You can perform basic manual tests using some useful tools. You know how to keep good communication with your team
 
 **Person which successfully completed requirement for given block can:** 
-- Perform basic tests of software alone.
-- Be aware of differences between test levels and test types classifications. Use the ISTQB nomenclature from the very first steps.
-
-- Build good relations in your team. Find out how the team works and fit into the workflow. Remember that good communication is the key for the cooperation to be efficient.
-
-- Use some helpful testing tools such as Chrome Dev Tools.
+- Perform basic tests of software on your own
+- Be aware of differences between test levels and test types classifications. Use the ISTQB nomenclature from the very first steps
+- Build good relations in your team
+- Use some helpful testing tools such as Chrome Dev Tools
 - Simulate some specific states while testing, such as timezone or location
 - Use some useful technologies for testers, including those connected to structure and those which help with planning the tests
 - Use terminal to perform basic actions in your OS
-
 - Distinguish Gherkin syntax in Cucumber framework
-- JSON and XML syntax
-- basic terminal commands
-- Chrome addons and dev tools
-- Browserstack
-- keeping good communication in a project team
+- Know JSON and XML syntax
+- Use Browserstack for cross-browser testing
 
 {{% /bubble%}}
 
@@ -124,7 +118,6 @@ title = "Junior"
 - Describe the structure of JSON (you can use an example)
 
 ### 📝 Katas
-
 
 - Show me how you operate in terminal:
   * cd, ls, sudo, open
