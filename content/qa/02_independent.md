@@ -6,11 +6,11 @@ title = "Independent"
 
 ## Independent
 
-**Description:** 
+**Description:** You can onboard on a project on your own and perform manual tests basing on risk and priorities. You can set up a testing environment locally using git
 
 **Person which successfully completed requirement for given block can:** 
 - Recognize proper priorities of encountered risks and issues
-- Extending manual testing with other QA activities, such as analysing business requirements
+- Extend manual testing with other QA activities, such as analysing business requirements
 - Support the testing with technical knowledge about application's structure
 - Write Gherkin test scenarios in BDD approach
 - Support local testing with Browserstack
