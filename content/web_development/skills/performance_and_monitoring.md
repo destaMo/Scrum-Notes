@@ -52,7 +52,7 @@ title = "Performance and monitoring"
 - [Zabbix](https://www.zabbix.com/)
 - [Grafana](https://grafana.com/) (visualisation)
 
-**Browser**
+**Error tracking:**
 - [Rollbar](https://rollbar.com/)
 - [Airbrake](https://airbrake.io/)
 - [Bugsnag](https://www.bugsnag.com/)
@@ -64,6 +64,8 @@ title = "Performance and monitoring"
 
 **Browser**
 - 📗 [Source Maps](https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map)
+- 📗 [web.dev - vitals](https://web.dev/vitals)
+- 📗 [web.dev - metrics](https://web.dev/metrics)
 
 #### 🎤 Interview
 
@@ -76,7 +78,7 @@ title = "Performance and monitoring"
 #### 📝 Katas
 
 - Integrate preferred SaaS tool in your app (or present some existing integration).
-- Set up preferred monitoring tool and integrate it in your app.
+- Set up preferred open-source monitoring tool and integrate it in your app.
 - How would you configure error reporting in various environments? Show me how your project handles multiple environments setup.
 
 ## 📦 Performance / analysis
