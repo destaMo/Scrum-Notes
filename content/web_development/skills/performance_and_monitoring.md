@@ -188,6 +188,7 @@ title = "Performance and monitoring"
 #### 🎓 Learn
 
 **Ruby**
+- 📙 [Hunting ruby memory issues](https://www.toptal.com/ruby/hunting-ruby-memory-issues)
 - 📙 [RailsConf 2019 - Profiling and Benchmarking 101](https://www.youtube.com/watch?v=XL51vf-XBTs)
 - 📙 [Pragmatic programmers - what makes ruby code slow](https://medium.com/pragmatic-programmers/what-makes-ruby-code-slow-94cc17447511)
 - 📙 [Performance tips for ruby on rails](https://www.mskog.com/posts/42-performance-tips-for-ruby-on-rails/)
