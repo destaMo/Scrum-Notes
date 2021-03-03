@@ -14,7 +14,7 @@ title = "Testing Expertise"
 
 - Identify the critical areas that should be automatically tested to keep the business processes continuity
 - propose a proper testing strategy for the project
-- write verious types of automated tests
+- write various types of automated tests
 - automate the testing proces via CI tools
 
 {{% /bubble%}}
