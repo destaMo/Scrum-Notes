@@ -57,6 +57,7 @@ weight = 3
 
 ### 🎓 Learn
 
+- 📗 [improving the process](https://selleo.com/blog/how-to-streamline-and-improve-your-process-6-steps-to-follow)
 - 📗 [case studies](https://docs.google.com/document/d/10_nopByLN6H41ZCFd4a6HRcHHJxvCeA8dLVy9AdCIgM/edit#heading=h.btku1i1kvyib)
 
 ### 🎤 Interview
