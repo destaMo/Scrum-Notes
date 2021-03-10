@@ -1,5 +1,5 @@
 +++
-title = "Ruby/Ruby On Rails - Mastery"
+title = "JavaScript/React - Mastery"
 weight = 3
 +++
 
