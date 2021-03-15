@@ -24,8 +24,8 @@ title = "Testing Expertise"
 **Skills & practices**
 
 - E2E
-- Tests preparation and setup
 - Contract testing
+- Tests preparation and setup
 - Dealing with unusual situations
 
 **Tooling**
@@ -33,6 +33,7 @@ title = "Testing Expertise"
 - Test coverage
 - Continuous Integration/Deployment/Delivery
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ---
 
@@ -64,12 +65,48 @@ title = "Testing Expertise"
 
 =======
 >>>>>>> Cleanup
+=======
+## 📦 E2E
+
+### 🎓 Learn
+
+- 📗 [Overview article](https://www.lambdatest.com/blog/all-you-need-to-know-about-end-to-end-testing/)
+- 📙 [Cypress](https://www.cypress.io/)
+- 📙 [Ember Testing guide](https://github.com/PoslinskiNet/ember-testing-guide) (acceptance section)
+- 📙 [E2E vs Contract testing](https://techbeacon.com/app-dev-testing/end-end-vs-contract-based-testing-how-choose)
+
+### 🎤 Interview
+
+- How to deal with auth/JWT?
+- What should we test and avoid in E2E?
+- What is conditional testing and when is it helpful?
+- What are pros and cons of using mocked data over real data, when would you use it and why?
+- How to work with requests in tests (waiting/reading data/overwriting)?
+- How to debug test runs?
+- How would you prepare your app to run E2E tests on it?
+- What are and how to deal with flaky tests?
+
+### 📝 Katas
+
+- Present several acceptance tests and elaborate about them
+- ideally tests should utilize mocked request/response, interctions like clicking/typing/drag and drop
+
+>>>>>>> WIP
 ## 📦 API Contract testing
 
 ### 🎓 Learn
 
-- 📗 [Contract testing](https://pactflow.io/blog/what-is-contract-testing/)
-- Research the API
+- 📗 [Postman automated tests](https://medium.com/better-practices/from-manual-to-automated-testing-the-roadblocks-and-the-journey-6333dfacc5ae)
+- 📗 [What is contract testing](https://pactflow.io/blog/what-is-contract-testing/)
+- 📗 [Introduction to contract testing](https://blog.scottlogic.com/2019/01/07/introduction-to-contract-testing-part-1.html)
+
+### 🎤 Interview
+
+- What is consumer-driven contract testing?
+- What tools would you use to automate contract testing?
+- What is OpenApi 3.0 and how it can help you in tests?
+
+<!-- - Research the API
   - what API allows (capabilities)
   - look for patterns in API structure
   - does it adhere to any standard
@@ -98,6 +135,7 @@ title = "Testing Expertise"
     - sandboxes can also be leveraged if available (need to be aware, that some sandboxes can go out-of-sync with their parent applications)
   - using real connections to fake services
     - i.e. locally set up servers, sandboxes or services mimicking original service behaviour
+<<<<<<< HEAD
     - especially useful for frontend development
 
 ## 📦 E2E
@@ -126,8 +164,11 @@ title = "Testing Expertise"
 - Present several acceptance tests and elaborate about them
 - ideally tests should utilize mocked request/response, interctions like clicking/typing/drag and drop
 >>>>>>> Cleanup
+=======
+    - especially useful for frontend development -->
+>>>>>>> WIP
 
-## 📦 Tooling / Test coverage
+<!-- ## 📦 Tooling / Test coverage
 
 - Does not reflect quality / quantity of test
 - Does reflect how much code was executed during test execution
@@ -143,7 +184,7 @@ title = "Testing Expertise"
 ### Rails
 
 - 📗 https://thoughtbot.com/upcase/videos/value-objects
-- 📗 https://github.com/thoughtbot-upcase-exercises/extract-value-object
+- 📗 https://github.com/thoughtbot-upcase-exercises/extract-value-object -->
 
 ## 📦 Tooling / Continuous Integration/Deployment/Delivery
 
