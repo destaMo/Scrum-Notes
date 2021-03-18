@@ -137,6 +137,7 @@ title = "API Expertise"
 
 ### 🎓 Learn
 
+- 📗 [Change strategy](https://nordicapis.com/api-change-strategy/)
 - 📗 [Version REST API](https://www.freecodecamp.org/news/how-to-version-a-rest-api/)
 - 📗 [API Versioning](https://apisyouwonthate.com/blog/api-versioning-has-no-right-way)
 - 📗 [Deprecations](https://swagger.io/specification/#operationDeprecated)
