@@ -7,18 +7,18 @@ weight = 1
 
 ## Framework & Language Basics
 
-**Points:** 2 
+**Points:** 2
 
 **Description:** You can use basic features of the framework, that allows you to deliver the most common features.
 
-**Person which successfully completed requirement for given block can:** 
+**Person which successfully completed requirement for given block can:**
 
 - Can deliver simple, typical functionalities with little to no additional help
 - When asking for help, can present the problem and already explored solutions clearly and in detail
 - Can debug simple problems within the application (excluding framework) using the right tooling
-- Can present the strenghts and use cases for the framework
-- Is capable of leveraging most commonly used standard library capabilities
-- Has working knowledge of most commonly used packages/libraries
+- Can use Redux and related tools
+- Is capable of leveraging the most commonly used React capabilities
+- Has working knowledge of the most commonly used packages/libraries
 
 **Prerequisites:** [Styling basics](/web_development/skills/styling/01_junior_i/)
 
@@ -29,114 +29,45 @@ weight = 1
 **React**
 
 - Overview
+- CRA
 - JSX
-- Handling events
-- Validating props structure
-- Setting up the app
-- Accessing DOM elements
-- Structuring the app
+- Components
+- Hooks
+- Devtools
 - Performance
-- Cleaning up on end of component life
+- Codebase structure
 - Routing
-
-**State management**
-
-- React state and props
-- Redux
-- MobX (alternative)
-
-**Forms**
-
 - Forms
-- Validation
-
-**Testing**
-
 - Testing
-- Rendering React
 
-**Patterns**
+**Redux**
 
-- Patterns
+- Overview
+- Setup
+- Usage
+- Devtools
+- Testing
 
 ---
 
 ## 📦 React / Overview
 
-Know what is React and what it's used for.
+After this section you will know what is React and what it's used for.
 
 ### 🎓 Learn
 
 - 📗 [react main page](https://reactjs.org/)
-- 📗 [what is react](https://reactjs.org/tutorial/tutorial.html#what-is-react)
-- 📗 [react lifecycle](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 
 ### 🎤 Interview
 
-- What is React?
-- What lifecycle flows & methods does React have?
+- What is React and what is it used for?
+- What are the main features of React?
 
 ---
 
-## 📦 React / JSX
+## 📦 React / CRA
 
-Know what is JSX and how to use it in React.
-
-### 🎓 Learn
-
-- 📗 [JSX in depth](https://reactjs.org/docs/jsx-in-depth.html)
-- 📗 [Function and class components](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
-- 📗 [Functional stateless component](https://stackoverflow.com/questions/40703675/react-functional-stateless-component-purecomponent-component-what-are-the-dif)
-- 📗 [Conditional rendering](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
-- 📗 [ClassNames package](https://github.com/JedWatson/classnames)
-- 📗 [Fragments](https://reactjs.org/docs/fragments.html)
-- 📗 [Portals](https://reactjs.org/docs/portals.html)
-
-### 🎤 Interview
-
-- What is the JSX?
-- What are the differences between JSX and HTML?
-- What are the types of React components?
-- Why React components need to be capitalized when using in JSX? eg. <MyComponent>
-- How to handle conditionally assigned css classes?
-- What is React Fragment?
-- What is React Portal?
-
----
-
-## 📦 React / Handling events
-
-Knows how to add behavior to interactions with the UI.
-
-### 🎓 Learn
-
-- 📗 [Events](https://reactjs.org/docs/events.html)
-- 📗 [Handling events](https://medium.com/@machnicki/handle-events-in-react-with-arrow-functions-ede88184bbb)
-
-### 🎤 Interview
-
-- How to assign handler to element event?
-- Why it’s better to define handler method as fat arrow than assign it using fat arrow in render?
-
----
-
-## 📦 React / Validating props structure
-
-Knows how to validate properties received by the component.
-
-### 🎓 Learn
-
-- 📗 [validating props with prop types](https://blog.logrocket.com/validating-react-component-props-with-prop-types-ef14b29963fc)
-
-### 🎤 Interview
-
-- What are React Prop types and how to use them?
-
----
-
-## 📦 React / Setting up the app
-
-Knows how to use CRA to quickly setup React application.
+After this section you will know how to use CRA to quickly setup React application.
 
 ### 🎓 Learn
 
@@ -145,26 +76,157 @@ Knows how to use CRA to quickly setup React application.
 ### 🎤 Interview
 
 - What is create-react-app and how to use it?
+- What you would need to do in order to setup a React application without CRA?
+
+### 📝 Katas
+
+- Setup application using CRA
 
 ---
 
-## 📦 React / Accessing DOM elements
+## 📦 React / JSX
 
-Knows how to use refs to get element reference in script.
+After this section you will know how to use JSX, how it differs from HTML and how to use ClassNames package
 
 ### 🎓 Learn
 
-- 📗 [Refs and the dom](https://reactjs.org/docs/refs-and-the-dom.html)
+- 📗 [Conditional rendering](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
+- 📗 [ClassNames package](https://github.com/JedWatson/classnames)
 
 ### 🎤 Interview
 
-- How to use React Ref’s to get DOM element?
+- What is the JSX?
+- What are the differences between JSX and HTML?
+- What methods to conditionally render UI do you know?
+- How to render UI from data array?
+- How are event handlers assigned to the UI?
+- Why it’s better to define handler method as fat arrow than assign it using fat arrow?
+- Why React components need to be capitalized when using in JSX? eg. <MyComponent> not <myComponent>
+- What is React Fragment?
+- What is React Portal?
+- What is the use case for the ClassNames package
+
+### 📝 Katas
+
+- Render parts of the UI conditionally
+- Display list of data
+- Handle user interaction using event handlers
+- Use ClassNames package for conditional class assignment
 
 ---
 
-## 📦 React / Structuring the app
+## 📦 React / Components
 
-Knows how to structure the react application.
+After this section you will know how to use React Components, manage state and perform effects in them.
+
+### 🎓 Learn
+
+- 📗 [Class vs Function component with hooks](https://dev.to/danielleye/react-class-component-vs-function-component-with-hooks-13dg)
+- 📗 [Class vs Function component differences](https://overreacted.io/how-are-function-components-different-from-classes/)
+- 📗 [Preventing memory leaks](https://egghead.io/lessons/react-stop-memory-leaks-with-componentwillunmount-lifecycle-method-in-react)
+- 📗 [Unidirectional data flow](https://medium.com/@lizdenhup/understanding-unidirectional-data-flow-in-react-3e3524c09d8e)
+- 📗 [React keys](https://dev.to/jtonzing/the-significance-of-react-keys---a-visual-explanation--56l7)
+- 📗 [Reset React Component using key](https://medium.com/@albertogasparin/forcing-state-reset-on-a-react-component-by-using-the-key-prop-14b36cd7448e)
+- 📗 [Prop-Types](https://github.com/facebook/prop-types)
+
+### 🎤 Interview
+
+- What is React Component?
+- What are the two types of Components and what are the differences between them?
+- What are the props of the Component?
+- How to validate props using PropTypes package?
+- What is "key" Component property for?
+- How to reset React Component (force component unmount and mount)
+- How to manage state in Class Component?
+- What are the lifecycle methods of Class component?
+- How to perform cleanups in a Class component? eg. clearing intervals
+- What are the React Hooks?
+- How to manage state with useState hook in Function Component?
+- How does the useEffect hook work and when it is triggered?
+- How to perform cleanups in a Function component? eg. clearing intervals
+- What does it mean that React has Unidirectional data flow?
+
+### 📝 Katas
+
+- Create Class component with state and use lifecycle methods.
+- When the Class component unmounts clear interval added using setInterval.
+- Create Function component with useState and useEffect hooks.
+- When the Function component unmounts clear interval added using setInterval.
+- Use PropTypes package to validate props structure.
+
+---
+
+## 📦 React / Hooks
+
+After this section you will know commonly used React hooks and React-Use package.
+
+### 🎓 Learn
+
+- 📗 [React refs guide](https://dmitripavlutin.com/react-useref-guide/)
+- 📗 [React-Use](https://github.com/streamich/react-use)
+
+### 🎤 Interview
+
+- What does the useCallback hook do and when to use it?
+- What does the useMemo hook do and when to use it?
+- What does the useRef hook do and when to use it?
+- What does the useReducer hook do and when to use it?
+- What is React Context, and what is its use-case?
+- How to create and consume React Context?
+- React-Use is package providing multitude of helpful hooks. Which of them you think might be useful for you? What they do?
+
+### 📝 Katas
+
+- Use useCallback, useMemo, useRef and useReducer hooks in your app.
+- Add React Context and consume it in a few components.
+- Use a few React-Use hooks in your app.
+
+---
+
+## 📦 React / Devtools
+
+After this section you will know how to effectively use React Development tools.
+
+### 🎓 Learn
+
+- 📗 [React Devtools walk-through](https://blog.logrocket.com/debug-react-applications-with-the-new-react-devtools/)
+
+### 🎤 Interview
+
+- What are React Devtools?
+
+### 📝 Katas
+
+- Show how to find a Component in React Devtools (From Elements tab, From App UI, By component name)
+- Show how to inspect Component (display state & props & hooks values, change state & props)
+- Show how to debug Component (display its HTML element, display Source, access the component from the console)
+
+---
+
+## 📦 React / Performance
+
+After this section you will know how to prevent common programming mistakes degrading React performance.
+
+### 🎓 Learn
+
+- 📗 [Correct key for lists](https://medium.com/information-and-technology/a-simple-list-render-optimization-for-react-ef0a133e9c86)
+- 📗 [Fat arrow function as event handler](https://stackoverflow.com/a/48740930/4349813)
+- 📗 [Pass memoized data and callbacks to components](https://blog.bitsrc.io/optimize-your-react-functional-components-with-usecallback-and-usememo-34bb52bc9a13)
+- 📗 [Optimization by reorganization](https://overreacted.io/before-you-memo/)
+
+### 🎤 Interview
+
+- What practices degrade React performance and how to fix them?
+
+### 📝 Katas
+
+- Make sure your app is free from the discussed performance bad practices :)
+
+---
+
+## 📦 React / Codebase structure
+
+After this section you will know how to organize project files in a clear manner.
 
 ### 🎓 Learn
 
@@ -173,56 +235,18 @@ Knows how to structure the react application.
 
 ### 🎤 Interview
 
-- How would you structure react components and redux files?
-- What structure of folders you have on the project? Would you change something?
-
----
-
-## 📦 React / Performance
-
-Knows how to avoid bad patterns affecting performance.
-
-### 🎓 Learn
-
-- 📗 [React keys](https://dev.to/jtonzing/the-significance-of-react-keys---a-visual-explanation--56l7)
-- 📗 [Using shouldComponentUpdate](https://developmentarc.gitbooks.io/react-indepth/content/life_cycle/update/using_should_component_update.html)
-- 📗 [List of optimizations](https://medium.com/information-and-technology/a-simple-list-render-optimization-for-react-ef0a133e9c86)
-
-### 🎤 Interview
-
-- How does React identify components as the same even if it’s properties change?
-- What are bad practices affecting React performance?
-- What should be the key for list elements?
-
----
-
-## 📦 React / Cleaning up on end of component life
-
-Knows possible situations leading to memory leaks and how to prevent them.
-
-### 🎓 Learn
-
-- 📗 [Forcing component remount](https://medium.com/@albertogasparin/forcing-state-reset-on-a-react-component-by-using-the-key-prop-14b36cd7448e)
-- 📗 [Preventing memory leaks](https://egghead.io/lessons/react-stop-memory-leaks-with-componentwillunmount-lifecycle-method-in-react)
-
-### 🎤 Interview
-
-- How to unmount component?
-- How to replace the same component class - unmount old and mount new?
-- How to prevent memory leaks in React?
+- How to organize project files?
 
 ---
 
 ## 📦 React / Routing
 
-Knows how to make multiple routes in React app.
+After this section you will know how to implementing routing in React SPA application.
 
 ### 🎓 Learn
 
 - 📗 [React router](https://reacttraining.com/react-router/web/guides/quick-start)
 - 📗 [Router concepts](https://blog.bitsrc.io/must-know-concepts-of-react-router-fb9c8cc3c12)
-- 📗 [Understanding react router](https://medium.com/@AkyunaAkish/understanding-react-router-4-df73a66d96c4)
-- 📙 [Redux router](https://github.com/acdlite/redux-router)
 
 ### 🎤 Interview
 
@@ -238,208 +262,225 @@ Knows how to make multiple routes in React app.
 
 ---
 
-## 📦 State management / React state and props
+## 📦 React / Forms
 
-Knows how to manage state using only the React tools. 
+After this section you will know how to create basic forms and validate user input.
 
 ### 🎓 Learn
 
-- 📗 [React state](https://reactjs.org/docs/state-and-lifecycle.html)
-- 📗 [Unidirectional data flow](https://medium.com/@lizdenhup/understanding-unidirectional-data-flow-in-react-3e3524c09d8e)
-
+- 📗 [Formik](https://github.com/jaredpalmer/formik)
+- 📗 [yup.js](https://github.com/jquense/yup/)
+- 📗 [Button default action](https://stackoverflow.com/a/10836076)
+- 📗 [Controlled vs uncontrolled components](https://stackoverflow.com/a/42522792)
 
 ### 🎤 Interview
 
-- How to modify component state?
-- What’s the difference between state and props?
-- What is unidirectional data flow? How it works in React?
+- Why using form library (like Formik) is often preferable over creating forms without such library?
+- What are Wizard Forms and why use them rather than regular forms?
+- What is the Button default type and why it is important in the context of forms?
+- What is the Difference between Controlled Component and Uncontrolled Component?
+- Does it make sense to validate forms on the frontend, as advanced users can disable it?
 
 ### 📝 Katas
 
-- Implement usage of props and state.
+- Implement Create and Edit Form in your app. Preferably both cases should be handled by the same component.
+- Create Wizard form in your app.
+- Implement form with array of fields (eg. user can add multiple addresses each consisting inputs for city, zip-code and street. User should be able to add as many addresses as needed. User should be able to remove addresses)
+- Add validation to the form using the Yup library
+- Add validation for fields depending on each other (eg. when user selects agreement to receive email, validate the age is over 18. Otherwise do not validate age is over 18)
 
 ---
 
-## 📦 State management / Redux
+## 📦 React / Testing
 
-Knows how to use Redux.
+After this section you will know how to test React application
 
 ### 🎓 Learn
 
-- 📗 [When Redux is not needed](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
+- 📗 [Jest.js](https://jestjs.io/)
+- 📗 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- 📗 [TDD with React Testing Library](https://typeofweb.com/tdd-react-testing-library/)
+- 📗 [Axios mock adapter](https://www.npmjs.com/package/axios-mock-adapter)
+- 📗 [Factory girl](https://github.com/aexmachina/factory-girl)
+
+### 🎤 Interview
+
+- What is TDD?
+- What does Jest and React Testing Library do?
+- What should we test in React application?
+- How to mock requests and provide example data?
+
+### 📝 Katas
+
+- Develop a few components or the whole app using TDD (should be verifiable by commit history)
+
+---
+
+## 📦 Redux / Overview
+
+After this section you will know what is Redux, what are its use-cases and when it is not needed.
+
+### 🎓 Learn
+
 - 📗 [Redux introduction](https://redux.js.org/introduction/getting-started)
+- 📗 [When Redux is not needed](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 - 📗 [Functional programming paradigms](https://hackernoon.com/functional-programming-paradigms-in-modern-JavaScript-immutability-4e9751ca005c)
-- 📗 [Redux step-by-step](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092)
-- 📗 [Seamless immutable](https://medium.com/@ckoster22/seamless-immutable-an-alternative-to-immutablejs-12795d6bf577)
-- 📗 [Selectors](https://redux.js.org/introduction/learning-resources#selectors)
-- 📗 [Selectors v2](https://blog.brainsandbeards.com/advanced-redux-patterns-selectors-cb9f88381d74)
-- 📗 [Redux devtools](https://github.com/reduxjs/redux-devtools)
 
 ### 🎤 Interview
 
 - What is Redux?
 - What is the use case(s) for Redux?
+- When Redux would be an overkill?
+
+---
+
+## 📦 Redux / Setup
+
+After this section you will know how to setup Redux with React.
+
+### 🎓 Learn
+
+- 📗 [React-Redux](https://react-redux.js.org/)
+- 📗 [React Devtools extension install](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=pl)
+- 📗 [React Devtools extension setup](https://github.com/zalmoxisus/redux-devtools-extension#1-with-redux)
+
+### 🎤 Interview
+
 - How do you connect Redux to React app and use it to manage application state?
-- What elements does Redux have and what are their responsibilities?
+- How to setup your app to communicate with redux devtools?
+- What is the suggested structure of Redux files?
+
+### 📝 Katas
+
+- Add Redux to your app using react-redux package.
+- Setup Redux devtools extension.
+
+---
+
+## 📦 Redux / Usage
+
+After this section you will know how to use Redux in the React app.
+
+### 🎓 Learn
+
+- 📗 [Redux step-by-step](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092)
+- 📗 [Seamless immutable](https://medium.com/@ckoster22/seamless-immutable-an-alternative-to-immutablejs-12795d6bf577)
+- 📗 [Reselect](https://github.com/reduxjs/reselect)
+- 📗 [Selectors v2](https://blog.brainsandbeards.com/advanced-redux-patterns-selectors-cb9f88381d74)
+- 📗 [Action constant types](https://itnext.io/namespacing-redux-action-type-constant-values-90b932eea43f)
+- 📗 [Redux-Thunk](https://github.com/reduxjs/redux-thunk)
+- 📗 [Flux Standard Action](https://github.com/redux-utilities/flux-standard-action)
+
+### 🎤 Interview
+
 - Can you mutate redux store data? Why?
-- How Redux devtools can support you with debugging/development?
+- What is the benefit of using Seamless Immutable library?
+- What elements does Redux have and what are their responsibilities?
 - What’s the flow from user interaction through redux and back to UI?
-
-
-### 📝 Katas
-
-- Implement Redux (action creators, reducers, selectors, and connect to the component)
-
----
-
-## 📦 State management / MobX (alternative)
-
-Knows how to use MobX for state management.
-
-### 🎓 Learn
-
-- 📗 [Mobx main page](https://github.com/mobxjs/mobx)
-- 📗 [Redux vs Mobx](https://www.robinwieruch.de/redux-mobx-confusion)
-- 📗 [Flows](https://mobx.js.org/best/actions.html#flows)
-- 📗 [React bindings for MobX](https://github.com/mobxjs/mobx-react)
-- 📗 [Observable](https://github.com/mobxjs/mobx#observable-state)
-
-
-### 🎤 Interview
-
-- How do you use mobx to manage application state?
-- What’s the flow from user interaction through mobx and back to UI?
-- What are observables, and how to turn any data structure into it?
-- What are computed values and how to use them?
-- What are reactions and how to use them?
-- How to handle errors in computed values and reactions?
-- What are actions and how to use them?
-- How do you connect mobx with react component?
-- Why it is discouraged to use shouldComponentUpdate
-- Why it is discouraged to use Observer with pureComponent 
-
----
-
-## 📦 Forms
-
-Knows how to create forms in React using the popular libraries.
-
-### 🎓 Learn
-
-- 📗 [Formik](https://github.com/jaredpalmer/formik)
-- 📗 [Controlled vs uncontrolled components](https://stackoverflow.com/a/42522792)
-- 📗 [Button default action](https://stackoverflow.com/a/10836076)
-- 📙 [Redux form](https://redux-form.com/8.1.0/)
-
-### 🎤 Interview
-
-- What form solutions you are familiar with? How they work for you?
-- What are the differences between create and edit forms? How do you handle them?
-- Difference between Controlled Component and Uncontrolled Component?
-- What should you be aware of when having many buttons in form?
+- Can multiple reducers handle the same action?
+- What are action constant types and why they are useful?
+- What is Redux middleware and what is Redux Thunk?
+- How is Redux Thunk useful?
+- What is Flux Standard Action and what properties they have?
 
 ### 📝 Katas
 
-- Create one form for create and edit
-- Create form handling nested data (eg. user.address.postalCode)
-- Create form handling data arrays
+- Implement at least one CRUD reducer, all needed action creators and selectors.
+- Use Seamless Immutable in reducers.
+- Use Reselect library to create selectors.
+- Use Redux Thunk for action creators.
+- Use Redux in the React app.
+- Create all actions in your app according to Flux Standard Action structure.
 
 ---
 
-## 📦 Forms / Validation
+## 📦 Redux / Devtools
 
-Knows how to validate forms in different stages of the user interaction.
+After this section you will know how to use Redux Devtools to debug application.
 
 ### 🎓 Learn
 
-- 📗 [yup.js](https://github.com/jquense/yup/)
-- 📗 [Submit and field validation in formik](https://jaredpalmer.com/formik/docs/guides/validation)
-- 📗 [Running validation in redux form](https://redux-form.com/7.3.0/examples/syncvalidation/)
+- 📗 [Redux devtools](https://github.com/reduxjs/redux-devtools)
+- 📗 [Redux devtools debugging tips](https://blog.logrocket.com/redux-devtools-tips-tricks-for-faster-debugging/)
 
 ### 🎤 Interview
 
-- Does it make sense to validate forms on the frontend, as advanced users can disable it?
-- When to validate form inputs?
-- Have you implemented some advanced validations? What were they?
-- Do you use package, or custom conditionals to validate form data? How is that solution work for you?
-- What two conditions should be met to show error message under input
+- What are Redux devtools?
 
 ### 📝 Katas
 
-- Add validation
-    - on input change
-    - on form submit
+- Walk me through the redux devtools features.
 
 ---
 
-## 📦 Testing
+## 📦 Redux / Testing
 
-Knows how to test frontend application and how to provide the test data.
-
-### 🎓 Learn
-
-- 📗 [Jest.js](https://jestjs.io/)
-- 📗 [Faker.js](https://github.com/marak/Faker.js)
-- 📗 [Unit testing react](https://medium.com/JavaScript-scene/unit-testing-react-components-aeda9a44aae2)
-- 📗 [Factory girl](https://github.com/aexmachina/factory-girl)
-
-### 🎤 Interview
-
-- How do you test your application?
-- How do you provide data for tests?
-
----
-
-## 📦 Testing / Rendering React
-
-Knows how to use Enzyme or React Testing Library to render components in unit tests.
+After this section you will know how to test Redux in your application.
 
 ### 🎓 Learn
 
-- 📗 [Enzyme](https://github.com/airbnb/enzyme/) suggested
-- 📗 [Why not use shallow rendering](https://blog.kentcdodds.com/why-i-never-use-shallow-rendering-c08851a68bb7)
-- 📗 [Why use shallow rendering](https://hackernoon.com/why-i-always-use-shallow-rendering-a3a50da60942)
-- 📗 [Pattern to setup components in enzyme](https://selleo.com/blog/how-to-setup-react-component-in-tests)
-- 📙 [React testing library](https://github.com/testing-library/react-testing-library)
-- 📙 [Additional matchers for enzyme](https://github.com/FormidableLabs/enzyme-matchers/tree/master/packages/jest-enzyme)
+- 📗 [Testing Redux](https://redux.js.org/recipes/writing-tests#async-action-creators)
+- 📗 [Testing Reselect composed selectors](https://github.com/reduxjs/reselect/issues/76#issuecomment-267433461)
 
 ### 🎤 Interview
 
-- How do you render React component in tests?
-- Do you repeat component setup on every test case?
+- Why do we need tests for Redux?
+- What parts of Redux should we test, how?
 
 ### 📝 Katas
 
-- Add tests for component UI (conditional rendering & rendering of the lists)
-    - find element and expect it’s content
-    - using snapshots
-- Add tests for event handlers
-    - find element, perform event (eg. click) and test what happened next
-- Add tests for code in lifecycle methods
-- Add tests for methods passed to child components.
-- Setup component using buildSetup pattern
-- Add tests for reducer
-- Add tests using full rendering for component connected to store (will require creating mocked store)
+- Add tests for reducers and action creators.
+- Add tests for selectors containing logic.
 
 ---
 
-## 📦 Patterns
+## 📝 Application
 
-Know what are Higher Order Components and how to test them.
+### 💯 Requirements
 
-### 🎓 Learn
+- Make sure your app is free from the discussed performance bad practices :)
 
-- 📗 [HOC-in-depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e)
-- 📗 [Components golden rule](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb)
-- 📙 [HOC-deep-dive1](https://medium.com/@toastui/a-deep-dive-into-the-react-hoc-1-fb431c131866)
-- 📙 [HOC-deep-dive2](https://medium.com/@toastui/a-deep-dive-into-the-react-hoc-2-3e8ed18b848b)
+- Develop a few components or the whole app using TDD (should be verifiable by commit history)
 
-### 🎤 Interview
+### ✨ Features
 
-- How does HOC’s work, and how to share functionality between components?
-- What about general purpose functions needed in different components? e.g date formatting
+- Setup application using CRA
+- Add Redux to your app using react-redux package.
+- Setup Redux devtools extension.
 
-### 📝 Katas
+- Render parts of the UI conditionally
+- Display list of data
+- Handle user interaction using event handlers
+- Use ClassNames package for conditional class assignment
 
-- Create HOC and use it a few times to share the behaviour between multiple components
-- Add tests for HOC
+- Create Class component with state and use lifecycle methods.
+- When the Class component unmounts clear interval added using setInterval.
+- Create Function component with useState and useEffect hooks.
+- When the Function component unmounts clear interval added using setInterval.
+- Use PropTypes package to validate props structure.
+
+- Use useCallback, useMemo, useRef and useReducer hooks in your app.
+- Add React Context and consume it in a few components.
+- Use a few React-Use hooks in your app.
+
+- Implement routing for a few pages
+- Pass and use params through the url (eg. users/:userId)
+- Redirect programmatically using history object (from React Router)
+
+- Implement Create and Edit Form in your app. Preferably both cases should be handled by the same component.
+- Create Wizard form in your app.
+- Implement form with array of fields (eg. user can add multiple addresses each consisting inputs for city, zip-code and street. User should be able to add as many addresses as needed. User should be able to remove addresses)
+- Add validation to the form using the Yup library
+- Add validation for fields depending on each other (eg. when user selects agreement to receive email, validate the age is over 18. Otherwise do not validate age is over 18)
+
+- Implement at least one CRUD reducer, all needed action creators and selectors.
+- Use Seamless Immutable in reducers.
+- Use Reselect library to create selectors.
+- Connect Redux to the UI (dispatch actions, get data from selectors)
+
+### 🛠 Tools usage skills
+
+- Show how to find a Component in React Devtools (From Elements tab, From App UI, By component name)
+- Show how to inspect Component (display state & props & hooks values, change state & props)
+- Show how to debug Component (display its HTML element, display Source, access the component from the console)
+- Walk me through the redux devtools features.
