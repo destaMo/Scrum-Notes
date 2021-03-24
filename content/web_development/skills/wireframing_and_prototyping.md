@@ -46,20 +46,22 @@ Is knowledgeble of basic aspects of UX
 
 ### 📝 Katas
 
-- Build a base wireframe with ...
+- Build a base wireframe with login screen. After login list of items is visible, after clicking on the item - item details are presented
 
 ## 📦 Prototyping
 
 ### 🎓 Learn
-- 📗 [What is Prototyping?](https://www.interaction-design.org/literature/topics/prototyping)
-- 📗 [low-code vs no-code](https://www.outsystems.com/blog/posts/low-code-vs-no-code/)
-
+- [What is Prototyping?](https://www.interaction-design.org/literature/topics/prototyping)
+- [low-code vs no-code](https://www.outsystems.com/blog/posts/low-code-vs-no-code/)
+- [The top 5 no-code tools](https://blog.prototypr.io/the-top-5-no-code-tools-for-building-an-app-6b61c57a62a0)
+- [My Journey to Building a No-Code Prototype](https://www.producthunt.com/stories/my-journey-to-building-a-no-code-prototype)
 
 **Tools**
-- 📗 [Retool](https://retool.com/)
-- 📺 [Retool tutorial](https://www.youtube.com/playlist?list=PLqWdQFDVLADmCPoQLWJ0G137Z2zExXOGu)
-- 📗 [bubble.io](https://bubble.io/)
-- 📙 [Zoho creator](https://www.zoho.com/creator/)
+- [Retool](https://retool.com/)([templates](https://retool.com/templates/))
+- [Retool tutorial](https://www.youtube.com/playlist?list=PLqWdQFDVLADmCPoQLWJ0G137Z2zExXOGu)
+- [bubble.io](https://bubble.io/)([examples](https://bubble.io/showcase), [templates](https://bubble.io/templates))
+- [proto.io(mobile)](https://proto.io/)
+- [Zoho creator](https://www.zoho.com/creator/)
 
 #### 🎤 Interview
 
@@ -70,4 +72,7 @@ Is knowledgeble of basic aspects of UX
 
 ### 📝 Katas
 
-- Build a prototype...
+- Build a prototype of kudos system:
+    - Page with user listing (users from API)
+    - Page for single user with form for kudos giving
+    - Counter with kudos amount available to give
