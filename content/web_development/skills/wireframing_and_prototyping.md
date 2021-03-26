@@ -57,11 +57,11 @@ Is knowledgeble of basic aspects of UX
 - [My Journey to Building a No-Code Prototype](https://www.producthunt.com/stories/my-journey-to-building-a-no-code-prototype)
 
 **Tools**
-- [Retool](https://retool.com/)([templates](https://retool.com/templates/))
-- [Retool tutorial](https://www.youtube.com/playlist?list=PLqWdQFDVLADmCPoQLWJ0G137Z2zExXOGu)
-- [bubble.io](https://bubble.io/)([examples](https://bubble.io/showcase), [templates](https://bubble.io/templates))
-- [proto.io(mobile)](https://proto.io/)
-- [Zoho creator](https://www.zoho.com/creator/)
+- 📗[Retool](https://retool.com/) ([templates](https://retool.com/templates/))
+- 📺[Retool tutorial](https://www.youtube.com/playlist?list=PLqWdQFDVLADmCPoQLWJ0G137Z2zExXOGu)
+- 📙[bubble.io](https://bubble.io/) ([examples](https://bubble.io/showcase), [templates](https://bubble.io/templates))
+- 📙[proto.io(mobile)](https://proto.io/)
+- 📙[Zoho creator](https://www.zoho.com/creator/)
 
 #### 🎤 Interview
 
@@ -73,6 +73,8 @@ Is knowledgeble of basic aspects of UX
 ### 📝 Katas
 
 - Build a prototype of kudos system:
-    - Page with user listing (users from API)
+    - Page with user listing (users from API/DB, [example](https://gist.githubusercontent.com/dawidholisz/e653f4abe2e2b9a60771e25bf2b9578f/raw/ca482232609945e676f7467a2724213f7c3323bc/users.json))
     - Page for single user with form for kudos giving
     - Counter with kudos amount available to give
+    - given kudos must be saved
+    - embedded the prototype in another app
