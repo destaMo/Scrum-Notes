@@ -67,18 +67,17 @@ Know your environment (operating system, terminal, basic command lines, running 
     - 📗 [macos](https://support.apple.com/macos)
     - 📗 [mac shortcuts](https://support.apple.com/en-us/HT201236)
     - 📗 [brew - package manager (](https://brew.sh/)[new to mac](https://support.apple.com/explore/new-to-mac), brew install, brew cask install)
-    - 📗 [setup your mac for development and learn about apps](https://github.com/Selleo/DevPath/blob/master/frontend_developer/01_tools/01_mac_setup.md)
 
 ### 🎤 Interview
 
 - What is the use case of environment variable `PATH` and how you can debug it?
 - What editor (in terminal) did you choose, and why?
-- What are the most useful terminal shortcuts for you?
+- What are the most useful terminal shortcut for you?
 - What is the best way to access documentation?
 
 ### 📝 Katas
 
-- Go through [Linux Junior 1 requirements](/common/linux.md)
+- Go through [Linux Junior 1 requirements](/common/linux/)
 - Do you have any plans to improve your productivity? Show me a 3 months plan with steps you would like to implement
 
 ---
