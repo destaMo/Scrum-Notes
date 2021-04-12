@@ -6,11 +6,11 @@ title = "Data Extraction"
 
 ## Data Extraction
 
-**Points:** 2 
+**Points:** 2
 
 **Description:** You can identify the challanges that need to be tackled and demonstrate the experience in area of data extraction
 
-**Person who successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:**
 
 - Has a reasonably complete knowledge of anti-data-extraction strategies and ways of countering them (ie. proxies, rate limiting, CAPTCHA etc.)
 - Can manifest solid and practical skills in using CSS and XPATH selectors
@@ -25,9 +25,9 @@ title = "Data Extraction"
 
 ### **🎓 Learn**
 
-- 📗 [Legality of web scraping](https://www.notion.so/Data-extraction-429ef8d37b424ff487bd85c82f2aaa26#00a5c9eee95d4f5085b9c9ea82361c44)
+- 📗 [Legality of web scraping](https://www.tutorialspoint.com/python_web_scraping/legality_of_python_web_scraping.htm)
 - 📗 [robots.txt](https://yoast.com/ultimate-guide-robots-txt/)
-- 📗 [Scraper vs Crawler](https://www.notion.so/Data-extraction-ae90cdccff9a43faa4fbf70c76a60e43#3cbc243de69b47af823141cf97bf7937)
+- 📗 [Scraper vs Crawler](https://dzone.com/articles/web-scraping-vs-web-crawling-whats-the-difference)
 
 ### **🎤 Interview**
 
@@ -95,7 +95,7 @@ title = "Data Extraction"
 
 - Get all elements which have attributes with pattern `data-test-xxx` and get values from them.
 
-example DOM: 
+example DOM:
 
 ```html
 <div class="miko">
