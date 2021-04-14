@@ -72,6 +72,7 @@ After this section you will know how to use CRA to quickly setup React applicati
 ### 🎓 Learn
 
 - 📗 [Create React App](https://github.com/facebook/create-react-app)
+- 📙 [What CRA actually do](https://levelup.gitconnected.com/what-does-create-react-app-actually-do-73c899443d61)
 
 ### 🎤 Interview
 
@@ -162,11 +163,14 @@ After this section you will know commonly used React hooks and React-Use package
 
 ### 🎓 Learn
 
+- 📗 [Getting current state in setState with function argument](https://stackoverflow.com/questions/42494985/setstate-in-react-based-on-current-state/42496452#42496452)
+- 📗 [When to use state and when reducer](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)
 - 📗 [React refs guide](https://dmitripavlutin.com/react-useref-guide/)
 - 📗 [React-Use](https://github.com/streamich/react-use)
 
 ### 🎤 Interview
 
+- What do to when you need the current state value to set new state? (eg. incrementing)
 - What does the useCallback hook do and when to use it?
 - What does the useMemo hook do and when to use it?
 - What does the useRef hook do and when to use it?
@@ -174,6 +178,7 @@ After this section you will know commonly used React hooks and React-Use package
 - What is React Context, and what is its use-case?
 - How to create and consume React Context?
 - React-Use is package providing multitude of helpful hooks. Which of them you think might be useful for you? What they do?
+- How does hooks dependency array work? How to make a hook run on component: mount, unmount, property change
 
 ### 📝 Katas
 
@@ -247,6 +252,7 @@ After this section you will know how to implementing routing in React SPA applic
 
 - 📗 [React router](https://reacttraining.com/react-router/web/guides/quick-start)
 - 📗 [Router concepts](https://blog.bitsrc.io/must-know-concepts-of-react-router-fb9c8cc3c12)
+- 📗 [History](https://medium.com/@pshrmn/a-little-bit-of-history-f245306f48dd)
 
 ### 🎤 Interview
 
@@ -259,6 +265,7 @@ After this section you will know how to implementing routing in React SPA applic
 - Implement routing for a few pages
 - Pass and use params through the url (eg. users/:userId)
 - Redirect programmatically using history object (from React Router)
+- What are different types of history used for routing?
 
 ---
 
