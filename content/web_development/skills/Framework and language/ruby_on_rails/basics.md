@@ -17,7 +17,7 @@ weight = 1
 - Can deliver simple, typical functionalities with little to no additional help
 - When asking for help, can present the problem and already explored solutions clearly and in detail
 - Can debug simple problems within the application (excluding framework) using the right tooling
-- Can present the strenghts and use cases for the framework
+- Can present the strengths and use cases for the framework
 - Is capable of leveraging most commonly used standard library capabilities
 - Has working knowledge of most commonly used packages/libraries
 
@@ -198,7 +198,7 @@ In this section we will build a Rails application with most common features and 
 
 - [devise](https://github.com/heartcombo/devise)
 - [pundit](https://github.com/varvet/pundit)
-- [sello pattern](https://github.com/Selleo/pattern)
+- [selleo pattern](https://github.com/Selleo/pattern)
 - [simple form](https://github.com/heartcombo/simple_form)
 - [kaminari](https://github.com/kaminari/kaminari)
 - [ranasack](https://github.com/activerecord-hackery/ransack)
@@ -211,7 +211,7 @@ In this section we will build a Rails application with most common features and 
 - [brakeman](https://github.com/presidentbeef/brakeman)
 - [bullet](https://github.com/flyerhzm/bullet)
 - [rspec](https://github.com/rspec/rspec-rails)
-- [facoty bot](https://github.com/thoughtbot/factory_bot)
+- [factory bot](https://github.com/thoughtbot/factory_bot)
 - [faker](https://github.com/faker-ruby/faker)
 
 **APPLICATION DESCRIPTION**
