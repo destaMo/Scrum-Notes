@@ -13,9 +13,9 @@ title = "Planning"
 **Person who successfully completed requirement for given block can:** 
 
 - Is capable of retrieving information from product owner good enough for preparing/formalising precise scope of work that will much customer expectations
-- Can effectively dividide and prioritise the scope of work into individual tasks with adequate granularity
+- Can effectively divide and prioritise the scope of work into individual tasks with adequate granularity
 - Prioritises tasks to address risks, challenges and unknowns early in the process
-- Describes tasks in an unambiguous way so those are easily addressable - provides clear acceptance criteria, reasoning, developer guidelines and other helpful assests when necessary (not necessarily ""micro-manages"" tasks)
+- Describes tasks in an unambiguous way so those are easily addressable - provides clear acceptance criteria, reasoning, developer guidelines and other helpful assets when necessary (not necessarily ""micro-manages"" tasks)
 - Can effectively estimate necessary effort for delivering scope of work and can prepare convincing timelines
 
 {{% /bubble%}}

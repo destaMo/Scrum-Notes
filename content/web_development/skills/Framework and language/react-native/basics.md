@@ -205,7 +205,7 @@ Instead of React Router we have React Navigation that is a leading library in ca
 
 ## 📦 ReactNative / Redux
 
-Knows how to use Redux data managment.
+Knows how to use Redux data management.
 
 ### 🎓 Learn
 
@@ -264,7 +264,7 @@ You need to know how to render virtual list component from Backend
 
 ## ReactNative / React Hooks
 
-Developer should use new functional aproach to create functional components with usage of React hooks.
+Developer should use new functional approach to create functional components with usage of React hooks.
 
 ### 🎓 Learn
 

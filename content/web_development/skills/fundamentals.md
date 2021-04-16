@@ -4,14 +4,14 @@ title = "Fundamentals"
 
 {{%bubble %}}
 
-## Interview
+## Fundamentals
 
 **Description:** You understand basic concepts around web development
 
 **Person who successfully completed requirement for given block can:** 
 
 - Can configure working environment
-- Can effectievly configure & use IDE
+- Can effectively configure & use IDE
 - Can explain how browser works
 - Can identify HTTP issues with browser tools
 - Can use GIT versioning
@@ -88,7 +88,7 @@ Know your editor - below are materials for VSCode, but you can choose other. Ens
 
 ### 🎓 Learn
 
-- 📗 [vscode using & customizing](https://github.com/mike-works/vscode-fundamentals/tree/master/docs) (**Usefull Extensions:** ESLint, Sass, Prettier, Jest)
+- 📗 [vscode using & customizing](https://github.com/mike-works/vscode-fundamentals/tree/master/docs) (**Useful Extensions:** ESLint, Sass, Prettier, Jest)
 - 📙 [intro to vim: from chapter: "background", to chapter "save & exit"](https://www.turnkeylinux.org/blog/vim-tutorial)
 - 📙 [practice vim](https://www.openvim.com/)
 - 📙 [vim emulator from vscode](https://github.com/VSCodeVim/Vim)
@@ -139,7 +139,7 @@ Read about how the web works - you do not need to remember all the details, just
 
 ## 📦 Tools / GIT CLI
 
-Go throght [common git requirements](/common/git/).
+Go through [common git requirements](/common/git/).
 
 ---
 

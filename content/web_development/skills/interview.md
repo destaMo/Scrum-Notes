@@ -38,7 +38,7 @@ title = "Interview"
 - 📙 [javascript 1](https://blog.webf.zone/front-end-javascript-interviews-in-2018-19-e17b0b10514) /  [javascript 2](https://www.toptal.com/javascript/interview-questions) /  [javascript 3](https://www.guru99.com/javascript-interview-questions-answers.html) / [javascript 4](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
 - 📙 [ember.js 1](https://github.com/Selleo/DevPath/tree/master/frontend_developer/03_frameworks/21_technology_emberjs_for_the_interview.md) / [ember.js 2](https://www.toptal.com/emberjs/interview-questions)
 - 📙 [react.js 1](https://www.toptal.com/react/interview-questions) / [react.js 2](https://tylermcginnis.com/react-interview-questions/)
-- 📙 [graphql 1](https://www.fullstack.cafe/blog/5-graphql-interview-questions-you-should-know) / [grpahql 2](https://www.howtographql.com/advanced/5-common-questions/)
+- 📙 [graphql 1](https://www.fullstack.cafe/blog/5-graphql-interview-questions-you-should-know) / [graphql 2](https://www.howtographql.com/advanced/5-common-questions/)
 
 ### 🎤 Interview
 
@@ -69,7 +69,7 @@ title = "Interview"
 - What type of metrics or reports have you used?
 - Have you ever disagreed with your boss or manager? What did you do?
 - What do you think are the most important aspects to pay attention to when reviewing another team member’s code?
-- Tell me about a time you developed a feature for a user and, once delivered, it wasn’t what they wanted. Where was the disconnect, and what did you learn from this experience?
+- Tell me about a time you developed a feature for a user and, once delivered, it wasn't what they wanted. Where was the disconnect, and what did you learn from this experience?
 - Describe a time a team member was struggling and you proactively reached out to help.
 
 #### Projects and Experience

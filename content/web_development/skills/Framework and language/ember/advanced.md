@@ -14,9 +14,9 @@ weight = 2
 **Person who successfully completed requirement for given block can:** 
 
 - Comprehend, design and deliver a full range of functionalities with no need for consultation (yet intuitively knows, when to ask for second opinion)
-- Demonstrate debuggins skills for a full range of problems within application, also by investigating the framework code
+- Demonstrate debugging skills for a full range of problems within application, also by investigating the framework code
 - Identify all framework capabilities and best-practices
-- Name, explain, choose and apply a wide range of software desing patterns to solve particular problems 
+- Name, explain, choose and apply a wide range of software design patterns to solve particular problems 
 - Demonstrate strong skills in TDD/BDD
 
 **Prerequisites:** 
@@ -41,7 +41,7 @@ You will learn about mocking data for testing purposes too. You will write your 
 
 **Ember data II**
 - Configure/customize ember data adapter (for the development and for the production)
-- Specify a headers for each request outcoming your application
+- Specify a headers for each request outgoing your application
 - Know how to deserialize properties coming from the server
 - Know how to serialize properties to pass server validation
 - Can create a custom type for model property
@@ -110,12 +110,12 @@ Basics of the authentication in your application
 
 - How can you access session data?
 - How will you check if a user is logged?
-- How will you prevent unlogged user from accessing protected route
+- How will you prevent non logged user from accessing protected route
 - Can you have a different authenticators in your application? *ember-simple-auth case
 
 ### 📝 Katas
 - Show a authentication in your project *Recommended
-- Implement a basic login / logut functionality to your application
+- Implement a basic login / logout functionality to your application
 
 ---
 
@@ -228,7 +228,7 @@ How to implement a integration test in Ember.js
 - How can you override a component action in tests?
 - How will you stub a store service to not make a call while using `.findAll` instead of it should return predefined array with objects
 - How will you create a array of records in tests and pass it to component?
-- Name with explaination a few functions provided by Ember Test Helpers
+- Name with explanation a few functions provided by Ember Test Helpers
 - Why should you use Ember Test Selector in your application? What are benefits of using it?
 - Can you use Ember Test Selectors in a combination with Qunit Dom?
 

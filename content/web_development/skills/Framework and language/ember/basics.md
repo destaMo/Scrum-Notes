@@ -16,7 +16,7 @@ weight = 1
 - Can deliver simple, typical functionalities with little to no additional help
 - When asking for help, can present the problem and already explored solutions clearly and in detail
 - Can debug simple problems within the application (excluding framework) using the right tooling
-- Can present the strenghts and use cases for the framework
+- Can present the strengths and use cases for the framework
 - Is capable of leveraging most commonly used standard library capabilities
 - Has working knowledge of most commonly used packages/libraries
 
