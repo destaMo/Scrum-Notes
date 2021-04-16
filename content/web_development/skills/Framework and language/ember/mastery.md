@@ -41,7 +41,7 @@ After finishing this course you should be comfortable with components patterns, 
 - Know limitations of engines
 
 **Initializers**
-- Know role of initilizers in the application
+- Know role of initializers in the application
 - Know differences between application initializer and application instance initializer
 - Know how to create own initializer and use it
 
@@ -65,9 +65,9 @@ Knows different patterns in Ember.js
 ### 🎤 Interview
 
 - What is the higher order component? Elaborate about one use-case
-- What is the usecase of presentation component
-- What is the usecase of container component
-- What is the usecase of contextual component
+- What is the use case of presentation component
+- What is the use case of container component
+- What is the use case of contextual component
 
 ### 📝 Katas
 Build a higher order component to display various information about user (user: imageUrl, name, age, favouriteDish)
@@ -86,7 +86,7 @@ Basics of the authorization in your application
 
 ### 🎤 Interview
 
-- How can you check if user has enough permisson to perfom a given action
+- How can you check if user has enough permission to perform a given action
 - What is the role of `Ability`
 - What helpers are provided by Ember Can
 
@@ -163,7 +163,7 @@ How to implement an acceptance test in Ember.js
 - Elaborate about 3 functions provided by `ember-test-helpers`
 
 ### 📝 Katas
-- Show the acceeptance tests in your project
+- Show the acceptance tests in your project
 - Provide an acceptance test for a list of items:
   - Check initial items count
   - Provide a remove item scenario (count should decreased with each delete)

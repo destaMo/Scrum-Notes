@@ -28,7 +28,7 @@ Provide the list of PR's or other contributions that prove you understand each s
 
 #### CSS
 * when margins collapse
-* what are pseudoelements
+* what are pseudo elements
 * what is necessary for :before to work?
 * How to set multiple backgrounds in CSS and what are the properties for controlling it?
 * What types of colors can you use in CSS?

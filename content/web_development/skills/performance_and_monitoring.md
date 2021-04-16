@@ -13,8 +13,8 @@ title = "Performance and monitoring"
 **Person who successfully completed requirement for given block can:**
 
 - Has strong and working knowledge in setting up and leveraging a wide range of performance monitoring and error tracking tools
-- Is capable of precisesly identifying reasons behind performance problems in web applications
-- Has strong skillset in using load testing tools to prepare peak-load and volume testing scenarios and is capable of determining maximum throughput for given environment
+- Is capable of precisely identifying reasons behind performance problems in web applications
+- Has strong skill set in using load testing tools to prepare peak-load and volume testing scenarios and is capable of determining maximum throughput for given environment
 - Is capable of recommending right infrastructure configuration to meet performance needs
 
 {{% /bubble%}}

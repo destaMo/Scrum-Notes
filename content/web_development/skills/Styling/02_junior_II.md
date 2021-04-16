@@ -1,6 +1,6 @@
 # TECHNOLOGY :: Frontend :: CSS/HTML
 
-Besides a small tech interview, prepare a list of PR's or other contributions that prove your understanding of the subject from J1 and J2. If you don't have any you can implement a design from dribbble. Pick one that you like for desktop and mobile, and send it to me for approval before you start coding. While implementing, keep in mind the [Selleo CSS writing best practices](https://gist.github.com/ArekJanik/0f2a101935aed483782c15f2d5b73273). For easier feedback, prepare it as a PR. 
+Besides a small tech interview, prepare a list of PR's or other contributions that prove your understanding of the subject from J1 and J2. If you don't have any you can implement a design from dribble. Pick one that you like for desktop and mobile, and send it to me for approval before you start coding. While implementing, keep in mind the [Selleo CSS writing best practices](https://gist.github.com/ArekJanik/0f2a101935aed483782c15f2d5b73273). For easier feedback, prepare it as a PR. 
 
 &nbsp;
 

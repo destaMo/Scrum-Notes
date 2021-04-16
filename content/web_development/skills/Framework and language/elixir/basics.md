@@ -17,7 +17,7 @@ weight = 1
 - Can deliver simple, typical functionalities with little to no additional help
 - When asking for help, can present the problem and already explored solutions clearly and in detail
 - Can debug simple problems within the application (excluding framework) using the right tooling
-- Can present the strenghts and use cases for the framework
+- Can present the strengths and use cases for the framework
 - Is capable of leveraging most commonly used standard library capabilities
 - Has working knowledge of most commonly used packages/libraries
 
@@ -109,12 +109,12 @@ Elixir language fundamentals.
 - What are module attributes and what should we know about them?
 - How we can inspect process on running system?
 - What is the difference between cond, with and case?
-- What is the defference between .ex and .exs files
-- Compile time vs Runtime differenes.
+- What is the difference between .ex and .exs files
+- Compile time vs Runtime differences.
 
 ### 📝 Katas
 
-- Solve 10 alorithmic coding challanges(HackerRank/Exercism/AdventOfCode) with Elixir
+- Solve 10 algorithmic coding challenges(HackerRank/Exercism/AdventOfCode) with Elixir
 
 ---
 
@@ -130,7 +130,7 @@ Knows Plug library that can be used without phoenix for simple endpoints.
 ### 🎤 Interview
 
 - What is Plug?
-- How we can implement outr own plugs?
+- How we can implement our own plugs?
 - What is Conn struct?
 - How we can use Plug Router?
 
@@ -161,12 +161,12 @@ Knows Phoenix web framework and concepts behind it.
 
 ### 🎤 Interview
 
-- What are adventages of Phoenix over other solutions on the market?
+- What are advantages of Phoenix over other solutions on the market?
 - What deployment options do we have for phoenix based application?
 - Explain briefly the phoenix framework directory structure.
 - Could you elaborate about configuration in Phoenix project?
 - What are contexts in the scope of Phoenix framework?
-- What is the responsibility of `Endpoint` moudle?
+- What is the responsibility of `Endpoint` module?
 - How HTTP works?
 - What do you know about request lifecycle?
 - What is routing pipeline?
@@ -182,7 +182,7 @@ Create an application with Phoenix Framework which contains:
 - Registration
 - JWT based authentication
 - Roles based authorization
-- At least 3 entities logically conected withch each other
+- At least 3 entities logically connected with each other
 - Email notifications(at least one)
 - Sorting
 - Pagination
@@ -192,7 +192,7 @@ The app should be exposed as REST API
 All critical features should be covered with automated tests.
 
 If you don't have an idea what app you could create, you could crate a close of sth popular like. Twitter, 9gag,
-Meetup.com or use realworld https://github.com/gothinkster/realworld/tree/master/api
+Meetup.com or use real world https://github.com/gothinkster/realworld/tree/master/api
 
 All of above feature can be checked via different projects(already done side projects/commercial project/open source)
 
@@ -214,7 +214,7 @@ Know what is Ecto, can perform basic operations on database.
 - What is Repo?
 - How to perform migrations?
 - What is changeset?
-- What is the difference between schema and embeded schema?
+- What is the difference between schema and embedded schema?
 
 ### 📝 Katas
 

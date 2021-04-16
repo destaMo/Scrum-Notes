@@ -43,4 +43,4 @@ title = "Compliance"
 ---
 
 ### 📝 Katas
-- Show me how did you manage to make your application compliant to GDPR or other standard and what was your biggest challange doing so
+- Show me how did you manage to make your application compliant to GDPR or other standard and what was your biggest challenge doing so

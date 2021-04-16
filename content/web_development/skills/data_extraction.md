@@ -8,7 +8,7 @@ title = "Data Extraction"
 
 **Points:** 2
 
-**Description:** You can identify the challanges that need to be tackled and demonstrate the experience in area of data extraction
+**Description:** You can identify the challenges that need to be tackled and demonstrate the experience in area of data extraction
 
 **Person who successfully completed requirement for given block can:**
 

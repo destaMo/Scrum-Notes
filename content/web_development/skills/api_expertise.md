@@ -8,7 +8,7 @@ title = "API Expertise"
 
 **Points:** 2 
 
-**Description:** You can build (or mock) & use standarized APIs as well as document your own API.
+**Description:** You can build (or mock) & use standardized APIs as well as document your own API.
 
 **Person who successfully completed requirement for given block can:** 
 

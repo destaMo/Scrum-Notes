@@ -22,8 +22,8 @@ Familiarize yourself with the concepts from the book, be able to explain then, a
   - How you would explain 5 rules of programming in your own words?
   - Why the code needs to be testable? (And how TDD and BDD might help)
   - What kind of feedback loops can be included in the software development process that will improve quality and the speed of the development?
-  - How Continues Delivery impact sofware development?
-  - Why is beneficial to use Scrum as softwarer development methodology?
+  - How Continues Delivery impact software development?
+  - Why is beneficial to use Scrum as software development methodology?
   - What is your role in Scrum team and Scrum events?
   - Could you guide me with your own words, through [Joel Spolsky Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 - JavaScript:
