@@ -31,8 +31,6 @@ title = "Testing Expertise"
 **Tooling**
 
 - Test coverage
-- Continuous Integration/Deployment/Delivery
-
 ---
 
 ## 📦 API Contract testing
@@ -66,7 +64,6 @@ title = "Testing Expertise"
 
 - What should we test and avoid in E2E?
 - How to deal with authorization in E2E tests?
-- What is conditional testing and when is it helpful?
 - What are pros and cons of using mocked data over real data, when would you use it and why?
 - How to work with requests (waiting/reading data/overwriting)?
 - How to debug test runs?
@@ -79,47 +76,29 @@ title = "Testing Expertise"
 ### 📝 Katas
 
 - Present several acceptance tests and elaborate about them
-- ideally tests should utilize mocked request/response, interctions like clicking/typing/drag and drop
+- tests should utilize mocked request/response, interctions like clicking/typing/drag and drop
 
 ## 📦 Tooling / Test coverage
 
-- Does not reflect quality / quantity of test
-- Does reflect how much code was executed during test execution
-- TDD results in coverage is close to 100%
-- SimpleCov as a tool of choice for Rails
-- Test that may not be tested by choice (and may affect coverage)
-  - Migrations
-  - Data fixes
-  - CLI Tools (rake tasks)
-  - `/lib` that is outside of main app context - i.e. console tools / extensions
-- enforcing certain level, ensuring “no drop”
+### 🎓 Learn
+- Elaborate on code coverage reliability and usefulness
+- Code coverage in TDD
+
+### 📝  Katas
+- Setup code coverage monitoring tool on CI ensuring given coverage and no coverage drop
 
 ## 📦 Tooling / Continuous Integration/Deployment/Delivery
 
 ### 🎓 Learn
+- 📗 [GH Actions](https://docs.github.com/en/actions)
+- 📗 [Travis](https://docs.travis-ci.com/)
+- 📗 [CircleCI](https://circleci.com/docs/)
 
-- Continuous integration
-  - continuously integration with main branch
-- Continuous delivery
-  - deployment is manual
-- Continuous deployment
-  - continuously deploying application
-- 📗 [Comparison](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
-- 📗 https://www.freecodecamp.org/news/the-real-difference-between-ci-and-cd/
 
 ### 🎤 Interview
+- What should you consider when selecting CI for your test runs
 - How could you speed up your test runs?
-- How to prepare your tests for parallel execution?
 
-### Tools
 
-- TravisCI
-- CircleCI
-
-- Steps (examples)
-  - Linting
-  - Running tests
-  - Smoke tests
-  - Static code analysis
-    - Security
-    - Libraries are up to date
+### 📝  Katas
+- Setup and run your E2E and contract tests on CI of your choice
