@@ -20,13 +20,14 @@ title = "Planning"
 
 {{% /bubble%}}
 
-{{%todo %}}
-
 ## Areas
 
-**Section 1**
+**Planning**
 
-- Sub section...
+- Understanding The Business
+- Preparing Epics
+- Preparing Stories
+- Tools
 
 ---
 
@@ -38,4 +39,70 @@ title = "Planning"
 
 ### 📝 Katas
 
-{{% /todo%}}
+---
+
+**Assigning Tasks**
+
+- Assigning a Task to a Person
+- Estimating the Work
+
+---
+
+## 📦 Sub section...
+
+### 🎓 Learn
+
+### 🎤 Interview
+
+### 📝 Katas
+
+---
+
+**Monitoring the Progress**
+
+- Tasks Velocity
+- Tools
+
+---
+
+## 📦 Sub section...
+
+### 🎓 Learn
+
+### 🎤 Interview
+
+### 📝 Katas
+
+---
+
+**Reacting to Changes**
+
+- Default response to an ad-hoc event
+- Cases
+
+---
+
+## 📦 Sub section...
+
+### 🎓 Learn
+
+### 🎤 Interview
+
+### 📝 Katas
+
+---
+
+**After Planning**
+
+- Retrospective
+- Metrics
+
+---
+
+## 📦 Sub section...
+
+### 🎓 Learn
+
+### 🎤 Interview
+
+### 📝 Katas
