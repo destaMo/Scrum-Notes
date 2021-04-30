@@ -436,7 +436,7 @@ After this section you will know how to generate types for your schema and use t
 
 ### 🎓 Learn
 
-- 📗 [TODO TIL about codegen setup]()
+- 📗 [creating types and hooks with codegen](https://selleo.com/til/posts/g8sdwxnyzl-use-graphql-schema-to-create-ts-types-and-react-hooks)
 
 ### 🎤 Interview
 
