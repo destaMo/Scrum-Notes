@@ -403,4 +403,3 @@ This place is a sink for all good practices that we've gathered with years of ex
 
 - What are the good practices that had the most impact on you?
 - Were the good practices listed in DevPath new to you?
-- # Are there any good practices that every other leader should know about?
