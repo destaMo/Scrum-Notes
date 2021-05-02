@@ -10,7 +10,7 @@ title = "Compliance"
 
 **Description:** You can evaluate the level of compliance of specific solution and prepare an action plan to make it compliant if needed.
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Is fully aware of requirements imposed by GDPR and one other standards used in system they are working on
 - Is capable of recommending strategies and solutions for requirements mentioned above
@@ -43,4 +43,4 @@ title = "Compliance"
 ---
 
 ### 📝 Katas
-- Show me how did you manage to make your application compliant to GDPR or other standard and what was your biggest challange doing so
+- Show me how did you manage to make your application compliant to GDPR or other standard and what was your biggest challenge doing so

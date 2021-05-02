@@ -1,22 +1,24 @@
 +++
-title = "Persistance - Advanced"
+title = "Persistence - Advanced"
 weight = 2
 +++
 
 {{%bubble %}}
 
-## Persistance Advanced
+## Persistence Advanced
 
 **Points:** 2
 
-**Description:** You can get the most out of the relational database (PostgreSQL) and knows when to pick different solution for persistance layer
+**Description:** You can get the most out of the relational database (PostgreSQL) and know when to pick different solution for the persistence layer
 
-**Person which successfully completed requirement for given block can:** 
+**A person who successfully completed requirement for the given block:** 
 
-- Knows other type of databases and common use-cases for them
-- Can build reactable database solution
+- Knows other types of databases and common use-cases for them
+- Can build a robust database solution that satisfies customer needs
 - Can use query optimization technics
 - Knows how to use complex operations keeping the high-level of data integrity
+- Understands different data models and their applications
+
 
 {{% /bubble%}}
 
@@ -24,13 +26,13 @@ weight = 2
 
 **Competence**
 
-- Different types of persistance layers
+- Different types of persistence layers
 - More joins
 - Filtering out distinct rows
 - Conditionals
 - Text/math operations & formatting
 - JSON / JSONB
-- Foreign keys and referencial integrity
+- Foreign keys and referential integrity
 - Basic indexing
 - Subqueries
 - Transactions basics
@@ -48,7 +50,7 @@ weight = 2
 - Text search
 
 {{%todo %}}
-## 📦 Different types of persistance layers
+## 📦 Different types of persistence layers
 {{% /todo%}}
 
 ## 📦 More joins
@@ -123,7 +125,7 @@ Math:
 
 ---
 
-## 📦 Foreign keys and referencial integrity
+## 📦 Foreign keys and referential integrity
 
 -  FOREIGN KEY
 
@@ -135,7 +137,7 @@ Math:
 
 ## Basic indexing
 
-- understand that there are different types that support different operations (no need for in-depth theory how it works)
+- Understand that there are different types that support different operations (no need for in-depth theory how it works)
 - Unique
 - Multicolumn
 
@@ -279,7 +281,7 @@ Math:
 
 ## 📦 Text search
 
-As a general rule you understand differences and similiartites between two approaches and you know when to use Postgres or ElasticSearch.
+As a general rule you understand the differences and similarities between the two approaches and you know when to use Postgres or ElasticSearch.
 
 ### 🎓 Resources
 
@@ -307,6 +309,33 @@ Possible use cases:
 - 📙 [es-mapping](https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html)
 - 📙 [es-query-dsl](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html)
 
+## Different data models
+
+- 📙 ["Classification" of different database systems](https://db-engines.com/en/article/NoSQL)
+- 📗 [No-SQL db-engines](https://db-engines.com/en/article/NoSQL)
+- 📗 [No-SQL Microsoft docs](https://azure.microsoft.com/en-us/overview/nosql-database/)
+- 📗 [No-SQL MongoDB docs](https://www.mongodb.com/nosql-explained)
+
+### Document-oriented
+
+- 📙 [DB engines](https://db-engines.com/en/article/Document+Stores)
+- 📙 [Wikipedia](https://en.wikipedia.org/wiki/Document-oriented_database)
+- 📙 [DB engines - MongoDB](https://db-engines.com/en/system/MongoDB)
+
+### Graph-oriented 
+
+- 📙 [Graph DBMS](https://db-engines.com/en/article/Graph+DBMS)
+- 📙 [Intro to Graphs and Neo4j](https://www.youtube.com/watch?v=Go3P73-KV30)
+- 📙 [Neo4j Top Use Cases](https://www.youtube.com/watch?v=lb90EBfAj0o)
+- 📙 [Neo4j graph database book](https://neo4j.com/graph-databases-book/)
+- 📙 [Data modeling](https://neo4j.com/developer/data-modeling/)
+- 📙 [Neo4j gists](https://neo4j.com/graphgists/)
+
+### Wide-Column stores
+
+- 📙 [DB engines](https://db-engines.com/en/article/Wide+Column+Stores)
+- 📙 [Dataversity](https://www.dataversity.net/wide-column-database/)
+
 ## Questions
 
 1. What's the difference between `DISTINCT` and `DISTINCT ON`?
@@ -319,7 +348,7 @@ Possible use cases:
 - How to refresh it?
 - Can we create indexes? Why/Why not?
 - What conditions must be met to refresh materialized view via `CONCURRENTLY` option? 
-6. Describe basic index types and their operators support.
+6. Describe basic index types and their operators' support.
 - What types/data are worth indexing?
 - In which situations is it [is it not] beneficial to create an index?
 - Does the order of indexed columns for the multicolumn index matter? Why/Why not?
@@ -342,3 +371,8 @@ Possible use cases:
 16. What is a query planner?
 - Does it always generate fully optimal plan?
 - Can you force query planner to choose a different plan?
+17. Describe NoSQL database of your choice.
+18. What is the column store and what is a column-oriented storage that exists in some RDBMS?
+19. In which situations would you recommend a document-oriented store?
+20. In which situations would you recommend a graph-oriented store?
+21. Describe NoSQL scaling.

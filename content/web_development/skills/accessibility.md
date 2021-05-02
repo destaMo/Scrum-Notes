@@ -8,14 +8,14 @@ title = "Accessibility"
 
 **Points:** 1
 
-**Description:** You can identify the challanges that need to be tackled to make an application accessible
+**Description:** You can identify the challenges that need to be tackled to make an application accessible
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
 - Knows the most common accessibility concerns and builds an software with accessibility in mind
-- Has a very good knowledge on A & AA levels of accessibility standarization.
-- Has a good awareness of AAA accessibility standarization.
-- Knows which part of the accessibility standarization brings the biggest gain for end user.
+- Has a very good knowledge on A & AA levels of accessibility standardization.
+- Has a good awareness of AAA accessibility standardization.
+- Knows which part of the accessibility standardization brings the biggest gain for end user.
 - Can use proper tools that supports accessibility compliance
 - Can prepare an A11y automatic audit
 

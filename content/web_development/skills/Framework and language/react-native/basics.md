@@ -11,7 +11,7 @@ weight = 1
 
 **Description:** You can build simple Mobile App, that have basic functionalities and user experience. Utilize library responsible for common requirements that normal mobile app should meet.
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Run React Native application on Android or iOS simulator or device.
 - Can debug using ReactNativeDebugger or Flipper, with usage of console statements.
@@ -205,7 +205,7 @@ Instead of React Router we have React Navigation that is a leading library in ca
 
 ## 📦 ReactNative / Redux
 
-Knows how to use Redux data managment.
+Knows how to use Redux data management.
 
 ### 🎓 Learn
 
@@ -264,7 +264,7 @@ You need to know how to render virtual list component from Backend
 
 ## ReactNative / React Hooks
 
-Developer should use new functional aproach to create functional components with usage of React hooks.
+Developer should use new functional approach to create functional components with usage of React hooks.
 
 ### 🎓 Learn
 

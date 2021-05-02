@@ -10,12 +10,12 @@ title = "Testing Expertise"
 
 **Description:** You can use testing automation tool in critical area of the system, to increase the overall stability of the solution in terms of business requirements.
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
 - Identify the critical areas that should be automatically tested to keep the business processes continuity
 - propose a proper testing strategy for the project
 - write various types of automated tests
-- automate the testing proces via CI tools
+- automate the testing process via CI tools
 
 {{% /bubble%}}
 
@@ -54,7 +54,7 @@ title = "Testing Expertise"
   - break code to ensure that "natural-greens" test the correct thing (limit false-positives)
 - for every context prefer introducing counter-context
 - benefits/costs of TDD
-  - when not to TDD (i.e. one-off jobs, scripts, datafixes, migrations - code not used by main application)
+  - when not to TDD (i.e. one-off jobs, scripts, data fixes, migrations - code not used by main application)
   - 📗 [Tests-induced design damage](https://dhh.dk/2014/test-induced-design-damage.html) (when focusing on code testability results in overcomplicated solutions)
   - TDD often guides good architecture and helps ensuring long-term stability and extensibility (by keeping tech debt under control)
   - we add only what we need - not too much and not too little
@@ -66,15 +66,15 @@ title = "Testing Expertise"
   - smoke tests
   - performance/load/stress/volume(...) tests (i.e. how system behave under some specific/maximum/peak load, lots of data, query count, code benchmarking)
 - inside-out (pre-planned implementation architecture)
-  - great for problems that need algorithmical solution where specification is unlikely to change much
+  - great for problems that need algorithmic solution where specification is unlikely to change much
   - results in highly optimised solution and tests
-  - also results in soldified solution, that may be difficult to change or refactor for reuse
+  - also results in solidified solution, that may be difficult to change or refactor for reuse
   - requires skills in planning implementation of solutions for complex problems
 - outside-in (implementation architecture planned on-the-fly)
   - great for "simple" problems (process oriented) where specification may be likely to change
   - results in not overcomplicated, elastic-for-refactoring solution
   - does not require sophisticated skills in planning implementation architecture
-  - applied to problem that requires algorithmical solution can result in ugly, complex, hard to understand and inefficient code
+  - applied to problem that requires algorithmic solution can result in ugly, complex, hard to understand and inefficient code
 - going out of sync between tests and code during refactoring (or even implementation) phase vs keeping all units fully tested
 
 ## 📦 Test doubles
@@ -175,7 +175,7 @@ title = "Testing Expertise"
 
 ### 📝 Katas
 
-- Present your sample acceptance test and elaborate about it (it could be a test for the excercise from Local storage section)
+- Present your sample acceptance test and elaborate about it (it could be a test for the exercise from Local storage section)
 
 ## 📦 Tooling / Test coverage
 

@@ -12,10 +12,10 @@ weight = 2
 
 **Description:** You can apply the best practices across the framework while delivering solution.
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:** 
 
-- Comprehend, design and deliver a full range of functionalities with no need for consultation (yet intuitively knows, when to ask for second opinion)
-- Demonstrate debuggins skills for a full range of problems within application, also by investigating the framework code
+- Comprehend, design and deliver a full range of functionalities with no need for consultation (yet intuitively knows, when to ask for the second opinion)
+- Demonstrate debugging skills for a full range of problems within application, also by investigating the framework code
 - Identify all framework capabilities and best-practices
 - Name, explain, choose and apply a wide range of software desing patterns to solve particular problems 
 - Demonstrate strong skills in TDD/BDD
@@ -81,5 +81,4 @@ Phoenix framework advanced features.
   - 📗 [jsonapi](https://github.com/jeregrine/jsonapi)
   - 📗 [Channels](https://hexdocs.pm/phoenix/channels.html#content)
   - 📗 [Testing Channels](https://hexdocs.pm/phoenix/testing_channels.html#content)
-
 

@@ -10,12 +10,12 @@ title = "Planning"
 
 **Description:** You can prepare the action plan for delivering a feature, that requires scope analysis, split chunk of work, prepare a good description of each item and spread the work among team members.
 
-**Person which successfully completed requirement for given block can:**
+**Person who successfully completed requirement for given block can:**
 
-- Is capable of retrieving information from product owner good enough for preparing/formalising precise scope of work that will match customer expectations
+- Is capable of retrieving information from product owner good enough for preparing/formalising precise scope of work that will much customer expectations
 - Can effectively divide and prioritise the scope of work into individual tasks with adequate granularity
 - Prioritises tasks to address risks, challenges and unknowns early in the process
-- Describes tasks in an unambiguous way so those are easily addressable - provides clear acceptance criteria, reasoning, developer guidelines and other helpful assests when necessary (not necessarily ""micro-manages"" tasks)
+- Describes tasks in an unambiguous way so those are easily addressable - provides clear acceptance criteria, reasoning, developer guidelines and other helpful assets when necessary (not necessarily ""micro-manages"" tasks)
 - Can effectively estimate necessary effort for delivering scope of work and can prepare convincing timelines
 
 {{% /bubble%}}
@@ -403,4 +403,4 @@ This place is a sink for all good practices that we've gathered with years of ex
 
 - What are the good practices that had the most impact on you?
 - Were the good practices listed in DevPath new to you?
-- Are there any good practices that every other leader should know about?
+- # Are there any good practices that every other leader should know about?

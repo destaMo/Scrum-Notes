@@ -1,21 +1,22 @@
 +++
-title = "Persistance - Basics"
+title = "Persistence - Basics"
 weight = 1
 +++
 
 {{%bubble %}}
 
-## Persistance Basics
+## Persistence Basics
 
 **Points:** n/a (prerequisite for Backend Framework & Language basics)
 
 **Description:** You can store & manipulate the data in one type of the database that is required to build an application with basic framework knowledge
 
-**Person which successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for the given block:** 
 
 - Knows how to read the data from transactional database
 - Understands benefits & limitations of transactional database
 - Can manipulate the structure and the data of the database
+- Understands the difference between various database systems
 
 {{% /bubble%}}
 
@@ -158,16 +159,29 @@ weight = 1
 
 - 📗 [functions-aggregate](https://www.postgresql.org/docs/11/static/functions-aggregate.html)
 
+## No-SQL
+
+- 📗 [No-SQL wikipedia](https://en.wikipedia.org/wiki/NoSQL)
+- 📗 [No-SQL db-engines](https://db-engines.com/en/article/NoSQL)
+
+### Key-value stores
+
+- 📗 [Key-value stores](https://db-engines.com/en/article/Key-value+Stores)
+- 📙 [Redis](https://db-engines.com/en/system/Redis)
+
 ## Questions
 
 1. What is a Primary Key?
 2. Tell me about basic data types in PostgreSQL.
 3. What's the difference between single quotes `'` and double quotes `"` in PostgreSQL?
 4. How to perform type casting?
-5. What `UNIQUE` constraint guarentees?
+5. What `UNIQUE` constraint guarantees?
 - Can it be used for multiple columns?
 - How does `UNIQUE` behave in combination with `NULL` values? Why does it work this way?
 6. What is the purpose of `INNER JOIN`? 
 7. How do `LIMIT` and `OFFSET` work?
 8. How to sort data?
 9. Give an example of a query that uses `GROUP BY` and `HAVING`.
+10. How would you define No-SQL?
+11. Describe key-value store of your choice.
+- Provide some use-cases of key-value stores.
