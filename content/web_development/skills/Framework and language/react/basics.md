@@ -331,13 +331,15 @@ After this section you will know what is Redux, what are its use-cases and when 
 
 - 📗 [Redux introduction](https://redux.js.org/introduction/getting-started)
 - 📗 [When Redux is not needed](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
-- 📗 [Functional programming paradigms](https://hackernoon.com/functional-programming-paradigms-in-modern-JavaScript-immutability-4e9751ca005c)
+- 📗 [Functional programming paradigms](https://hackernoon.com/functional-programming-paradigm-in-javascript-km173u4i)
 
 ### 🎤 Interview
 
 - What is Redux?
 - What is the use case(s) for Redux?
 - When Redux would be an overkill?
+- What is a pure function?
+- What is immutability?
 
 ---
 
