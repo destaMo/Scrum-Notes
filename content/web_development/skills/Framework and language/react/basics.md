@@ -307,12 +307,14 @@ After this section you will know how to test React application
 - 📗 [Jest.js](https://jestjs.io/)
 - 📗 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - 📗 [TDD with React Testing Library](https://typeofweb.com/tdd-react-testing-library/)
+- 📗 [When to use TDD](https://kentcdodds.com/blog/when-i-follow-tdd)
 - 📗 [Axios mock adapter](https://www.npmjs.com/package/axios-mock-adapter)
 - 📗 [Factory girl](https://github.com/aexmachina/factory-girl)
 
 ### 🎤 Interview
 
 - What is TDD?
+- When to use TDD?
 - What does Jest and React Testing Library do?
 - What should we test in React application?
 - How to mock requests and provide example data?
