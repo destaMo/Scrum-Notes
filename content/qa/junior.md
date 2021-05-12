@@ -18,7 +18,8 @@ weight = 1
 - Use some useful technologies for testers, including those connected to structure and those which help with planning the tests
 - Use terminal to perform basic actions in your OS
 - Distinguish Gherkin syntax in Cucumber framework
-- Know JSON and XML syntax
+- Know the JSON syntax
+- Run basic performance tests using Web Vitals or Lighthouse
 - Use Browserstack for cross-browser testing
 
 {{% /bubble%}}
@@ -92,11 +93,7 @@ weight = 1
 - 📗 [Change Timezone](https://chrome.google.com/webstore/detail/change-timezone-time-shif/nbofeaabhknfdcpoddmfckpokmncimpj)
 - 📗 [Change Geolocation](https://chrome.google.com/webstore/detail/change-geolocation-locati/lejoknkbcogjceoniealiipllomkpioe)
 
-### 📝 Katas
-
-- Show me how you use Chrome dev tools:
-  * View request's URL, status and response
-  * View an error thrown by an application
+### 📝 KatasXML
   * Use Inspector to see an element, change some properties
   * Switch mode to responsive to perform mobile testing
 - Show me how to simulate specific states:
