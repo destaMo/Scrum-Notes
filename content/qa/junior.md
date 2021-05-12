@@ -34,6 +34,7 @@ weight = 1
 - 📗 [static and dynamic tests](https://softwaretestingfundamentals.com/static-testing-vs-dynamic-testing/)
 - 📗 [functional and non-functional tests](https://softwaretestingfundamentals.com/functional-testing-vs-non-functional-testing/)
 - 📗 [black-box and white-box tests](https://softwaretestingfundamentals.com/black-box-testing-vs-white-box-testing/)
+- 📗 [EP and BVA](https://www.guru99.com/equivalence-partitioning-boundary-value-analysis.html)
 
 ### 🎤 Interview
 
@@ -42,6 +43,7 @@ weight = 1
 - Describe what are static and dynamic testing? What products or artifacts do they focus on? 
 - What is the difference between functional and non-functional tests? Provide exmaples of test types specific for both functional and non-functional tests
 - What is the difference between black-box and white-box tests?
+- What are equivalence partitioning and boundary value analysis techniques? How to use them in testing?
 
 ---
 
@@ -84,7 +86,8 @@ weight = 1
   * Elements
   * Device toolbar
 
-- 📗 [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+- 📗 [Web Vitals](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma)
+- 📙 [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - 📗 [Browserstack](https://www.browserstack.com/)
 - 📗 [Change Timezone](https://chrome.google.com/webstore/detail/change-timezone-time-shif/nbofeaabhknfdcpoddmfckpokmncimpj)
 - 📗 [Change Geolocation](https://chrome.google.com/webstore/detail/change-geolocation-locati/lejoknkbcogjceoniealiipllomkpioe)
@@ -99,7 +102,7 @@ weight = 1
 - Show me how to simulate specific states:
   * Change your location
   * Change your timezone
-- Run a basic performance test in Lighthouse and analyze the results
+- Use Web Vitals to find out some basic information about the application's performance
 - Use Browserstack to test on different OSes, browsers and resolutions
 
 ---
@@ -109,16 +112,18 @@ weight = 1
 ### 🎓 Learn
 
 - 📗 [Gherkin syntax](https://cucumber.io/docs/gherkin/)
-- 📗 [JSON/XML](https://www.geeksforgeeks.org/difference-between-json-and-xml/)
+- 📗 [JSON](https://javaee.github.io/tutorial/jsonp001.html/)
 - 📗 [basic terminal commands](https://www.suse.com/c/working-command-line-basic-linux-commands/)
+- 📗 [HTTP error codes](https://www.hongkiat.com/blog/common-http-errors/)
 
 ### 🎤 Interview
 
 - Describe the structure of Gherkin scenarios
 - How to write a good test scenario?
-- Describe the structure of JSON (you can use an example)
+- Describe the structure of JSON
 
 ### 📝 Katas
 
 - Show me how you operate in terminal:
   * cd, ls, sudo, open
+- Basing on a provided example of error in application, tell me what the HTTP status code tells you
