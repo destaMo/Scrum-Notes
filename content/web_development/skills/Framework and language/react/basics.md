@@ -307,12 +307,14 @@ After this section you will know how to test React application
 - 📗 [Jest.js](https://jestjs.io/)
 - 📗 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - 📗 [TDD with React Testing Library](https://typeofweb.com/tdd-react-testing-library/)
+- 📗 [When to use TDD](https://kentcdodds.com/blog/when-i-follow-tdd)
 - 📗 [Axios mock adapter](https://www.npmjs.com/package/axios-mock-adapter)
 - 📗 [Factory girl](https://github.com/aexmachina/factory-girl)
 
 ### 🎤 Interview
 
 - What is TDD?
+- When to use TDD?
 - What does Jest and React Testing Library do?
 - What should we test in React application?
 - How to mock requests and provide example data?
@@ -331,13 +333,15 @@ After this section you will know what is Redux, what are its use-cases and when 
 
 - 📗 [Redux introduction](https://redux.js.org/introduction/getting-started)
 - 📗 [When Redux is not needed](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
-- 📗 [Functional programming paradigms](https://hackernoon.com/functional-programming-paradigms-in-modern-JavaScript-immutability-4e9751ca005c)
+- 📗 [Functional programming paradigms](https://hackernoon.com/functional-programming-paradigm-in-javascript-km173u4i)
 
 ### 🎤 Interview
 
 - What is Redux?
 - What is the use case(s) for Redux?
 - When Redux would be an overkill?
+- What is a pure function?
+- What is immutability?
 
 ---
 
