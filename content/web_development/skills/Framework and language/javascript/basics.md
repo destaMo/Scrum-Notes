@@ -18,6 +18,18 @@ weight = 1
 
 {{% /bubble%}}
 
+## Areas
+
+### JavaScript
+
+- Data types
+- Variables: lets and consts
+- Conditionals, switch, and ternary operators
+- Nullish coalescing and optional chaining
+- Functions and arrow functions
+- Classes and objects
+- Promises, async-await
+
 ## 📦 Language / JavaScript
 
 Familiarize yourself with the concepts from the book, be able to explain then, and give an example where you would use it.

@@ -22,6 +22,18 @@ weight = 1
 
 {{% /bubble%}}
 
+## Areas
+
+### TypeScript
+
+- Data types
+- Type annotations
+- Optional properties
+- Object types
+- Union types  
+- Interfaces
+- Enums
+
 ## 📦 Language / TypeScript
 
 Familiarize yourself with the concepts from the book, be able to explain then, and give an example where you would use it.
