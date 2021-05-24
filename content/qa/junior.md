@@ -109,7 +109,7 @@ weight = 1
 ### 🎓 Learn
 
 - 📗 [Gherkin syntax](https://cucumber.io/docs/gherkin/)
-- 📗 [JSON](https://javaee.github.io/tutorial/jsonp001.html/)
+- 📗 [JSON](https://javaee.github.io/tutorial/jsonp001.html)
 - 📗 [basic terminal commands](https://www.suse.com/c/working-command-line-basic-linux-commands/)
 - 📗 [HTTP error codes](https://www.hongkiat.com/blog/common-http-errors/)
 
