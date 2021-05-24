@@ -23,10 +23,9 @@ title = "Testing Expertise"
 
 **Skills & practices**
 
+- Contract testing
 - E2E
 - Tests preparation and setup (including CI)
-- Contract testing
-- Dealing with unusual situations
 
 **Tooling**
 
@@ -44,13 +43,16 @@ title = "Testing Expertise"
 - 📙 [E2E vs Contract testing](https://techbeacon.com/app-dev-testing/end-end-vs-contract-based-testing-how-choose)
 
 ### 🎤 Interview
-- What is contract testing, when to use it?
-- What is consumer driven contract testing
-- What are the pros and cons of using contract testing?
-- How to automate contract tests?
+- What problems does contract testing solve?
+- When would you suggest using contract testing? 
+- Describe consumer driven contract testing and compare it with regular contract testing.
+- Is there any way to automate contract testing?
+- How to deal with contract tests for versioned API?
 
 ### 📝 Katas
- - TBD
+ - Write a contract test when consumer and provider is controlled by you 
+ - Write a contract test when consumer is controlled by you but provider is controlled by 3rd party (it should provide documentation allowing to describe a contract)
+
 
 ## 📦 E2E
 
@@ -62,30 +64,31 @@ title = "Testing Expertise"
 
 ### 🎤  Interview
 
-- What should we test and avoid in E2E?
-- How to deal with authorization in E2E tests?
-- What are pros and cons of using mocked data over real data, when would you use it and why?
-- How to work with requests (waiting/reading data/overwriting)?
+- List some cases which you dont want to tests in E2E
+- What should you consider when setting up your E2E tests?
+- Why and in which cases you would want to use mocked data in E2E tests?
+- Name several cases where you would want to intercept requests/responses
 - How to debug test runs?
-- How would you prepare your app to run E2E tests on it?
-  - How to deal with env setup?
-  - How to deal with desired DB state?
-  - How to deal with test users?
-- What are and how to deal with flaky tests?
+- What are flaky tests and how to deal with them?
 
 ### 📝 Katas
 
-- Present several acceptance tests and elaborate about them
-- tests should utilize mocked request/response, interctions like clicking/typing/drag and drop
-
+- Write E2E test dealing with authorization programmatically (without using UI)
+- Write a test for non-trivial form
+- Write a test of app using real data
 ## 📦 Tooling / Test coverage
 
 ### 🎓 Learn
+- 📗 [Styker Mutator](https://stryker-mutator.io/docs/)
+- 📗 [Mutant](https://github.com/mbj/mutant)
+### 🎤 Interview
 - Elaborate on code coverage reliability and usefulness
 - Code coverage in TDD
+- How mutation tests can help to improve stability of the app
 
 ### 📝  Katas
 - Setup code coverage monitoring tool on CI ensuring given coverage and no coverage drop
+- Show usage of a mutation test using library of your choice
 
 ## 📦 Tooling / Continuous Integration/Deployment/Delivery
 
@@ -93,7 +96,6 @@ title = "Testing Expertise"
 - 📗 [GH Actions](https://docs.github.com/en/actions)
 - 📗 [Travis](https://docs.travis-ci.com/)
 - 📗 [CircleCI](https://circleci.com/docs/)
-
 
 ### 🎤 Interview
 - What should you consider when selecting CI for your test runs
