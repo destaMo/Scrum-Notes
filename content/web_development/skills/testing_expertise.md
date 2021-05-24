@@ -30,6 +30,7 @@ title = "Testing Expertise"
 **Tooling**
 
 - Test coverage
+
 ---
 
 ## 📦 API Contract testing
@@ -43,16 +44,17 @@ title = "Testing Expertise"
 - 📙 [E2E vs Contract testing](https://techbeacon.com/app-dev-testing/end-end-vs-contract-based-testing-how-choose)
 
 ### 🎤 Interview
+
 - What problems does contract testing solve?
-- When would you suggest using contract testing? 
+- When would you suggest using contract testing?
 - Describe consumer driven contract testing and compare it with regular contract testing.
 - Is there any way to automate contract testing?
 - How to deal with contract tests for versioned API?
 
 ### 📝 Katas
- - Write a contract test when consumer and provider is controlled by you 
- - Write a contract test when consumer is controlled by you but provider is controlled by 3rd party (it should provide documentation allowing to describe a contract)
 
+- Write a contract test when consumer and provider is controlled by you
+- Write a contract test when consumer is controlled by you but provider is controlled by 3rd party (it should provide documentation allowing to describe a contract)
 
 ## 📦 E2E
 
@@ -62,7 +64,7 @@ title = "Testing Expertise"
 - 📙 [Cypress](https://www.cypress.io/)
 - 📙 [Ember Testing guide](https://github.com/PoslinskiNet/ember-testing-guide) (acceptance section)
 
-### 🎤  Interview
+### 🎤 Interview
 
 - List some cases which you dont want to tests in E2E
 - What should you consider when setting up your E2E tests?
@@ -76,31 +78,37 @@ title = "Testing Expertise"
 - Write E2E test dealing with authorization programmatically (without using UI)
 - Write a test for non-trivial form
 - Write a test of app using real data
+
 ## 📦 Tooling / Test coverage
 
 ### 🎓 Learn
-- 📗 [Styker Mutator](https://stryker-mutator.io/docs/)
+
+- 📗 [Stryker Mutator](https://stryker-mutator.io/docs/)
 - 📗 [Mutant](https://github.com/mbj/mutant)
+
 ### 🎤 Interview
-- Elaborate on code coverage reliability and usefulness
-- Code coverage in TDD
+
+- Elaborate on code coverage reliability and usefulness - Code coverage in TDD
 - How mutation tests can help to improve stability of the app
 
-### 📝  Katas
+### 📝 Katas
+
 - Setup code coverage monitoring tool on CI ensuring given coverage and no coverage drop
 - Show usage of a mutation test using library of your choice
 
 ## 📦 Tooling / Continuous Integration/Deployment/Delivery
 
 ### 🎓 Learn
+
 - 📗 [GH Actions](https://docs.github.com/en/actions)
 - 📗 [Travis](https://docs.travis-ci.com/)
 - 📗 [CircleCI](https://circleci.com/docs/)
 
 ### 🎤 Interview
+
 - What should you consider when selecting CI for your test runs
 - How could you speed up your test runs?
 
+### 📝 Katas
 
-### 📝  Katas
 - Setup and run your E2E and contract tests on CI of your choice
