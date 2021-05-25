@@ -43,7 +43,6 @@ weight = 1
 - Dependency Injection
 - Modules
 - Routing
-- OpenAPI Specification
 
 ---
 
