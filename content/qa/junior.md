@@ -93,7 +93,7 @@ weight = 1
 - 📗 [Change Timezone](https://chrome.google.com/webstore/detail/change-timezone-time-shif/nbofeaabhknfdcpoddmfckpokmncimpj)
 - 📗 [Change Geolocation](https://chrome.google.com/webstore/detail/change-geolocation-locati/lejoknkbcogjceoniealiipllomkpioe)
 
-### 📝 KatasXML
+### 📝 Katas
   * Use Inspector to see an element, change some properties
   * Switch mode to responsive to perform mobile testing
 - Show me how to simulate specific states:
