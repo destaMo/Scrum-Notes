@@ -102,7 +102,9 @@ The useful libraries can be found in [the content bank](./content_bank.md).
 
 ### 🎤 Interview
 
-During a verification, we will go through the questions located in the following list. Prepare an application that can present answers for these points.
+During a verification, we will go through the questions located in the following list. 
+Prepare an application that can present answers for these points. 
+During the session, you will be asked to perform a programming drill to implement a couple of points from the list, e.g., to create a partial config or a service.
 
 #### REST API
 
