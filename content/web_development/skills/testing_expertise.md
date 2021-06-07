@@ -23,6 +23,7 @@ title = "Testing Expertise"
 
 **Skills & practices**
 
+- Deep general knowledge about testing
 - Contract testing
 - E2E
 - Tests preparation and setup (including CI)
@@ -30,6 +31,7 @@ title = "Testing Expertise"
 **Tooling**
 
 - Test coverage
+- Test mutators
 
 ---
 
@@ -48,8 +50,8 @@ title = "Testing Expertise"
 - What problems does contract testing solve?
 - When would you suggest using contract testing?
 - Describe consumer driven contract testing and compare it with regular contract testing.
-- Is there any way to automate contract testing?
-- How to deal with contract tests for versioned API?
+- What are the ways of automating contract testing?
+- What are chellanges with testing versioned API in contract tests?
 
 ### 📝 Katas
 
@@ -70,26 +72,27 @@ title = "Testing Expertise"
 - What should you consider when setting up your E2E tests?
 - Why and in which cases you would want to use mocked data in E2E tests?
 - Name several cases where you would want to intercept requests/responses
-- How to debug test runs?
-- What are flaky tests and how to deal with them?
+- How do you debug test runs?
+- What are the typical reasons behind flakiness and how to deal with it?
 
 ### 📝 Katas
 
 - Write E2E test dealing with authorization programmatically (without using UI)
-- Write a test for non-trivial form
-- Write a test of app using real data
+- Cover a non trivial form (multiple inputs, validation, interdependent inputs) with e2e tests
+- Cover a funtionality in app (may be your project) using real data with e2e tests
 
-## 📦 Tooling / Test coverage
+## 📦 Tooling / Test mutators and coverage
 
 ### 🎓 Learn
 
 - 📗 [Stryker Mutator](https://stryker-mutator.io/docs/)
 - 📗 [Mutant](https://github.com/mbj/mutant)
+- 📗 [Instambul] (https://istanbul.js.org/)
 
 ### 🎤 Interview
 
-- Elaborate on code coverage reliability and usefulness - Code coverage in TDD
-- How mutation tests can help to improve stability of the app
+- Elaborate on code coverage reliability and usefulness
+- How mutation tests can help with improving stability of the app
 
 ### 📝 Katas
 
