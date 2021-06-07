@@ -10,11 +10,11 @@ title = "Testing Expertise"
 
 **Description:** You can use testing automation tools in critical area of the system, to increase the overall stability of the solution in terms of business requirements.
 
-**Person who successfully completed requirement for given block can:**
+**Person who successfully completed requirements for given block can:**
 
 - write maintainable, readable tests of all types
 - utilize E2E & API Testing to maintain high stability
-- propose a proper testing strategy for the project
+- propose a proper testing strategy for a given project
 - automate the testing process via CI tools
 
 {{% /bubble%}}
@@ -35,6 +35,12 @@ title = "Testing Expertise"
 
 ---
 
+## 📦 Testing in general
+
+### 🎤 Interview
+
+- Explain extensively all the "what's" and "why's" in automated testing to a junior developer. (5-10mins of discussion)
+
 ## 📦 API Contract testing
 
 ### 🎓 Learn
@@ -47,7 +53,7 @@ title = "Testing Expertise"
 
 ### 🎤 Interview
 
-- What problems does contract testing solve?
+- What problems does contract testing solves?
 - When would you suggest using contract testing?
 - Describe consumer driven contract testing and compare it with regular contract testing.
 - What are the ways of automating contract testing?
@@ -68,8 +74,8 @@ title = "Testing Expertise"
 
 ### 🎤 Interview
 
-- List some cases which you dont want to tests in E2E
-- What should you consider when setting up your E2E tests?
+- List some cases which you dont want to test in E2E
+- How would you ensure the same database state before every test run?
 - Why and in which cases you would want to use mocked data in E2E tests?
 - Name several cases where you would want to intercept requests/responses
 - How do you debug test runs?
@@ -87,12 +93,12 @@ title = "Testing Expertise"
 
 - 📗 [Stryker Mutator](https://stryker-mutator.io/docs/)
 - 📗 [Mutant](https://github.com/mbj/mutant)
-- 📗 [Instambul] (https://istanbul.js.org/)
+- 📗 [Instambul](https://istanbul.js.org/)
 
 ### 🎤 Interview
 
 - Elaborate on code coverage reliability and usefulness
-- How mutation tests can help with improving stability of the app
+- How mutation tests can help with improving stability of the app?
 
 ### 📝 Katas
 
@@ -109,7 +115,7 @@ title = "Testing Expertise"
 
 ### 🎤 Interview
 
-- What should you consider when selecting CI for your test runs
+- What should you consider when selecting CI for your test runs?
 - How could you speed up your test runs?
 
 ### 📝 Katas
