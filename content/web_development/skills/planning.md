@@ -59,7 +59,7 @@ title = "Planning"
 
 ## Understanding the Business
 
-In this step we care the most about understanding the big picture of our client's product. The big picture vision helps us ask vital questions and spot incorrect decisions during other stages of planning.
+In this step we care the most about understanding the big picture of our customer's product. The big picture vision helps us ask vital questions and spot incorrect decisions during other stages of planning.
 
 ## 📦 Business Roadmap
 
@@ -69,7 +69,9 @@ In this step we care the most about understanding the big picture of our client'
 
 ### 🎤 Interview
 
-- What is the vision of the project/product? (Scrum Theme)
+- What is the Scrum Theme? What does it mean to you and why should you care?
+- How can you use your business domain knowledge for the customer?
+- What benefits does understanding customer's business side give you?
 
 ---
 
@@ -81,7 +83,8 @@ In this step we care the most about understanding the big picture of our client'
 
 ### 🎤 Interview
 
-- ***
+- How can you communicate efficiently with your customer to understand the Business Side better?
+- In which scenarios would you introduce an Event Storming session to your customer?
 
 ## 📦 Relevant Knowledge
 
@@ -91,7 +94,9 @@ In this step we care the most about understanding the big picture of our client'
 
 ### 🎤 Interview
 
-- ***
+- Which answers do you seek when communicating with customer about the next feature?
+- How much people and who do you introduce to a call about next feature?
+- When do you know that you have everything you need to know and can proceed further?
 
 ## 📦 Setting the Deadline
 
@@ -101,11 +106,12 @@ In this step we care the most about understanding the big picture of our client'
 
 ### 🎤 Interview
 
--
+- What is the difference between a Deadline and Estimation?
+- What are your strategies to set the Deadline and be able to deliver on time?
 
 ## Preparing Epics
 
-In this step we start creating Epics and Features from our client's requirements. Having the big picture overview from the last step we can focus on next areas of the product.
+In this step we start creating Epics and Features from our customer's requirements. Having the big picture overview from the last step we can focus on next areas of the product.
 
 ## 📦 Defining Epics
 
@@ -147,6 +153,7 @@ In this step we start creating Epics and Features from our client's requirements
 
 - What is a Rabbit Hole?
 - What benefits does identifying Rabbit Holes early on give you?
+- How do you proceed once you find a Rabbit Hole?
 
 ---
 
@@ -249,7 +256,7 @@ In this step we already have Stories that represent user flows and shippable par
 
 ### 🎤 Interview
 
-- What do you understand by the sentence "We commit to the Backlog"?
+- What do you understand by the sentence "We commit to the Sprint Backlog"?
 - How do you communicate the commitment?
 
 ---
@@ -264,8 +271,13 @@ In this step we already have Stories that represent user flows and shippable par
 
 ### 🎤 Interview
 
+- What actions you need to do for the monitoring to be meaningful?
 - What actions are required by your team for the monitoring to be meaningful?
 - How do you keep up to date with your team's progress?
+- What do you do in case of:
+  1. Missing the estimates
+  2. Unnatural, drastically reduced velocity comparing to last sprints
+  3. Sprint interruption, finishing tasks that aren't in the scope of your sprint
 
 ---
 
@@ -296,6 +308,7 @@ In this step we already have Stories that represent user flows and shippable par
 
 - How can you effectively review your team's work?
 - How can you perform frequent demo sessions in your team's work?
+- What are the main advantages of introducing demo sessions in your sprints?
 
 ---
 
