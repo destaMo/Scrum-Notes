@@ -57,21 +57,11 @@ title = "Planning"
 
 ---
 
-## 📦 Sub section...
-
-### 🎓 Learn
-
-### 🎤 Interview
-
-### 📝 Katas
-
----
-
-## Understanding the Business (UtB)
+## Understanding the Business
 
 In this step we care the most about understanding the big picture of our client's product. The big picture vision helps us ask vital questions and spot incorrect decisions during other stages of planning.
 
-## 📦 UtB / Business Roadmap
+## 📦 Business Roadmap
 
 ### 🎓 Learn
 
@@ -83,7 +73,7 @@ In this step we care the most about understanding the big picture of our client'
 
 ---
 
-## 📦 UtB / Communication Strategy
+## 📦 Communication Strategy
 
 ### 🎓 Learn
 
@@ -93,7 +83,7 @@ In this step we care the most about understanding the big picture of our client'
 
 - ***
 
-## 📦 UtB / Relevant Knowledge
+## 📦 Relevant Knowledge
 
 ### 🎓 Learn
 
@@ -103,7 +93,7 @@ In this step we care the most about understanding the big picture of our client'
 
 - ***
 
-## 📦 UtB / Setting the Deadline
+## 📦 Setting the Deadline
 
 ### 🎓 Learn
 
@@ -117,7 +107,7 @@ In this step we care the most about understanding the big picture of our client'
 
 In this step we start creating Epics and Features from our client's requirements. Having the big picture overview from the last step we can focus on next areas of the product.
 
-## 📦 Preparing Epics / Defining Epics
+## 📦 Defining Epics
 
 ### 🎓 Learn
 
@@ -131,7 +121,7 @@ In this step we start creating Epics and Features from our client's requirements
 
 ---
 
-## 📦 Preparing Epics / Defining Features
+## 📦 Defining Features
 
 ### 🎓 Learn
 
@@ -147,7 +137,7 @@ In this step we start creating Epics and Features from our client's requirements
 
 ---
 
-## 📦 Preparing Epics / Finding Rabbit Holes
+## 📦 Finding Rabbit Holes
 
 ### 🎓 Learn
 
@@ -166,7 +156,7 @@ In this step we have Epics and Features, but they are too abstract to effectivel
 
 ---
 
-## 📦 Preparing Stories / Defining a Story
+## 📦 Defining a Story
 
 ### 🎓 Learn
 
@@ -193,7 +183,7 @@ In this step we already have Stories that represent user flows and shippable par
 
 ---
 
-## 📦 Planning / Prioritize Product Backlog
+## 📦 Prioritize Product Backlog
 
 ### 🎓 Learn
 
@@ -206,7 +196,7 @@ In this step we already have Stories that represent user flows and shippable par
 
 ---
 
-## 📦 Planning / Preparing Tasks
+## 📦 Preparing Tasks
 
 ### 🎓 Learn
 
@@ -222,7 +212,7 @@ In this step we already have Stories that represent user flows and shippable par
 
 ---
 
-## 📦 Planning / Estimating the Work
+## 📦 Estimating the Work
 
 ### 🎓 Learn
 
@@ -236,7 +226,7 @@ In this step we already have Stories that represent user flows and shippable par
 
 ---
 
-## 📦 Planning / Assigning the Tasks
+## 📦 Assigning the Tasks
 
 ### 🎓 Learn
 
@@ -251,7 +241,7 @@ In this step we already have Stories that represent user flows and shippable par
 
 ---
 
-## 📦 Planning / Backlog Commitment
+## 📦 Backlog Commitment
 
 ### 🎓 Learn
 
