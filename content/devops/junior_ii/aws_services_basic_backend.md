@@ -54,7 +54,6 @@ Prepare CI pipeline for the backend application similar to the one for frontend
 - What is the difference between private and public subnets
 - How can I establish a connection with an EC2 instance or AWS service colocated in a private subnet?
 - Explain NAT and NAT Gateway in your own words.
-- What is the difference between EC2 and Fargate drivers in ECS?
 - When would you use Auto Scaling Groups?
 - What is the difference in “desired_capacity” and “max_size” and “min_size”?
 - How to spawn instances in two availability zones?
