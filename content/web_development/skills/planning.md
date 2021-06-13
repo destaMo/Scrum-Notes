@@ -114,22 +114,6 @@ In this step we start creating Epics and Features from our customer's requiremen
 
 ---
 
-## 📦 Defining Features
-
-### 🎓 Learn
-
-- 📗 []()
-
-### 🎤 Interview
-
-- What is a Feature?
-- How do you set the Definition of Done for Features?
-- What is Definition of Ready?
-- How do you set the Definition of Ready for Features?
-- How is Feature different to Epic? (Scrum terminology)
-
----
-
 ## 📦 Finding Rabbit Holes
 
 ### 🎓 Learn
