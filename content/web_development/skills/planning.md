@@ -65,49 +65,34 @@ In this step we care the most about understanding the big picture of our custome
 
 ### 🎓 Learn
 
-- 📗 [Scrum's Epic vs Theme](https://www.agilemarketing.net/epic-vs-theme-2/)
+- 📗 [Agile Epic vs Theme](https://www.agilemarketing.net/epic-vs-theme-2/)
+- 📗 [104 Questions for Product Development Teams](https://www.agilemarketing.net/epic-vs-theme-2/) (Content for paragraphs **Goal and Vision** and **Problem**)
 
 ### 🎤 Interview
 
 - What is the Scrum Theme? What does it mean to you and why should you care?
 - How can you use your business domain knowledge for the customer?
 - What benefits does understanding customer's business side give you?
-
----
-
-## 📦 Communication Strategy
-
-### 🎓 Learn
-
-- 📗 []()
-
-### 🎤 Interview
-
-- How can you communicate efficiently with your customer to understand the Business Side better?
-- In which scenarios would you introduce an Event Storming session to your customer?
-
-## 📦 Relevant Knowledge
-
-### 🎓 Learn
-
-- 📗 []()
-
-### 🎤 Interview
-
 - Which answers do you seek when communicating with customer about the next feature?
 - How much people and who do you introduce to a call about next feature?
 - When do you know that you have everything you need to know and can proceed further?
+- (extra) In which scenarios would you introduce an Event Storming session to your customer?
+
+---
 
 ## 📦 Setting the Deadline
 
 ### 🎓 Learn
 
-- 📗 []()
+- 📗 [Estimates vs Deadlines](https://medium.com/23-minutes/estimates-vs-deadlines-efe2e6e342b4)
+- 📗 [How to help your development team meet the deadline](https://anadea.info/blog/how-to-help-your-development-team-meet-the-deadline)
+- 📗 [How to set realistic expectations with a new client](https://nusii.com/blog/how-to-set-realistic-expectations-with-a-new-client/)
 
 ### 🎤 Interview
 
 - What is the difference between a Deadline and Estimation?
 - What are your strategies to set the Deadline and be able to deliver on time?
+- How do you communicate upfront about a Deadline that can't be met?
 
 ## Preparing Epics
 
@@ -117,7 +102,9 @@ In this step we start creating Epics and Features from our customer's requiremen
 
 ### 🎓 Learn
 
-- 📗 []()
+- 📗 [Epics, Stories, Themes](https://www.atlassian.com/agile/project-management/epics-stories-themes)
+- 📗 [Epics - full guide](https://www.atlassian.com/agile/project-management/epics)
+- 📗 [User Stories and Epics for the win](https://www.christianstrunk.com/blog/user-stories-and-epics-for-the-win)
 
 ### 🎤 Interview
 
