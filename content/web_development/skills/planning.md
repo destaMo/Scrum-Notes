@@ -191,7 +191,7 @@ In this step we already have Stories that represent user flows and shippable par
 
 ---
 
-## 📦 Estimating the Work
+## 📦 Estimating the Effort
 
 ### 🎓 Learn
 
@@ -199,9 +199,9 @@ In this step we already have Stories that represent user flows and shippable par
 
 ### 🎤 Interview
 
-- How do you Estimate the work on your project?
+- How do you Estimate the effort on your project?
 - What are the types of Estimation?
-- Which type of Estimation works best for you?
+- Which type of effort Estimation works best for you?
 
 ---
 
