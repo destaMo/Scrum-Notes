@@ -32,7 +32,7 @@ title = "Planning"
 
 - Backlog Prioritization
 - Preparing Tasks
-- Estimating Work
+- Estimate Effort
 - Assigning the Tasks
 - Backlog Commitment
 
