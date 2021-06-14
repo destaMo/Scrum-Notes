@@ -158,7 +158,7 @@ In this step we have Epics and Features, but they are too abstract to effectivel
 
 As you can already see we need to do a lot of preparation before we start the planning session. A good preparation however makes the process more reliable and possibly answers 90% of the questions that would otherwise appear during the development phase.
 
-In this step we already have Stories that represent user flows and shippable part. We've discussed _what_ we need to ship and we should focus now on _how_ we want to ship.
+In this step we already have Stories that represent user flows and shippable part. We've discussed _what_ we need to ship and we should focus now on _how_ we want to ship it. We'll enhance Stories with Tasks within them to make it clearer on what flow we want to achieve or any technicality behind it.
 
 ---
 
