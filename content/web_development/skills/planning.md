@@ -66,7 +66,7 @@ In this step we care the most about understanding the big picture of our custome
 ### 🎓 Learn
 
 - 📗 [Agile Epic vs Theme](https://www.agilemarketing.net/epic-vs-theme-2/)
-- 📗 [104 Questions for Product Development Teams](https://www.agilemarketing.net/epic-vs-theme-2/) (Content for paragraphs **Goal and Vision** and **Problem**)
+- 📗 [104 Questions for Product Development Teams](https://www.agilemarketing.net/epic-vs-theme-2/) (Paragraphs **Goal and Vision** and **Problem**)
 
 ### 🎤 Interview
 
@@ -118,6 +118,7 @@ In this step we start creating Epics and Features from our customer's requiremen
 
 ### 🎓 Learn
 
+- 📗 [Shape Up - Risks and Rabbit Holes](https://basecamp.com/shapeup/1.4-chapter-05#look-for-rabbit-holes) (Paragraph **Look for Rabbit Holes**)
 - 📗 []()
 
 ### 🎤 Interview
