@@ -33,7 +33,7 @@ title = "Planning"
 - Backlog Prioritization
 - Preparing Tasks
 - Estimate Effort
-- Assigning the Tasks
+- Delegation strategy
 - Backlog Commitment
 
 **Execution**
