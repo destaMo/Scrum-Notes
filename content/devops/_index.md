@@ -4,6 +4,13 @@ title = "DevOps"
 
 📗 - Obligatory, 📙 - Optional
 1️⃣ - 1 point, 2️⃣ - 2 points
+
+## Additional informations
+
+* Feel free to prepare all the katas before.
+* Be prepared to discuss katas in details.
+* Don't be afraid to ask for help when preparing for the interview or when you are working on a kata. We are here to learn and help each other.
+
 ## Junior 1
 
 After finishing this part you should be able to work with the AWS Services that are most commonly used on our projects to setup frontend applications. You should feel comfortable perforeming taks using Terraform and setup CICD pipeline for frontend appilcations. You understand and can work with Docker. You will be comfortable working with Linux and will be familiar with Linux toolset and some fundamentals of SysOps.
@@ -28,8 +35,6 @@ When you complete this part you will be able to work with AWS Services that we u
 This part is a work in progress list of potential topic in devops for Independent DevOps engineers.
 
 - 📗 [IaaC Advanced](/devops/independent/iaac_advanced/)
-- 📗 [AWS Services Advanced](/devops/independent/aws_services_advanced/)
-- 📗 [Monitoring and observability](/devops/independent/monitoring_and_observability/)
 - 📗 [Security Advanced](/devops/independent/security_advanced/)
 - 📗 [Container orchestration](/devops/independent/container_orchestration/)
 
