@@ -182,7 +182,7 @@ In this step we already have Stories that represent user flows and shippable par
 ### 🎓 Learn
 
 - 📗 [The Difference Between a Story and a Task](https://www.mountaingoatsoftware.com/blog/the-difference-between-a-story-and-a-task)
-- 📗 [Stackexchange: Epic vs Story vs Task](https://pm.stackexchange.com/questions/16739/what-is-the-weighting-difference-between-epic-story-task)
+- 📗 [Stackexchange - Epic vs Story vs Task](https://pm.stackexchange.com/questions/16739/what-is-the-weighting-difference-between-epic-story-task)
 
 ### 🎤 Interview
 
@@ -198,7 +198,8 @@ In this step we already have Stories that represent user flows and shippable par
 
 ### 🎓 Learn
 
-- 📗 []()
+- 📗 [Atlassian Agile Coach - Estimation](https://www.atlassian.com/agile/project-management/estimation) (Really comprehensive)
+- 📗 [Agile estimation made easy](https://medium.com/@concisesoftware/agile-estimation-made-easy-how-to-estimate-software-development-projects-3132cab38b24)
 
 ### 🎤 Interview
 
@@ -227,12 +228,13 @@ In this step we already have Stories that represent user flows and shippable par
 
 ### 🎓 Learn
 
-- 📗 []()
+- 📗 [Sign Up For Tasks](https://www.agilealliance.org/glossary/sign-up-for-tasks/)
+- 📗 [Pitfall of Scrum Assigning Tasks](http://www.agileadvice.com/2015/07/22/referenceinformation/pitfall-of-scrum-assigning-tasks/) (Great highlight of problems and solutions)
 
 ### 🎤 Interview
 
 - What do you understand by the sentence "We commit to the Sprint Backlog"?
-- How do you communicate the commitment?
+- How should the person communicate their commitment to the Task?
 
 ---
 
@@ -242,7 +244,7 @@ In this step we already have Stories that represent user flows and shippable par
 
 ### 🎓 Learn
 
-- 📗 []()
+- 📗 [Atlassian Agile Coach - Metrics](https://www.atlassian.com/agile/project-management/metrics)
 
 ### 🎤 Interview
 
@@ -253,6 +255,13 @@ In this step we already have Stories that represent user flows and shippable par
   1. Missing the estimates
   2. Unnatural, drastically reduced velocity comparing to last sprints
   3. Sprint interruption, finishing tasks that aren't in the scope of your sprint
+- What is the difference between Estimated vs. True Velocity? What do they mean?
+- What is an eample of Estimated vs. True team's Velocity?
+- What are the next steps after finding out what your team's True Velocity is?
+- What is a Burn Chart? What does it tell you?
+- What should our target Tasks Velocity function look like?
+- What does "exponential" Tasks Velocity function tell us about our process? What are the consequences?
+- What does "linear" Tasks Velocity function tell us about our process? What are the consequences?
 
 ---
 
@@ -260,7 +269,8 @@ In this step we already have Stories that represent user flows and shippable par
 
 ### 🎓 Learn
 
-- 📗 []()
+- 📗 [Managing Sprint interruptions by tracking Buffer use](https://www.mountaingoatsoftware.com/blog/managing-sprint-interruptions-by-tracking-buffer-use)
+- 📗 [Quora - How can we handle ad hoc requests when using Scrum?](https://www.quora.com/How-can-we-handle-ad-hoc-requests-when-using-Scrum)
 
 ### 🎤 Interview
 
@@ -277,7 +287,8 @@ In this step we already have Stories that represent user flows and shippable par
 
 ### 🎓 Learn
 
-- 📗 []()
+- 📗 [Scrum in Practice: The Sprint Demo](https://manifesto.co.uk/scrum-practice-sprint-demo/)
+- 📗 [How to give a great Agile/Scrum Sprint Demo](https://dev.acquia.com/blog/how-to-give-a-great-agilescrum-sprint-demo/09/08/2018/19771)
 
 ### 🎤 Interview
 
@@ -291,30 +302,13 @@ In this step we already have Stories that represent user flows and shippable par
 
 ### 🎓 Learn
 
-- 📗 []()
+- 📗 [How to Run an Agile Retrospective](https://www.atlassian.com/team-playbook/plays/retrospective)
+- 📗 [Do's and Don'ts - How to conduct effective Retrospectives](https://www.inloox.com/company/blog/articles/do-s-and-don-ts-how-to-conduct-effective-retrospectives/)
 
 ### 🎤 Interview
 
 - What is a Retrospective?
 - What is the biggest value in performing Retrospectives?
-
----
-
-## 📦 After Execution / Metrics
-
-### 🎓 Learn
-
-- 📗 []()
-
-### 🎤 Interview
-
-- What is the difference between Estimated vs. True Velocity? What do they mean?
-- What is an eample of Estimated vs. True team's Velocity?
-- What are the next steps after finding out what your team's True Velocity is?
-- What is a Burn Chart? What does it tell you?
-- What should our target Tasks Velocity function look like?
-- What does "exponential" Tasks Velocity function tell us about our process? What are the consequences?
-- What does "linear" Tasks Velocity function tell us about our process? What are the consequences?
 
 ---
 
@@ -340,10 +334,6 @@ In this step we already have Stories that represent user flows and shippable par
 
 ## 📦 Tools / Integrations
 
-### 🎓 Learn
-
-- 📗 []()
-
 ### 🎤 Interview
 
 - What are the most useful integrations for a tool to have?
@@ -354,28 +344,13 @@ In this step we already have Stories that represent user flows and shippable par
 
 ---
 
-## 📦 Tools / Monitoring Progress
-
-### 🎓 Learn
-
-- 📗 []()
-
-### 🎤 Interview
-
-- How do you monitor your team's progress in your tool of choice?
-- Which metrics are the most important for smooth software delivery?
-
----
-
 ## Good Practices
 
 This place is a sink for all good practices that we've gathered with years of experience.
 
 ## 📦 Good Practices / Collecting your Experience
 
-### 🎓 Learn
-
-- 📗 []()
+> It's often good to check team's velocity and vacation a few weeks upfront to see how their availability will change in comparison with product's roadmap - you get more time to envolve more people or cut the scope to meet the MVP
 
 ### 🎤 Interview
 
