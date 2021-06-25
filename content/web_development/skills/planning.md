@@ -119,7 +119,7 @@ In this step we start creating Epics and Features from our customer's requiremen
 ### 🎓 Learn
 
 - 📗 [Shape Up - Risks and Rabbit Holes](https://basecamp.com/shapeup/1.4-chapter-05#look-for-rabbit-holes) (Paragraph **Look for Rabbit Holes**)
-- 📗 []()
+- 📗 [10 Biggest Risks in Software Development](https://codebots.com/library/way-of-working/what-are-the-10-biggest-risks-in-software-development) Many good ideas that represent what can go wrong (inside and ouside the code)
 
 ### 🎤 Interview
 
@@ -139,7 +139,8 @@ In this step we have Epics and Features, but they are too abstract to effectivel
 
 ### 🎓 Learn
 
-- 📗 []()
+- 📗 [User Stories with Examples and Template](https://www.atlassian.com/agile/project-management/user-stories)
+- 📗 [4 common User Story mistakes and how to avoid them](https://blog.planetargon.com/entries/4-common-user-story-mistakes-and-how-to-avoid-them)
 
 ### 🎤 Interview
 
@@ -166,7 +167,8 @@ In this step we already have Stories that represent user flows and shippable par
 
 ### 🎓 Learn
 
-- 📗 []()
+- 📗 [Prioritize Product Backlog](https://www.productplan.com/learn/prioritize-product-backlog/) (When you decide what lands in the backlog)
+- 📗 [Backlog Prioritization](https://agiledigest.com/agile-digest-tutorial-2/backlog-prioritization/) (When you have items in backlog and need to decide about the order of execution)
 
 ### 🎤 Interview
 
@@ -179,7 +181,8 @@ In this step we already have Stories that represent user flows and shippable par
 
 ### 🎓 Learn
 
-- 📗 []()
+- 📗 [The Difference Between a Story and a Task](https://www.mountaingoatsoftware.com/blog/the-difference-between-a-story-and-a-task)
+- 📗 [Stackexchange: Epic vs Story vs Task](https://pm.stackexchange.com/questions/16739/what-is-the-weighting-difference-between-epic-story-task)
 
 ### 🎤 Interview
 
