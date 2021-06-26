@@ -256,7 +256,7 @@ In this step we already have Stories that represent user flows and shippable par
   2. Unnatural, drastically reduced velocity comparing to last sprints
   3. Sprint interruption, finishing tasks that aren't in the scope of your sprint
 - What is the difference between Estimated vs. True Velocity? What do they mean?
-- What is an eample of Estimated vs. True team's Velocity?
+- What is an example of Estimated vs. True team's Velocity?
 - What are the next steps after finding out what your team's True Velocity is?
 - What is a Burn Chart? What does it tell you?
 - What should our target Tasks Velocity function look like?
