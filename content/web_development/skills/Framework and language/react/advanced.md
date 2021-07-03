@@ -410,7 +410,7 @@ After this section you will know how to use graphql queries and mutations.
 - 📗 [Apollo React](https://www.apollographql.com/docs/react/)
 
 - 📗 [Rubymine/Webstorm config](https://selleo.com/til/posts/gl9wnfvo8f-configure-graphql-syntax-highlight-in-intellij-ides)
-- 📗 [TODO VSCode config]()
+- 📗 [VSCode config](https://selleo.com/til/posts/m8hz8irrqk-configure-graphql-syntax-highlight-in-vs-code)
 
 ### 🎤 Interview
 
