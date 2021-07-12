@@ -8,11 +8,11 @@ title = "Security"
 
 **Points:** 1
 
-**Description:** You can explain the basic threats that every developer should keep in mind while developing a web application. You can apply all technics that prevents the most common security concerns.
+**Description:** You can explain the basic threats that every developer should keep in mind while developing a web application. You can apply all technics that prevent the most common security concerns.
 
-**Person who successfully completed requirement for given block can:**
+**Person who completed requirement for the given block can:**
 
-- Evaluate the state of the system from security perspective
+- Evaluate the state of the system from a security perspective
 
 {{% /bubble%}}
 
@@ -46,21 +46,21 @@ title = "Security"
 - What is OWASP?
 - What are CVEs?
 - Random questions about OWASP top 10 - be prepared ??
-- What is 2FA, how it works and how we can leverage it our application?
+- What is 2FA, how it works and how we can leverage it in our applications?
 - Why should we care about licenses?
 - What kind of licenses can we use and which one should we avoid, what are the threats?
 - How do you monitoring your application?
-- How we can automaticly know if some of our dependencies is vulnarable?
-- What is the policy of storing/managing secrets in your application?
+- How we can automatically know if some of our dependencies are vulnerable?
+- What is the policy for storing/managing secrets in your application?
 - When would you consider using VPN in your architecture?
 - What are the `.ignore` files and when we should use them?
-- What is the SSL and how does it works?
+- What is the SSL and how does it work?
 - What are security checklists? How to use them?
 
 
 ### 📝 Katas
-- Create examples form each of OWASP top 10 vulnarabilities in your framework/language of a choice, show the vulnarability and how to avoid it.
-- Craete your secrets in [https://vault.selleo.dev/](https://vault.selleo.dev/ui/vault/secrets) show how you can safely use and manage them.
+- Create examples from each of OWASP's top 10 vulnerabilities in your framework/language of a choice, show the vulnerability and how to avoid it.
+- Create your secrets in [https://vault.selleo.dev/](https://vault.selleo.dev/ui/vault/secrets) to show how you can safely use and manage them.
 
 ---
 
@@ -74,24 +74,24 @@ title = "Security"
 
 ### 🎤 Interview
 
-- Should we use SSL for development environment?
+- Should we use SSL for the development environment?
 - What is GPG and how we can use it in our daily job?
 - What is your workflow when you finished the job for the client(the contract is fulfilled and you are moving to the next one)?
 - How would you exchange critical data with your coworker?
-- How can you validate the emails trustworthy?
+- How can you validate the email's trustworthiness?
 - What is the way you access the internet? Do you have any policies?
 - What is Zero Trust Policy?
-- Do you have your own personal security checklist?
-- Where do you store your backups, what they includes?
-- How to create strong password?
+- Do you have your security checklist?
+- Where do you store your backups, what they include?
+- How to create a strong password?
 
 ### 📝 Katas
 
-- Create selfsigned certificate for development purposes that is trusted on your local machine.
-- Create a file with your name and share it with securely with GPG.
+- Create a self-signed certificate for development purposes that is trusted on your local machine.
+- Create a file with your name and share it securely with GPG.
 - Encrypt your disk on your workstation
-- Enable 2FA authentication on most critical appcliations: GitHub, ZOHO, AWS, GCP, Heroku etc.
-- Ensure there are no "dangling documet" with secret informations on your desk, office.
+- Enable 2FA authentication on most critical applications: GitHub, ZOHO, AWS, GCP, Heroku, etc.
+- Ensure there are no "dangling documents" with secret information on your desk, office.
 
 ---
 
