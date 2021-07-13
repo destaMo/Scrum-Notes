@@ -45,7 +45,7 @@ title = "Security"
 
 - What is OWASP?
 - What are CVEs?
-- Random questions about OWASP top 10 - be prepared ??
+- Answer random questions around OWASP top 10
 - What is 2FA, how it works and how we can leverage it in our applications?
 - Why should we care about licenses?
 - What kind of licenses can we use and which one should we avoid, what are the threats?
