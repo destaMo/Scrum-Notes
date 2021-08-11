@@ -103,7 +103,7 @@ title = "Performance and monitoring"
 
 - Explain what the profiling is and what is its purpose
 - What are most the common profiling strategies?
-- Profiling vs tracing vs benchmarking - point the differences
+- Profiling vs benchmarking - point the differences
 
 #### 📝 Katas
 
