@@ -8,6 +8,7 @@ title = "Web Development"
 ## Junior 1
 
 - 📗 [Fundamentals](/web_development/skills/fundamentals/)
+- 📗 [Web Security Fundamentals](/web_development/skills/web-security-fundamentals/)
 - 📗 [Framework & Language - basics](/web_development/skills/framework-and-language/)
   - [Backend prerequisite - Persistence basics](/web_development/skills/persistence/basics/)
   - [Frontend prerequisite - Styling basics](/web_development/skills/styling/01_junior_i/)
