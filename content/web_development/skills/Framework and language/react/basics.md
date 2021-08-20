@@ -170,7 +170,7 @@ After this section you will know commonly used React hooks and React-Use package
 
 ### 🎤 Interview
 
-- What do to when you need the current state value to set new state? (eg. incrementing)
+- What to do when you need the current state value to set new state? (eg. incrementing)
 - What does the useCallback hook do and when to use it?
 - What does the useMemo hook do and when to use it?
 - What does the useRef hook do and when to use it?
@@ -259,13 +259,13 @@ After this section you will know how to implementing routing in React SPA applic
 - How do you handle routes in your app?
 - How to pass and use params as part of url?
 - How to programmatically redirect to another route?
+- What are different types of history used for routing?
 
 ### 📝 Katas
 
 - Implement routing for a few pages
 - Pass and use params through the url (eg. users/:userId)
 - Redirect programmatically using history object (from React Router)
-- What are different types of history used for routing?
 
 ---
 
@@ -294,7 +294,7 @@ After this section you will know how to create basic forms and validate user inp
 - Create Wizard form in your app.
 - Implement form with array of fields (eg. user can add multiple addresses each consisting inputs for city, zip-code and street. User should be able to add as many addresses as needed. User should be able to remove addresses)
 - Add validation to the form using the Yup library
-- Add validation for fields depending on each other (eg. when user selects agreement to receive email, validate the age is over 18. Otherwise do not validate age is over 18)
+- Add validation for fields depending on each other using the Yup library (eg. when user selects agreement to receive email, validate the age is over 18. Otherwise do not validate age is over 18)
 
 ---
 
