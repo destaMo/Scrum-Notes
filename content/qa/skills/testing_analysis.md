@@ -49,7 +49,3 @@ title = "Testing analysis"
 - Show me an example of a reported issue for which the assignee needed help with reproducing. Is there something that you could do better to avoid such situation?
 - Define the risks based on a few examples of functionalities/bugs and set proper priorities
 - Testing in real - doing an example task on an examinee's project
-- Improve authorization so that Cypress does not need to login manually each time
-- Solve a problem of creating an object with name that already exists
-- Get authorization token and use it in created request
-- Show me what snippets you use
