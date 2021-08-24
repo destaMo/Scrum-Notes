@@ -50,3 +50,7 @@ title = "Test automation"
 - Write and run a basic test case (e.g. logging in and some navigation)
 - Write an example custom command (e.g. generating a unique ID, selecting filters)
 - Use CSS selectors to refer to proper elements on a website
+- Improve authorization so that Cypress does not need to login manually each time
+- Solve a problem of creating an object with name that already exists
+- Get authorization token and use it in created request
+- Show me what snippets you use
