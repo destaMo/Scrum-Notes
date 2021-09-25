@@ -120,7 +120,7 @@ Read about how the web works - you do not need to remember all the details, just
 - 📗 [what web can do today](https://whatwebcando.today/)
 - 📗 choose your tool:
     - **Chrome DevTools**
-        - 📗 [crash course](https://www.youtube.com/watch?v=x4q86IjJFag)
+        - 📗 [crash course](https://www.youtube.com/watch?v=gTVpBbFWry8)
         - Home/ Open Dev tools / DevTools for beginners / CSS / JavaScript / Console / Network / HTML
     - **Firefox Developer tools**
         - 📗 [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
