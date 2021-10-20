@@ -37,13 +37,13 @@ Starting with not letting your client down, as a web developer.
 - 📗 [Did you know that you can actually browse cookies?](https://www.troyhunt.com/how-to-build-and-how-not-to-build/)
 - 📗 [A few words as to where put your trust](https://www.codebyamir.com/blog/never-trust-data-from-the-browser)
 - 📗 [Become a hacker yourself or just stop being naive with your solutions. How to get get behind a paywall](https://medium.datadriveninvestor.com/how-to-bypass-any-paywall-for-free-df87832cbff7)
-
+- 📗 [The importance of secrets management](https://www.ekransystem.com/en/blog/secrets-management)
 
 ### 🎤 Interview
 
 - Can you provide some examples of a sensitive data found in a web or mobile application? What makes such data "sensitive"?
 - What's the original, intended use of OAuth? What kind of challenges OAuth authors tried to solve in the first place?
-- Please provide a list different approaches to client side data storage. Which approaches are safe for storing sensitive data like passwords?
+- Please provide a list different approaches to client side data storage. By focusing on localStorage, sessionStorage and Cookies explain if any of them is suitable and safe for storing sensitive data (including user passwords)?
 - What is Token-Based Authentication? Why we are including tokens in the request headers and not for example login + password in order to authenticate a request made by an user?
 - What's plain authentication? Does it have any weak points?
 - Is it okay to send unencrypted password (as a plain text) over SSL/TLS? Justify your answer.
@@ -52,6 +52,8 @@ Starting with not letting your client down, as a web developer.
 - Are all Cookies secure? Is there a way for a non developer to access local storage or browse a Cookie?
 - What the default approach for data input by the user and why? Should you trust it or not and why?
 - What does it actually mean, when a website has a padlock icon next to the domain?
+- How to take care of your personal and customer sensitive data i.e. SSH keys, 3rd API keys for integrations, AWS keys and rules?
+- Can you describe the challenges for storing exchanging customer sensitive data inside the team? Which challenges described in the [secret management article](https://www.ekransystem.com/en/blog/secrets-management) are being solved by the tool like [quickforget](https://quickforget.com/)? And what kind of challenges are addressed by [Vault](https://www.vaultproject.io/)?
 
  ### 📝 Katas
 
