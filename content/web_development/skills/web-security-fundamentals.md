@@ -32,7 +32,7 @@ Starting with not letting your client down, as a web developer.
 
 - 📗 [OAuth in 6 minutes](https://www.youtube.com/watch?v=KT8ybowdyr0),
 - 📗 [Three ways of storing data on the client side (for starters)](https://krishankantsinghal.medium.com/local-storage-vs-session-storage-vs-cookie-22655ff75a8)
-- 📗 [HTTPS, TLS, SSL, ETC, PDK... ;-)](https://kinsta.com/knowledgebase/tls-vs-ssl)
+- 📗 [HTTPS, TLS, SSL, and so on](https://kinsta.com/knowledgebase/tls-vs-ssl)
 - 📗 [Oh, there is a padlock icon. I'm safe... NOT!](https://niebezpiecznik.pl/post/przestan-sprawdzac-czy-strony-maja-klodki/)
 - 📗 [Did you know that you can actually browse cookies?](https://www.troyhunt.com/how-to-build-and-how-not-to-build/)
 - 📗 [A few words as to where put your trust](https://www.codebyamir.com/blog/never-trust-data-from-the-browser)
