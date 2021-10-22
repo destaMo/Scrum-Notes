@@ -24,11 +24,13 @@ title = "AWS Services Basics - Frontend"
 - [Route53 docs](https://docs.aws.amazon.com/route53/index.html)
 - [AWS Cert Manager docs](https://docs.aws.amazon.com/acm/index.html)
 - [IAM docs](https://docs.aws.amazon.com/iam/index.html)
+- [Starting app](https://github.com/LukeP91/workshops-fe-terraform)
+- [Presentation](https://docs.google.com/presentation/d/1K5JZuag8s0I_md_QyIdxf8XGuo7iWVi4ILh1saekDso/edit?usp=sharing)
 
 ### 📝 Katas
 **For this challange configure it using Terraform as described in the [IaaC Fundamentals](/devops/junior_i/iacc_fundamentals/)**
 
-Create a small AWS infrastructure for a frontend application that can be found [here](). The following resources should be used:
+Create a small AWS infrastructure for a frontend application that can be found [here](https://github.com/jswob/devops-app). The following resources should be used:
 - S3
 - CloudFront
 - Route53
