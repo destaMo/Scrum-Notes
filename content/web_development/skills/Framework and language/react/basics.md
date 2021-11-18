@@ -102,7 +102,7 @@ After this section you will know how to use JSX, how it differs from HTML and ho
 - How to render UI from data array?
 - How are event handlers assigned to the UI?
 - Why it’s better to define handler method as fat arrow than assign it using fat arrow?
-- Why React components need to be capitalized when using in JSX? eg. <MyComponent> not <myComponent>
+- Why React components need to be capitalized when using in JSX? eg. &lt;MyComponent&gt; not &lt;myComponent&gt;
 - What is React Fragment?
 - What is React Portal?
 - What is the use case for the ClassNames package
