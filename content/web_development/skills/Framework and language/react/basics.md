@@ -271,7 +271,7 @@ After this section you will know how to create basic forms and validate user inp
 - Why using form library (like Formik) is often preferable over creating forms without such library?
 - What are Wizard Forms and why use them rather than regular forms?
 - What is the Button default type and why it is important in the context of forms?
-- What is the Difference between Controlled Component and Uncontrolled Component?
+- What is the Difference between Controlled Input and Uncontrolled input?
 - Does it make sense to validate forms on the frontend, as advanced users can disable it?
 
 ### 📝 Katas
