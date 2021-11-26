@@ -125,14 +125,12 @@ After this section you will know how to use React Components, manage state and p
 - 📗 [Unidirectional data flow](https://medium.com/@lizdenhup/understanding-unidirectional-data-flow-in-react-3e3524c09d8e)
 - 📗 [React keys](https://dev.to/jtonzing/the-significance-of-react-keys---a-visual-explanation--56l7)
 - 📗 [Reset React Component using key](https://medium.com/@albertogasparin/forcing-state-reset-on-a-react-component-by-using-the-key-prop-14b36cd7448e)
-- 📗 [Prop-Types](https://github.com/facebook/prop-types)
 
 ### 🎤 Interview
 
 - What is React Component?
 - What are the two types of Components and what are the differences between them?
 - What are the props of the Component?
-- How to validate props using PropTypes package?
 - What is "key" Component property for?
 - How to reset React Component (force component unmount and mount)
 - How to manage state in Class Component?
@@ -150,7 +148,6 @@ After this section you will know how to use React Components, manage state and p
 - When the Class component unmounts clear interval added using setInterval.
 - Create Function component with useState and useEffect hooks.
 - When the Function component unmounts clear interval added using setInterval.
-- Use PropTypes package to validate props structure.
 
 ---
 
