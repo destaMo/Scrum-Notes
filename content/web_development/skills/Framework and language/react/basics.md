@@ -98,10 +98,7 @@ After this section you will know how to use JSX, how it differs from HTML and ho
 
 - What is the JSX?
 - What are the differences between JSX and HTML?
-- What methods to conditionally render UI do you know?
-- How to render UI from data array?
-- How are event handlers assigned to the UI?
-- Why it’s better to define handler method as fat arrow than assign it using fat arrow?
+- Why it’s better to define handler method as useCallback than assign it using fat arrow?
 - Why React components need to be capitalized when using in JSX? eg. &lt;MyComponent&gt; not &lt;myComponent&gt;
 - What is React Fragment?
 - What is React Portal?
@@ -176,7 +173,6 @@ After this section you will know commonly used React hooks and React-Use package
 - What does the useRef hook do and when to use it?
 - What does the useReducer hook do and when to use it?
 - What is React Context, and what is its use-case?
-- How to create and consume React Context?
 - React-Use is package providing multitude of helpful hooks. Which of them you think might be useful for you? What they do?
 - How does hooks dependency array work? How to make a hook run on component: mount, unmount, property change
 
@@ -256,9 +252,7 @@ After this section you will know how to implementing routing in React SPA applic
 
 ### 🎤 Interview
 
-- How do you handle routes in your app?
-- How to pass and use params as part of url?
-- How to programmatically redirect to another route?
+- How do you handle routing in your app?
 - What are different types of history used for routing?
 
 ### 📝 Katas
@@ -357,8 +351,6 @@ After this section you will know how to setup Redux with React.
 
 ### 🎤 Interview
 
-- How do you connect Redux to React app and use it to manage application state?
-- How to setup your app to communicate with redux devtools?
 - What is the suggested structure of Redux files?
 
 ### 📝 Katas
