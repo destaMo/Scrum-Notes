@@ -98,10 +98,7 @@ After this section you will know how to use JSX, how it differs from HTML and ho
 
 - What is the JSX?
 - What are the differences between JSX and HTML?
-- What methods to conditionally render UI do you know?
-- How to render UI from data array?
-- How are event handlers assigned to the UI?
-- Why it’s better to define handler method as fat arrow than assign it using fat arrow?
+- Why it’s better to define handler method as useCallback than assign it using fat arrow?
 - Why React components need to be capitalized when using in JSX? eg. &lt;MyComponent&gt; not &lt;myComponent&gt;
 - What is React Fragment?
 - What is React Portal?
@@ -128,19 +125,14 @@ After this section you will know how to use React Components, manage state and p
 - 📗 [Unidirectional data flow](https://medium.com/@lizdenhup/understanding-unidirectional-data-flow-in-react-3e3524c09d8e)
 - 📗 [React keys](https://dev.to/jtonzing/the-significance-of-react-keys---a-visual-explanation--56l7)
 - 📗 [Reset React Component using key](https://medium.com/@albertogasparin/forcing-state-reset-on-a-react-component-by-using-the-key-prop-14b36cd7448e)
-- 📗 [Prop-Types](https://github.com/facebook/prop-types)
 
 ### 🎤 Interview
 
 - What is React Component?
 - What are the two types of Components and what are the differences between them?
 - What are the props of the Component?
-- How to validate props using PropTypes package?
 - What is "key" Component property for?
 - How to reset React Component (force component unmount and mount)
-- How to manage state in Class Component?
-- What are the lifecycle methods of Class component?
-- How to perform cleanups in a Class component? eg. clearing intervals
 - What are the React Hooks?
 - How to manage state with useState hook in Function Component?
 - How does the useEffect hook work and when it is triggered?
@@ -149,11 +141,8 @@ After this section you will know how to use React Components, manage state and p
 
 ### 📝 Katas
 
-- Create Class component with state and use lifecycle methods.
-- When the Class component unmounts clear interval added using setInterval.
 - Create Function component with useState and useEffect hooks.
 - When the Function component unmounts clear interval added using setInterval.
-- Use PropTypes package to validate props structure.
 
 ---
 
@@ -176,7 +165,6 @@ After this section you will know commonly used React hooks and React-Use package
 - What does the useRef hook do and when to use it?
 - What does the useReducer hook do and when to use it?
 - What is React Context, and what is its use-case?
-- How to create and consume React Context?
 - React-Use is package providing multitude of helpful hooks. Which of them you think might be useful for you? What they do?
 - How does hooks dependency array work? How to make a hook run on component: mount, unmount, property change
 
@@ -256,9 +244,7 @@ After this section you will know how to implementing routing in React SPA applic
 
 ### 🎤 Interview
 
-- How do you handle routes in your app?
-- How to pass and use params as part of url?
-- How to programmatically redirect to another route?
+- How do you handle routing in your app?
 - What are different types of history used for routing?
 
 ### 📝 Katas
@@ -285,7 +271,7 @@ After this section you will know how to create basic forms and validate user inp
 - Why using form library (like Formik) is often preferable over creating forms without such library?
 - What are Wizard Forms and why use them rather than regular forms?
 - What is the Button default type and why it is important in the context of forms?
-- What is the Difference between Controlled Component and Uncontrolled Component?
+- What is the Difference between Controlled Input and Uncontrolled input?
 - Does it make sense to validate forms on the frontend, as advanced users can disable it?
 
 ### 📝 Katas
@@ -357,8 +343,6 @@ After this section you will know how to setup Redux with React.
 
 ### 🎤 Interview
 
-- How do you connect Redux to React app and use it to manage application state?
-- How to setup your app to communicate with redux devtools?
 - What is the suggested structure of Redux files?
 
 ### 📝 Katas
