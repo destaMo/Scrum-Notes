@@ -133,9 +133,6 @@ After this section you will know how to use React Components, manage state and p
 - What are the props of the Component?
 - What is "key" Component property for?
 - How to reset React Component (force component unmount and mount)
-- How to manage state in Class Component?
-- What are the lifecycle methods of Class component?
-- How to perform cleanups in a Class component? eg. clearing intervals
 - What are the React Hooks?
 - How to manage state with useState hook in Function Component?
 - How does the useEffect hook work and when it is triggered?
@@ -144,8 +141,6 @@ After this section you will know how to use React Components, manage state and p
 
 ### 📝 Katas
 
-- Create Class component with state and use lifecycle methods.
-- When the Class component unmounts clear interval added using setInterval.
 - Create Function component with useState and useEffect hooks.
 - When the Function component unmounts clear interval added using setInterval.
 
