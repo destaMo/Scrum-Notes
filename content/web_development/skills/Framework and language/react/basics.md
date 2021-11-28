@@ -57,11 +57,16 @@ After this section you will know what is React and what it's used for.
 ### 🎓 Learn
 
 - 📗 [react main page](https://reactjs.org/)
+- 📗 [virtual DOM](https://reactjs.org/docs/faq-internals.html#what-is-the-virtual-dom)
 
 ### 🎤 Interview
 
 - What is React and what is it used for?
-- What are the main features of React?
+- Explain what does the main features of React do: 
+  - Being component based
+  - Using Virtual DOM
+  - Using declarative paradigm
+  - JSX
 
 ---
 
@@ -82,6 +87,7 @@ After this section you will know how to use CRA to quickly setup React applicati
 ### 📝 Katas
 
 - Setup application using CRA
+- Show where the command for starting the application is defined, and what code does it run
 
 ---
 
@@ -93,20 +99,26 @@ After this section you will know how to use JSX, how it differs from HTML and ho
 
 - 📗 [Conditional rendering](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
 - 📗 [ClassNames package](https://github.com/JedWatson/classnames)
+- 🔎 [Handler methods example](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/HandlerMethods/HandlerMethods.js)
 
 ### 🎤 Interview
 
 - What is the JSX?
-- What are the differences between JSX and HTML?
-- Why it’s better to define handler method as useCallback than assign it using fat arrow?
+  - Under the hood is JSX JavaScript or HTML?
+- Differences between JSX and HTML:
+  - Why in JSX we need to use "classNames" instead of "class" property
+  - Why in JSX we need to use "htmlFor" instead of "for" property
+- What is the difference between defining handler methods inline, as const, with useCallback. When to use which?
 - Why React components need to be capitalized when using in JSX? eg. &lt;MyComponent&gt; not &lt;myComponent&gt;
 - What is React Fragment?
 - What is React Portal?
-- What is the use case for the ClassNames package
 
 ### 📝 Katas
 
 - Render parts of the UI conditionally
+  - Multiple returns from the component
+  - Ternary operator
+  - "&&" notation
 - Display list of data
 - Handle user interaction using event handlers
 - Use ClassNames package for conditional class assignment
