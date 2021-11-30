@@ -1,5 +1,5 @@
 +++
-title = "Design basics"
+title = "Design 1 (basics)"
 +++
 
 {{%bubble %}}
@@ -52,7 +52,9 @@ title = "Design basics"
 - 📗 [Figma variants](https://www.youtube.com/watch?v=6XcDHOlBARc)
 - 📗 [Figma resources](https://www.figmaresources.com/)
 - 📗 [Mac setup](https://docs.google.com/document/d/1qanfu5n7HUv7D0iLVdlm6VkTz0ku7a8dYONE4HxiE38/edit?usp=sharing)
-- 📗 TODO: Git for designers
+- 📗 [Git](/common/git/)
+- 📗 [Git commands/aliases](https://drive.google.com/file/d/1JtJA-EGDZVupjbSFhWh2WZDmYa-_wJ3e/view?usp=sharing)
+- 📗 `gfa`: `git fetch --all --prune` - remove local branches that are not on remote
 
 ---
 
@@ -67,8 +69,6 @@ title = "Design basics"
 - 📗 [Variable "x"](https://uxdesign.cc/users-will-break-your-design-and-its-not-their-fault-57f2085c1c9e)
 - 📗 [Mistakes to avoid as junior designer](https://uxplanet.org/7-mistakes-i-used-to-make-as-a-junior-designer-what-not-to-do-cee33958a57e)
 - 📗 [10 common mistakes](https://uxdesign.cc/10-common-mistakes-ui-designers-make-7c95bb5436b5)
-- 📗 [Color psychology](https://medium.com/@onepixelout/the-psychology-of-colour-286862ac80e6)
-- 📗 [Color psychology infographics](https://www.dailyinfographic.com/wp-content/uploads/2012/09/psychology-of-color.png)
 - 📗 [Soft skills](https://dribbble.com/stories/2019/09/13/5-soft-skills-every-ui-ux-designer-should-master)
 - 📗 [Soft skills](https://uxdesign.cc/10-soft-skills-for-ui-ux-designers-11b948739a34)
 - 📗 [Checklists](https://www.checklist.design/)
@@ -84,9 +84,22 @@ title = "Design basics"
 - how to make dropdowns easier for users?
 - when the client speaks about something you have no idea about, what can you do?
 - how can you prevent the users from breaking your app?
-- what colors could you use for a food related app and why?
 - when is a good time for high fidelity designs?
 - when should the copy of a website be defined?
+
+---
+
+## 📦 Color
+
+### 🎓 Learn
+- 📗 [Color psychology](https://medium.com/@onepixelout/the-psychology-of-colour-286862ac80e6)
+- 📗 [Color psychology infographics](https://www.dailyinfographic.com/wp-content/uploads/2012/09/psychology-of-color.png)
+- 📗 [Choosing colors for your project](https://gapsystudio.medium.com/how-to-choose-the-correct-ui-design-colors-for-your-product-to-reinforce-your-business-5a435d3aa115)
+
+### 🎤 Interview
+
+- what colors could you use for a food related app and why?
+- what is the 60–30–10 rule?
 
 ---
 
@@ -99,6 +112,7 @@ title = "Design basics"
 - 📗 [10 principles](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)
 - 📗 [Pairing fonts](https://fontpair.co/)
 - 📗 [Amazing fonts](https://uxdesign.cc/the-curated-list-of-25-amazing-fonts-for-2021-fa768327cc94)
+- 📗 [Advanced examples](https://typographyprinciples.obys.agency/)
 
 ### 🎤 Interview
 
@@ -148,6 +162,6 @@ You need LastPass to get access to those.
 ## 📝 Katas
 - Can use one design tool - preferably Figma, but Sketch and Xd are also fine
 - Use variables in design - define and use: a color palette, common spacings, font sizes, components
-- Have a social media portfolio (Dribbble, Behance with at least 5 projects)
+- Have a social media portfolio (Dribbble, Behance, www with at least 5 projects)
 - Show that you understand and use the rules above in your designs
 - Explain the though process behind your project

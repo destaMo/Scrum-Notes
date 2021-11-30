@@ -1,16 +1,34 @@
-# TECHNOLOGY :: Frontend :: CSS/HTML
++++
+title = "Styling 3 (advanced)"
++++
 
-Provide the list of PR's or other contributions that prove you understand each subject, or add the Katas listed below to your project from J2.
+{{%bubble %}}
 
-&nbsp;
+## Styling advanced
 
-# Independent I
+**Points:** 1
+
+**Description:** You understand and can use in practice the more advanced concepts of styling.
+
+**Person who successfully completed requirements for given block can:**
+
+- use advanced selectors, concepts and variables
+- animate using keyframes and pseudoclasses
+- use flexbox freely and fix common issues with it
+- use and properly compress images and svg icons 
+- write performant HTML
+- debug CSS
+
+{{% /bubble%}}
+
+---
 
 ## 📦 Advanced CSS
 
 ### 🎓 Learn
 
 * 📗 [Advanced CSS](https://www.w3schools.com/Css/css3_borders.asp) ("CSS Advanced" section)
+* 📗 [Transforms](https://www.joshwcomeau.com/css/transforms/)
 * 📗 [Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * 📗 [Advanced alignment](https://www.smashingmagazine.com/2019/03/css-alignment/)
 * 📗 [Ellipsis](https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/)
@@ -23,7 +41,6 @@ Provide the list of PR's or other contributions that prove you understand each s
 * 📗 [Positioning](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 * 📗 [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 * 📗 [CSS variables vs preprocessor variables](https://css-tricks.com/difference-between-types-of-css-variables/)
-
 
 ### 🎤 Interview
 
@@ -166,6 +183,7 @@ On your project, add:
 
 ### 🎓 Learn
  
+* 📗 [How to debug CSS](https://www.smashingmagazine.com/2021/10/guide-debugging-css)
 * 📗 [Inspecting hover states](https://coderwall.com/p/s_g9qg/use-chrome-dev-tools-to-force-element-state-hover-debugging)
 * 📗 [Inspecting advanced](https://selleo.com/til/posts/ok8w4vaod0-inspecting-elements-that-disappear-from-dom)
 * 📗 [Inspecting advanced #2](https://selleo.com/til/posts/zymr9yhtjf-inspecting-elements-that-disappear-from-dom-2)

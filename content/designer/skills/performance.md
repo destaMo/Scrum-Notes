@@ -37,13 +37,13 @@ title = "Performance [WIP]"
 - 📗 [How Smashing did it](https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study)
 - 📗 [CSS auditing](https://www.smashingmagazine.com/2021/03/css-auditing-tools/)
 - 📗 [CSS performance](https://calibreapp.com/blog/css-performance)
+- 📗 [Picture element](https://www.stefanjudis.com/snippets/a-picture-element-to-load-correctly-resized-webp-images-in-html/)
+- 📗 [Contain](https://medium.com/@johan.isaksson/how-i-made-googles-data-grid-scroll-10x-faster-with-one-line-of-css-78cb1e8d9cb1)
 
 ##### Images
 - 📗 [Github image actions](https://github.com/marketplace/actions/image-actions)
 - 📗 WebP, avif, JPEG XL
-- picture element
-- proper density/sizing
-
+- 📗 proper density/sizing
 
 ### 🎤 Interview
 

@@ -1,5 +1,5 @@
 +++
-title = "Accessibility [WIP]"
+title = "Accessibility"
 +++
 
 {{%bubble %}}
@@ -53,14 +53,25 @@ title = "Accessibility [WIP]"
 - 📗 [Links and buttons](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
 - 📗 [Font sizes](https://css-tricks.com/accessible-font-sizing-explained/)
 - 📗 [Don't use pixels](https://uxdesign.cc/say-goodbye-to-pixels-cb720fbaf250)
-
+- https://www.smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/
+- https://css-tricks.com/making-disabled-buttons-more-inclusive/
+  
 - 📗 [Tools](https://blog.prototypr.io/accessibility-tools-and-plugins-for-designers-d47e5713ec91)
 
-https://mailchi.mp/smashingmagazine/smashing-newsletter-286-accessibility?e=5d778e0425
-https://mailchi.mp/smashingmagazine/smashing-newsletter-289-front-end-accessibility?e=5d778e0425
-https://wave.webaim.org/
+- https://mailchi.mp/smashingmagazine/smashing-newsletter-286-accessibility?e=5d778e0425
+- https://mailchi.mp/smashingmagazine/smashing-newsletter-289-front-end-accessibility?e=5d778e0425
+- https://wave.webaim.org/
+- https://www.a11y-collective.com/blog/the-perfect-link
+- http://web-accessibility.carnegiemuseums.org/code/svg/
+- https://web.dev/labels-and-text-alternatives/#include-text-alternatives-for-images-and-objects
+- https://tympanus.net/codrops/2021/10/06/how-to-implement-and-style-the-dialog-element/
 
-https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/
+- https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/
+
+- https://jakearchibald.com/2021/great-alt-text/
+- https://html.spec.whatwg.org/multipage/images.html#alt
+- https://medium.com/nextux/alternatives-to-placeholder-text-13f430abc56f
+
 ### 🎤 Interview
 
 - 

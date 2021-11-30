@@ -6,7 +6,7 @@ title = "UX"
 
 ## UX design
 
-**Points:** 1
+**Points:** 2
 
 **Description:** -
 
@@ -58,6 +58,10 @@ title = "UX"
 - 📗 [Psychological principles](https://uxdesign.cc/20-examples-of-psychological-principles-applied-to-product-design-a0d3ecaeb214)
 - 📗 [Design psychologies](https://uxdesign.cc/7-design-psychologies-every-designer-should-know-d01a1becd961)
 - 📗 [Behavior patterns](https://uxdesign.cc/10-essential-cognitive-behavior-patterns-for-ux-design-7f0cc2e00d31)
+
+##### Accessibility design tools
+- 📗 [Contrast plugin](https://www.figma.com/community/plugin/748533339900865323/Contrast)
+- 📗 [Stark plugin](https://www.figma.com/community/plugin/732603254453395948/Stark)
 
 ##### Other
 - 📗 [Research tools](https://uxdesign.cc/13-helpful-ux-research-tools-1949c92b9da0)

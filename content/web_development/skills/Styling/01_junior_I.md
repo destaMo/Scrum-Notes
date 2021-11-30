@@ -1,10 +1,24 @@
-# TECHNOLOGY :: Frontend :: CSS/HTML
++++
+title = "Styling 1 (basics)"
++++
 
-Prepare for a tech interview, where we will go step by step through the following list. J1 is all about theory, but if it suits your learning style more, you can already start implementing the project required for the next level. See [Junior II](../02_junior_ii) for more details. 
+{{%bubble %}}
 
-&nbsp;
+## Styling basics
 
-# Junior I
+**Description:** You understand the basic concepts of styling and know the theory to implement simple websites with best practices in mind.
+
+**Person who successfully completed requirements for given block can:**
+
+- know which HTML tags to use
+- understand how CSS works
+- know how to use flexbox
+- know how to use SASS
+- name bad practices and how to correct them
+
+{{% /bubble%}}
+
+---
 
 ## 📦 General rules
 
@@ -53,9 +67,8 @@ Prepare for a tech interview, where we will go step by step through the followin
 * 📗 [Css vocabulary](http://apps.workflower.fi/vocabs/css/en)
 * 📗 [Box model](https://internetingishard.com/html-and-css/css-box-model/)
 * 📗 [Basic information's about CSS](https://www.w3schools.com/Css/default.asp) ("CSS Tutorial" section)
-* 📗 [CSS specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
-* 📗 [CSS specificity cheatsheet](https://webdevstudios.com/wp-content/uploads/2015/05/specificity1.png)
-* 📗 [SpeciFISHity](https://specifishity.com/)
+* 📗 [CSS specificity](https://css-tricks.com/specifics-on-css-specificity/)
+* 📗 [CSS specificity examples](https://specifishity.com/)
 * 📗 [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
 * 📗 [Centering example](https://codepen.io/Zealur/pen/ebNExd)
 * 📗 [% in CSS](https://wattenberger.com/blog/css-percents)

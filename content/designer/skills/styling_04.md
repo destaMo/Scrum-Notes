@@ -1,12 +1,12 @@
 +++
-title = "Styling advanced [WIP]"
+title = "Styling 4 (mastery) [WIP]"
 +++
 
 {{%bubble %}}
 
-## Styling advanced
+## Styling mastery
 
-**Points:** 2
+**Points:** 1
 
 **Description:** -
 
@@ -28,6 +28,7 @@ title = "Styling advanced [WIP]"
 
 ### 🎓 Learn
 
+- 📗 [designMode](https://dev.to/arbaoui_mehdi/edit-your-website-live-in-google-chrome-by-using-document-designmode-5d9h)
 * 📗 [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb)
 * 📗 [In depth z-index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 * 📗 [More in depth z-index](https://www.joshwcomeau.com/css/stacking-contexts)
@@ -55,13 +56,13 @@ title = "Styling advanced [WIP]"
 
 ### 🎓 Learn
 
-* 📗 [Advanced CSS](https://www.w3schools.com/Css/css3_borders.asp) ("CSS Advanced" section)
 * 📗 [Part 1](https://css-irl.info/debugging-css-grid-part-1-understanding-implicit-tracks/)
 * 📗 [Part 2](https://css-irl.info/debugging-css-grid-part-2-what-the-fraction/)
 * 📗 [Part 3](https://css-irl.info/debugging-css-grid-part-3-auto-flow-order-and-item-placement/)
 * 📗 [Ultimate guide](https://jstutorial.medium.com/the-ultimate-guide-to-css-grid-2c5ba7b47356)
 * 📗 [Grid vs flexbox](https://www.webdesignerdepot.com/2018/09/grid-vs-flexbox-which-should-you-choose/)
 * 📗 [Tips & tricks](https://medium.com/@elad/becoming-a-css-grid-ninja-f4c6db018cc1)
+* 📗 [Grid lessons](https://www.euismod.dev/)
 * 📗 [Grid exercise](http://cssgridgarden.com/)
 * 📗 [Video tutorial 1 *](https://scrimba.com/g/gR8PTE)
 * 📗 [Video tutorial 2 *](https://cssgrid.io/)

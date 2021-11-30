@@ -1,10 +1,24 @@
-# TECHNOLOGY :: Frontend :: CSS/HTML
++++
+title = "Styling 2 (intermediate)"
++++
 
-Besides a small tech interview, prepare a list of PR's or other contributions that prove your understanding of the subject from J1 and J2. If you don't have any you can implement a design from dribble. Pick one that you like for desktop and mobile, and send it to me for approval before you start coding. While implementing, keep in mind the [Selleo CSS writing best practices](https://gist.github.com/ArekJanik/0f2a101935aed483782c15f2d5b73273). For easier feedback, prepare it as a PR. 
+{{%bubble %}}
 
-&nbsp;
+## Styling intermediate
 
-# Junior II
+**Description:** You can implement basic websites with best practices in mind.
+
+**Person who successfully completed requirements for given block can:**
+
+- use the knowledge from this and previous levels in practice
+- implement a static page using HTML/SASS 
+- use best practices
+
+{{% /bubble%}}
+
+---
+
+TODO: linter
 
 ## 📦 Semantic HTML
 
@@ -95,3 +109,7 @@ Besides a small tech interview, prepare a list of PR's or other contributions th
 
 * what file types should you use for webfonts
 * when to use font icons
+
+## 📝 Katas
+- prepare a list of PR's or other contributions that prove your understanding of the subject from this and previous level
+- if you don't have any you can implement a responsive design from dribble (send it to me for approval before you start coding). For easier feedback, prepare it as a PR
