@@ -185,3 +185,7 @@ weight = 1
 10. How would you define No-SQL?
 11. Describe key-value store of your choice.
 - Provide some use-cases of key-value stores.
+
+### 📝 Katas
+
+- [Learn SQL with simple, interactive exercises](https://sqlbolt.com/lesson/introduction)
