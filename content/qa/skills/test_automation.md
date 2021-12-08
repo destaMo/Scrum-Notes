@@ -16,6 +16,7 @@ title = "Test automation"
 - Write executable automation tests that give a valuable information about state of particular features
 - Create useful custom functions in terms of test automation
 - Support grabbing website elements with CSS selectors
+- Improve written tests by using requests and authentication token
 
 {{% /bubble%}}
 
@@ -36,8 +37,11 @@ title = "Test automation"
 - 📙 [jQuery form selectors](https://api.jquery.com/category/selectors/form-selectors/)
 - 📙 [jQuery tree traversal - children, closest, find, parent, parents, siblings](https://api.jquery.com/category/traversing/tree-traversal/)
 - 📙 [jQuery filtering](https://api.jquery.com/category/traversing/filtering/)
+- 📗 [Cypress - setting a token in localStorage](https://newbedev.com/in-cypress-set-a-token-in-localstorage-before-test)
+- 📗 [Cypress - intercepting a request](https://egghead.io/blog/intercepting-network-requests-in-cypress)
+- 📗 [Cypress - ignore uncaught exceptions](https://stackoverflow.com/questions/53845493/cypress-uncaught-assertion-error-despite-cy-onuncaughtexception)
 
-### **🎤  Interview**
+### **🎤 Interview**
 
 - What are the most important advantages and disadvantages of automated tests?
 - Is manual or automated testing more important/efficient than the other one? Compare those two approaches
@@ -50,7 +54,9 @@ title = "Test automation"
 - Write and run a basic test case (e.g. logging in and some navigation)
 - Write an example custom command (e.g. generating a unique ID, selecting filters)
 - Use CSS selectors to refer to proper elements on a website
-- Improve authorization so that Cypress does not need to login manually each time
+- Improve authentication so that Cypress does not need to login manually each time
 - Solve a problem of creating an object with name that already exists
-- Get authorization token and use it in created request
+- Get authentication token and use it in created request (for example login)
 - Show me what snippets you use
+- Make sure that data you need to be loaded is actually loaded by intercepting a request and waiting for its response
+- Show me how to ignore uncaught exceptions
