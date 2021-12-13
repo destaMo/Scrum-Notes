@@ -1,5 +1,0 @@
-+++
-title = "Fundamentals"
-+++
-
-Frontend fundamentals

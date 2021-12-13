@@ -1,5 +1,0 @@
-+++
-title = "Fundamentals"
-+++
-
-Backend fundamentals
