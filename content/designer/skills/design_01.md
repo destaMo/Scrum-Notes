@@ -111,6 +111,7 @@ title = "Design 1 (basics)"
 - 📗 [Typography fundamentals](https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24)
 - 📗 [10 principles](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)
 - 📗 [Pairing fonts](https://fontpair.co/)
+- 📗 [Superfamilies](https://fonts.google.com/featured/Superfamilies)
 - 📗 [Amazing fonts](https://uxdesign.cc/the-curated-list-of-25-amazing-fonts-for-2021-fa768327cc94)
 - 📗 [Advanced examples](https://typographyprinciples.obys.agency/)
 
@@ -122,6 +123,7 @@ title = "Design 1 (basics)"
 - when would you change tracking in a font?
 - leading in headers vs paragraphs
 - what should you consider when designing a multilingual app?
+- what are superfamilies and when to use them?
 
 ---
 

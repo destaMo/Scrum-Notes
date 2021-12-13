@@ -51,7 +51,8 @@ title = "Design 2 (intermediate)"
 - 📗 [Nice shadows](https://blog.prototypr.io/how-to-make-badass-shadows-564b3a30aba4)
 - 📗 [More shadows tricks](https://www.joshwcomeau.com/css/designing-shadows/)
 
-##### Favicons
+##### (Fav)Icons
+- 📗 [Ultimate guide to designing icons](https://uxdesign.cc/the-ultimate-guide-to-designing-icons-f7f97afba7ff)
 - 📗 [How to Favicon](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 - 📗 [SVG Favicon](https://austingil.com/svg-favicons/)
 
