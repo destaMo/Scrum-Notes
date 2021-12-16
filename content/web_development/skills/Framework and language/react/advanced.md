@@ -33,7 +33,6 @@ weight = 2
 - Hooks
 - Performance
 - Error handling
-- React 17
 - Patterns
 - Code-smells
 - Testing
@@ -163,24 +162,6 @@ After this section you will know how to handle errors on production.
 - Add error boundary to your app, so the application handles UI errors gracefully.
 - Make sure your production build has source maps.
 - Use free plan of Sentry to monitor errors in deployed application.
-
----
-
-## 📦 React / React 17
-
-After this section you will know how what are the main changes in react 17.
-
-### 🎓 Learn
-
-- 📗 [React 17 changes](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
-- 📗 [New JSX transform](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
-
-### 🎤 Interview
-
-- How is event delegation changed in React 17?
-- What does it mean Events are not Pooled anymore?
-- How are cleanup effects changed and when it might be problematic?
-- Why we do not need to import React in react 17 and 16.14?
 
 ---
 
