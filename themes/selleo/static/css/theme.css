@@ -1276,6 +1276,19 @@ pre .copy-to-clipboard:hover {
   border-radius: 20px;
 }
 
+.bubble-evaluators {
+  font-size: 12px;
+  background: #01A9F0;
+  position: relative;
+  display: inline-block;
+  padding: 5px 10px;
+  left: -40px;
+}
+
+.bubble-evaluators a {
+  color: white;
+}
+
 .bubble-label {
   font-size: 12px;
   background: #ff6d2a;
