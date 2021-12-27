@@ -34,6 +34,6 @@ title = "CICD"
   - staging and production workflows
   - production workflow requires approval
   - make steps parallel if it makes sense
-  - deploy app to s3 createad in [AWS Service Basics](/devops/junior_i/aws_services_basic/)
+  - deploy app to s3 createad in [AWS Service Basics](/devops/junior_i/aws_services_basic_frontend/)
 ### 🎤 Interview
 - Explain the differences between Continuous integration, Continuous delivery, Continuous deployment
