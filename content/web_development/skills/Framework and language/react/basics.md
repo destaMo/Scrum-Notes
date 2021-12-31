@@ -33,8 +33,8 @@ weight = 1
 - JSX
 - Components
 - Hooks
-- Devtools
 - Performance
+- Devtools
 - Codebase structure
 - Routing
 - Forms
@@ -131,9 +131,6 @@ After this section you will know how to use React Components, manage state and p
 
 ### 🎓 Learn
 
-- 📗 [Class vs Function component with hooks](https://dev.to/danielleye/react-class-component-vs-function-component-with-hooks-13dg)
-- 📗 [Class vs Function component differences](https://overreacted.io/how-are-function-components-different-from-classes/)
-- 📗 [Preventing memory leaks](https://egghead.io/lessons/react-stop-memory-leaks-with-componentwillunmount-lifecycle-method-in-react)
 - 📗 [Unidirectional data flow](https://medium.com/@lizdenhup/understanding-unidirectional-data-flow-in-react-3e3524c09d8e)
 - 📗 [React keys](https://dev.to/jtonzing/the-significance-of-react-keys---a-visual-explanation--56l7)
 - 📗 [Reset React Component using key](https://medium.com/@albertogasparin/forcing-state-reset-on-a-react-component-by-using-the-key-prop-14b36cd7448e)
@@ -141,20 +138,11 @@ After this section you will know how to use React Components, manage state and p
 ### 🎤 Interview
 
 - What is React Component?
-- What are the two types of Components and what are the differences between them?
-- What are the props of the Component?
-- What is "key" Component property for?
-- How to reset React Component (force component unmount and mount)
-- What are the React Hooks?
-- How to manage state with useState hook in Function Component?
-- How does the useEffect hook work and when it is triggered?
-- How to perform cleanups in a Function component? eg. clearing intervals
+- What are the Component props?
+- "key" Component prop has usages mentioned below, explain how exactly they work 
+  - identifying components rendered in an array
+  - resetting one specific Component (force component unmount and mount)
 - What does it mean that React has Unidirectional data flow?
-
-### 📝 Katas
-
-- Create Function component with useState and useEffect hooks.
-- When the Function component unmounts clear interval added using setInterval.
 
 ---
 
@@ -165,15 +153,17 @@ After this section you will know commonly used React hooks and React-Use package
 ### 🎓 Learn
 
 - 📗 [Getting current state in setState with function argument](https://stackoverflow.com/questions/42494985/setstate-in-react-based-on-current-state/42496452#42496452)
+- 📗 [Preventing memory leaks](https://egghead.io/lessons/react-stop-memory-leaks-with-componentwillunmount-lifecycle-method-in-react)
 - 📗 [When to use state and when reducer](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)
 - 📗 [React refs guide](https://dmitripavlutin.com/react-useref-guide/)
 - 📗 [React-Use](https://github.com/streamich/react-use)
 
 ### 🎤 Interview
 
-- What to do when you need the current state value to set new state? (eg. incrementing)
-- What does the useCallback hook do and when to use it?
-- What does the useMemo hook do and when to use it?
+- What are the React Hooks?
+- What is useState hook used for?
+- How does the useEffect dependency array work?
+- When is the function returned from useEffect triggered?
 - What does the useRef hook do and when to use it?
 - What does the useReducer hook do and when to use it?
 - What is React Context, and what is its use-case?
@@ -182,9 +172,46 @@ After this section you will know commonly used React hooks and React-Use package
 
 ### 📝 Katas
 
-- Use useCallback, useMemo, useRef and useReducer hooks in your app.
+- Use useState hook with:
+  - optimized initialValue eg. `useState(() => complex calculation)`
+  - setValue with current value eg. `setValue((currentValue) => currentValue + 1)`
+- Use useEffect hook with:
+  - with empty dependency array
+  - with filled dependency array
+- When the Function component unmounts clear interval added using setInterval.
+- Use useRef hook to hold html element or value reference.
+- and useReducer hook in your app in case where it provides benefit over useState.
 - Add React Context and consume it in a few components.
-- Use a few React-Use hooks in your app.
+- Use at least 2 React-Use hooks in your app.
+
+---
+
+## 📦 React / Performance
+
+After this section you will know how to prevent common programming mistakes degrading React performance.
+
+### 🎓 Learn
+
+- 📗 [Correct key for lists](https://medium.com/information-and-technology/a-simple-list-render-optimization-for-react-ef0a133e9c86)
+- 📗 [TODO callback handlers examples]()
+- 📗 [TODO TIL different cases when to use useMemo, and when not]()
+- 📗 [Pass memoized data and callbacks to components](https://blog.bitsrc.io/optimize-your-react-functional-components-with-usecallback-and-usememo-34bb52bc9a13)
+- 📗 [Optimization by reorganization](https://overreacted.io/before-you-memo/)
+
+### 🎤 Interview
+
+- What does the useCallback hook do and when to use it?
+- What does the useMemo hook do and when to use it?
+- Common performance bad practices are:
+  - Using incorrect keys for lists. What keys are good what are bad?
+  - Not using memoization for heavy computations in component. When to memoize, when not?
+  - Having big components containing multiple states affecting only parts of the UI. How to fix it?
+
+### 📝 Katas
+
+- Use useCallback hook in situation when it provides performance benefit.
+- Use useMemo hook in situation when it provides performance benefit.
+- Use correct key for lists.
 
 ---
 
@@ -208,39 +235,16 @@ After this section you will know how to effectively use React Development tools.
 
 ---
 
-## 📦 React / Performance
-
-After this section you will know how to prevent common programming mistakes degrading React performance.
-
-### 🎓 Learn
-
-- 📗 [Correct key for lists](https://medium.com/information-and-technology/a-simple-list-render-optimization-for-react-ef0a133e9c86)
-- 📗 [Fat arrow function as event handler](https://stackoverflow.com/a/48740930/4349813)
-- 📗 [Pass memoized data and callbacks to components](https://blog.bitsrc.io/optimize-your-react-functional-components-with-usecallback-and-usememo-34bb52bc9a13)
-- 📗 [Optimization by reorganization](https://overreacted.io/before-you-memo/)
-
-### 🎤 Interview
-
-- What practices degrade React performance and how to fix them?
-
-### 📝 Katas
-
-- Make sure your app is free from the discussed performance bad practices :)
-
----
-
 ## 📦 React / Codebase structure
 
 After this section you will know how to organize project files in a clear manner.
 
 ### 🎓 Learn
+- 📗 [How to organize application](https://engineering.udacity.com/react-folder-structure-for-enterprise-level-applications-f8384eff162b)
 
-- 📗 [Project structure](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
-- 📗 [How to organize application](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)
+### 🎤 Katas
 
-### 🎤 Interview
-
-- How to organize project files?
+- Organize project files according to suggested pattern.
 
 ---
 
@@ -256,7 +260,7 @@ After this section you will know how to implementing routing in React SPA applic
 
 ### 🎤 Interview
 
-- How do you handle routing in your app?
+- How do we need to implement routing in SPA?
 - What are different types of history used for routing?
 
 ### 📝 Katas
@@ -277,6 +281,7 @@ After this section you will know how to create basic forms and validate user inp
 - 📗 [yup.js](https://github.com/jquense/yup/)
 - 📗 [Button default action](https://stackoverflow.com/a/10836076)
 - 📗 [Controlled vs uncontrolled components](https://stackoverflow.com/a/42522792)
+- 📗 [Why use frontend validation](https://www.codebyamir.com/blog/never-trust-data-from-the-browser#:~:text=Client%2DSide%20Validation,to%20the%20user.)
 
 ### 🎤 Interview
 
@@ -304,22 +309,36 @@ After this section you will know how to test React application
 
 - 📗 [Jest.js](https://jestjs.io/)
 - 📗 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-- 📗 [TDD with React Testing Library](https://typeofweb.com/tdd-react-testing-library/)
-- 📗 [When to use TDD](https://kentcdodds.com/blog/when-i-follow-tdd)
+- 📗 [Testing React cheatsheet](https://docs.google.com/presentation/d/10u5q9tKzWq-HDpC3YV-on1gH2jVipVpCiaxxZFvForc/edit#slide=id.g96256219f6_0_4)
+- 📙 [Testing React presentation slides](https://docs.google.com/presentation/d/1L2JJ64hksvaU8Zi1omqs4IUiw5TPj3kgAq4_D9bxpRE/edit#slide=id.g96256219f6_0_4)
+- 📙 [Testing React presentation recording](https://drive.google.com/file/d/1pNB8yqBDuFk0EaqqdDdpuKSPQrHbv-VD/view?usp=sharing)
+- 📗 [Jest timer mocks](https://jestjs.io/docs/en/timer-mocks)
+- 📗 [MockDate](https://github.com/boblauer/MockDate)
 - 📗 [Axios mock adapter](https://www.npmjs.com/package/axios-mock-adapter)
 - 📗 [Factory girl](https://github.com/aexmachina/factory-girl)
 
 ### 🎤 Interview
 
-- What is TDD?
-- When to use TDD?
 - What does Jest and React Testing Library do?
-- What should we test in React application?
-- How to mock requests and provide example data?
+- When to use integration and when unit tests?
+- Does it make sense to add tests for every single component?
+- When testing we should "behave" like real user
+  - what selectors we should use
+  - how should we interact with the application
+- What is the use-case for axios-mock-adapter library
+- What is the use-case for factory girl library
 
 ### 📝 Katas
 
-- Develop a few components or the whole app using TDD (should be verifiable by commit history)
+- Create tests for a few components using the user perspective
+- Create test for code making backend requests
+  - delay the mocked responses for 1,5s
+  - create the response data using factory girl library
+- Create test for code dependent on time
+  - displaying datetime or for logic using datetime
+- Create test for code dependent on the passing of time
+  - timeouts or intervals
+- Wait for element to appear/disappear asynchronously
 
 ---
 

@@ -230,9 +230,9 @@ After this section you will know how to test async code.
 
 - 📗 [Use debugger in jest tests](https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/)
 - 📗 [Use breakpoints and logpoints](https://selleo.com/til/posts/mxkd8fpqbw-debug-prod-app-with-logpoints-conditional-breakpoints)
-- 📗 [Jest timer mocks](https://jestjs.io/docs/en/timer-mocks)
-- 📗 [MockDate](https://github.com/boblauer/MockDate)
 - 📗 [Jest ES6 Mock](https://jestjs.io/docs/es6-class-mocks)
+- 📗 [TDD with React Testing Library](https://typeofweb.com/tdd-react-testing-library/)
+- 📗 [When to use TDD](https://kentcdodds.com/blog/when-i-follow-tdd)
 - 📙 [use React Devtools in Cypress tests](https://selleo.com/til/posts/rvajzbhbww-loading-react-redux-dev-tools-in-cypress)
 
 ### 🎤 Interview
@@ -243,10 +243,9 @@ After this section you will know how to test async code.
 
 ### 📝 Katas
 
-- Create test for asynchronous code (promises/observables)
-- Create test for code making requests (thunk or other middleware)
-- Create test for code dependent on time (displaying datetime or code using date or time)
-- Create test for code dependent on the passing of time (code using timeouts)
+- What is TDD?
+- When to use TDD?
+- Develop a few components or the whole app using TDD (should be verifiable by commit history)
 - Mock imported library using Jest ES6 Mocks
 
 ---
