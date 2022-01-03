@@ -36,6 +36,7 @@ title = "Styling emails"
 * 📗 [BIMI](https://www.emailonacid.com/papers/bimi-implementation-what-to-expect/) 
 * 📗 [Accessible emails](https://www.emailonacid.com/blog/article/email-development/how-to-code-accessible-emails/) 
 * 📗 [Templates](https://www.emailonacid.com/blog/article/email-development/600_free_email_templates/) 
+* 📗 [email MQ](https://www.emailonacid.com/blog/article/email-development/emailology_media_queries_demystified_min-width_and_max-width/)
 
 ### 🎤 Interview
 

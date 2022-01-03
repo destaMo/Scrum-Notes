@@ -47,6 +47,7 @@ title = "UX"
 - 📗 [Spinners](https://simonhearne.com/2020/alternatives-to-spinners/)
 - 📗 [Ethical UX](https://uxdesign.cc/10-principles-for-ethical-ux-designs-21faf5ab243d)
 - 📗 [10 commandments](https://uxdesign.cc/10-commandments-for-ui-design-29ee9687a4)
+- 📗 [UX movement](https://uxmovement.com/)
 
 ##### Examples
 - 📗 [Booking.com case study](https://uxdesign.cc/how-booking-com-makes-you-book-a-room-a-ux-analysis-d0b5177b8b25)
@@ -58,6 +59,7 @@ title = "UX"
 - 📗 [Psychological principles](https://uxdesign.cc/20-examples-of-psychological-principles-applied-to-product-design-a0d3ecaeb214)
 - 📗 [Design psychologies](https://uxdesign.cc/7-design-psychologies-every-designer-should-know-d01a1becd961)
 - 📗 [Behavior patterns](https://uxdesign.cc/10-essential-cognitive-behavior-patterns-for-ux-design-7f0cc2e00d31)
+- 📗 [Digital Psychology](https://digitalpsychology.io/)
 
 ##### Accessibility design tools
 - 📗 [Contrast plugin](https://www.figma.com/community/plugin/748533339900865323/Contrast)
@@ -66,7 +68,8 @@ title = "UX"
 ##### Other
 - 📗 [Research tools](https://uxdesign.cc/13-helpful-ux-research-tools-1949c92b9da0)
 - 📗 [UX Books](https://medium.com/swlh/every-ux-book-i-recommend-and-why-673d634ca530)
-
+- 📗 [Digital Psychology](https://digitalpsychology.io/)
+https://www.nngroup.com/articles/growing-your-ux-career-study-guide/
 ### 🎤 Interview
 
 - 

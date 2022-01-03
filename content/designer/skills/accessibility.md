@@ -68,9 +68,12 @@ title = "Accessibility"
 
 - https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/
 
+- https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/
 - https://jakearchibald.com/2021/great-alt-text/
 - https://html.spec.whatwg.org/multipage/images.html#alt
 - https://medium.com/nextux/alternatives-to-placeholder-text-13f430abc56f
+- https://benmyers.dev/blog/on-the-dl/
+- https://www.a11yproject.com/checklist/
 
 ### 🎤 Interview
 

@@ -25,6 +25,7 @@ title = "Designer"
 - 📙 2️⃣ [Drawing (responsible: @KasiaL)](/designer/skills/drawing/)
 - 📙 1️⃣ [DTP](/designer/skills/dtp/)
 - 📙 1️⃣ [Email styling](/designer/skills/email_styling/)
+- 📙 1️⃣ [Icons & Logos](/designer/skills/icons_logos)
 - 📙 1️⃣ [Performance](/designer/skills/performance/)
 - 📙 1️⃣ [Styling 4 (mastery)](/designer/skills/styling_04/)
 - 📙 1️⃣ [Styling 5 (on the adge)](/designer/skills/styling_05/)

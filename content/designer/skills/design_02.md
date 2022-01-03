@@ -41,7 +41,10 @@ title = "Design 2 (intermediate)"
 - 📗 [Landing page design tips](https://twitter.com/robhope/status/1265278107088347136)
 - 📗 [Landing page design tips](https://uxplanet.org/13-tips-for-improving-landing-page-design-849801372da4)
 - 📗 [Dashboard design tips](https://medium.muz.li/10-rules-of-dashboard-design-f1a4123028a2)
+- 📗 [Dashboard design tips](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)
+- 📗 [Tables](https://medium.com/pulsar/modern-enterprise-ui-design-part-1-tables-ad8ee1b9feb)
 - 📗 [Writing microcopy](https://uxwritinghub.com/what-is-microcopy/)
+- 📗 [UX writing](https://uxdesign.cc/how-to-build-a-better-product-with-ux-writing-926d78209ce8)
   
 ##### Animations
 - 📗 [Animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5)
