@@ -99,6 +99,8 @@ After this section you will know how to use JSX, how it differs from HTML and ho
 
 - 📗 [Conditional rendering](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
 - 📗 [ClassNames package](https://github.com/JedWatson/classnames)
+- 📗 [Allowed tags in HTML table tag](https://www.w3schools.com/tags/tag_table.asp#:~:text=An%20HTML%20table%20consists,tfoot%3E%2C%20and%20%3Ctbody%3E%20elements.)
+- 📗 [Fragment & flexbox](https://stackoverflow.com/questions/32969287/reactjs-and-flexbox-wrapping-divs-in-render-function-making-flex-hard)
 - 🔎 [Handler methods example](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/HandlerMethods/HandlerMethods.js)
 
 ### 🎤 Interview
@@ -106,11 +108,12 @@ After this section you will know how to use JSX, how it differs from HTML and ho
 - What is the JSX?
   - Under the hood is JSX JavaScript or HTML?
 - Differences between JSX and HTML:
-  - Why in JSX we need to use "classNames" instead of "class" property
-  - Why in JSX we need to use "htmlFor" instead of "for" property
-- What is the difference between defining handler methods inline, as const, with useCallback. When to use which?
+  - Why in JSX we need to use "classNames" instead of "class" property and "htmlFor" instead of "for".
+- What is the difference between defining handler methods inline, as const, with useCallback. When to use which? (example above)
 - Why React components need to be capitalized when using in JSX? eg. &lt;MyComponent&gt; not &lt;myComponent&gt;
-- What is React Fragment?
+- What is React Fragment and how is it useful?
+  - When creating table
+  - When styling using flex
 - What is React Portal?
 
 ### 📝 Katas
@@ -137,8 +140,6 @@ After this section you will know how to use React Components, manage state and p
 
 ### 🎤 Interview
 
-- What is React Component?
-- What are the Component props?
 - "key" Component prop has usages mentioned below, explain how exactly they work 
   - identifying components rendered in an array
   - resetting one specific Component (force component unmount and mount)
@@ -162,8 +163,10 @@ After this section you will know commonly used React hooks and React-Use package
 
 - What are the React Hooks?
 - What is useState hook used for?
-- How does the useEffect dependency array work?
+- What is useEffect hook used for?
 - When is the function returned from useEffect triggered?
+  - When dependency array is empty
+  - When dependency array has values
 - What does the useRef hook do and when to use it?
 - What does the useReducer hook do and when to use it?
 - What is React Context, and what is its use-case?
@@ -260,7 +263,7 @@ After this section you will know how to implementing routing in React SPA applic
 
 ### 🎤 Interview
 
-- How do we need to implement routing in SPA?
+- Why do we need to implement routing in SPA?
 - What are different types of history used for routing?
 
 ### 📝 Katas
@@ -289,7 +292,7 @@ After this section you will know how to create basic forms and validate user inp
 - What are Wizard Forms and why use them rather than regular forms?
 - What is the Button default type and why it is important in the context of forms?
 - What is the Difference between Controlled Input and Uncontrolled input?
-- Does it make sense to validate forms on the frontend, as advanced users can disable it?
+- Does it make sense to validate forms on the frontend if advanced users can disable it?
 
 ### 📝 Katas
 
@@ -326,7 +329,7 @@ After this section you will know how to test React application
   - what selectors we should use
   - how should we interact with the application
 - What is the use-case for axios-mock-adapter library
-- What is the use-case for factory girl library
+- What is the use-case for factory-girl library
 
 ### 📝 Katas
 
