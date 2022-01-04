@@ -40,10 +40,16 @@ weight = 1
 - Forms
 - Testing
 
-**Redux**
+**Server State management**
 
 - Overview
-- Setup
+- Usage
+- Devtools
+
+**Client State management**
+
+- Overview
+- Tools
 - Usage
 - Devtools
 - Testing
@@ -342,6 +348,79 @@ After this section you will know how to test React application
 - Create test for code dependent on the passing of time
   - timeouts or intervals
 - Wait for element to appear/disappear asynchronously
+
+---
+
+## 📦 Server State management / Overview
+
+After this section you will know what is Server State and what challenges it presents.
+
+### 🎓 Learn
+
+- 📗 [Server state challenges](https://redux-toolkit.js.org/rtk-query/overview#motivation)
+- 📗 [Server vs Client state presentation (slides)](https://docs.google.com/presentation/d/1Cohzlon3ZDFdKYSQ0_P0x9STEgSDMxQgK8ylVsZ6UpY/edit?usp=sharing)
+- 📗 [TODO Server vs Client state presentation (recording)]()
+
+### 🎤 Interview
+
+- What is Server State?
+- What challenges arise from Server State unique characteristics mentioned below:
+  - Is asynchronous
+  - We do not control the source of truth (backend)
+  - Other users or systems can change it
+  - We need the data in different places of the application
+  - Different places of the application might try to fetch the same resource
+  - More possibilities for something to break (network/backend issues)
+- Why traditional solutions like Contexts or Redux are not suitable for managing Server State?
+
+---
+
+## 📦 Server State management / Usage
+
+After this section you will know how to implement basic features for Server State.
+
+### 🎓 Learn
+
+- 📙 [React Query](https://react-query.tanstack.com)
+- 📙 [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
+- 📙 [Apollo Graphql](https://www.apollographql.com/docs/react/)
+
+### 🎤 Interview
+
+- Which one of the suggested tools do you use?
+  - Apollo GraphQL
+  - React Query
+  - RTK Query
+
+### 📝 Katas
+
+- Implement fetching data for list and single item
+  - Display spinner when loading data initially
+  - When updating data in the background display small spinner in the corner of the screen
+  - After fetching list use the data as initial for single resource
+  - Use the backend data in at least 2 components without passing the it through the props
+  - When using backend data in 2 components make sure request is sent only once
+- Implement CRUD for resource
+  - Handle create, update, delete actions 
+  - Invalidate cache of changed item after performing update request
+  - Handle errored requests with 2 retries
+
+---
+
+## 📦 Server State management / Devtools
+
+After this section you will know how to use devtools for preferred Server State management package.
+
+### 🎓 Learn
+
+- 📙 [React-Query devtools](https://react-query.tanstack.com/devtools)
+- 📙 [RTK Query devtools (regular redux devtools)](https://github.com/zalmoxisus/redux-devtools-extension#docs)
+- 📙 [Apollo Graphql devtools](https://www.apollographql.com/docs/react/development-testing/developer-tooling/#apollo-client-devtools)
+
+### 📝 Katas
+
+- Setup devtools for your package (if applicable)
+- Show the devtools features and explain how they are useful
 
 ---
 
