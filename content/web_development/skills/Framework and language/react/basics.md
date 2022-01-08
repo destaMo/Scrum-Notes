@@ -46,13 +46,10 @@ weight = 1
 - Usage
 - Devtools
 
-**Client State management**
+**Global Client State management**
 
 - Overview
-- Tools
 - Usage
-- Devtools
-- Testing
 
 ---
 
@@ -424,118 +421,58 @@ After this section you will know how to use devtools for preferred Server State 
 
 ---
 
-## 📦 Redux / Overview
+## 📦 Global Client State management / Overview
 
-After this section you will know what is Redux, what are its use-cases and when it is not needed.
+After this section you will know what is Client State and Global Client State.
 
 ### 🎓 Learn
 
-- 📗 [Redux introduction](https://redux.js.org/introduction/getting-started)
+- 📗 [8 ways to handle Client State](https://twitter.com/housecor/status/1437765667906854915?lang=en)
+- 📗 [Server vs Client state presentation (slides)](https://redux-toolkit.js.org/rtk-query/overview#motivation)
+- 📗 [TODO Server vs Client state presentation (recording)]()
+- 📗 [TODO TIL when server state becomes client state]()
+
+### 🎤 Interview
+
+- What is Client State?
+- How is Client State different from Server State?
+- What is Global Client State?
+
+---
+
+## 📦 Global Client State management / Usage
+
+After this section you will know how to manage Global Client State.
+
+### 🎓 Learn
+
+- 📗 [TODO: When to use contexts, when redux]()
+- 
+- 📗 [Mobx docs](https://github.com/mobxjs/mobx)
+- 📗 [Redux Toolkit introduction](https://redux-toolkit.js.org/introduction/getting-started)
 - 📗 [When Redux is not needed](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
-- 📗 [Functional programming paradigms](https://hackernoon.com/functional-programming-paradigm-in-javascript-km173u4i)
-
-### 🎤 Interview
-
-- What is Redux?
-- What is the use case(s) for Redux?
-- When Redux would be an overkill?
-- What is a pure function?
-- What is immutability?
-
----
-
-## 📦 Redux / Setup
-
-After this section you will know how to setup Redux with React.
-
-### 🎓 Learn
-
-- 📗 [React-Redux](https://react-redux.js.org/)
-- 📗 [React Devtools extension install](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=pl)
-- 📗 [React Devtools extension setup](https://github.com/zalmoxisus/redux-devtools-extension#1-with-redux)
-
-### 🎤 Interview
-
-- What is the suggested structure of Redux files?
-
-### 📝 Katas
-
-- Add Redux to your app using react-redux package.
-- Setup Redux devtools extension.
-
----
-
-## 📦 Redux / Usage
-
-After this section you will know how to use Redux in the React app.
-
-### 🎓 Learn
-
-- 📗 [Redux step-by-step](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092)
-- 📗 [Seamless immutable](https://medium.com/@ckoster22/seamless-immutable-an-alternative-to-immutablejs-12795d6bf577)
 - 📗 [Reselect](https://github.com/reduxjs/reselect)
 - 📗 [Selectors v2](https://blog.brainsandbeards.com/advanced-redux-patterns-selectors-cb9f88381d74)
-- 📗 [Action constant types](https://itnext.io/namespacing-redux-action-type-constant-values-90b932eea43f)
-- 📗 [Redux-Thunk](https://github.com/reduxjs/redux-thunk)
-- 📗 [Flux Standard Action](https://github.com/redux-utilities/flux-standard-action)
 
-### 🎤 Interview
-
-- Can you mutate redux store data? Why?
-- What is the benefit of using Seamless Immutable library?
-- What elements does Redux have and what are their responsibilities?
-- What’s the flow from user interaction through redux and back to UI?
-- Can multiple reducers handle the same action?
-- What are action constant types and why they are useful?
-- What is Redux middleware and what is Redux Thunk?
-- How is Redux Thunk useful?
-- What is Flux Standard Action and what properties they have?
-
-### 📝 Katas
-
-- Implement at least one CRUD reducer, all needed action creators and selectors.
-- Use Seamless Immutable in reducers.
-- Use Reselect library to create selectors.
-- Use Redux Thunk for action creators.
-- Use Redux in the React app.
-- Create all actions in your app according to Flux Standard Action structure.
-
----
-
-## 📦 Redux / Devtools
-
-After this section you will know how to use Redux Devtools to debug application.
-
-### 🎓 Learn
-
+- 📗 [Mobx devtools](https://www.npmjs.com/package/mobx-react-devtools)
 - 📗 [Redux devtools](https://github.com/reduxjs/redux-devtools)
 - 📗 [Redux devtools debugging tips](https://blog.logrocket.com/redux-devtools-tips-tricks-for-faster-debugging/)
 
-### 🎤 Interview
-
-- What are Redux devtools?
-
-### 📝 Katas
-
-- Walk me through the redux devtools features.
-
----
-
-## 📦 Redux / Testing
-
-After this section you will know how to test Redux in your application.
-
-### 🎓 Learn
-
-- 📗 [Testing Redux](https://redux.js.org/recipes/writing-tests#async-action-creators)
-- 📗 [Testing Reselect composed selectors](https://github.com/reduxjs/reselect/issues/76#issuecomment-267433461)
+- 📗 [TODO: When to add specific tests for Global Client State]()
 
 ### 🎤 Interview
 
-- Why do we need tests for Redux?
-- What parts of Redux should we test, how?
+- What to do when Global or Subtree State:
+  - Is simple or changes rarely.
+  - Is complex or changes often.
+- Which one of the suggested tools do you use?
+  - Redux Toolkit
+  - MobX
+- What makes the tool you use better in managing Global Client State than just using React Contexts?
+- What parts of Redux/Mobx should we test, how?
 
 ### 📝 Katas
 
-- Add tests for reducers and action creators.
-- Add tests for selectors containing logic.
+- Add Redux Toolkit and Reselect to your app and implement TODO: add idea for good redux use-case
+- Walk me through the devtools features
+- Create a few tests for Redux/MobX
