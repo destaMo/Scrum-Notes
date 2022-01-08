@@ -29,13 +29,10 @@ weight = 1
 **React**
 
 - Overview
-- CRA
 - JSX
-- Components
 - Hooks
 - Performance
 - Devtools
-- Codebase structure
 - Routing
 - Forms
 - Testing
@@ -61,36 +58,23 @@ After this section you will know what is React and what it's used for.
 
 - 📗 [react main page](https://reactjs.org/)
 - 📗 [virtual DOM](https://reactjs.org/docs/faq-internals.html#what-is-the-virtual-dom)
+- 📗 [Unidirectional data flow](https://medium.com/@lizdenhup/understanding-unidirectional-data-flow-in-react-3e3524c09d8e)
+- 📗 [Create React App](https://github.com/facebook/create-react-app)
+- 📗 [How to organize application](https://engineering.udacity.com/react-folder-structure-for-enterprise-level-applications-f8384eff162b)
 
 ### 🎤 Interview
 
-- What is React and what is it used for?
+- What is React?
 - Explain what does the main features of React do: 
   - Being component based
   - Using Virtual DOM
-  - Using declarative paradigm
-  - JSX
-
----
-
-## 📦 React / CRA
-
-After this section you will know how to use CRA to quickly setup React application.
-
-### 🎓 Learn
-
-- 📗 [Create React App](https://github.com/facebook/create-react-app)
-- 📙 [What CRA actually do](https://levelup.gitconnected.com/what-does-create-react-app-actually-do-73c899443d61)
-
-### 🎤 Interview
-
-- What is create-react-app and how to use it?
-- What you would need to do in order to setup a React application without CRA?
+  - Using declarative paradigm 
+  - Unidirectional data flow
 
 ### 📝 Katas
 
 - Setup application using CRA
-- Show where the command for starting the application is defined, and what code does it run
+- Organize project files according to suggested pattern.
 
 ---
 
@@ -101,22 +85,17 @@ After this section you will know how to use JSX, how it differs from HTML and ho
 ### 🎓 Learn
 
 - 📗 [Conditional rendering](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
-- 📗 [ClassNames package](https://github.com/JedWatson/classnames)
 - 📗 [Allowed tags in HTML table tag](https://www.w3schools.com/tags/tag_table.asp#:~:text=An%20HTML%20table%20consists,tfoot%3E%2C%20and%20%3Ctbody%3E%20elements.)
 - 📗 [Fragment & flexbox](https://stackoverflow.com/questions/32969287/reactjs-and-flexbox-wrapping-divs-in-render-function-making-flex-hard)
-- 🔎 [Handler methods example](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/HandlerMethods/HandlerMethods.js)
+- 📗 [ClassNames package](https://github.com/JedWatson/classnames)
 
 ### 🎤 Interview
 
 - What is the JSX?
   - Under the hood is JSX JavaScript or HTML?
-- Differences between JSX and HTML:
-  - Why in JSX we need to use "classNames" instead of "class" property and "htmlFor" instead of "for".
-- What is the difference between defining handler methods inline, as const, with useCallback. When to use which? (example above)
-- Why React components need to be capitalized when using in JSX? eg. &lt;MyComponent&gt; not &lt;myComponent&gt;
-- What is React Fragment and how is it useful?
-  - When creating table
-  - When styling using flex
+- Why is React Fragment useful when:
+  - creating tables
+  - styling using flex
 - What is React Portal?
 
 ### 📝 Katas
@@ -126,27 +105,8 @@ After this section you will know how to use JSX, how it differs from HTML and ho
   - Ternary operator
   - "&&" notation
 - Display list of data
-- Handle user interaction using event handlers
+- Handle user interaction (eg. clicks, changes, blurs)
 - Use ClassNames package for conditional class assignment
-
----
-
-## 📦 React / Components
-
-After this section you will know how to use React Components, manage state and perform effects in them.
-
-### 🎓 Learn
-
-- 📗 [Unidirectional data flow](https://medium.com/@lizdenhup/understanding-unidirectional-data-flow-in-react-3e3524c09d8e)
-- 📗 [React keys](https://dev.to/jtonzing/the-significance-of-react-keys---a-visual-explanation--56l7)
-- 📗 [Reset React Component using key](https://medium.com/@albertogasparin/forcing-state-reset-on-a-react-component-by-using-the-key-prop-14b36cd7448e)
-
-### 🎤 Interview
-
-- "key" Component prop has usages mentioned below, explain how exactly they work 
-  - identifying components rendered in an array
-  - resetting one specific Component (force component unmount and mount)
-- What does it mean that React has Unidirectional data flow?
 
 ---
 
@@ -159,8 +119,11 @@ After this section you will know commonly used React hooks and React-Use package
 - 📗 [Getting current state in setState with function argument](https://stackoverflow.com/questions/42494985/setstate-in-react-based-on-current-state/42496452#42496452)
 - 📗 [Preventing memory leaks](https://egghead.io/lessons/react-stop-memory-leaks-with-componentwillunmount-lifecycle-method-in-react)
 - 📗 [When to use state and when reducer](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)
+- 📗 [TODO: template for context Provider]()
 - 📗 [React refs guide](https://dmitripavlutin.com/react-useref-guide/)
 - 📗 [React-Use](https://github.com/streamich/react-use)
+- 📗 [Stale closure](https://dmitripavlutin.com/react-hooks-stale-closures/)
+- 🔎 [TODO: Example of use effect cleanup]()
 
 ### 🎤 Interview
 
@@ -173,8 +136,7 @@ After this section you will know commonly used React hooks and React-Use package
 - What does the useRef hook do and when to use it?
 - What does the useReducer hook do and when to use it?
 - What is React Context, and what is its use-case?
-- React-Use is package providing multitude of helpful hooks. Which of them you think might be useful for you? What they do?
-- How does hooks dependency array work? How to make a hook run on component: mount, unmount, property change
+- What is stale closure, and when it happens?
 
 ### 📝 Katas
 
@@ -184,7 +146,7 @@ After this section you will know commonly used React hooks and React-Use package
 - Use useEffect hook with:
   - with empty dependency array
   - with filled dependency array
-- When the Function component unmounts clear interval added using setInterval.
+- When the Function component unmounts, or changes property clear interval added using setInterval.
 - Use useRef hook to hold html element or value reference.
 - and useReducer hook in your app in case where it provides benefit over useState.
 - Add React Context and consume it in a few components.
@@ -194,24 +156,26 @@ After this section you will know commonly used React hooks and React-Use package
 
 ## 📦 React / Performance
 
-After this section you will know how to prevent common programming mistakes degrading React performance.
+After this section you will know how to prevent common mistakes degrading React performance.
 
 ### 🎓 Learn
 
 - 📗 [Correct key for lists](https://medium.com/information-and-technology/a-simple-list-render-optimization-for-react-ef0a133e9c86)
-- 📗 [TODO callback handlers examples]()
 - 📗 [TODO TIL different cases when to use useMemo, and when not]()
 - 📗 [Pass memoized data and callbacks to components](https://blog.bitsrc.io/optimize-your-react-functional-components-with-usecallback-and-usememo-34bb52bc9a13)
 - 📗 [Optimization by reorganization](https://overreacted.io/before-you-memo/)
+- 🔎 [Example of big component with state affecting only parts of the UI](https://github.com/pokiujf/react_optimalization_examples/blob/master/src/components/BigListOptimizationExample/Unoptimized/UnoptimizedApp.js) TODO: Move the repo to Selleo github
+- 🔎 [Handler methods example](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/HandlerMethods/HandlerMethods.js)
 
 ### 🎤 Interview
 
 - What does the useCallback hook do and when to use it?
+- What is the difference between defining handler methods inline, as const, with useCallback. When to use which? (example above)
 - What does the useMemo hook do and when to use it?
 - Common performance bad practices are:
   - Using incorrect keys for lists. What keys are good what are bad?
   - Not using memoization for heavy computations in component. When to memoize, when not?
-  - Having big components containing multiple states affecting only parts of the UI. How to fix it?
+  - Having big components containing multiple states affecting only parts of the UI. How to fix it? (example above)
 
 ### 📝 Katas
 
@@ -229,10 +193,6 @@ After this section you will know how to effectively use React Development tools.
 
 - 📗 [React Devtools walk-through](https://blog.logrocket.com/debug-react-applications-with-the-new-react-devtools/)
 
-### 🎤 Interview
-
-- What are React Devtools?
-
 ### 📝 Katas
 
 - Show how to find a Component in React Devtools (From Elements tab, From App UI, By component name)
@@ -241,22 +201,9 @@ After this section you will know how to effectively use React Development tools.
 
 ---
 
-## 📦 React / Codebase structure
-
-After this section you will know how to organize project files in a clear manner.
-
-### 🎓 Learn
-- 📗 [How to organize application](https://engineering.udacity.com/react-folder-structure-for-enterprise-level-applications-f8384eff162b)
-
-### 🎤 Katas
-
-- Organize project files according to suggested pattern.
-
----
-
 ## 📦 React / Routing
 
-After this section you will know how to implementing routing in React SPA application.
+After this section you will know how to implement routing in React SPA application.
 
 ### 🎓 Learn
 
@@ -266,7 +213,6 @@ After this section you will know how to implementing routing in React SPA applic
 
 ### 🎤 Interview
 
-- Why do we need to implement routing in SPA?
 - What are different types of history used for routing?
 
 ### 📝 Katas
@@ -291,8 +237,7 @@ After this section you will know how to create basic forms and validate user inp
 
 ### 🎤 Interview
 
-- Why using form library (like Formik) is often preferable over creating forms without such library?
-- What are Wizard Forms and why use them rather than regular forms?
+- Why using form library (like Formik) is preferable over creating forms only by hand?
 - What is the Button default type and why it is important in the context of forms?
 - What is the Difference between Controlled Input and Uncontrolled input?
 - Does it make sense to validate forms on the frontend if advanced users can disable it?
@@ -300,10 +245,8 @@ After this section you will know how to create basic forms and validate user inp
 ### 📝 Katas
 
 - Implement Create and Edit Form in your app. Preferably both cases should be handled by the same component.
-- Create Wizard form in your app.
 - Implement form with array of fields (eg. user can add multiple addresses each consisting inputs for city, zip-code and street. User should be able to add as many addresses as needed. User should be able to remove addresses)
 - Add validation to the form using the Yup library
-- Add validation for fields depending on each other using the Yup library (eg. when user selects agreement to receive email, validate the age is over 18. Otherwise do not validate age is over 18)
 
 ---
 
@@ -328,9 +271,6 @@ After this section you will know how to test React application
 - What does Jest and React Testing Library do?
 - When to use integration and when unit tests?
 - Does it make sense to add tests for every single component?
-- When testing we should "behave" like real user
-  - what selectors we should use
-  - how should we interact with the application
 - What is the use-case for axios-mock-adapter library
 - What is the use-case for factory-girl library
 
@@ -355,8 +295,8 @@ After this section you will know what is Server State and what challenges it pre
 ### 🎓 Learn
 
 - 📗 [Server state challenges](https://redux-toolkit.js.org/rtk-query/overview#motivation)
-- 📗 [Server vs Client state presentation (slides)](https://docs.google.com/presentation/d/1Cohzlon3ZDFdKYSQ0_P0x9STEgSDMxQgK8ylVsZ6UpY/edit?usp=sharing)
-- 📗 [TODO Server vs Client state presentation (recording)]()
+- 📗 [Server vs Client state presentation slides](https://docs.google.com/presentation/d/1Cohzlon3ZDFdKYSQ0_P0x9STEgSDMxQgK8ylVsZ6UpY/edit?usp=sharing)
+- 📗 [TODO Server vs Client state presentation recording]()
 
 ### 🎤 Interview
 
@@ -392,10 +332,10 @@ After this section you will know how to implement basic features for Server Stat
 ### 📝 Katas
 
 - Implement fetching data for list and single item
-  - Display spinner when loading data initially
+  - Display spinner during initial data load
   - When updating data in the background display small spinner in the corner of the screen
   - After fetching list use the data as initial for single resource
-  - Use the backend data in at least 2 components without passing the it through the props
+  - Use the backend data in at least 2 components without passing them through the props
   - When using backend data in 2 components make sure request is sent only once
 - Implement CRUD for resource
   - Handle create, update, delete actions 
@@ -428,7 +368,7 @@ After this section you will know what is Client State and Global Client State.
 ### 🎓 Learn
 
 - 📗 [8 ways to handle Client State](https://twitter.com/housecor/status/1437765667906854915?lang=en)
-- 📗 [Server vs Client state presentation (slides)](https://redux-toolkit.js.org/rtk-query/overview#motivation)
+- 📗 [Server vs Client state presentation (slides 5 to 8)](https://docs.google.com/presentation/d/1Cohzlon3ZDFdKYSQ0_P0x9STEgSDMxQgK8ylVsZ6UpY/edit#slide=id.gebf84830b7_0_0)
 - 📗 [TODO Server vs Client state presentation (recording)]()
 - 📗 [TODO TIL when server state becomes client state]()
 
@@ -463,13 +403,13 @@ After this section you will know how to manage Global Client State.
 ### 🎤 Interview
 
 - What to do when Global or Subtree State:
-  - Is simple or changes rarely.
-  - Is complex or changes often.
+  - Is simple or changes rarely
+  - Is complex or changes often
 - Which one of the suggested tools do you use?
   - Redux Toolkit
   - MobX
-- What makes the tool you use better in managing Global Client State than just using React Contexts?
-- What parts of Redux/Mobx should we test, how?
+- Why the tool you use is better in managing Global Client State than React Contexts?
+- In what situations should we tests Redux/Mobx?
 
 ### 📝 Katas
 
