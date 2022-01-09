@@ -164,7 +164,8 @@ After this section you will know how to prevent common mistakes degrading React 
 - 📗 [TODO TIL different cases when to use useMemo, and when not]()
 - 📗 [Pass memoized data and callbacks to components](https://blog.bitsrc.io/optimize-your-react-functional-components-with-usecallback-and-usememo-34bb52bc9a13)
 - 📗 [Optimization by reorganization](https://overreacted.io/before-you-memo/)
-- 🔎 [Example of big component with state affecting only parts of the UI](https://github.com/pokiujf/react_optimalization_examples/blob/master/src/components/BigListOptimizationExample/Unoptimized/UnoptimizedApp.js) TODO: Move the repo to Selleo github
+- 📗 [How to handle big & slow components](https://selleo.com/til/posts/tiqujjynoi-react-optimization-of-lists-in-big-components)
+- 🔎 [Example of big component with state affecting only parts of the UI](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/BigListOptimizationExample/Unoptimized/UnoptimizedApp.js)
 - 🔎 [Handler methods example](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/HandlerMethods/HandlerMethods.js)
 
 ### 🎤 Interview
@@ -318,6 +319,7 @@ After this section you will know how to implement basic features for Server Stat
 
 ### 🎓 Learn
 
+- 📗 [Simple backend with json-server](https://github.com/typicode/json-server)
 - 📙 [React Query](https://react-query.tanstack.com)
 - 📙 [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
 - 📙 [Apollo Graphql](https://www.apollographql.com/docs/react/)
@@ -331,6 +333,7 @@ After this section you will know how to implement basic features for Server Stat
 
 ### 📝 Katas
 
+- Setup simple backend using json-server (unless you have other tool)
 - Implement fetching data for list and single item
   - Display spinner during initial data load
   - When updating data in the background display small spinner in the corner of the screen
@@ -413,6 +416,8 @@ After this section you will know how to manage Global Client State.
 
 ### 📝 Katas
 
-- Add Redux Toolkit and Reselect to your app and implement TODO: add idea for good redux use-case
+- Add Redux Toolkit and Reselect to your app and implement
+  - Undo/Redo functionality for 
+  - TODO: add idea for good redux use-case
 - Walk me through the devtools features
 - Create a few tests for Redux/MobX
