@@ -40,6 +40,7 @@ title = "Test automation"
 - 📗 [Cypress - setting a token in localStorage](https://newbedev.com/in-cypress-set-a-token-in-localstorage-before-test)
 - 📗 [Cypress - intercepting a request](https://egghead.io/blog/intercepting-network-requests-in-cypress)
 - 📗 [Cypress - ignore uncaught exceptions](https://stackoverflow.com/questions/53845493/cypress-uncaught-assertion-error-despite-cy-onuncaughtexception)
+- 📙 [19 Websites to Practice Automation Testing (UI, API, Mobile)](https://ultimateqa.com/dummy-automation-websites/amp/)
 
 ### **🎤 Interview**
 
