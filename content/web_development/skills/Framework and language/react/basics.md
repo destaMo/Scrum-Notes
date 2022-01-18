@@ -119,11 +119,11 @@ After this section you will know commonly used React hooks and React-Use package
 - 📗 [Getting current state in setState with function argument](https://stackoverflow.com/questions/42494985/setstate-in-react-based-on-current-state/42496452#42496452)
 - 📗 [Preventing memory leaks](https://egghead.io/lessons/react-stop-memory-leaks-with-componentwillunmount-lifecycle-method-in-react)
 - 📗 [When to use state and when reducer](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)
-- 📗 [TODO: template for context Provider]()
 - 📗 [React refs guide](https://dmitripavlutin.com/react-useref-guide/)
 - 📗 [React-Use](https://github.com/streamich/react-use)
 - 📗 [Stale closure](https://dmitripavlutin.com/react-hooks-stale-closures/)
-- 🔎 [TODO: Example of use effect cleanup]()
+- 🔎 [Template for context Provider](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/ContextExample/MyContext.js)
+- 🔎 [Example of useEffect cleanup function](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/UseEffectFlow/UseEffectFlow.js)
 
 ### 🎤 Interview
 
@@ -161,7 +161,6 @@ After this section you will know how to prevent common mistakes degrading React 
 ### 🎓 Learn
 
 - 📗 [Correct key for lists](https://medium.com/information-and-technology/a-simple-list-render-optimization-for-react-ef0a133e9c86)
-- 📗 [TODO TIL different cases when to use useMemo, and when not]()
 - 📗 [Pass memoized data and callbacks to components](https://blog.bitsrc.io/optimize-your-react-functional-components-with-usecallback-and-usememo-34bb52bc9a13)
 - 📗 [Optimization by reorganization](https://overreacted.io/before-you-memo/)
 - 📗 [How to handle big & slow components](https://selleo.com/til/posts/tiqujjynoi-react-optimization-of-lists-in-big-components)
@@ -296,7 +295,7 @@ After this section you will know what is Server State and what challenges it pre
 ### 🎓 Learn
 
 - 📗 [Server state challenges](https://redux-toolkit.js.org/rtk-query/overview#motivation)
-- 📗 [Server vs Client state presentation slides](https://docs.google.com/presentation/d/1Cohzlon3ZDFdKYSQ0_P0x9STEgSDMxQgK8ylVsZ6UpY/edit?usp=sharing)
+- 📗 [Server vs Client state presentation slides (slides 5 to 9)](https://docs.google.com/presentation/d/1Cohzlon3ZDFdKYSQ0_P0x9STEgSDMxQgK8ylVsZ6UpY/edit?usp=sharing)
 - 📗 [TODO Server vs Client state presentation recording]()
 
 ### 🎤 Interview
@@ -371,15 +370,14 @@ After this section you will know what is Client State and Global Client State.
 ### 🎓 Learn
 
 - 📗 [8 ways to handle Client State](https://twitter.com/housecor/status/1437765667906854915?lang=en)
-- 📗 [Server vs Client state presentation (slides 5 to 8)](https://docs.google.com/presentation/d/1Cohzlon3ZDFdKYSQ0_P0x9STEgSDMxQgK8ylVsZ6UpY/edit#slide=id.gebf84830b7_0_0)
+- 📗 [Server vs Client state presentation (slides 5 to 9)](https://docs.google.com/presentation/d/1Cohzlon3ZDFdKYSQ0_P0x9STEgSDMxQgK8ylVsZ6UpY/edit#slide=id.gebf84830b7_0_0)
 - 📗 [TODO Server vs Client state presentation (recording)]()
-- 📗 [TODO TIL when server state becomes client state]()
 
 ### 🎤 Interview
 
 - What is Client State?
-- How is Client State different from Server State?
 - What is Global Client State?
+- How is Client State different from Server State?
 
 ---
 
@@ -389,8 +387,6 @@ After this section you will know how to manage Global Client State.
 
 ### 🎓 Learn
 
-- 📗 [TODO: When to use contexts, when redux]()
-- 
 - 📗 [Mobx docs](https://github.com/mobxjs/mobx)
 - 📗 [Redux Toolkit introduction](https://redux-toolkit.js.org/introduction/getting-started)
 - 📗 [When Redux is not needed](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
@@ -401,7 +397,7 @@ After this section you will know how to manage Global Client State.
 - 📗 [Redux devtools](https://github.com/reduxjs/redux-devtools)
 - 📗 [Redux devtools debugging tips](https://blog.logrocket.com/redux-devtools-tips-tricks-for-faster-debugging/)
 
-- 📗 [TODO: When to add specific tests for Global Client State]()
+- 📗 [When to add unit tests for Global Client State](https://docs.google.com/presentation/d/1L2JJ64hksvaU8Zi1omqs4IUiw5TPj3kgAq4_D9bxpRE/edit#slide=id.g1018d1a4257_1_81)
 
 ### 🎤 Interview
 
@@ -416,8 +412,6 @@ After this section you will know how to manage Global Client State.
 
 ### 📝 Katas
 
-- Add Redux Toolkit and Reselect to your app and implement
-  - Undo/Redo functionality for 
-  - TODO: add idea for good redux use-case
+- Add Redux Toolkit and Reselect to your app and implement managing non-backend data
 - Walk me through the devtools features
 - Create a few tests for Redux/MobX
