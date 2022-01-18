@@ -122,8 +122,10 @@ After this section you will know commonly used React hooks and React-Use package
 - 📗 [React refs guide](https://dmitripavlutin.com/react-useref-guide/)
 - 📗 [React-Use](https://github.com/streamich/react-use)
 - 📗 [Stale closure](https://dmitripavlutin.com/react-hooks-stale-closures/)
-- 🔎 [Template for context Provider](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/ContextExample/MyContext.js)
-- 🔎 [Example of useEffect cleanup function](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/UseEffectFlow/UseEffectFlow.js)
+- 🔎 [Template for context Provider (code)](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/ContextExample/MyContext.js)
+- 🔎 [Template for context Provider (app)](https://selleo.github.io/react_devpath_examples/basics/contextExample)
+- 🔎 [Example of useEffect cleanup function (code)](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/UseEffectFlow/UseEffectFlow.js)
+- 🔎 [Example of useEffect cleanup function (app)](https://selleo.github.io/react_devpath_examples/basics/useEffect)
 
 ### 🎤 Interview
 
@@ -164,8 +166,10 @@ After this section you will know how to prevent common mistakes degrading React 
 - 📗 [Pass memoized data and callbacks to components](https://blog.bitsrc.io/optimize-your-react-functional-components-with-usecallback-and-usememo-34bb52bc9a13)
 - 📗 [Optimization by reorganization](https://overreacted.io/before-you-memo/)
 - 📗 [How to handle big & slow components](https://selleo.com/til/posts/tiqujjynoi-react-optimization-of-lists-in-big-components)
-- 🔎 [Example of big component with state affecting only parts of the UI](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/BigListOptimizationExample/Unoptimized/UnoptimizedApp.js)
-- 🔎 [Handler methods example](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/HandlerMethods/HandlerMethods.js)
+- 🔎 [Example of big component with state affecting only parts of the UI (code)](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/BigListOptimizationExample/Unoptimized/UnoptimizedApp.js)
+- 🔎 [Example of big component with state affecting only parts of the UI (app)](https://selleo.github.io/react_devpath_examples/basics/bigComponentOptimization)
+- 🔎 [Handler methods example (code)](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/HandlerMethods/HandlerMethods.js)
+- 🔎 [Handler methods example (app)](https://selleo.github.io/react_devpath_examples/basics/handler)
 
 ### 🎤 Interview
 
