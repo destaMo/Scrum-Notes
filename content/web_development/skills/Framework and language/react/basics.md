@@ -223,7 +223,7 @@ After this section you will know how to implement routing in React SPA applicati
 
 - Implement routing for a few pages
 - Pass and use params through the url (eg. users/:userId)
-- Redirect programmatically using history object (from React Router)
+- Redirect programmatically using "navigate" from React Router
 
 ---
 
@@ -263,6 +263,7 @@ After this section you will know how to test React application
 - 📗 [Jest.js](https://jestjs.io/)
 - 📗 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - 📗 [Testing React cheatsheet](https://docs.google.com/presentation/d/10u5q9tKzWq-HDpC3YV-on1gH2jVipVpCiaxxZFvForc/edit#slide=id.g96256219f6_0_4)
+- 📙 [Testing React cheatsheet slides](https://docs.google.com/presentation/d/10u5q9tKzWq-HDpC3YV-on1gH2jVipVpCiaxxZFvForc/edit)
 - 📙 [Testing React presentation slides](https://docs.google.com/presentation/d/1L2JJ64hksvaU8Zi1omqs4IUiw5TPj3kgAq4_D9bxpRE/edit#slide=id.g96256219f6_0_4)
 - 📙 [Testing React presentation recording](https://drive.google.com/file/d/1pNB8yqBDuFk0EaqqdDdpuKSPQrHbv-VD/view?usp=sharing)
 - 📗 [Jest timer mocks](https://jestjs.io/docs/en/timer-mocks)
