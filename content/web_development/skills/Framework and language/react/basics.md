@@ -123,9 +123,9 @@ After this section you will know commonly used React hooks and React-Use package
 - 📗 [React-Use](https://github.com/streamich/react-use)
 - 📗 [Stale closure](https://dmitripavlutin.com/react-hooks-stale-closures/)
 - 🔎 [Template for context Provider (code)](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/ContextExample/MyContext.js)
-- 🔎 [Template for context Provider (app)](https://selleo.github.io/react_devpath_examples/basics/contextExample)
+- 🔎 [Template for context Provider (app)](https://react-devpath-examples.netlify.app/basics/contextExample)
 - 🔎 [Example of useEffect cleanup function (code)](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/UseEffectFlow/UseEffectFlow.js)
-- 🔎 [Example of useEffect cleanup function (app)](https://selleo.github.io/react_devpath_examples/basics/useEffect)
+- 🔎 [Example of useEffect cleanup function (app)](https://react-devpath-examples.netlify.app/basics/useEffect)
 
 ### 🎤 Interview
 
@@ -167,9 +167,9 @@ After this section you will know how to prevent common mistakes degrading React 
 - 📗 [Optimization by reorganization](https://overreacted.io/before-you-memo/)
 - 📗 [How to handle big & slow components](https://selleo.com/til/posts/tiqujjynoi-react-optimization-of-lists-in-big-components)
 - 🔎 [Example of big component with state affecting only parts of the UI (code)](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/BigListOptimizationExample/Unoptimized/UnoptimizedApp.js)
-- 🔎 [Example of big component with state affecting only parts of the UI (app)](https://selleo.github.io/react_devpath_examples/basics/bigComponentOptimization)
+- 🔎 [Example of big component with state affecting only parts of the UI (app)](https://react-devpath-examples.netlify.app/basics/bigComponentOptimization)
 - 🔎 [Handler methods example (code)](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/HandlerMethods/HandlerMethods.js)
-- 🔎 [Handler methods example (app)](https://selleo.github.io/react_devpath_examples/basics/handler)
+- 🔎 [Handler methods example (app)](https://react-devpath-examples.netlify.app/basics/handler)
 
 ### 🎤 Interview
 
