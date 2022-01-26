@@ -63,3 +63,7 @@ title = "API testing"
 Fuzz:
 https://medium.com/@Magii/fuzzing-with-postman-599dce6317c7
 https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.json
+
+https://www.freecodecamp.org/news/whats-fuzzing-fuzz-testing-explained/
+https://www.guru99.com/fuzz-testing.html
+?? https://testfully.io/blog/fuzz-testing/
