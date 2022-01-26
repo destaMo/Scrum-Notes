@@ -129,7 +129,7 @@ You need to know what React Native is and what things like Expo are. You should 
 
 ### 📝 Katas
 
-- Setup React Native app (with latest version of library) on Android or iOS (can use simulators)
+- Setup React Native app (with latest version of library) on Android or iOS (can use simulators) - please don't use `expo`!
 
 ---
 
