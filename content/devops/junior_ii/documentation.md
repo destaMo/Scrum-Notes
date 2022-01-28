@@ -21,11 +21,9 @@ title = "Documentation"
 ### 🎓 Learn
 - [Runbooks](https://octopus.com/docs/runbooks)
 - [Cloudcraft](https://www.cloudcraft.co/)
-- [ADR](https://github.com/joelparkerhenderson/architecture_decision_record)
 
 ### 📝 Katas
-- prepare documentation, diagrams and runbooks for the application created [here](/devops/junior_i/aws_services_basic/)
+- prepare documentation, diagrams and runbooks for the application created [here](/devops/junior_i/aws_services_basic_frontend/)
 
 ### 🎤 Interview
 - What is the role of runbook?
-- What is an architecture decision record?

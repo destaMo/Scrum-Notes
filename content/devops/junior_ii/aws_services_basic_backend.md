@@ -32,9 +32,8 @@ title = "AWS Services Basics - Backend"
 ### 📝 Katas
 **All the infrastructure should be setup using Terraform**
 
-Create a small AWS infrastructure for a backend application that can be found [here](). The following resources should be used:
+Create a small AWS infrastructure for a backend application that can be found [here](https://github.com/qbart/hello-ruby-sinatra). The following resources should be used:
 - VPC + NAT Gateway
-- RDS
 - Security Groups
 - EC2
 - ECS
@@ -42,9 +41,8 @@ Create a small AWS infrastructure for a backend application that can be found [h
 - Autoscaling Groups(no upscale and downscale required for now)
 
 **Notes**
-You can use module for VPC and NAT setup that can be found [here]()
+You can use module for VPC and NAT setup that can be found [here](https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest)
 Backend should have a proper DNS setup.
-Connect frontend application created before with the deployed frontend
 Prepare CI pipeline for the backend application similar to the one for frontend
 
 ### 🎤 Interview
@@ -55,7 +53,7 @@ Prepare CI pipeline for the backend application similar to the one for frontend
 - How can I establish a connection with an EC2 instance or AWS service colocated in a private subnet?
 - Explain NAT and NAT Gateway in your own words.
 - When would you use Auto Scaling Groups?
-- What is the difference in “desired_capacity” and “max_size” and “min_size”?
+- What is the difference between “desired_capacity”, “max_size” and “min_size”?
 - How to spawn instances in two availability zones?
 - What is the purpose of EC2 keys?
 - What is an AMI

@@ -44,8 +44,7 @@ and you can ping `example.dev` or use the address in a web browser
 - Explain output of `dig` command
 - Learn fundamentals of VIM/nano
 - Setup localhost domain
-- Split network into 8 subnets(network address 10.10.0.0/16). Explain your tought process.
-- Simple bash script. TODO
+- Prepare a simple bash script.
 - Learn how to use following commands:
 	- curl
 	- wget
@@ -60,4 +59,3 @@ and you can ping `example.dev` or use the address in a web browser
  - Explain how masking in network works and what is it used for?
  - What is the difference between private and public networks?
  - What is NAT?
- - Do you know what are the network layers?
