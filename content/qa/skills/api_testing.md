@@ -12,6 +12,10 @@ title = "API testing"
 
 **Person who successfully completed requirement for given block can:**
 
+- Write tests for particular endpoints by using basic knowledge about API and Postman
+- Plan and organize tests of API structure
+- Use various techniques to support testing endpoints (validating JSON schema, testing CRUD, destructive testing)
+- Solve fundamental authentication issues
 
 {{% /bubble%}}
 
@@ -23,13 +27,13 @@ title = "API testing"
 - 📗 [JSON schema - basics](https://json-schema.org/learn/getting-started-step-by-step.html)
 - 📗 [JSON to "JSON schema" converter](https://www.liquid-technologies.com/online-json-to-schema-converter)
 - 📗 [Destructive testing](https://www.sisense.com/blog/rest-api-testing-strategy-what-exactly-should-you-test/)
-- 📙 [curl converter](https://curlconverter.com/) 
-- 📗 [Postman](https://www.postman.com/)
+- 📙 [cURL converter](https://curlconverter.com/) 
+- 📗 [Postman](https://learning.postman.com/docs/getting-started/installation-and-updates/)
 - 📗 [Postman - variables](https://learning.postman.com/docs/sending-requests/variables/#understanding-variables)
 - 📗 [Postman - handling auth token](https://blog.postman.com/extracting-data-from-responses-and-chaining-requests/)
 - 📗 [Postman - snippets](https://learning.postman.com/docs/writing-scripts/test-scripts/)
 - 📗 [Postman - file upload](https://stackoverflow.com/questions/39037049/how-to-upload-a-file-and-json-data-in-postman)
-- 📙 [Overriding  the HTTP method](https://www.oreilly.com/library/view/building-a-restful/9781785285714/ch05s05.html)
+- 📙 [Overriding the HTTP method](https://www.oreilly.com/library/view/building-a-restful/9781785285714/ch05s05.html)
 - 📙 [Fuzz testing](https://www.guru99.com/fuzz-testing.html)
 - 📙 [Fuzz testing - some more](https://www.freecodecamp.org/news/whats-fuzzing-fuzz-testing-explained/)
 - 📙 [Fuzz testing - setup in Postman](https://medium.com/@Magii/fuzzing-with-postman-599dce6317c7)
