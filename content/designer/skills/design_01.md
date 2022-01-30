@@ -9,7 +9,6 @@ title = "Design 1 (basics)"
 **Description:** You understand basic concepts around web design
 
 **Person who successfully completed requirement for given block can:**
-
 - Create modern-looking designs
 - Understand basic usability rules
 - Use design tool of their choice effectively
@@ -25,13 +24,11 @@ title = "Design 1 (basics)"
 - Git
 
 **General**
-
 - Good practices and rules
 - Soft skills
 - Color psychology
 
 **Typography**
-
 - Typography elements
 - Pairing fonts
 
@@ -44,7 +41,7 @@ title = "Design 1 (basics)"
 ## 📦 Tools
 
 ### 🎓 Learn
-
+- 📗 [Figma ninja](https://www.figma.com/community/file/769694576496801916)
 - 📗 [10 Figma tricks](https://uxdesign.cc/10-figma-tricks-i-wish-i-knew-earlier-698e66a893f8)
 - 📗 [Figma layout grid](https://www.youtube.com/watch?v=zd8wrAdURN0)
 - 📗 [Figma styles](https://www.youtube.com/watch?v=gtQ_A3imzsg)
@@ -61,7 +58,6 @@ title = "Design 1 (basics)"
 ## 📦 General rules
 
 ### 🎓 Learn
-
 - 📗 [Key lessons](https://uxdesign.cc/47-key-lessons-for-ui-ux-designers-3cb296c1945b)
 - 📗 [10 rules to start with](https://uxdesign.cc/10-rules-of-thumb-in-ui-design-aa5f91885444)
 - 📗 [Space and hierarchy](https://blog.prototypr.io/space-hierarchy-dbfbaa03d97a)
@@ -74,7 +70,6 @@ title = "Design 1 (basics)"
 - 📗 [Checklists](https://www.checklist.design/)
 
 ### 🎤 Interview
-
 - what is screen density?
 - what kind of grid you use in designs and why?
 - how to use animations in design?
@@ -97,7 +92,6 @@ title = "Design 1 (basics)"
 - 📗 [Choosing colors for your project](https://gapsystudio.medium.com/how-to-choose-the-correct-ui-design-colors-for-your-product-to-reinforce-your-business-5a435d3aa115)
 
 ### 🎤 Interview
-
 - what colors could you use for a food related app and why?
 - what is the 60–30–10 rule?
 
@@ -106,7 +100,6 @@ title = "Design 1 (basics)"
 ## 📦 Typography
 
 ### 🎓 Learn
-
 - 📗 [Typography](https://uxdesign.cc/improve-your-designs-with-these-typography-tips-eeacc8fb81ff)
 - 📗 [Typography fundamentals](https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24)
 - 📗 [10 principles](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)
@@ -116,7 +109,6 @@ title = "Design 1 (basics)"
 - 📗 [Advanced examples](https://typographyprinciples.obys.agency/)
 
 ### 🎤 Interview
-
 - explain x-height, leading, tracking, kerning
 - when would you use a monospaced font? 
 - rules for matching fonts
@@ -130,7 +122,6 @@ title = "Design 1 (basics)"
 ## 📦 Inspiration
 
 ### 🎓 Learn
-
 - 📗 [Muzli as a new page plugin](https://muz.li/)
 - 📗 [Awwwards](https://www.awwwards.com/)
 - 📗 [webdesignerdepot](https://www.webdesignerdepot.com/category/community-inspiration)  

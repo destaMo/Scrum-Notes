@@ -11,17 +11,20 @@ title = "UX"
 **Description:** -
 
 **A person who completed requirements for a given block can:**
-
--
+- perform a ux audit
+- know common ux laws and use them
 
 {{% /bubble%}}
 
 ## Areas
-
-**Competence**
-
--
-
+- UX laws
+- Auditing
+- Best practices
+- Examples
+- Psychology
+- Tools
+- Other
+  
 ---
 
 ## 📦 Design
@@ -39,15 +42,21 @@ title = "UX"
 - 📗 [Aesthetic Usability](https://uxdesign.cc/how-tinder-makes-you-forgive-its-bad-design-3a0ecfe1246b)
 - 📗 [Jakob’s Law](https://uxdesign.cc/jakobs-law-how-did-facebook-upset-its-users-954cafb24095)
 
+##### Auditing
+- 📗 [UX audit](https://usabilitygeek.com/ux-audit-beginners-guide/)
+
 ##### Best practices
 - 📗 [Best practices](https://seandexter1.medium.com/the-baymard-institute-a-glorious-evidence-based-trove-of-ux-best-practices-189d839b1176)
 - 📗 [Baymard articles](https://baymard.com/blog/archive)
 - 📗 [Baymard case studies](https://baymard.com/ecommerce-design-examples)
-- 📗 [Nielsen Norman Group](https://www.nngroup.com/articles/)
 - 📗 [Spinners](https://simonhearne.com/2020/alternatives-to-spinners/)
 - 📗 [Ethical UX](https://uxdesign.cc/10-principles-for-ethical-ux-designs-21faf5ab243d)
 - 📗 [10 commandments](https://uxdesign.cc/10-commandments-for-ui-design-29ee9687a4)
 - 📗 [UX movement](https://uxmovement.com/)
+- 📗 [Dark patterns](https://www.darkpatterns.org/hall-of-shame)
+- 📗 [Nudge theory pattern examples](https://github.com/togiberlin/ui-ux-designer-roadmap#ux-pattern-examples-effectively-applying-nudge-theory)
+- 📗 [Usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+- 📙 [Nielsen Norman Group](https://www.nngroup.com/articles/)
 
 ##### Examples
 - 📗 [Booking.com case study](https://uxdesign.cc/how-booking-com-makes-you-book-a-room-a-ux-analysis-d0b5177b8b25)
@@ -66,14 +75,14 @@ title = "UX"
 - 📗 [Stark plugin](https://www.figma.com/community/plugin/732603254453395948/Stark)
 
 ##### Other
-- 📗 [Research tools](https://uxdesign.cc/13-helpful-ux-research-tools-1949c92b9da0)
-- 📗 [UX Books](https://medium.com/swlh/every-ux-book-i-recommend-and-why-673d634ca530)
-- 📗 [Digital Psychology](https://digitalpsychology.io/)
-https://www.nngroup.com/articles/growing-your-ux-career-study-guide/
+- 📙 [UX Books](https://medium.com/swlh/every-ux-book-i-recommend-and-why-673d634ca530)
+- 📙 [Digital Psychology](https://digitalpsychology.io/)
+- 📙 [User testing platform](https://www.usertesting.com/)
+
 ### 🎤 Interview
 
-- 
+- perform a ux audit of a website or static project
 
 ### 📝 Katas
 
-- 
+- perform a user testing session

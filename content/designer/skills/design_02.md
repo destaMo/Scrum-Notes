@@ -9,7 +9,6 @@ title = "Design 2 (intermediate)"
 **Description:** You know how to spot issues in the design and improve them.
 
 **Person who successfully completed requirement for given block can:**
-
 - Find issues and inconsistencies in design (UI related)
 - Write good microcopy
 - Know how to use animations properly
@@ -33,6 +32,7 @@ title = "Design 2 (intermediate)"
 - 📗 [Tips how to improve](https://uxdesign.cc/the-ui-ux-tips-collection-volume-one-f69f0969ed17)
 - 📗 [50 design tips](https://twitter.com/erikdkennedy/status/1328771593934290944)
 - 📗 [Ux microtips](https://uxdesign.cc/ui-ux-micro-tips-volume-three-d12709017d20)
+- 📗 [Use symmetry](https://github.com/togiberlin/ui-ux-designer-roadmap#use-symmetry-for-great-ui-designs)
 - 📗 [Refactoring UI book (ask Office for access)](https://gumroad.com/)
 - 📗 [App audit](https://youtu.be/1pwoWJ-cS5A)
 - 📗 [Landing page audit](https://youtu.be/ySbVqIMV5Ng)
@@ -60,11 +60,9 @@ title = "Design 2 (intermediate)"
 - 📗 [SVG Favicon](https://austingil.com/svg-favicons/)
 
 ### 🎤 Interview
-
 - What could you improve in a design that you did 6-12 months ago?
 
 ### 📝 Katas
-
 - [Finish the test and send the score screenshot](https://cantunsee.space/)
 - Add favicons to your project for Styling 2
 - Pick a random design from eg. dribbble, what could be improved there? Try to find as many things as you can

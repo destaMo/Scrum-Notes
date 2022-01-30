@@ -42,6 +42,9 @@ title = "Styling 5 (on the edge) [WIP]"
 - https://heydonworks.com/article/the-flexbox-holy-albatross-reincarnated/
 - https://ishadeed.com/article/defensive-css/
 - https://codepen.io/miriamsuzanne/pen/eYdJvWE
+- https://medium.com/orpetron-wda/newly-supported-css4-pseudo-class-selectors-that-you-should-start-using-6b68fdf164e0
+- https://codepen.io/5t3ph/pen/LYzvrGv
+- https://developer.mozilla.org/en-US/docs/Web/CSS/contain
 
 - 📗 [RWD without media queries](https://www.browserlondon.com/blog/2019/08/19/should-we-still-be-selling-responsive-web-design/)
 - https://css-tricks.com/responsive-layouts-fewer-media-queries
@@ -52,12 +55,10 @@ title = "Styling 5 (on the edge) [WIP]"
 
 - https://www.htmhell.dev/
 
-- 📗 [Logical properties](https://webdesign.tutsplus.com/tutorials/how-to-use-css-logical-properties--cms-33024)
-- 📗 [Logical properties](https://ishadeed.com/article/css-logical-properties/)
 - 📗 [display: contents](https://www.smashingmagazine.com/2019/05/display-box-generation/)
-- 📗 [Hyphenation](https://medium.com/clear-left-thinking/all-you-need-to-know-about-hyphenation-in-css-2baee2d89179)
-- 📗 [Knockup text](https://css-tricks.com/css-techniques-and-effects-for-knockout-text/)
-- 📗 [Scrollbars](https://www.filamentgroup.com/lab/scrollbars/)
+
+- 📗 [Scroll linked animations](https://www.bram.us/2021/02/23/the-future-of-css-scroll-linked-animations-part-1/)
+
 
 ### 🎤 Interview
 
