@@ -37,7 +37,7 @@ title = "Test automation"
 - 📙 [jQuery form selectors](https://api.jquery.com/category/selectors/form-selectors/)
 - 📙 [jQuery tree traversal - children, closest, find, parent, parents, siblings](https://api.jquery.com/category/traversing/tree-traversal/)
 - 📙 [jQuery filtering](https://api.jquery.com/category/traversing/filtering/)
-- 📗 [Cypress - setting a token in localStorage](https://newbedev.com/in-cypress-set-a-token-in-localstorage-before-test)
+- 📗 [Cypress - setting a token in localStorage](https://stackoverflow.com/a/59109883/18111319)
 - 📗 [Cypress - intercepting a request](https://egghead.io/blog/intercepting-network-requests-in-cypress)
 - 📗 [Cypress - ignore uncaught exceptions](https://stackoverflow.com/questions/53845493/cypress-uncaught-assertion-error-despite-cy-onuncaughtexception)
 - 📙 [19 Websites to Practice Automation Testing (UI, API, Mobile)](https://ultimateqa.com/dummy-automation-websites/amp/)
