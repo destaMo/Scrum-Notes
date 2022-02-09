@@ -123,7 +123,6 @@ In this step we start creating Epics and Features from our customer's requiremen
 
 ### 🎤 Interview
 
-- What is a Rabbit Hole?
 - What benefits does identifying Rabbit Holes early on give you?
 - How do you proceed once you find a Rabbit Hole?
 
