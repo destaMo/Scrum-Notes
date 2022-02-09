@@ -65,7 +65,6 @@ In this step we care the most about understanding the big picture of our custome
 
 ### 🎓 Learn
 
-- 📗 [Agile Epic vs Theme](https://www.agilemarketing.net/epic-vs-theme-2/)
 - 📗 [104 Questions for Product Development Teams](https://medium.com/@johnpcutler/104-questions-for-product-development-teams-5bc2dbae690e) (Paragraphs **Goal and Vision** and **Problem**)
 
 ### 🎤 Interview
