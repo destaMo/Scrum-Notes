@@ -114,20 +114,6 @@ In this step we start creating Epics and Features from our customer's requiremen
 
 ---
 
-## 📦 Finding Rabbit Holes
-
-### 🎓 Learn
-
-- 📗 [Shape Up - Risks and Rabbit Holes](https://basecamp.com/shapeup/1.4-chapter-05#look-for-rabbit-holes) (Paragraph **Look for Rabbit Holes**)
-- 📗 [10 Biggest Risks in Software Development](https://codebots.com/library/way-of-working/what-are-the-10-biggest-risks-in-software-development) Many good ideas that represent what can go wrong (inside and ouside the code)
-
-### 🎤 Interview
-
-- What benefits does identifying Rabbit Holes early on give you?
-- How do you proceed once you find a Rabbit Hole?
-
----
-
 ## Preparing Stories
 
 In this step we have Epics and Features, but they are too abstract to effectively track and commit to. Our goal in this step is to create Stories that will let us divide Features into smaller chunks, which makes it easier to ship meaningful working parts of the new Feature.
