@@ -1,5 +1,5 @@
 +++
-title = "Styling emails"
+title = "Styling emails [WIP]"
 +++
 
 {{%bubble %}}
@@ -37,6 +37,7 @@ title = "Styling emails"
 * 📗 [Accessible emails](https://www.emailonacid.com/blog/article/email-development/how-to-code-accessible-emails/) 
 * 📗 [Templates](https://www.emailonacid.com/blog/article/email-development/600_free_email_templates/) 
 * 📗 [email MQ](https://www.emailonacid.com/blog/article/email-development/emailology_media_queries_demystified_min-width_and_max-width/)
+* 📗 [point 9](https://www.emailonacid.com/blog/article/email-development/5_easy_ways_to_improve_your_mobile_design/)
 
 ### 🎤 Interview
 

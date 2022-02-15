@@ -8,57 +8,59 @@ title = "Styling 5 (on the edge) [WIP]"
 
 **Points:** 1
 
-**Description:**  
+**Description:** You know the freshest and upcoming CSS features
 
 **Person who successfully completed requirement for given block can:**
-
-- ... 
+- keep on track with the newest features
+- can implement them when browser support allows
 
 {{% /bubble%}}
 
 ## Areas
 
-**Tools**
-- ...
-
+- New CSS properties
 
 ---
 
 ## 📦 New properties
 
 ### 🎓 Learn
-
-- 📗 Filters
-- 📗 scrollBehavior, scroll-smooth
-- 📗 :focus-visible
-- 📗 shape-outside, shape-image-threshold, shape-margin
-- 📗 [Container queries](https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/)
-- 📗 [Container queries](https://web.dev/new-responsive/)
+- 📗 [Smooth scrolling](https://css-tricks.com/almanac/properties/s/scroll-behavior/)
+- 📗 [Shape outside](https://css-tricks.com/almanac/properties/s/shape-outside/)
 - 📗 [New CSS features](https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/)
 - 📗 [Aspect ratio](https://web.dev/aspect-ratio/)
+- 📗 [Cool flex: 0.5 example](https://codepen.io/miriamsuzanne/pen/eYdJvWE)
+- 📗 [Modern CSS toolkit](https://codepen.io/5t3ph/pen/LYzvrGv)
+- 📗 [Contain (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/contain)
+- 📗 [Contain (css-tricks)](https://css-tricks.com/almanac/properties/c/contain/)
+- 📗 [Custom properties](https://12daysofweb.dev/2021/css-custom-properties/)
+- 📗 [Preference queries](https://12daysofweb.dev/2021/preference-queries/)
+- 📗 [Isolation](https://css-tricks.com/almanac/properties/i/isolation/)
+- 📗 [display: contents](https://www.smashingmagazine.com/2019/05/display-box-generation/)
+- 📗 [Scroll linked animations](https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/)
+- 📗 [Cascade layers](https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer/)
+- 📗 [Accent color](https://css-tricks.com/almanac/properties/a/accent-color/)
+- 📗 [Reducing The Need For Pseudo-Elements](https://www.smashingmagazine.com/2021/09/reducing-need-pseudo-elements/)
+  
+#### Concepts
+- 📗 [Tracking changes](https://cssdb.org/)
+- 📗 [HTML hell](https://www.htmhell.dev/)
+- 📗 [Defensive CSS](https://ishadeed.com/article/defensive-css/)
+- 📗 [CSS in 2022](https://www.bram.us/2021/12/27/css-in-2022/)
+
+#### New pseudoclasses
+- 📗 [Writing better CSS](https://www.aleksandrhovhannisyan.com/blog/writing-better-css/)
+- 📗 [Overview](https://medium.com/orpetron-wda/newly-supported-css4-pseudo-class-selectors-that-you-should-start-using-6b68fdf164e0)
 - 📗 [:has](https://www.bram.us/2021/12/21/the-css-has-selector-is-way-more-than-a-parent-selector/)
 - 📗 [:is](https://www.bram.us/2021/03/19/three-important-things-you-should-know-about-css-is/)
-- https://betterprogramming.pub/9-html-features-youve-probably-never-heard-about-90d14dc18463
-- https://heydonworks.com/article/the-flexbox-holy-albatross-reincarnated/
-- https://ishadeed.com/article/defensive-css/
-- https://codepen.io/miriamsuzanne/pen/eYdJvWE
-- https://medium.com/orpetron-wda/newly-supported-css4-pseudo-class-selectors-that-you-should-start-using-6b68fdf164e0
-- https://codepen.io/5t3ph/pen/LYzvrGv
-- https://developer.mozilla.org/en-US/docs/Web/CSS/contain
 
+#### New responsiveness concepts
+- 📗 [Container queries](https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/)
+- 📗 [Container queries](https://web.dev/new-responsive/)
 - 📗 [RWD without media queries](https://www.browserlondon.com/blog/2019/08/19/should-we-still-be-selling-responsive-web-design/)
-- https://css-tricks.com/responsive-layouts-fewer-media-queries
-- https://medium.com/codex/responsive-layouts-without-media-queries-5d7fd989be72
-
-- https://12daysofweb.dev/2021/css-custom-properties/
-- https://12daysofweb.dev/2021/preference-queries/
-
-- https://www.htmhell.dev/
-
-- 📗 [display: contents](https://www.smashingmagazine.com/2019/05/display-box-generation/)
-
-- 📗 [Scroll linked animations](https://www.bram.us/2021/02/23/the-future-of-css-scroll-linked-animations-part-1/)
-
+- 📗 [Flexbox holy albatross](https://heydonworks.com/article/the-flexbox-holy-albatross-reincarnated/)
+- 📗 [Responsive Layouts, Fewer Media Queries](https://css-tricks.com/responsive-layouts-fewer-media-queries)
+- 📗 [Responsive Layouts Without Media Queries](https://medium.com/codex/responsive-layouts-without-media-queries-5d7fd989be72)
 
 ### 🎤 Interview
 

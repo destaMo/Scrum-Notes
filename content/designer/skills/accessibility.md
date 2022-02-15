@@ -1,5 +1,5 @@
 +++
-title = "Accessibility"
+title = "Accessibility [WIP]"
 +++
 
 {{%bubble %}}
@@ -74,6 +74,7 @@ title = "Accessibility"
 - https://medium.com/nextux/alternatives-to-placeholder-text-13f430abc56f
 - https://benmyers.dev/blog/on-the-dl/
 - https://www.a11yproject.com/checklist/
+- https://www.aleksandrhovhannisyan.com/blog/represent-state-with-html-attributes-not-class-names/
 
 ### 🎤 Interview
 

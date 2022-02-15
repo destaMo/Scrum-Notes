@@ -61,6 +61,7 @@ title = "Design 1 (basics)"
 - 📗 [Key lessons](https://uxdesign.cc/47-key-lessons-for-ui-ux-designers-3cb296c1945b)
 - 📗 [10 rules to start with](https://uxdesign.cc/10-rules-of-thumb-in-ui-design-aa5f91885444)
 - 📗 [Space and hierarchy](https://blog.prototypr.io/space-hierarchy-dbfbaa03d97a)
+- 📗 [8pt grid guide](https://medium.com/swlh/the-comprehensive-8pt-grid-guide-aa16ff402179)
 - 📗 [Good practices](https://uxdesign.cc/10-ways-to-spice-up-a-ui-design-f6025b2f4a8c)
 - 📗 [Variable "x"](https://uxdesign.cc/users-will-break-your-design-and-its-not-their-fault-57f2085c1c9e)
 - 📗 [Mistakes to avoid as junior designer](https://uxplanet.org/7-mistakes-i-used-to-make-as-a-junior-designer-what-not-to-do-cee33958a57e)

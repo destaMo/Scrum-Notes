@@ -18,8 +18,6 @@ title = "Styling 2 (intermediate)"
 
 ---
 
-TODO: linter
-
 ## 📦 Semantic HTML
 
 ### 🎓 Learn
@@ -102,7 +100,7 @@ TODO: linter
 * 📗 [Subsetting fonts](http://thenewcode.com/878/Slash-Page-Load-Times-With-CSS-Font-Subsetting)
 * 📗 [SVG icons vs font icons](https://css-tricks.com/icon-fonts-vs-svg/)
 * 📗 [Icomoon fonts (obsolete)](https://icomoon.io/app/#/select)
-* 📗 [Webfont generator (obsolete)](https://www.fontsquirrel.com/tools/webfont-generator)
+* 📗 [Webfont generator (obsolete)](https://transfonter.org/)
 
 
 ### 🎤 Interview

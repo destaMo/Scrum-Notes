@@ -8,11 +8,11 @@ title = "UX"
 
 **Points:** 2
 
-**Description:** -
+**Description:** You are a usability expert
 
 **A person who completed requirements for a given block can:**
-- perform a ux audit
 - know common ux laws and use them
+- perform a ux audit
 
 {{% /bubble%}}
 
@@ -43,7 +43,9 @@ title = "UX"
 - 📗 [Jakob’s Law](https://uxdesign.cc/jakobs-law-how-did-facebook-upset-its-users-954cafb24095)
 
 ##### Auditing
-- 📗 [UX audit](https://usabilitygeek.com/ux-audit-beginners-guide/)
+- 📗 [UX audit beginners guide](https://usabilitygeek.com/ux-audit-beginners-guide/)
+- 📗 [Conducting A UX Audit](https://www.uxbooth.com/articles/conducting-a-ux-audit-what-you-need-to-know/)
+- 📗 [Sample UX audit](https://drive.google.com/file/d/1ZjC7lryjAx1iJxbmU_BsnoW97UM_evNE/view?usp=sharing)
 
 ##### Best practices
 - 📗 [Best practices](https://seandexter1.medium.com/the-baymard-institute-a-glorious-evidence-based-trove-of-ux-best-practices-189d839b1176)
@@ -55,7 +57,9 @@ title = "UX"
 - 📗 [UX movement](https://uxmovement.com/)
 - 📗 [Dark patterns](https://www.darkpatterns.org/hall-of-shame)
 - 📗 [Nudge theory pattern examples](https://github.com/togiberlin/ui-ux-designer-roadmap#ux-pattern-examples-effectively-applying-nudge-theory)
-- 📗 [Usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+- 📗 [10 usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+- 📗 [Usability heuristics for complex apps](https://www.nngroup.com/articles/usability-heuristics-complex-applications/)
+- 📗 [User testing](https://uxplanet.org/why-is-it-important-to-do-usability-testing-5080a5640df3)
 - 📙 [Nielsen Norman Group](https://www.nngroup.com/articles/)
 
 ##### Examples
@@ -69,10 +73,6 @@ title = "UX"
 - 📗 [Design psychologies](https://uxdesign.cc/7-design-psychologies-every-designer-should-know-d01a1becd961)
 - 📗 [Behavior patterns](https://uxdesign.cc/10-essential-cognitive-behavior-patterns-for-ux-design-7f0cc2e00d31)
 - 📗 [Digital Psychology](https://digitalpsychology.io/)
-
-##### Accessibility design tools
-- 📗 [Contrast plugin](https://www.figma.com/community/plugin/748533339900865323/Contrast)
-- 📗 [Stark plugin](https://www.figma.com/community/plugin/732603254453395948/Stark)
 
 ##### Other
 - 📙 [UX Books](https://medium.com/swlh/every-ux-book-i-recommend-and-why-673d634ca530)

@@ -30,7 +30,7 @@ title = "Icons & Logos [WIP]"
 
 ### 🎓 Learn
 
-- 📗 [TODO](https://lorem.ipsum/)
+- 📗 [Icon creation 10 essential tips](https://bootcamp.uxdesign.cc/create-icons-like-a-pro-c66a50064f8b)
 
 ### 🎤 Interview
 

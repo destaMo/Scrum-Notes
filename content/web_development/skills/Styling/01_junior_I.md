@@ -66,7 +66,7 @@ title = "Styling 1 (basics)"
 * 📗 [Css basics](https://developer.mozilla.org/en/docs/Learn/Getting_started_with_the_web/CSS_basics)
 * 📗 [Cascade](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
 * 📗 [Css vocabulary](http://apps.workflower.fi/vocabs/css/en)
-* 📗 [Box model](https://internetingishard.com/html-and-css/css-box-model/)
+* 📗 [Box model](https://www.internetingishard.com/html-and-css/css-box-model/)
 * 📗 [Basic information's about CSS](https://www.w3schools.com/Css/default.asp) ("CSS Tutorial" section)
 * 📗 [CSS specificity](https://css-tricks.com/specifics-on-css-specificity/)
 * 📗 [CSS specificity examples](https://specifishity.com/)
