@@ -8,7 +8,7 @@ title = "Fundamentals"
 
 **Description:** You understand basic concepts around web development
 
-**Person who successfully completed requirement for given block can:** 
+**Person who successfully completed requirement for given block can:**
 
 - Can configure working environment
 - Can effectively configure & use IDE
@@ -51,22 +51,22 @@ Know your environment (operating system, terminal, basic command lines, running 
 ### 🎓 Learn
 
 - Workflow
-  - 📗 [the art of command line: sections: “Basic” & “Everyday Use” & “Processing files and data” (](https://github.com/jlevy/the-art-of-command-line)[oh my zsh](https://github.com/robbyrussell/oh-my-zsh), 
-    - documentation via tldr/man or [dash](https://kapeli.com/dash) or [devdocs.io](https://devdocs.io/), 
-    - editor - vim || nano, pipes, 
-    - redirecting input & output, glob expansions, job management, file management, grep, which, pwd, command line shortcuts, 
-    - directory navigation, environment variables (especially PATH) 
-    - [fuzzy search finder with zsh](https://github.com/junegunn/fzf), 
+  - 📗 [the art of command line: sections: “Basic” & “Everyday Use” & “Processing files and data” (](https://github.com/jlevy/the-art-of-command-line)[oh my zsh](https://github.com/robbyrussell/oh-my-zsh),
+    - documentation via tldr/man or [dash](https://kapeli.com/dash) or [devdocs.io](https://devdocs.io/),
+    - editor - vim || nano, pipes,
+    - redirecting input & output, glob expansions, job management, file management, grep, which, pwd, command line shortcuts,
+    - directory navigation, environment variables (especially PATH)
+    - [fuzzy search finder with zsh](https://github.com/junegunn/fzf),
     - permissions (and switching users sudo su), find, sort, tail)
   - 📗 [iterm, tmux, terminal - shortcuts, layout, sessions, kitty](https://iterm2.com/) pick one
   - 📙 [typing](https://www.keybr.com/)
   - 📙 [command linter](https://github.com/riscy/command_line_lint)
   - 📙 [shorcutfoo](https://www.shortcutfoo.com/)
-- 📗 [General usage of Linux](/common/linux.md) (Junior 1)
+- 📗 [General usage of Linux](../../common/linux) (Junior 1)
 - Mac Only:
-    - 📗 [macos](https://support.apple.com/macos)
-    - 📗 [mac shortcuts](https://support.apple.com/en-us/HT201236)
-    - 📗 [brew - package manager (](https://brew.sh/)[new to mac](https://support.apple.com/explore/new-to-mac), brew install, brew cask install)
+  - 📗 [macos](https://support.apple.com/macos)
+  - 📗 [mac shortcuts](https://support.apple.com/en-us/HT201236)
+  - 📗 [brew - package manager (](https://brew.sh/)[new to mac](https://support.apple.com/explore/new-to-mac), brew install, brew cask install)
 
 ### 🎤 Interview
 
@@ -77,7 +77,7 @@ Know your environment (operating system, terminal, basic command lines, running 
 
 ### 📝 Katas
 
-- Go through [Linux Junior 1 requirements](/common/linux/)
+- Go through [Linux Junior 1 requirements](../../common/linux/)
 - Do you have any plans to improve your productivity? Show me a 3 months plan with steps you would like to implement
 
 ---
@@ -103,10 +103,10 @@ Know your editor - below are materials for VSCode, but you can choose other. Ens
 ### 📝 Katas
 
 - Walk me through your IDE
-    - what features you use the most often
-    - how did you configure it
-    - what plugins do you use
-    - Is there anything unique
+  - what features you use the most often
+  - how did you configure it
+  - what plugins do you use
+  - Is there anything unique
 
 ---
 
@@ -119,12 +119,12 @@ Read about how the web works - you do not need to remember all the details, just
 - 📗 [how the web works](https://github.com/vasanthk/how-web-works)
 - 📗 [what web can do today](https://whatwebcando.today/)
 - 📗 choose your tool:
-    - **Chrome DevTools**
-        - 📗 [crash course](https://www.youtube.com/watch?v=gTVpBbFWry8)
-        - Home/ Open Dev tools / DevTools for beginners / CSS / JavaScript / Console / Network / HTML
-    - **Firefox Developer tools**
-        - 📗 [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
-        - 📗 [Core Tools](https://developer.mozilla.org/en-US/docs/Tools) - Page inspector / Web Console / JavaScript Debugger / Network Monitor
+  - **Chrome DevTools**
+    - 📗 [crash course](https://www.youtube.com/watch?v=gTVpBbFWry8)
+    - Home/ Open Dev tools / DevTools for beginners / CSS / JavaScript / Console / Network / HTML
+  - **Firefox Developer tools**
+    - 📗 [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+    - 📗 [Core Tools](https://developer.mozilla.org/en-US/docs/Tools) - Page inspector / Web Console / JavaScript Debugger / Network Monitor
 
 ### 🎤 Interview
 
@@ -153,15 +153,15 @@ Go through [common git requirements](/common/git/).
 ### 🎤 Interview
 
 - How docker helps with local development?
-- Explain basic usage of docker 
-    - build 
-    - ps 
-    - run 
-    - kill 
-    - restart 
-    - compose 
-    - images 
-    - exec
+- Explain basic usage of docker
+  - build
+  - ps
+  - run
+  - kill
+  - restart
+  - compose
+  - images
+  - exec
 
 ### 📝 Katas
 
