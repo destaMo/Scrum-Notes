@@ -34,7 +34,6 @@ title = "Process and soft skills"
 
 - What are some good practices in keeping good relations with developers?
 - What specifies a valuable feedback?
-- Why are the benefits of knowing whole application/domain?
 - What phases of a sprint can a QA participate in and how?
 - What are pros of managing a project in Agile?
 
