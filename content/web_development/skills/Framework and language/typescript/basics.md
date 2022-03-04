@@ -8,13 +8,13 @@ weight = 1
 
 ## Language's Basics
 
-**Description:** You can use the basic features of TypeScript required for work with frameworks built on top of it.
+**Description:** You can use features of TypeScript required for work with frameworks built on top of it.
 
-**Person who successfully completed requirement for given block can:**
+**Person who successfully completed a requirement for given block can:**
 
 - **deliver** simple and typical **functionalities** with **little to no additional help**,
 - **present** the problem and explored **solutions clearly and in detail** when asking for help,
-- **leverage** the most commonly used **standard library**'s capabilities,
+- **leverage** the most commonly used **standard library**'s capabilities.
 
 **Prerequisites:**
 
@@ -26,16 +26,16 @@ weight = 1
 
 ### TypeScript
 
-- Data types
-- Type guards and types assertions
-- Built-in utility types
-- Generics
-- Conditional Types
-- Mapped and Indexed types
+- Data types,
+- Type guards and types assertions,
+- Built-in utility types,
+- Generics,
+- Conditional Types,
+- Mapped and Indexed types.
 
 ## 📦 Data types
 
-Learn about available data types in TypeScript
+Learn about available data types in TypeScript.
 
 ### 🎓 Learn
 
@@ -61,15 +61,15 @@ Learn about available data types in TypeScript
 
 ### 🎤 Interview
 
-- What are primitive types
-- How to define an array of types? How it's diffrent with tuple.
+- What are primitive types?
+- How to define an array of types? How is it different with tuple?
 - How to access type of array element? How about accessing type of tuple elements?
 - What is type alias?
 - What is an interface?
 - What are the differences between type alias and interface?
 - How to define function in an interface?
 - How to define function in a type alias?
-- What are function overloads? What they are used for? How can we declare these - show three different ways?
+- What are function overloads? What are they used for? How can we declare these - show three different ways?
 - What are literal types and when they are useful?
 - What's the difference between `never` and `void`?
 - What difference does it make to have `strictNullChecks` option turned on?
@@ -84,7 +84,7 @@ Read on compatibility between different types and structures
 
 ## 📦 Type guards
 
-Learn about narrowing down types using various methods
+Learn about narrowing down types using various methods.
 
 ### 🎓 Learn
 
@@ -94,16 +94,16 @@ Learn about narrowing down types using various methods
 ### 🎤 Interview
 
 - How can we narrow down different types? Tell me about and give examples on:
-  - Truthiness
-  - `typeof` operator
-  - `in` operator
-  - `instanceof` operator
-  - type predicates
-  - discriminated unionts
+  - Truthiness,
+  - `typeof` operator,
+  - `in` operator,
+  - `instanceof` operator,
+  - type predicates,
+  - discriminated unions.
 
 ## 📦 Utility types
 
-Get familiar with some of the utility types
+Get familiar with some of the utility types.
 
 ### 🎓 Learn
 
@@ -111,15 +111,15 @@ Get familiar with some of the utility types
 
 ### 🎤 Interview
 
-- Tell me about Extract/Exclude and Omit/Pick - how they are different from each other
-- Tell me about Partial/Required - what are they doing? What is use case?
+- Tell me about Extract/Exclude and Omit/Pick - how they are different from each other?
+- Tell me about Partial/Required - what are they doing? What is their use case?
 - How can we access type of parameters in function? How do we extract type of n-th parameter?
 - How can we access type of return value in function?
 - What other utility types do you know?
 
 ## 📦 Generics
 
-How to make use of generics (named templates in other languages sometimes)
+How to make use of generics (named templates in other languages sometimes).
 
 ### 🎓 Learn
 
@@ -135,8 +135,11 @@ How to make use of generics (named templates in other languages sometimes)
 
 ### 📝 Katas
 
-- Create a class that makes use of a generic
-- Create a function that makes use of a generic
+- Create a class that makes use of a generic. It should accept anything as a constructor and have following methods:
+  - `getValue` - its return type should be derived from generic,
+  - `setValue` - its argument should be derived from generic.
+- Create a function that makes use of a generic. Return type of this function should be derived from generic.
+- Create an interface for a function that accepts object as a first argument and second argument MUST be one of the keys in this obejct.
 
 ## 📦 Conditional types
 
@@ -153,11 +156,11 @@ Get familiar with assigning types conditionally and extract types from function 
 
 ### 📝 Katas
 
-- Create a type conditional where you extract value from given `Promise<Type>` type
+- Create a type conditional where you extract value from given `Promise<Type>` type.
 
 ## 📦 Mapped and indexed types
 
-Learn how to transform types from one structure to another
+Learn how to transform types from one structure to another.
 
 ### 🎓 Learn
 
@@ -175,12 +178,16 @@ Learn how to transform types from one structure to another
 
 ### 📝 Katas
 
-- Create a type that accepts a union and creates properties from its elements
-- Create a type type that accepts an object type and maps over its values
+- Create an interface which as a type variable accepts a union and creates properties from elements of this union (property type can be anything, for example `string`)
+- Create an interface type which as a type variable accepts an object type where this object values are functions.
+  Returned type should have the same keys, but object value should be value of a function provided under that key.
+  > Example: `{ foo: () => number }` should transform to `{ foo: number }`
+- Create a static object where it's values are different class constructors (e.g. `Dog`, `Cat`, `Bird`).
+  Then create a function that accepts one of the keys of this object as an argument and returns instance of class under this key.
 
 ## 📦 Summary
 
-It is highly recommended that you read whole **TypeScript Handbook** and **TypeScript Deep Dive** (linked below) for a better understanding of TypeScript
+It is highly recommended that you read whole **TypeScript Handbook** and **TypeScript Deep Dive** (linked below) for a better understanding of TypeScript.
 
 ### 🎓 Learn
 
@@ -189,4 +196,4 @@ It is highly recommended that you read whole **TypeScript Handbook** and **TypeS
 
 ### 📝 Katas
 
-- Solve excersises **1-10** (with extras) and **15** (optionally) from [typescript excersises](https://typescript-exercises.github.io/) (you don't need to put it on github or anywhere, solving them on these pages is fine)
+- Solve excersises **1-10** (with extras) and **15** (optionally) from [typescript excersises](https://typescript-exercises.github.io/) (you don't need to put it on github or anywhere, solving them on this page only is fine).
