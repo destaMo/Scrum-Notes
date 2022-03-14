@@ -28,7 +28,7 @@ title = "Tools and technologies"
 
 - 📗 [Git - getting started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - 📗 [Git - basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
-- 📗 [Git - writing good commit message](https://juffalow.com/other/write-good-git-commit-message) 
+- 📗 [Git - writing good commit message](https://juffalow.com/blog/git/write-good-git-commit-message/) 
 - 📗 [Git - branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 - 📗 [Git - Github](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
 - 📗 [Git - fetch, pull, push](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
