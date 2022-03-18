@@ -14,8 +14,6 @@ weight = 3
 ### Command-line apps
 
 - [ESLint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
-- [http-server](https://github.com/indexzero/http-server) - Simple, zero-config command-line HTTP server.
-- [Live Server](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 
 ### Functional programming
 
@@ -49,8 +47,9 @@ weight = 3
 
 ### Web frameworks
 
-- [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 - [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+- [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
+- [Fastify](https://github.com/fastify/fastify) - Fastify is a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. It is inspired by Hapi and Express and as far as we know, it is one of the fastest web frameworks in town.
 
 ### Real-time
 
@@ -80,12 +79,12 @@ weight = 3
 
 - Drivers
   - [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
-  - [Redis](https://github.com/luin/ioredis) - Redis client.
+  - [IORedis](https://github.com/luin/ioredis) - Redis client.
   - [MySQL](https://github.com/mysqljs/mysql) - MySQL client.
   - [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 - ODM / ORM
   - [TypeORM](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
-    - [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL, and more.
+  - [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL, and more.
   - [Mongoose](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling.
   - [Prisma](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
 - Query builder
@@ -138,6 +137,8 @@ weight = 3
 - [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
 - [dotenv-expand](https://github.com/motdotla/dotenv-expand) - Variable expansion for dotenv. Expand variables already on your machine for use in your .env file.
 - [NestJS Config](https://github.com/nestjs/config) - Configuration module for Nest framework
+- [Type-GraphQL](https://typegraphql.com/docs/introduction.html) - Set of utility decorators for code-first grahpql approach
+  - [graphql-type-json](https://www.npmjs.com/package/graphql-type-json) - JSON scalar for GraphQL
 
 ### Static Code Analysis
 
