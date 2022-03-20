@@ -38,15 +38,17 @@ title = "Styling 5 (on the edge) [WIP]"
 - 📗 [Isolation](https://css-tricks.com/almanac/properties/i/isolation/)
 - 📗 [display: contents](https://www.smashingmagazine.com/2019/05/display-box-generation/)
 - 📗 [Scroll linked animations](https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/)
-- 📗 [Cascade layers](https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer/)
+- 📗 [Cascade layers](https://ishadeed.com/article/cascade-layers/)
 - 📗 [Accent color](https://css-tricks.com/almanac/properties/a/accent-color/)
 - 📗 [Reducing The Need For Pseudo-Elements](https://www.smashingmagazine.com/2021/09/reducing-need-pseudo-elements/)
-  
+- 📗 [Dialog element](https://www.stefanjudis.com/blog/a-look-at-the-dialog-elements-super-powers/)  
+
 #### Concepts
 - 📗 [Tracking changes](https://cssdb.org/)
 - 📗 [HTML hell](https://www.htmhell.dev/)
 - 📗 [Defensive CSS](https://ishadeed.com/article/defensive-css/)
 - 📗 [CSS in 2022](https://www.bram.us/2021/12/27/css-in-2022/)
+- 📗 [New features](https://www.smashingmagazine.com/2022/03/new-css-features-2022/)
 
 #### New pseudoclasses
 - 📗 [Writing better CSS](https://www.aleksandrhovhannisyan.com/blog/writing-better-css/)
@@ -61,6 +63,7 @@ title = "Styling 5 (on the edge) [WIP]"
 - 📗 [Flexbox holy albatross](https://heydonworks.com/article/the-flexbox-holy-albatross-reincarnated/)
 - 📗 [Responsive Layouts, Fewer Media Queries](https://css-tricks.com/responsive-layouts-fewer-media-queries)
 - 📗 [Responsive Layouts Without Media Queries](https://medium.com/codex/responsive-layouts-without-media-queries-5d7fd989be72)
+- 📗 [Foldable devices](https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/)
 
 ### 🎤 Interview
 

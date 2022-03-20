@@ -42,6 +42,7 @@ title = "Styling 3 (advanced)"
 * 📗 [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 * 📗 [CSS variables vs preprocessor variables](https://css-tricks.com/difference-between-types-of-css-variables/)
 * 📗 [How to overflow properly](https://kilianvalkhof.com/2021/css-html/you-want-overflow-auto-not-overflow-scroll/)
+* 📗 [Safari and transparent gradients](https://selleo.com/til/posts/ppaelytlui-gray-gradients-on-safari)
 
 ### 🎤 Interview
 
@@ -57,6 +58,8 @@ title = "Styling 3 (advanced)"
 * How to truncate text in CSS?
 * What does object-fit do?
 * How CSS variables work?
+* overflow:scroll vs overflow:auto
+* how to make gradients transparent is Safari?
 
 #### Selectors
 * `~` vs `+`
@@ -128,10 +131,8 @@ On your project, add:
 
 ### 🎓 Learn
  
-* 📗 [Icon fonts vs SVG](https://css-tricks.com/icon-fonts-vs-svg/)
-* 📗 [Using svg icons](https://css-tricks.com/pretty-good-svg-icon-system/)
-* 📗 [Complete guide](https://blog.usejournal.com/svg-icons-from-sketch-to-react-dfbedbf56484)
-* 📗 [Minifying svg icons](https://jakearchibald.github.io/svgomg/)
+* 📗 [Compression guide](https://blog.usejournal.com/svg-icons-from-sketch-to-react-dfbedbf56484)
+* 📗 [Tool for compressing](https://jakearchibald.github.io/svgomg/)
 
 ### 📝 Katas
 
@@ -140,7 +141,6 @@ On your project, add:
 
 ### 🎤 Interview
 
-* Inline SVG icons vs fonticons and why?
 * How to optimize and use inline SVG icons?
 
 
@@ -163,6 +163,7 @@ On your project, add:
 * 📗 [Deferring offscreen images](https://css-tricks.com/native-lazy-loading/)
 * 📗 [Preloading key requests](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content)
 * 📗 [Image optimizations](https://www.industrialempathy.com/posts/image-optimizations/)
+* 📗 [Display:none and loading images](https://selleo.com/til/posts/rrfqojakbh-dont-hide-images-with-display-none)
 * 📙 [In-depth performance](https://web.dev/lighthouse-performance/)
 
 ### 📝 Katas

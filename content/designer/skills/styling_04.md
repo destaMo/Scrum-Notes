@@ -99,6 +99,7 @@ title = "Styling 4 (mastery)"
 - 📗 [Grid blowouts](https://css-tricks.com/preventing-a-grid-blowout/)
 - 📗 [Auto fill vs auto fit](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
 - 📗 [You want minmax(10px, 1fr) not 1fr](https://css-tricks.com/you-want-minmax10px-1fr-not-1fr/)
+- 📗 [An Auto-Filling CSS Grid With Max Columns of a Minimum Size](https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/)
 - 📙 [Video tutorial 1 *](https://scrimba.com/g/gR8PTE)
 - 📙 [Video tutorial 2 *](https://cssgrid.io/)
 

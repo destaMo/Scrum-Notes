@@ -43,9 +43,11 @@ title = "Performance [WIP]"
 - https://calibreapp.com/blog/investigate-animation-performance-with-devtools/
 
 ##### Images
+- 📗 [First part (on images)](https://www.youtube.com/watch?v=AdQwdBAOOKE)
 - 📗 [Github image actions](https://github.com/marketplace/actions/image-actions)
 - 📗 WebP, avif, JPEG XL
 - 📗 proper density/sizing
+- 📙 [Hardcore picture/srcset example](https://engineering.q42.nl/optimizing-full-screen-images/)
 
 ### 🎤 Interview
 

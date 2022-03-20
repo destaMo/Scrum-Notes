@@ -75,6 +75,9 @@ title = "Accessibility [WIP]"
 - https://benmyers.dev/blog/on-the-dl/
 - https://www.a11yproject.com/checklist/
 - https://www.aleksandrhovhannisyan.com/blog/represent-state-with-html-attributes-not-class-names/
+- https://12daysofweb.dev/2021/form-autocomplete/
+- https://www.deque.com/blog/aria-spec-for-the-uninitiated-part-1/
+- https://www.adrianbolonio.com/en/accessibility-github-actions/
 
 ### 🎤 Interview
 

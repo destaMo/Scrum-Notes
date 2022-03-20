@@ -73,7 +73,7 @@ title = "Styling 2 (intermediate)"
 * 📗 [Media queries types](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
 * 📗 [CSS responsive](https://www.w3schools.com/Css/css_rwd_intro.asp)
 * On mobile, the minimum recommended button size is 44x44 or 48x48 (if using 8px grid)
-* 📗 [Necessary viewport](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag#Viewport_basics)
+* 📗 [Necessary viewport](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag#viewport_basics)
 * 📗 [RWD Basics](https://internetingishard.com/html-and-css/responsive-design/)
 * 📗 [Autoprefixer](https://github.com/postcss/autoprefixer)
 * 📗 [Support tables](https://caniuse.com/)
@@ -98,15 +98,16 @@ title = "Styling 2 (intermediate)"
  
 * 📗 [Using and modifying @font-face fonts](https://css-tricks.com/snippets/css/using-font-face/)
 * 📗 [Subsetting fonts](http://thenewcode.com/878/Slash-Page-Load-Times-With-CSS-Font-Subsetting)
+* 📗 [Webfont generator](https://transfonter.org/)
+* 📗 [Using svg icons](https://css-tricks.com/pretty-good-svg-icon-system/)
 * 📗 [SVG icons vs font icons](https://css-tricks.com/icon-fonts-vs-svg/)
-* 📗 [Icomoon fonts (obsolete)](https://icomoon.io/app/#/select)
-* 📗 [Webfont generator (obsolete)](https://transfonter.org/)
+* 📙 [Icomoon fonts (obsolete)](https://icomoon.io/app/#/select)
 
 
 ### 🎤 Interview
 
 * what file types should you use for webfonts
-* when to use font icons
+* Inline SVG icons vs font icons and why?
 
 ## 📝 Katas
 - prepare a list of PR's or other contributions that prove your understanding of the subject from this and previous level

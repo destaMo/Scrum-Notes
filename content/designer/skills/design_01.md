@@ -107,7 +107,6 @@ title = "Design 1 (basics)"
 - 📗 [Pairing fonts](https://fontpair.co/)
 - 📗 [Superfamilies](https://fonts.google.com/featured/Superfamilies)
 - 📗 [Amazing fonts](https://uxdesign.cc/the-curated-list-of-25-amazing-fonts-for-2021-fa768327cc94)
-- 📗 [Advanced examples](https://typographyprinciples.obys.agency/)
 
 ### 🎤 Interview
 - explain x-height, leading, tracking, kerning
@@ -123,6 +122,7 @@ title = "Design 1 (basics)"
 ## 📦 Inspiration
 
 ### 🎓 Learn
+- 📗 [List of design resources](https://uxplanet.org/list-of-design-resources-that-will-make-you-a-design-rockstar-1c2d9525920e)
 - 📗 [Muzli as a new page plugin](https://muz.li/)
 - 📗 [Awwwards](https://www.awwwards.com/)
 - 📗 [webdesignerdepot](https://www.webdesignerdepot.com/category/community-inspiration)  

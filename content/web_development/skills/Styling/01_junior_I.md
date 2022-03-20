@@ -69,6 +69,7 @@ title = "Styling 1 (basics)"
 * 📗 [Box model](https://www.internetingishard.com/html-and-css/css-box-model/)
 * 📗 [Basic information's about CSS](https://www.w3schools.com/Css/default.asp) ("CSS Tutorial" section)
 * 📗 [CSS specificity](https://css-tricks.com/specifics-on-css-specificity/)
+* 📗 [CSS specificity interactive demo](https://www.matuzo.at/blog/2022/specificity/)
 * 📗 [CSS specificity examples](https://specifishity.com/)
 * 📗 [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
 * 📗 [Centering example](https://codepen.io/Zealur/pen/ebNExd)

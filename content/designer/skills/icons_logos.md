@@ -31,6 +31,7 @@ title = "Icons & Logos [WIP]"
 ### 🎓 Learn
 
 - 📗 [Icon creation 10 essential tips](https://bootcamp.uxdesign.cc/create-icons-like-a-pro-c66a50064f8b)
+- advanced svg optimisations
 
 ### 🎤 Interview
 
