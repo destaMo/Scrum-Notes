@@ -15,7 +15,7 @@ title = "Fundamentals"
 - explain how browser works
 - identify HTTP issues with browser tools
 - use GIT versioning
-- run an web application locally
+- run a web application locally
 - follow basic security standards
 
 {{% /bubble%}}
