@@ -10,12 +10,13 @@ title = "Fundamentals"
 
 **Person who successfully completed requirement for given block can:**
 
-- Can configure working environment
-- Can effectively configure & use IDE
-- Can explain how browser works
-- Can identify HTTP issues with browser tools
-- Can use GIT versioning
-- Can run an web application locally
+- configure working environment
+- effectively configure & use IDE
+- explain how browser works
+- identify HTTP issues with browser tools
+- use GIT versioning
+- run a web application locally
+- follow basic security standards
 
 {{% /bubble%}}
 
@@ -38,7 +39,10 @@ title = "Fundamentals"
 
 - HTTP
 
-**Framework & Libs**
+**Security**
+- Web fundamentals
+
+**Framework & Language**
 
 - Framework A Level I
 
@@ -191,3 +195,16 @@ Go through [common git requirements](/common/git/).
 - Show me how would you access web socket traffic information in the browser
 
 ---
+
+## 📦 Security
+
+Go through [web security fundamentals](/web_development/skills/web-security-fundamentals/).
+
+---
+
+## 📦 Framework & Language
+
+Pass evaluation: 
+- 📗 [Framework & Language - basics](/web_development/skills/framework-and-language/)
+  - [Backend prerequisite - Persistence basics](/web_development/skills/persistence/basics/)
+  - [Frontend prerequisite - Styling 1 (basics)](/web_development/skills/styling/01_junior_i/)
