@@ -204,6 +204,7 @@ Go through [web security fundamentals](/web_development/skills/web-security-fund
 
 ## 📦 Framework & Language
 
+Pass evaluation: 
 - 📗 [Framework & Language - basics](/web_development/skills/framework-and-language/)
   - [Backend prerequisite - Persistence basics](/web_development/skills/persistence/basics/)
   - [Frontend prerequisite - Styling 1 (basics)](/web_development/skills/styling/01_junior_i/)
