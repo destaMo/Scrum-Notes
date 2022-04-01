@@ -20,7 +20,9 @@ weight = 1
 - Is capable of leveraging the most commonly used React capabilities
 - Has working knowledge of the most commonly used packages/libraries
 
-**Prerequisites:** [Styling basics](/web_development/skills/styling/01_junior_i/)
+**Prerequisites:** 
+- [JavaScript's basics](/web_development/skills/framework-and-language/javascript/)
+- [Styling 1](/web_development/skills/styling/01_junior_i/)
 
 {{% /bubble%}}
 

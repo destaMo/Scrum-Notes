@@ -22,7 +22,9 @@ weight = 1
 - Can create simple form with Formik
 - Can add custom font
 
-**Prerequisites:** [Styling basics](/web_development/skills/styling/01_junior_i/)
+**Prerequisites:** 
+- [JavaScript's basics](/web_development/skills/framework-and-language/javascript/)
+- [Styling 1](/web_development/skills/styling/01_junior_i/)
 
 {{% /bubble%}}
 
