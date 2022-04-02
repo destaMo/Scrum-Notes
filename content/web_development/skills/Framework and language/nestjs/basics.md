@@ -20,10 +20,9 @@ weight = 1
 - **use** known **packages and libraries**.
 
 **Prerequisites:**
-
-- [JavaScript's basics](../javascript/basics)
-- [TypeScript's basics](../typescript/basics)
-- [Persistence's basics](../../persistence/basics)
+- [JavaScript's basics](/web_development/skills/framework-and-language/javascript/)
+- [TypeScript's basics](/web_development/skills/framework-and-language/typescript/basics)
+- [Persistence's basics](/web_development/skills/persistence/basics/)
 
 {{% /bubble%}}
 
