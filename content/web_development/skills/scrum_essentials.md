@@ -51,7 +51,7 @@ Understand why the 5 Scrum Values take center stage in Scrum.
 
 ### 🎓 Learn
 
-- 📗 [5 Scrum Values](​​https://www.scrum.org/resources/blog/5-scrum-values-take-center-stage)
+- 📗 [5 Scrum Values](https://www.scrum.org/resources/blog/5-scrum-values-take-center-stage)
 - 📗 [Visualizing Scrum Values](https://www.scrum.org/resources/blog/visualising-scrum-values)
 
 ### 🎤 Interview
