@@ -21,8 +21,6 @@ git clone https://github.com/selleo/devpath.git
 
 cd devpath
 
-git submodule update --init --recursive
-
 hugo server -D
 ```
 
