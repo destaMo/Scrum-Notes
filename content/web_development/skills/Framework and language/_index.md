@@ -6,7 +6,7 @@ title = "Framework and language"
 
 | Framework/Library | Language prerequisite | Other prerequisites |
 |---|---|---|
-| 🗃️ [Ruby on Rails](/web_development/skills/framework-and-language/ruby_on_rails/)<br />Includes: Basics, Avanced, Mastery | Ruby is included in Framework & language document | Basics: [Persistance basics](/web_development/skills/persistence/basics/) |
+| 🗃️ [Ruby on Rails](/web_development/skills/framework-and-language/ruby_on_rails/)<br />Includes: Basics, Avanced | Ruby is included in Framework & language document | Basics: [Persistance basics](/web_development/skills/persistence/basics/) |
 | 🗃️ [NestJS](/web_development/skills/framework-and-language/nestjs/)<br />Includes: Basics | [JavaScript](/web_development/skills/framework-and-language/javascript/), [TypeScript](/web_development/skills/framework-and-language/typescript/) | Basics: [Persistance basics](/web_development/skills/persistence/basics/) |
 | 🗃️ [Phoenix](/web_development/skills/framework-and-language/elixir/)<br />Includes: Basics, Avanced, Mastery | Elixir is included in Framework & language document | Basics: [Persistance basics](/web_development/skills/persistence/basics/) |
 

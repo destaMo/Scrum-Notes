@@ -4,8 +4,6 @@ title = "Process and soft skills"
 
 {{%bubble %}}
 
-## Process and soft skills
-
 **Description:** You know how to keep good communication with your team. You can fit in well in the existing process.
 
 **Person who successfully completed requirement for given block can:**

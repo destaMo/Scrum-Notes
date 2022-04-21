@@ -4,8 +4,6 @@ title = "Wireframing and prototyping"
 
 {{%bubble %}}
 
-## Wireframing and prototyping
-
 **Points:** 1
 
 **Description:** You can use certain tools that allows presenting concepts to the customer in a quick and understandable manner, before starting actual development.

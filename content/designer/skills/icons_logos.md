@@ -4,8 +4,6 @@ title = "Icons & Logos [WIP]"
 
 {{%bubble %}}
 
-## Icons & Logos
-
 **Points:** 1
 
 **Description:** -

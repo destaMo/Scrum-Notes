@@ -4,8 +4,6 @@ title = "CICD"
 
 {{%bubble %}}
 
-## CICD
-
 **Required**
 
 **Description:** You can deliver CICD configuration for a typical project.

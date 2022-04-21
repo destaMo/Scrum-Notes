@@ -4,8 +4,6 @@ title = "Test automation"
 
 {{%bubble %}}
 
-## Test automation
-
 **Points:** 2
 
 **Description:** You understand the value of test automation and can cover critical paths with automated scripts.

@@ -4,8 +4,6 @@ title = "Docker"
 
 {{%bubble %}}
 
-## DOCKER
-
 **Required**
 
 **Description:** You can comfortably work with Docker.

@@ -4,8 +4,6 @@ title = "Accessibility [WIP]"
 
 {{%bubble %}}
 
-## Accessibility
-
 **Points:** 1
 
 **Description:** -

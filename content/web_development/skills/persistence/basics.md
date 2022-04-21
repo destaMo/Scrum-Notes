@@ -5,8 +5,6 @@ weight = 1
 
 {{%bubble %}}
 
-## Persistence Basics
-
 **Points:** n/a (prerequisite for Backend Framework & Language basics)
 
 **Description:** You can store & manipulate the data in one type of the database that is required to build an application with basic framework knowledge

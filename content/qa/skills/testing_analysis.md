@@ -4,8 +4,6 @@ title = "Testing analysis"
 
 {{%bubble %}}
 
-## Testing analysis
-
 **Points:** 2
 
 **Description:** You enhance manual testing with analysing risk, understanding implementation details and testing requirements.

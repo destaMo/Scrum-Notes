@@ -4,8 +4,6 @@ title = "API testing"
 
 {{%bubble %}}
 
-## API testing
-
 **Points:** 2
 
 **Description:** You can test API structure and therefore simulate situations that are not testable from the UI level

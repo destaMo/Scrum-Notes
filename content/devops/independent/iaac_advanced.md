@@ -4,8 +4,6 @@ title = "IaaC Advanced"
 
 {{%bubble %}}
 
-## IaaC Advanced
-
 **Required**
 
 **Description:** You understand the IaaC solutions used extensivly and follow the best practices.

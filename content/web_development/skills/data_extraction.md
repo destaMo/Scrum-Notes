@@ -4,8 +4,6 @@ title = "Data Extraction"
 
 {{%bubble %}}
 
-## Data Extraction
-
 **Points:** 2
 
 **Description:** You can identify the challenges that need to be tackled and demonstrate the experience in area of data extraction

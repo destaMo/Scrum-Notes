@@ -5,8 +5,6 @@ weight = 1
 
 {{%bubble %}}
 
-## Framework & Language Basics
-
 **Points:** 2
 
 **Description:** You can build simple Mobile App, that have basic functionalities and user experience. Utilize library responsible for common requirements that normal mobile app should meet.

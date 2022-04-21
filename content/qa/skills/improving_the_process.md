@@ -4,8 +4,6 @@ title = "Improving the process"
 
 {{%bubble %}}
 
-## Improving the process
-
 **Points:** 2
 
 **Description:** You can implement improvements in existing process on a project.

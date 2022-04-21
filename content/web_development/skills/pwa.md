@@ -4,8 +4,6 @@ title = "PWA"
 
 {{%bubble %}}
 
-## Progressive Web Applications
-
 **Points:** 1
 
 **Description:** You can utilize native browser APIs to build Progressive Web Application

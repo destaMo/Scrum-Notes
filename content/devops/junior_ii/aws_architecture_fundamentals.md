@@ -4,8 +4,6 @@ title = "AWS Architecture Fundamentals"
 
 {{%bubble %}}
 
-## AWS Architecture Fundamentals
-
 **Required**
 
 **Description:** You understand fundemental concepts regarding AWS architecture and structure.

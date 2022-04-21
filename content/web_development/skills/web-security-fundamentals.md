@@ -1,5 +1,5 @@
 +++
-title = "Web security fundamentals"
+title = "Fundamentals"
 +++
 
 {{%bubble %}}

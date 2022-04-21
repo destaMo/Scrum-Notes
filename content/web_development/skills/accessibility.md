@@ -4,8 +4,6 @@ title = "Accessibility"
 
 {{%bubble %}}
 
-## Accessibility
-
 **Points:** 1
 
 **Description:** You can identify the challenges that need to be tackled to make an application accessible

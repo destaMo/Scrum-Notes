@@ -5,8 +5,6 @@ weight = 1
 
 {{%bubble %}}
 
-## Framework & Language Basics
-
 **Points:** 2 
 
 **Description:** You can use basic features of the framework, that allows you to deliver the most common features.

@@ -4,8 +4,6 @@ title = "Video [WIP]"
 
 {{%bubble %}}
 
-## Video
-
 **Points:** 2
 
 **Description:** -

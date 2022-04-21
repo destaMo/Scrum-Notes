@@ -6,8 +6,6 @@ weight = 1
 
 {{%bubble %}}
 
-## Language
-
 **Description:** You can use features of TypeScript required for work with frameworks built on top of it.
 
 **Person who successfully completed a requirement for given block can:**

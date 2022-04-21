@@ -4,8 +4,6 @@ title = "Branding [WIP]"
 
 {{%bubble %}}
 
-## Branding
-
 **Points:** 2
 
 **Description:** -

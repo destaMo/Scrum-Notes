@@ -1,10 +1,8 @@
 +++
-title = "UX"
+title = "UX Design"
 +++
 
 {{%bubble %}}
-
-## UX design
 
 **Points:** 2
 

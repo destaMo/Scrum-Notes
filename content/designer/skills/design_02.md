@@ -4,8 +4,6 @@ title = "Design 2 (intermediate)"
 
 {{%bubble %}}
 
-## Design intermediate
-
 **Points:** 1
 
 **Description:** You know how to spot issues in the design and improve them.

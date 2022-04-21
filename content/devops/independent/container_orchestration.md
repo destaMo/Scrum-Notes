@@ -4,8 +4,6 @@ title = "Container orchestration"
 
 {{%bubble %}}
 
-## Container orchestration
-
 **Required**
 
 **Description:** You have good knowledge of ECS. You understand and follow Docker best practices and can improve existing Dockerfiles.

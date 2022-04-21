@@ -4,8 +4,6 @@ title = "Styling 1 (basics)"
 
 {{%bubble %}}
 
-## Styling basics
-
 **Description:** You understand the basic concepts of styling and know the theory to implement simple websites with best practices in mind.
 
 **Person who successfully completed requirements for given block can:**
