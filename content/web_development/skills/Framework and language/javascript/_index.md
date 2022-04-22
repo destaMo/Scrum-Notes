@@ -6,8 +6,6 @@ weight = 1
 
 {{%bubble %}}
 
-## Language's Basics
-
 **Description:** You can use the basic features of JavaScript required for work with frameworks built on top of it.
 
 **Person who successfully completed requirement for given block can:**

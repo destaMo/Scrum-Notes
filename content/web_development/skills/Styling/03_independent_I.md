@@ -4,8 +4,6 @@ title = "Styling 3 (advanced)"
 
 {{%bubble %}}
 
-## Styling advanced
-
 **Points:** 1
 
 **Description:** You understand and can use in practice the more advanced concepts of styling.

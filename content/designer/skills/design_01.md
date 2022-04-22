@@ -4,8 +4,6 @@ title = "Design 1 (basics)"
 
 {{%bubble %}}
 
-## Design basics
-
 **Description:** You understand basic concepts around web design
 
 **Person who successfully completed requirement for given block can:**

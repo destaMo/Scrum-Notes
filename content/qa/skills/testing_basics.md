@@ -4,8 +4,6 @@ title = "Testing basics"
 
 {{%bubble %}}
 
-## Testing basics
-
 **Description:** You know basic nomenclature and techniques described in ISTQB.
 
 **Person who successfully completed requirement for given block can:**

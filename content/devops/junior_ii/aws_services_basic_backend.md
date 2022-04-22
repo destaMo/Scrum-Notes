@@ -4,8 +4,6 @@ title = "AWS Services Basics - Backend"
 
 {{%bubble %}}
 
-## AWS Services Basics - Backend
-
 **Required**
 
 **Description:** You understand AWS services that allow you to create infrastructure for typical backend applications

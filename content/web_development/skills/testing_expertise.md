@@ -4,8 +4,6 @@ title = "Testing Expertise"
 
 {{%bubble %}}
 
-## Testing Expertise
-
 **Points:** 2
 
 **Description:** You can use testing automation tools in critical area of the system, to increase the overall stability of the solution in terms of business requirements.

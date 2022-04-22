@@ -4,8 +4,6 @@ title = "Planning"
 
 {{%bubble %}}
 
-## Planning
-
 **Points:** 2
 
 **Prerequisites:** Scrum Essentials

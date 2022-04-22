@@ -4,8 +4,6 @@ title = "Styling 4 (mastery)"
 
 {{%bubble %}}
 
-## Styling mastery
-
 **Points:** 1
 
 **Description:** You know that CSS is weird and you embrace it.

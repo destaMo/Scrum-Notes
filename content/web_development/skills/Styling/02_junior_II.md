@@ -4,8 +4,6 @@ title = "Styling 2 (intermediate)"
 
 {{%bubble %}}
 
-## Styling intermediate
-
 **Description:** You can implement basic websites with best practices in mind.
 
 **Person who successfully completed requirements for given block can:**

@@ -4,8 +4,6 @@ title = "Design 3 (advanced)"
 
 {{%bubble %}}
 
-## Design advanced
-
 **Points:** 1
 
 **Description:** You understand master concepts around web design

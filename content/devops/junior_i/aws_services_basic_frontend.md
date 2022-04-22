@@ -4,8 +4,6 @@ title = "AWS Services Basics - Frontend"
 
 {{%bubble %}}
 
-## AWS Services Basics - Frontend
-
 **Required**
 
 **Description:** You understand AWS services that allow you to deploy frontend applications.

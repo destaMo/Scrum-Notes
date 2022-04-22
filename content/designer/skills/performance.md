@@ -4,8 +4,6 @@ title = "Performance [WIP]"
 
 {{%bubble %}}
 
-## Performance
-
 **Points:** 1
 
 **Description:** -

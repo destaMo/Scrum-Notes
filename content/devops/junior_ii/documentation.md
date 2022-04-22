@@ -4,8 +4,6 @@ title = "Documentation"
 
 {{%bubble %}}
 
-## Documentation
-
 **Required**
 
 **Description:** You understand the importance of documentation and can prepare documentation for implemented solutions.

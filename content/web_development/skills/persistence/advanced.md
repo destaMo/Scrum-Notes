@@ -5,8 +5,6 @@ weight = 2
 
 {{%bubble %}}
 
-## Persistence Advanced
-
 **Points:** 2
 
 **Description:** You can get the most out of the relational database (PostgreSQL) and know when to pick different solution for the persistence layer

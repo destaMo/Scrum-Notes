@@ -6,8 +6,6 @@ weight = 1
 
 {{%bubble %}}
 
-## Framework's Basics
-
 **Points:** 2
 
 **Description:** You can use the basic features of NestJS to deliver common features.

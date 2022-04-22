@@ -4,8 +4,6 @@ title = "IaaC Fundamentals"
 
 {{%bubble %}}
 
-## IaaC Fundamentals
-
 **Required**
 
 **Description:** You understand what is IaaC and what benefits it gives. You can use it with minimal help in your day-to-day work.

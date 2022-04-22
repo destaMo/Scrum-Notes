@@ -4,8 +4,6 @@ title = "Styling 5 (on the edge) [WIP]"
 
 {{%bubble %}}
 
-## Styling on the edge
-
 **Points:** 1
 
 **Description:** You know the freshest and upcoming CSS features

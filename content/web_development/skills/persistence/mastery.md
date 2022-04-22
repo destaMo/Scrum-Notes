@@ -5,8 +5,6 @@ weight = 3
 
 {{%bubble %}}
 
-## Persistence Mastery
-
 **Points:** 2
 
 **Description:** TODO

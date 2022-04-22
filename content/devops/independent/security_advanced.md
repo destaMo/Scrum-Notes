@@ -4,8 +4,6 @@ title = "Security Advanced"
 
 {{%bubble %}}
 
-## Security Advanced
-
 **Required**
 
 **Description:** You can design systems and audit them according to the best security standards.

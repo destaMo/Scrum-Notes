@@ -4,8 +4,6 @@ title = "Compliance"
 
 {{%bubble %}}
 
-## Compliance
-
 **Points:** 1
 
 **Description:** You can evaluate the level of compliance of specific solution and prepare an action plan to make it compliant if needed.

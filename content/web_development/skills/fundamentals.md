@@ -4,8 +4,6 @@ title = "Fundamentals"
 
 {{%bubble %}}
 
-## Fundamentals
-
 **Description:** You understand basic concepts around web development
 
 **Person who successfully completed requirement for given block can:**

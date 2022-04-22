@@ -4,8 +4,6 @@ title = "Drawing [WIP]"
 
 {{%bubble %}}
 
-## Drawing
-
 **Points:** 2
 
 **Description:** -

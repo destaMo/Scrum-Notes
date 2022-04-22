@@ -5,8 +5,6 @@ weight = 3
 
 {{%bubble %}}
 
-## Framework & Language Mastery
-
 **Points:** 2 
 
 **Description:** You can demonstrate the complete knowledge of the specific framework. You can freely customize it and extend it if needed.

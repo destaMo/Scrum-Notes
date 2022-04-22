@@ -4,8 +4,6 @@ title = "DTP [TODO]"
 
 {{%bubble %}}
 
-## DTP
-
 **Points:** 1
 
 **Description:** -

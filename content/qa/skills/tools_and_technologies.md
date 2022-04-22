@@ -4,8 +4,6 @@ title = "Tools and technologies"
 
 {{%bubble %}}
 
-## Tools and technologies
-
 **Description:** You are familiar with tools and technologies helpful for testing software.
 
 **Person who successfully completed requirement for given block can:**

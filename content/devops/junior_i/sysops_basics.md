@@ -4,8 +4,6 @@ title = "SysOps basics"
 
 {{%bubble %}}
 
-## SysOps basics
-
 **Required**
 
 **Description:** You have basic working knowledge of general SysOps, Linux concepts. You can perform the most common tasks in those areas.

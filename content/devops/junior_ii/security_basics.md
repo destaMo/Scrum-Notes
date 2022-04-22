@@ -4,8 +4,6 @@ title = "Security basics"
 
 {{%bubble %}}
 
-## Security basics
-
 **Required:**
 
 **Description:** You understand the fundamental security good practices for cloud infrustructer and can work with most common tools with minimal supervision.

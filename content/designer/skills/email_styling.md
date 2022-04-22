@@ -4,8 +4,6 @@ title = "Styling emails [WIP]"
 
 {{%bubble %}}
 
-## Styling emails
-
 **Points:** 1
 
 **Description:** -

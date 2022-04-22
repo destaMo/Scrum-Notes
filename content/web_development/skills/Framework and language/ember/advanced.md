@@ -5,8 +5,6 @@ weight = 2
 
 {{%bubble %}}
 
-## Framework & Language Advanced
-
 **Points:** 2 
 
 **Description:** You can apply the best practices across the framework while delivering solution.

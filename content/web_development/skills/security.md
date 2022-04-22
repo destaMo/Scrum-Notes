@@ -4,8 +4,6 @@ title = "Security"
 
 {{%bubble %}}
 
-## Security
-
 **Points:** 1
 
 **Description:** You can explain the basic threats that every developer should keep in mind while developing a web application. You can apply all technics that prevent the most common security concerns.

@@ -4,8 +4,6 @@ title = "Interview"
 
 {{%bubble %}}
 
-## Interview
-
 **Points:** 2
 
 **Description:** You can present yourself as a competent person in a given area

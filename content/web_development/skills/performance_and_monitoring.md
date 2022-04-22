@@ -4,8 +4,6 @@ title = "Performance and monitoring"
 
 {{%bubble %}}
 
-## Performance and monitoring
-
 **Points:** 2
 
 **Description:** You can identify performance weak-spots and adress them, both in development phase via load test technics, as well as during the life-cycle of the application, via proper monitoring of the app.

@@ -4,8 +4,6 @@ title = "Scrum Essentials"
 
 {{%bubble %}}
 
-## Scrum Essentials
-
 **Points:** 1
 
 **Description:** ​​You can validate your depth of knowledge of the Scrum framework and its application. You can prove understanding of the Scrum Guide and how to work within Scrum Teams effectively. 
