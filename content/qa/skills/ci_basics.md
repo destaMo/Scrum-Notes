@@ -4,7 +4,7 @@ title = "CI basics"
 
 {{%bubble %}}
 
-## CI basics
+**Points:** 1
 
 **Description:** You can include your end-to-end tests in a CI pipeline which you can prepare by yourself
 
