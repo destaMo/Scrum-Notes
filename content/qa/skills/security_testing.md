@@ -10,13 +10,7 @@ title = "Security testing"
 
 **Person who successfully completed requirement for given block can:**
 
-- Describe what penetration testing is, planning, methods etc.
-- Describe what Cross-Site Scripting (XSS) is and perform tests
-- Describe what SQL Injection Testing is and send the values of the parameters to the server through the GET method 
-- Describe what Insecure Direct Object References is
-- Describe what Security Misconfiguration is and know how to prevent it
-- Describe what Missing Function Level Access Control is and know how to prevent it
-- Describe what Unvalidated Redirects and Forwards is and know how to prevent it
+- Identify the threats in the system and measure its potential vulnerabilities, so the threats can be encountered and the system does not stop functioning or can not be exploited. Also helps in detecting possible security risks in the system and helps developers to fix the problems during coding.
 
 {{% /bubble%}}
 
