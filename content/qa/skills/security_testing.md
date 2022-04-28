@@ -10,7 +10,9 @@ title = "Security testing"
 
 **Person who successfully completed requirement for given block can:**
 
-- Identify the threats in the system and measure its potential vulnerabilities, so the threats can be encountered and the system does not stop functioning or can not be exploited. Also helps in detecting possible security risks in the system and helps developers to fix the problems during coding.
+- Identify the threats in the system and measure its potential vulnerabilities.
+- Use various techniques to support testing process
+- Understands the need of security testing and based on the application's domain suggests proper tests
 
 {{% /bubble%}}
 
