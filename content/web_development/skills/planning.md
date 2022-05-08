@@ -51,6 +51,7 @@ In this step we care the most about understanding the big picture of our custome
 ## 📦 Business Roadmap
 
 ### 🎓 Learn
+
 - 📗 [Agile Epic vs Theme](https://agilemarketing.net/epic-vs-theme-2/)
 - 📗 [104 Questions for Product Development Teams](https://medium.com/@johnpcutler/104-questions-for-product-development-teams-5bc2dbae690e) (Paragraphs **Goal and Vision** and **Problem**)
 
@@ -60,6 +61,7 @@ In this step we care the most about understanding the big picture of our custome
 - How can you use your business domain knowledge for the customer?
 - What benefits does understanding customer's business side give you?
 - What do you need to know to start working with next feature?
+
 ---
 
 ## Preparing Epics
@@ -151,7 +153,6 @@ In this step we already have Stories that represent user flows and shippable par
 - 📗 [Estimates vs Deadlines](https://medium.com/23-minutes/estimates-vs-deadlines-efe2e6e342b4)
 - 📗 [How to set realistic expectations with a new client](https://nusii.com/blog/how-to-set-realistic-expectations-with-a-new-client/)
 
-
 ### 🎤 Interview
 
 - How do you Estimate the effort on your project?
@@ -162,13 +163,14 @@ In this step we already have Stories that represent user flows and shippable par
 - How do you communicate upfront about a Deadline that can't be met?
 
 ## 📦 Assigning the Tasks and Backlog Commitment
- 
+
 ### 🎓 Learn
+
 - 📗 [Sign Up For Tasks](https://www.agilealliance.org/glossary/sign-up-for-tasks/)
-- 📗 [Pitfall of Scrum: Assigning tasks](https://www.agileadvice.com/2015/07/22/referenceinformation/pitfall-of-scrum-assigning-tasks/)
- 
+- 📗 [Pitfall of Scrum: Assigning tasks](https://berteig.com/how-to-apply-agile/pitfall-of-scrum-assigning-tasks/)
+
 ### 🎤 Interview
- 
+
 - How do people in your team assign which Tasks will be on their plate?
 - What is the ideal approach for assigning Tasks by the book?
 - How do you communicate that the Task was assigned, so that other team members are aware?
@@ -183,7 +185,6 @@ In this step we already have Stories that represent user flows and shippable par
 ### 🎓 Learn
 
 - 📗 [12 Best Scrum Tools for Project Management in 2022](https://geekbot.com/blog/scrum-tools/)
-
 
 ### 🎤 Interview
 
