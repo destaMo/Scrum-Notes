@@ -15,6 +15,9 @@ title = "Testing Expertise"
 - propose a proper testing strategy for a given project
 - automate the testing process via CI tools
 
+**Prerequisites:**
+- [Framework & Language - Advanced](/web_development/skills/framework-and-language/)
+
 {{% /bubble%}}
 
 ## Areas
@@ -23,7 +26,7 @@ title = "Testing Expertise"
 
 - Deep general knowledge about testing
 - Contract testing
-- E2E
+- E2E testing
 - Tests preparation and setup (including CI)
 
 **Tooling**
@@ -37,7 +40,7 @@ title = "Testing Expertise"
 
 ### 🎤 Interview
 
-- Explain extensively all the "what's" and "why's" in automated testing to a junior developer. (5-10mins of discussion)
+- Explain extensively all the "what's", "why's" and "how's" in automated testing to a junior developer. (5-10 mins of discussion)
 
 ## 📦 API Contract testing
 
@@ -51,11 +54,10 @@ title = "Testing Expertise"
 
 ### 🎤 Interview
 
-- What problems does contract testing solves?
+- What problems does contract testing solve?
 - When would you suggest using contract testing?
-- Describe consumer driven contract testing and compare it with regular contract testing.
+- Describe consumer driven contract testing and compare it to regular contract testing.
 - What are the ways of automating contract testing?
-- What are chellanges with testing versioned API in contract tests?
 
 ### 📝 Katas
 
@@ -72,7 +74,7 @@ title = "Testing Expertise"
 
 ### 🎤 Interview
 
-- List some cases which you dont want to test in E2E
+- List some cases in which you don't want to test using E2E tests
 - How would you ensure the same database state before every test run?
 - Why and in which cases you would want to use mocked data in E2E tests?
 - Name several cases where you would want to intercept requests/responses
@@ -83,7 +85,7 @@ title = "Testing Expertise"
 
 - Write E2E test dealing with authorization programmatically (without using UI)
 - Cover a non trivial form (multiple inputs, validation, interdependent inputs) with e2e tests
-- Cover a funtionality in app (may be your project) using real data with e2e tests
+- Cover a functionality in app (may be your project) using real data with e2e tests
 
 ## 📦 Tooling / Test mutators and coverage
 
