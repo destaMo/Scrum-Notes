@@ -7,6 +7,7 @@ title = "Quality assurance"
 
 ## Junior
 - 📗 [Fundamentals](/qa/skills/fundamentals/)
+- 📗 [Interview](/web_development/skills/interview/)
 
 ## Independent-Mid
 - 📗 2️⃣ [Testing analysis](/qa/skills/testing_analysis/)
