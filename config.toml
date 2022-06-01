@@ -13,3 +13,10 @@ home = [ "HTML", "RSS", "JSON"]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[params]
+mixpanelAnalytics = "a0df8fa206376dd1e778ad1a22c01bd8"
+piwikAnalyticsSubdomain = "selleo"
+piwikAnalyticsSiteID = "54f792af-f497-4dae-9f06-7b91b8f543ac"
+woopraAnalyticsDomain = "selleo.com"
+
