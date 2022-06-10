@@ -87,6 +87,7 @@ title = "Fundamentals"
 ### 🎓 Learn
 
 - 📗 [Git - getting started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- 📗 [Git - initial setup](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 - 📗 [GitHub - generate a new SSH hey and add it to ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - 📗 [Git - basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 - 📗 [Git - writing good commit message](https://juffalow.com/blog/git/write-good-git-commit-message/) 
@@ -97,6 +98,7 @@ title = "Fundamentals"
 
 ### 📝 Katas
 
+- Setup git on your local machine
 - Clone one of your repositories (could be a test or forked repo)
 - Create a new branch from another branch
 - Switch between branches
