@@ -63,6 +63,7 @@ title = "Accessibility [WIP]"
 - http://web-accessibility.carnegiemuseums.org/code/svg/
 - https://web.dev/labels-and-text-alternatives/#include-text-alternatives-for-images-and-objects
 - https://tympanus.net/codrops/2021/10/06/how-to-implement-and-style-the-dialog-element/
+- https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/
 
 - https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/
 
@@ -76,6 +77,10 @@ title = "Accessibility [WIP]"
 - https://12daysofweb.dev/2021/form-autocomplete/
 - https://www.deque.com/blog/aria-spec-for-the-uninitiated-part-1/
 - https://www.adrianbolonio.com/en/accessibility-github-actions/
+- https://web.dev/building-a-loading-bar-component/
+
+- https://polypane.app/blog/forced-colors-explained-a-practical-guide
+- https://kittygiraudel.com/2021/02/17/hiding-content-responsibly/
 
 ### 🎤 Interview
 

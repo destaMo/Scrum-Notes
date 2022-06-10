@@ -26,6 +26,7 @@ title = "Styling emails [WIP]"
 
 ### 🎓 Learn
 
+* 📗 [What Works in 2022?](https://designmodo.com/html-css-emails/)
 * 📗 [Email support tables](https://www.campaignmonitor.com/css/)
 * 📗 [Email testing](https://www.emailonacid.com/)
 * 📗 [WIP doc on email styling best practices](https://docs.google.com/document/d/1s6DcsUJl57ugbjPqd9ff-GAYBNpYNAhhP1PFfGBSSiw/edit#)

@@ -87,7 +87,7 @@ title = "Design 1 (basics)"
 
 ### 🎓 Learn
 - 📗 [Color psychology](https://medium.com/@onepixelout/the-psychology-of-colour-286862ac80e6)
-- 📗 [Color psychology infographics](https://www.dailyinfographic.com/wp-content/uploads/2012/09/psychology-of-color.png)
+- 📗 [Color psychology infographics](https://premiumcoding.com/wp-content/uploads/2017/05/colour_final.jpg)
 - 📗 [Choosing colors for your project](https://gapsystudio.medium.com/how-to-choose-the-correct-ui-design-colors-for-your-product-to-reinforce-your-business-5a435d3aa115)
 
 ### 🎤 Interview

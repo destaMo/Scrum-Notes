@@ -42,9 +42,11 @@ title = "Styling 4 (mastery)"
 - 📗 [Knockup text](https://css-tricks.com/css-techniques-and-effects-for-knockout-text/)
 - 📗 [Scrollbars](https://www.filamentgroup.com/lab/scrollbars/)
 - 📗 [Advanced borders](https://css-tricks.com/css-borders-using-masks/)
+- 📗 [Using masks (to fake svg coloring in this case)](https://codepen.io/chriscoyier/pen/bJXRwq)
 - 📗 [Datalist](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
 - 📗 [Filters](https://css-tricks.com/almanac/properties/f/filter/)
 - 📗 [Blend modes](https://web.dev/learn/css/blend-modes/)
+- 📗 [Masks and clip paths](https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/)
 - 📗 [SASS parent selector tricks](https://selleo.com/til/posts/a7wesnz6to-sass-bem-not-til-but-still-some-interesting-magic)
 - 📗 [Intrinsic sizing](https://ishadeed.com/article/intrinsic-sizing-in-css/)
 
@@ -64,6 +66,7 @@ title = "Styling 4 (mastery)"
 ## 📦 Stacking context
 
 ### 🎓 Learn
+- 📗 [Layout algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 - 📗 [So-called "position: relative" for fixed elements](https://dev.to/salilnaik/the-uncanny-relationship-between-position-fixed-and-transform-property-32f6)
 - 📗 [In depth z-index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 - 📗 [More in depth z-index](https://www.joshwcomeau.com/css/stacking-contexts)

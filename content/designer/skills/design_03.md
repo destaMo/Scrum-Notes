@@ -41,6 +41,7 @@ title = "Design 3 (advanced)"
 - 📙 [Spacer tokens](https://uxdesign.cc/how-to-manage-space-in-figma-using-tokens-8d0ebd99ee1b)
   You could consider this as an alternate approach to auto-layouting everything. While it does solve some problems, like no random spacing I think it's much easier to just use auto layout. 
 - 📙 [Pushing Figma to its limits](https://www.figma.com/file/p0sOoXeWB1fRqvww2hbRSO/Pushing-Figma-to-its-limits-(Community)?node-id=0%3A1)
+- 📙 [RTL in Figma](https://help.figma.com/hc/en-us/articles/4972283635863)
 - 📙 [Additional plugins you may find helpful](https://medium.com/@FlowMapp/20-figma-plugins-carefully-selected-by-experienced-designers-76c77fa946f9)
 
 ### 📝 Katas
@@ -58,6 +59,7 @@ title = "Design 3 (advanced)"
 - 📗 [Interactive states](https://pencilandpaper.io/articles/ux-pattern-analysis-interactive-states/)
 - 📗 [Enterprise filtering](https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-filtering/)
 - 📗 [Data dashboards](https://pencilandpaper.io/articles/ux-pattern-analysis-data-dashboards/)
+- 📗 [Navigation](https://pencilandpaper.io/articles/ux-pattern-analysis-navigation/)
 
 ### 🎤 Interview
 - how to align content in columns?
@@ -94,10 +96,14 @@ title = "Design 3 (advanced)"
 ## 📦 Typography advanced
 
 ### 🎓 Learn
-* 📗 [How to choose type](https://www.freecodecamp.org/news/typography-can-make-your-design-or-break-it-7be710aadcfe/)
-* 📗 [Vertical rhythm](https://zellwk.com/blog/why-vertical-rhythms/)
-* 📗 [Typography mistakes](https://dribbble.com/stories/2019/08/14/5-sneaky-typography-errors-to-avoid)
+* 📗 [Vertical rhythm 1](https://zellwk.com/blog/why-vertical-rhythms/)
+* 📗 [Vertical rhythm 2](http://typecast.com/blog/4-simple-steps-to-vertical-rhythm)
+* 📗 [Baseline Grid](http://alistapart.com/article/settingtypeontheweb/)
 * 📗 [kerning/tracking](https://iamsteve.me/blog/how-to-use-kerning-tracking)
+* 📗 [How to choose type](https://www.freecodecamp.org/news/typography-can-make-your-design-or-break-it-7be710aadcfe/)
+* 📗 [Font Matrix](https://pimpmytype.com/font-matrix/)
+* 📗 [Combining fonts](https://medium.com/better-web-type/a-guide-to-combining-fonts-d82a27451f9e6)
+* 📗 [Typography mistakes](https://dribbble.com/stories/2019/08/14/5-sneaky-typography-errors-to-avoid)
 * 📗 [Guide to combining fonts](https://betterwebtype.com/articles/2018/08/15/guide-to-combining-fonts/)
 * 📗 [Pairing examples](https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/)
 * 📗 [Font matching game](http://www.typeconnection.com/)

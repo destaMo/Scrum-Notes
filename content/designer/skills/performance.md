@@ -25,6 +25,11 @@ title = "Performance [WIP]"
 ## 📦 Performance
 
 ### 🎓 Learn
+##### Tools
+- 📗 [Lighthouse guide](https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/)
+- 📗 [Lighthouse animation performance](https://calibreapp.com/blog/investigate-animation-performance-with-devtools/)
+- 📗 [Making the world’s fastest website, and other mistakes](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
+
 ##### HTML
 - 📗 [Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 - 📗 [Contain](https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/)
@@ -37,8 +42,7 @@ title = "Performance [WIP]"
 - 📗 [CSS performance](https://calibreapp.com/blog/css-performance)
 - 📗 [Picture element](https://www.stefanjudis.com/snippets/a-picture-element-to-load-correctly-resized-webp-images-in-html/)
 - 📗 [Contain](https://medium.com/@johan.isaksson/how-i-made-googles-data-grid-scroll-10x-faster-with-one-line-of-css-78cb1e8d9cb1)
--  https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/
-- https://calibreapp.com/blog/investigate-animation-performance-with-devtools/
+- 📗 [Using image-set for multiple backgrounds](https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/)
 
 ##### Images
 - 📗 [First part (on images)](https://www.youtube.com/watch?v=AdQwdBAOOKE)

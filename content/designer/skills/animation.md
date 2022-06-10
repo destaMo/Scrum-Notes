@@ -27,6 +27,11 @@ title = "Animation [WIP]"
 
 ---
 
+## 📦 Figma
+
+- 📗 [Advanced animations for Web pt. 1](https://bootcamp.uxdesign.cc/figma-advanced-animations-for-web-8d98f2d04ec3)
+- 📗 [Advanced animations for Web pt. 2](https://bootcamp.uxdesign.cc/figma-advanced-animations-for-web-4c31864f28ec)
+
 ## 📦 Design
 
 ### 🎓 Learn
@@ -38,6 +43,7 @@ title = "Animation [WIP]"
 - 📗 [SVG morph](https://medium.com/@andrea_codes/exploring-svg-morph-29bdb4016756)
 - 📗 [In depth SVG](https://css-tricks.com/lodge/svg/)
 - 📗 [Clipping](https://css-tricks.com/clipping-clipping-and-more-clipping/)
+- 📗 [Clipping and animation](https://www.cassie.codes/posts/swipey-image-grids/)
 - animowanie svg (po sciezce, rysowanie)
 - animowane prototypy
 

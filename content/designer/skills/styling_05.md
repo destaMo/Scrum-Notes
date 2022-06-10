@@ -23,12 +23,12 @@ title = "Styling 5 (on the edge) [WIP]"
 ## 📦 New properties
 
 ### 🎓 Learn
+- 📗 [Modern CSS toolkit - new features in a nutshell](https://codepen.io/5t3ph/pen/LYzvrGv)
 - 📗 [Smooth scrolling](https://css-tricks.com/almanac/properties/s/scroll-behavior/)
 - 📗 [Shape outside](https://css-tricks.com/almanac/properties/s/shape-outside/)
 - 📗 [New CSS features](https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/)
 - 📗 [Aspect ratio](https://web.dev/aspect-ratio/)
 - 📗 [Cool flex: 0.5 example](https://codepen.io/miriamsuzanne/pen/eYdJvWE)
-- 📗 [Modern CSS toolkit](https://codepen.io/5t3ph/pen/LYzvrGv)
 - 📗 [Contain (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/contain)
 - 📗 [Contain (css-tricks)](https://css-tricks.com/almanac/properties/c/contain/)
 - 📗 [Custom properties](https://12daysofweb.dev/2021/css-custom-properties/)
@@ -39,7 +39,12 @@ title = "Styling 5 (on the edge) [WIP]"
 - 📗 [Cascade layers](https://ishadeed.com/article/cascade-layers/)
 - 📗 [Accent color](https://css-tricks.com/almanac/properties/a/accent-color/)
 - 📗 [Reducing The Need For Pseudo-Elements](https://www.smashingmagazine.com/2021/09/reducing-need-pseudo-elements/)
-- 📗 [Dialog element](https://www.stefanjudis.com/blog/a-look-at-the-dialog-elements-super-powers/)  
+- 📗 [Dialog component](https://web.dev/building-a-dialog-component/)  
+- 📗 [Box decoration break](https://css-tricks.com/almanac/properties/b/box-decoration-break/)  
+- 📗 [Building a dialog component](https://web.dev/building-a-dialog-component/)
+- 📗 [Parent selector 1](https://matthiasott.com/notes/css-has-a-parent-selector-now)
+- 📗 [Parent selector 2](https://ishadeed.com/article/css-has-parent-selector/)
+- 📗 [Overscroll behavior](https://css-tricks.com/almanac/properties/o/overscroll-behavior/)
 
 #### Concepts
 - 📗 [Tracking changes](https://cssdb.org/)
