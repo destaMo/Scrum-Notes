@@ -157,7 +157,7 @@ On your project, add:
     * Browser WebP, quality 0.9 [more on that](https://selleo.com/til/posts/9kdnziefk3-great-case-for-webp-format)
 * 📗 [What is lighthouse and how to run it (skip the video)](https://developers.google.com/web/tools/lighthouse)
 * 📗 [How the scoring works](https://web.dev/performance-scoring/)
-* 📗 [Eliminating render-blocking resources](https://www.digitalocean.com/community/tutorials/html-defer-async)
+* 📗 [Load CSS asynchronously](https://css-tricks.com/the-simplest-way-to-load-css-asynchronously/)
 * 📗 [Deferring offscreen images](https://css-tricks.com/native-lazy-loading/)
 * 📗 [Preloading key requests](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content)
 * 📗 [Image optimizations](https://www.industrialempathy.com/posts/image-optimizations/)

@@ -43,6 +43,7 @@ title = "Performance [WIP]"
 - 📗 [Picture element](https://www.stefanjudis.com/snippets/a-picture-element-to-load-correctly-resized-webp-images-in-html/)
 - 📗 [Contain](https://medium.com/@johan.isaksson/how-i-made-googles-data-grid-scroll-10x-faster-with-one-line-of-css-78cb1e8d9cb1)
 - 📗 [Using image-set for multiple backgrounds](https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/)
+- 📙 [Eliminating render-blocking resources](https://www.digitalocean.com/community/tutorials/html-defer-async)
 
 ##### Images
 - 📗 [First part (on images)](https://www.youtube.com/watch?v=AdQwdBAOOKE)
