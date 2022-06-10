@@ -6,10 +6,12 @@ title = "Quality assurance"
 1️⃣ - 1 point, 2️⃣ - 2 points
 
 ## Junior
+
 - 📗 [Fundamentals](/qa/skills/fundamentals/)
 - 📗 [Interview](/web_development/skills/interview/)
 
 ## Independent-Mid
+
 - 📗 2️⃣ [Testing analysis](/qa/skills/testing_analysis/)
 - 📙 2️⃣ [Improving the process](/qa/skills/improving_the_process/)
 - 📙 2️⃣ [Test automation](/qa/skills/test_automation/)
