@@ -79,7 +79,7 @@ Know your environment (operating system, terminal, basic command lines, running 
 
 ### 📝 Katas
 
-- Go through [Linux Junior 1 requirements](../../common/linux/)
+- Go through [Linux Junior 1 requirements](/common/linux/#junior-i)
 - Do you have any plans to improve your productivity? Show me a 3 months plan with steps you would like to implement
 
 ---
