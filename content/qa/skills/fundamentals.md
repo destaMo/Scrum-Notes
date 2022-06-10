@@ -59,6 +59,7 @@ title = "Fundamentals"
 ### 🎓 Learn
 
 - 📗 [what to do with a bug found](https://spin.atomicobject.com/2015/03/20/rimgea-testing-mnemonic/)
+- 📗 [setting up QA on a project](https://github.com/Selleo/selleo_best_practices/blob/master/quality_assurance/qa_setup_on_project.md)
 - 📗 [maintaining a good dev-QA communication](https://blog.qasource.com/6-steps-to-improve-communication-between-qa-and-developers) ([and some more](https://www.accusoft.com/resources/blog/qas-guide-effective-communication-development/))
 - 📗 [overcoming common obstacles](https://www.softwaretestinghelp.com/challenges-testers-face-at-workplace/)
 - 📗 [reporting bugs](https://sifterapp.com/blog/2012/08/tips-for-effectively-reporting-bugs-and-issues/)
@@ -71,6 +72,7 @@ title = "Fundamentals"
 
 - What are some good practices in keeping good relations with developers?
 - What specifies a valuable feedback?
+- What are some examples of actions to do while onboarding a QA engineer on a project? Why is it worth to keep those things written on a checklist?
 - What phases of a sprint can a QA participate in and how?
 - What are pros of managing a project in Agile?
 - What are some exmaples of obstacles/challenges you might come across on a project?

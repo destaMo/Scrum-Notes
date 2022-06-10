@@ -18,5 +18,7 @@ title = "Quality assurance"
 - 📙 1️⃣ [CI basics](/qa/skills/ci_basics/)
 - [Performance testing](/qa/skills/performance_testing/)
 - [Documentation testing](/qa/skills/documentation_testing/)
+- Quality metrics
+- Accessibility testing
 
 ---
