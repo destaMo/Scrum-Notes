@@ -233,6 +233,7 @@ After this section you will know how to test async code.
 - 📗 [Jest ES6 Mock](https://jestjs.io/docs/es6-class-mocks)
 - 📗 [TDD with React Testing Library](https://typeofweb.com/tdd-react-testing-library/)
 - 📗 [When to use TDD](https://kentcdodds.com/blog/when-i-follow-tdd)
+- 📗 [MockDate](https://github.com/boblauer/MockDate)
 - 📙 [use React Devtools in Cypress tests](https://selleo.com/til/posts/rvajzbhbww-loading-react-redux-dev-tools-in-cypress)
 
 ### 🎤 Interview
@@ -247,6 +248,11 @@ After this section you will know how to test async code.
 - When to use TDD?
 - Develop a few components or the whole app using TDD (should be verifiable by commit history)
 - Mock imported library using Jest ES6 Mocks
+- Create test for code dependent on time
+  - displaying datetime
+
+  or
+  - logic using datetime
 
 ---
 

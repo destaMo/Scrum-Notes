@@ -267,9 +267,7 @@ After this section you will know how to test React application
 - 📙 [Testing React presentation slides](https://docs.google.com/presentation/d/1L2JJ64hksvaU8Zi1omqs4IUiw5TPj3kgAq4_D9bxpRE/edit#slide=id.g96256219f6_0_4)
 - 📙 [Testing React presentation recording](https://drive.google.com/file/d/1pNB8yqBDuFk0EaqqdDdpuKSPQrHbv-VD/view?usp=sharing)
 - 📗 [Jest timer mocks](https://jestjs.io/docs/en/timer-mocks)
-- 📗 [MockDate](https://github.com/boblauer/MockDate)
 - 📗 [Axios mock adapter](https://www.npmjs.com/package/axios-mock-adapter)
-- 📗 [Factory girl](https://github.com/aexmachina/factory-girl)
 
 ### 🎤 Interview
 
@@ -277,16 +275,12 @@ After this section you will know how to test React application
 - When to use integration and when unit tests?
 - Does it make sense to add tests for every single component?
 - What is the use-case for axios-mock-adapter library
-- What is the use-case for factory-girl library
 
 ### 📝 Katas
 
 - Create tests for a few components using the user perspective
 - Create test for code making backend requests
   - delay the mocked responses for 1,5s
-  - create the response data using factory girl library
-- Create test for code dependent on time
-  - displaying datetime or for logic using datetime
 - Create test for code dependent on the passing of time
   - timeouts or intervals
 - Wait for element to appear/disappear asynchronously
@@ -301,7 +295,8 @@ After this section you will know what is Server State and what challenges it pre
 
 - 📗 [Server state challenges](https://redux-toolkit.js.org/rtk-query/overview#motivation)
 - 📗 [Server vs Client state presentation slides (slides 5 to 9)](https://docs.google.com/presentation/d/1Cohzlon3ZDFdKYSQ0_P0x9STEgSDMxQgK8ylVsZ6UpY/edit?usp=sharing)
-- 📗 [TODO Server vs Client state presentation recording]()
+
+[comment]: <> (- 📗 [TODO Server vs Client state presentation recording]&#40;&#41;)
 
 ### 🎤 Interview
 
@@ -376,7 +371,8 @@ After this section you will know what is Client State and Global Client State.
 
 - 📗 [8 ways to handle Client State](https://twitter.com/housecor/status/1437765667906854915?lang=en)
 - 📗 [Server vs Client state presentation (slides 5 to 9)](https://docs.google.com/presentation/d/1Cohzlon3ZDFdKYSQ0_P0x9STEgSDMxQgK8ylVsZ6UpY/edit#slide=id.gebf84830b7_0_0)
-- 📗 [TODO Server vs Client state presentation (recording)]()
+
+[comment]: <> (- 📗 [TODO Server vs Client state presentation &#40;recording&#41;]&#40;&#41;)
 
 ### 🎤 Interview
 
