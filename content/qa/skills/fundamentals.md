@@ -40,7 +40,8 @@ title = "Fundamentals"
 - 📗 [functional and non-functional tests](https://softwaretestingfundamentals.com/functional-testing-vs-non-functional-testing/)
 - 📗 [black-box and white-box tests](https://softwaretestingfundamentals.com/black-box-testing-vs-white-box-testing/)
 - 📗 [EP and BVA](https://www.guru99.com/equivalence-partitioning-boundary-value-analysis.html)
-- (more testing techniques - articles)
+- 📗 [testing challenges](http://testingchallenges.thetestingmap.org/)
+
 
 ### 🎤  Interview
 
@@ -53,6 +54,7 @@ title = "Fundamentals"
 
 ### 📝 Katas
 - Use EP and BVA techniques on a given exmaple
+- Complete [testing challenges](http://testingchallenges.thetestingmap.org/)
 
 ## 📦 Process and soft skills
 
@@ -95,6 +97,7 @@ title = "Fundamentals"
 - 📗 [Git - Github](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
 - 📗 [Git - fetch, pull, push](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
 - 📗 [Git - stash, stash apply](https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning)
+- 📗 [zsh - setup and tips](https://www.sitepoint.com/zsh-tips-tricks/)
 
 ### 📝 Katas
 
@@ -105,6 +108,7 @@ title = "Fundamentals"
 - Pull the changes
 - Add file, create commit, push the changes and create a pull request
 - Stash the changes
+- Show me how you use zsh (use history, autosuggestion, aliases)
 
 ## 📦 Tools and technologies / Chrome
 
