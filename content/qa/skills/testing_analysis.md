@@ -21,7 +21,7 @@ title = "Testing analysis"
 ### **🎓 Learn**
 
 - 📗 [risk-based testing](https://www.stickyminds.com/article/risk-based-testing-test-only-what-matters-0)
-- 📗 [bug severity vs bug priority](https://www.browserstack.com/guide/bug-severity-vs-priority)
+- 📗 [bug severity vs bug priority](https://www.browserstack.com/guide/bug-severity-vs-priority) ([and some examples](http://tryqa.com/what-is-the-difference-between-severity-and-priority/))
 - 📗 [testing business requirements](https://techbeacon.com/app-dev-testing/5-key-attributes-requirements-testing-know-you-code) ([and some more](https://djangostars.com/blog/testing-qa-requirements/))
 - 📗 [Pareto principle](https://qarea.com/blog/understanding-pareto-principle-use-software-development)
 - 📗 [QA approach video](https://www.youtube.com/watch?v=JYk6p5it6dk&feature=emb_title&ab_channel=SelleoSoftwareOutsourcing)
