@@ -61,6 +61,7 @@ After this section you will know what is React and what it's used for.
 - 📗 [Unidirectional data flow](https://medium.com/@lizdenhup/understanding-unidirectional-data-flow-in-react-3e3524c09d8e)
 - 📗 [Create React App](https://github.com/facebook/create-react-app)
 - 📗 [How to organize application](https://engineering.udacity.com/react-folder-structure-for-enterprise-level-applications-f8384eff162b)
+- 📗 [Eslint & Prettier](https://github.com/alan2207/bulletproof-react/blob/master/docs/project-configuration.md)
 
 ### 🎤 Interview
 
@@ -70,11 +71,19 @@ After this section you will know what is React and what it's used for.
   - Using Virtual DOM
   - Using declarative paradigm 
   - Unidirectional data flow
+- What is Eslint and Prettier?
+  - how they help the development process
 
 ### 📝 Katas
 
 - Setup application using CRA
-- Organize project files according to suggested pattern.
+- Add Prettier and Eslint to the application tooling
+  - show how to configure them
+  - integrate eslint & prettier with your IDE so that
+    - the autofixes are applied on file save
+    - you can use shortcut to autofix a file
+  - what to do if their rules contradict each other
+- Organize project files according to suggested pattern
 
 ---
 
