@@ -43,9 +43,9 @@ title = "Documentation testing"
 - What the bug report should look like?
 
 ### **📝 Katas**
-Prepare test plan using templates (the plan can be based on the project you are working on)
-Set up Mintlify and integrate with Github
-Prepare a test report using templates listed below
+- Prepare test plan using templates (the plan can be based on the project you are working on)
+- Set up Mintlify and integrate with Github
+- Prepare a test report using templates listed below
 
 ## 📦 Testing product documentation
 
@@ -68,8 +68,8 @@ Prepare a test report using templates listed below
 - How to solve the common documentation problem of outdated content (i.e. how to schedule updates)?
 
 ### **📝 Katas**
-Prepare example of user documentation
-Show where you keep your documentation
+- Prepare example of user documentation
+- Show where you keep your documentation
 
 ### **📦 Useful Tools**
 - 📗 [Mintlify](https://www.mintlify.com/)
