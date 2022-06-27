@@ -16,7 +16,7 @@ title = "Quality assurance"
 - 📙 2️⃣ [API testing](/qa/skills/api_testing/)
 - 📙 2️⃣ [Security testing](/qa/skills/security_testing/)
 - 📙 1️⃣ [CI basics](/qa/skills/ci_basics/)
+- 📙 2️⃣ [Documentation testing](/qa/skills/documentation_testing/)
 - [Performance testing](/qa/skills/performance_testing/)
-- [Documentation testing](/qa/skills/documentation_testing/)
 
 ---
