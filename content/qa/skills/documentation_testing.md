@@ -14,7 +14,6 @@ title = "Documentation testing"
 - Prepare test plan
 
 
-
 {{% /bubble%}}
 
 ## 📦 Test documentation
@@ -44,9 +43,9 @@ title = "Documentation testing"
 - What the bug report should look like?
 
 ### **📝 Katas**
-Prepare test plan
-Set up documentation tool and integrate with Github (for example Mintlify)
-Create example test data and upload to cloud
+Prepare test plan using templates (the plan can be based on the project you are working on)
+Set up Mintlify and integrate with Github
+Prepare a test report using templates listed below
 
 ## 📦 Testing product documentation
 
@@ -64,13 +63,16 @@ Create example test data and upload to cloud
 - What are the benefits of quality product documentation?
 - What’s the difference between user documentation and technical documentation?
 - What are the benefits of process documentation?
+- What are best practices when creating product documentation?
+- How to create/maintain documentation to make it useful (i.e. how to match form to audience)?
+- How to solve the common documentation problem of outdated content (i.e. how to schedule updates)?
 
 ### **📝 Katas**
 Prepare example of user documentation
 Show where you keep your documentation
 
 ### **📦 Useful Tools**
-- 📙 [Mintlify](https://www.mintlify.com/)
+- 📗 [Mintlify](https://www.mintlify.com/)
 - 📙 [Notion](https://www.notion.so/)
 - 📙 [Templates](https://geteasyqa.com/qa/best-test-plan-template/)
 - 📙 [Templates to download](https://strongqa.com/qa-portal/testing-docs-templates/test-report)
