@@ -47,7 +47,7 @@ You can find All books that are available for you [here](https://connect.zoho.eu
 ### Testing
 
 - [rspec](https://github.com/rspec/rspec-rails)
-- [facoty bot](https://github.com/thoughtbot/factory_bot)
+- [factory bot](https://github.com/thoughtbot/factory_bot)
 - [faker](https://github.com/faker-ruby/faker)
 - [webmock](https://github.com/bblimke/webmock)
 - [stub env](https://github.com/ljkbennett/stub_env)
