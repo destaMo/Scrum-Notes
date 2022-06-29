@@ -40,6 +40,8 @@ title = "Fundamentals"
 - 📗 [functional and non-functional tests](https://softwaretestingfundamentals.com/functional-testing-vs-non-functional-testing/)
 - 📗 [black-box and white-box tests](https://softwaretestingfundamentals.com/black-box-testing-vs-white-box-testing/)
 - 📗 [EP and BVA](https://www.guru99.com/equivalence-partitioning-boundary-value-analysis.html)
+- 📗 [testing challenges](http://testingchallenges.thetestingmap.org/)
+
 
 ### 🎤  Interview
 
@@ -50,17 +52,21 @@ title = "Fundamentals"
 - What is the difference between black-box and white-box tests?
 - What are equivalence partitioning and boundary value analysis techniques? How to use them in testing?
 
+### 📝 Katas
+- Use EP and BVA techniques on a given exmaple
+- Complete [testing challenges](http://testingchallenges.thetestingmap.org/)
+
 ## 📦 Process and soft skills
 
 ### 🎓 Learn
 
 - 📗 [what to do with a bug found](https://spin.atomicobject.com/2015/03/20/rimgea-testing-mnemonic/)
+- 📗 [setting up QA on a project](https://github.com/Selleo/selleo_best_practices/blob/master/quality_assurance/qa_setup_on_project.md)
 - 📗 [maintaining a good dev-QA communication](https://blog.qasource.com/6-steps-to-improve-communication-between-qa-and-developers) ([and some more](https://www.accusoft.com/resources/blog/qas-guide-effective-communication-development/))
-- 📗 [maintaining a qood guality](https://www.stickyminds.com/article/let-s-focus-more-quality-and-less-testing)
 - 📗 [overcoming common obstacles](https://www.softwaretestinghelp.com/challenges-testers-face-at-workplace/)
 - 📗 [reporting bugs](https://sifterapp.com/blog/2012/08/tips-for-effectively-reporting-bugs-and-issues/)
 - 📗 [SDLC vs STLC](https://www.youtube.com/watch?v=An7HC1LolDM)
-- 📗 [types of methodologies](https://www.innovativearchitects.com/KnowledgeCenter/basic-IT-systems/8-SDLC-models.aspx)
+- 📗 types of methodologies
   * [Scrum](https://www.youtube.com/watch?v=2Vt7Ik8Ublw)
   * [Agile project management](https://www.youtube.com/watch?v=KdyV9okLRlc)
 
@@ -68,34 +74,41 @@ title = "Fundamentals"
 
 - What are some good practices in keeping good relations with developers?
 - What specifies a valuable feedback?
+- What are some examples of actions to do while onboarding a QA engineer on a project? Why is it worth to keep those things written on a checklist?
 - What phases of a sprint can a QA participate in and how?
 - What are pros of managing a project in Agile?
+- What are some exmaples of obstacles/challenges you might come across on a project?
 
 ### 📝 Katas
 
-- Report a bug in JIRA/Clubhouse/Trello
-- Try to find an example of a bug reported by you for which the assignee needed help with reproducing
+- Show me how you report a bug in JIRA/Clubhouse/Trello
+- Analyse given examples of reported bugs and point out areas that are not correct or missing - improve given examples
 
 ## 📦 Tools and technologies / Git
 
 ### 🎓 Learn
 
 - 📗 [Git - getting started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- 📗 [Git - initial setup](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
+- 📗 [GitHub - generate a new SSH hey and add it to ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - 📗 [Git - basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 - 📗 [Git - writing good commit message](https://juffalow.com/blog/git/write-good-git-commit-message/) 
 - 📗 [Git - branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 - 📗 [Git - Github](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
 - 📗 [Git - fetch, pull, push](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
 - 📗 [Git - stash, stash apply](https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning)
+- 📗 [zsh - setup and tips](https://www.sitepoint.com/zsh-tips-tricks/)
 
 ### 📝 Katas
 
-- Clone a repository of one of your projects
+- Setup git on your local machine
+- Clone one of your repositories (could be a test or forked repo)
 - Create a new branch from another branch
 - Switch between branches
 - Pull the changes
-- Tell me how you would push the changes and create a pull request
+- Add file, create commit, push the changes and create a pull request
 - Stash the changes
+- Show me how you use zsh (use history, autosuggestion, aliases)
 
 ## 📦 Tools and technologies / Chrome
 
@@ -109,16 +122,11 @@ title = "Fundamentals"
 - 📗 [Google DevTools again](https://selleo.com/blog/a-simple-guide-to-google-devtools)
 - 📗 [Web Vitals](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma)
 - 📙 [Lighthouse](https://developers.google.com/web/tools/lighthouse)
-- 📗 [Change Timezone](https://chrome.google.com/webstore/detail/change-timezone-time-shif/nbofeaabhknfdcpoddmfckpokmncimpj)
-- 📗 [Change Geolocation](https://chrome.google.com/webstore/detail/change-geolocation-locati/lejoknkbcogjceoniealiipllomkpioe)
 
 ### 📝 Katas
 
-  * Use Inspector to see an element, change some properties
-  * Switch mode to responsive to perform mobile testing
-- Show me how to simulate specific states:
-  * Change your location
-  * Change your timezone
+- Use Inspector to see an element, change some properties
+- Switch mode to responsive to perform mobile testing
 - Use Web Vitals to find out some basic information about the application's performance
 
 ## 📦 Tools and technologies / Other
