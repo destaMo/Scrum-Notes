@@ -9,6 +9,7 @@ title = "Testing analysis"
 **Description:** You enhance manual testing with analysing risk, understanding implementation details and testing requirements.
 
 **Person who successfully completed requirement for given block can:**
+
 - Recognize proper priorities of encountered risks and issues
 - Extend manual testing with other QA activities, such as analysing business requirements
 - Support the testing with technical knowledge about application's structure
@@ -26,8 +27,9 @@ title = "Testing analysis"
 - 📗 [Pareto principle](https://qarea.com/blog/understanding-pareto-principle-use-software-development)
 - 📗 [QA approach video](https://www.youtube.com/watch?v=JYk6p5it6dk&feature=emb_title&ab_channel=SelleoSoftwareOutsourcing)
 - 📗 [understanigng implementation details](https://sqa.stackexchange.com/questions/8110/how-much-should-a-tester-understand-and-rely-on-implementation-details)
+- 📗 [business requirements - good and bad examples](https://blog.anvileight.com/posts/software-requirements-specifications-good-and-bad-examples/)
 
-### **🎤  Interview**
+### **🎤 Interview**
 
 - What is the relation between bug's severity and priority?
 - Why do we need to set the priorities of reported bugs?
