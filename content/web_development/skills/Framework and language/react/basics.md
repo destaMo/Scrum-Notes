@@ -272,6 +272,8 @@ After this section you will know how to test React application
 - 📗 [Jest.js](https://jestjs.io/)
 - 📗 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - 📗 [Jest Preview](https://github.com/nvh95/jest-preview)
+- 📙 [RTL query helper Chrome plugin](https://chrome.google.com/webstore/detail/testing-library-which-que/olmmagdolfehlpjmbkmondggbebeimoh)
+- 📙 [RTL query helper webpage](https://testing-playground.com/)
 - 📗 [Testing React cheatsheet](https://docs.google.com/presentation/d/10u5q9tKzWq-HDpC3YV-on1gH2jVipVpCiaxxZFvForc/edit#slide=id.g96256219f6_0_4)
 - 📙 [Testing React cheatsheet slides](https://docs.google.com/presentation/d/10u5q9tKzWq-HDpC3YV-on1gH2jVipVpCiaxxZFvForc/edit)
 - 📙 [Testing React presentation slides](https://docs.google.com/presentation/d/1L2JJ64hksvaU8Zi1omqs4IUiw5TPj3kgAq4_D9bxpRE/edit#slide=id.g96256219f6_0_4)
@@ -283,6 +285,7 @@ After this section you will know how to test React application
 
 - What does Jest and React Testing Library do?
 - When to use integration and when unit tests?
+- How RTL query helper Chrome plugin or webpage support writing tests?
 - Does it make sense to add tests for every single component?
 - What is the use-case for axios-mock-adapter library
 
@@ -404,11 +407,9 @@ After this section you will know how to manage Global Client State.
 - 📗 [When Redux is not needed](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 - 📗 [Reselect](https://github.com/reduxjs/reselect)
 - 📗 [Selectors v2](https://blog.brainsandbeards.com/advanced-redux-patterns-selectors-cb9f88381d74)
-
 - 📗 [Mobx devtools](https://www.npmjs.com/package/mobx-react-devtools)
 - 📗 [Redux devtools](https://github.com/reduxjs/redux-devtools)
 - 📗 [Redux devtools debugging tips](https://blog.logrocket.com/redux-devtools-tips-tricks-for-faster-debugging/)
-
 - 📗 [When to add unit tests for Global Client State](https://docs.google.com/presentation/d/1L2JJ64hksvaU8Zi1omqs4IUiw5TPj3kgAq4_D9bxpRE/edit#slide=id.g1018d1a4257_1_81)
 
 ### 🎤 Interview
