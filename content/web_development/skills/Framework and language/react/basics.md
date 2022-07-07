@@ -280,6 +280,7 @@ After this section you will know how to test React application
 - 📙 [Testing React presentation recording](https://drive.google.com/file/d/1pNB8yqBDuFk0EaqqdDdpuKSPQrHbv-VD/view?usp=sharing)
 - 📗 [Jest timer mocks](https://jestjs.io/docs/en/timer-mocks)
 - 📗 [Axios mock adapter](https://www.npmjs.com/package/axios-mock-adapter)
+- 📙 [Testing examples based on challenges in real projects](https://github.com/Selleo/react_testing_example/)
 
 ### 🎤 Interview
 
