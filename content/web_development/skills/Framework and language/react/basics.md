@@ -271,6 +271,7 @@ After this section you will know how to test React application
 
 - 📗 [Jest.js](https://jestjs.io/)
 - 📗 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- 📗 [Jest Preview](https://github.com/nvh95/jest-preview)
 - 📗 [Testing React cheatsheet](https://docs.google.com/presentation/d/10u5q9tKzWq-HDpC3YV-on1gH2jVipVpCiaxxZFvForc/edit#slide=id.g96256219f6_0_4)
 - 📙 [Testing React cheatsheet slides](https://docs.google.com/presentation/d/10u5q9tKzWq-HDpC3YV-on1gH2jVipVpCiaxxZFvForc/edit)
 - 📙 [Testing React presentation slides](https://docs.google.com/presentation/d/1L2JJ64hksvaU8Zi1omqs4IUiw5TPj3kgAq4_D9bxpRE/edit#slide=id.g96256219f6_0_4)
@@ -288,6 +289,7 @@ After this section you will know how to test React application
 ### 📝 Katas
 
 - Create tests for a few components using the user perspective
+- Setup Jest Preview and debug the test
 - Create test for code making backend requests
   - delay the mocked responses for 1,5s
 - Create test for code dependent on the passing of time
