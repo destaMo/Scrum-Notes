@@ -72,7 +72,6 @@ In this section we will build more advanced features in our Rails application an
 
 - How cache invalidation works in Rails?
 - Where to store cache in rails? compare different solutions?
-- What is ETag?
 - List Sidekiq features that can be useful for you. How to get information that a task has been completed?
 - What is CRON? Explain crontab syntax and its limitations.
 - Compare Client and Wrapper.

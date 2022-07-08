@@ -3,8 +3,6 @@ title = "Ruby On Rails - Content Bank"
 weight = 3
 +++
 
-# Ruby on Rails - Content Bank
-
 ## 📘 Books
 You can find All books that are available for you [here](https://connect.zoho.eu/portal/intranet/files). For example:
 
@@ -43,6 +41,7 @@ You can find All books that are available for you [here](https://connect.zoho.eu
 - [pry](https://github.com/rweng/pry-rails)
 - [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources)
 - [GraphQL Ruby](https://github.com/rmosolgo/graphql-ruby)
+- [Graphiti](https://www.graphiti.dev/guides/)
 
 ### Testing
 
@@ -51,6 +50,7 @@ You can find All books that are available for you [here](https://connect.zoho.eu
 - [faker](https://github.com/faker-ruby/faker)
 - [webmock](https://github.com/bblimke/webmock)
 - [stub env](https://github.com/ljkbennett/stub_env)
+- [capybara](https://github.com/teamcapybara/capybara)
 - [cucumber](https://github.com/cucumber/cucumber-ruby)
 
 ### Static Code Analysis
