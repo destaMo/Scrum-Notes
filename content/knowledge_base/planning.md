@@ -2,12 +2,6 @@
 title = "Planning"
 +++
 
-{{%bubble %}}
-
-**Points:** 2
-
-**Prerequisites:** Scrum Essentials
-
 **Description:** You can prepare the action plan for delivering a feature, that requires scope analysis, split chunk of work, prepare a good description of each item and spread the work among team members.
 
 **Person who successfully completed requirement for given block can:**
@@ -17,8 +11,6 @@ title = "Planning"
 - Is able to prioritise tasks to address risks, challenges and unknowns early in the process
 - Can describe tasks in an unambiguous way, so those are easily addressable - provides clear acceptance criteria, reasoning, developer guidelines and other helpful assets when necessary (not necessarily ""micro-manages"" tasks)
 - Can effectively estimate necessary effort for delivering scope of work and can prepare convincing timelines
-
-{{% /bubble%}}
 
 ## Areas
 

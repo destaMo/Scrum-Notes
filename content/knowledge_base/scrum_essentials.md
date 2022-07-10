@@ -2,9 +2,6 @@
 title = "Scrum Essentials"
 +++
 
-{{%bubble %}}
-
-**Points:** 1
 
 **Description:** ​​You can validate your depth of knowledge of the Scrum framework and its application. You can prove understanding of the Scrum Guide and how to work within Scrum Teams effectively. 
 
@@ -18,8 +15,6 @@ title = "Scrum Essentials"
 - Know how to use the Product Backlog to plan with agility and commit to the Sprint backlog with certainty 
 - Is able to follow Continuous Delivery and Continuous Integration as a key collection of practices that enable frequent observation of working feature
 
-
-{{% /bubble%}}
 
 ---
 
