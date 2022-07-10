@@ -20,5 +20,4 @@ title = "Web Development"
 | 📙 | 1️⃣ | [i18n, l10n, A11y](/web_development/skills/i18n_l10n_a11y/) <br /> You can demonstrate that your solution does support multiple languages according preference in terms of date formatting, currency formatting, text direction, specific grammar constructions etc. Application feels native in the specific language. |
 | 📙 | 1️⃣ | [PWA](/web_development/skills/pwa/) <br /> You can utilize native browser APIs to build Progressive Web Application |
 | 📙 | 1️⃣ | [Wireframing and prototyping](/web_development/skills/wireframing_and_prototyping/) <br /> You can use certain tools that allows presenting concepts to the customer in a quick and understandable manner, before starting actual development. |
-| 📙 | 1️⃣ | [Wireframing and prototyping](/web_development/skills/wireframing_and_prototyping/) <br /> You can use certain tools that allows presenting concepts to the customer in a quick and understandable manner, before starting actual development. |
 ---
