@@ -16,8 +16,5 @@ title = "Quality assurance"
 | 📙 | 2️⃣ | [Security testing](/qa/skills/security_testing/) <br /> You can carry out security testing and reduce potential risks by finding vulnerabilities of the application                     |
 | 📙 | 1️⃣ | [CI basics](/qa/skills/ci_basics/) <br /> You can include your end-to-end tests in a CI pipeline which you can prepare by yourself                                                      |
 | 📙 | 2️⃣ | [Documentation testing](/qa/skills/documentation_testing/) <br /> You can maintain documentation according to best practices and also enrich your testing process with proper documents |
-|   |   | [Performance testing](/qa/skills/performance_testing/)                                                                                                                                  |
-|   |   | Quality metrics                                                                                                                                                                         |
-|   |   | Accessibility testing                                                                                                                                                                   |
 
 ---
