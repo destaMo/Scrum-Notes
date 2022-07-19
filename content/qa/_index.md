@@ -7,8 +7,8 @@ title = "Quality assurance"
 
 |  |  |  |
 |---|---|---|
-| 📗 | - | [Fundamentals](/qa/skills/fundamentals/) <br /> You have basic skills needed to test web applications and you know how to fit in the development process                                |
-| 📗 | - | [Interview](/web_development/skills/interview/) <br /> You can present yourself as a competent person in a given area                                                                   |
+| 📗 | ➖ | [Fundamentals](/qa/skills/fundamentals/) <br /> You have basic skills needed to test web applications and you know how to fit in the development process                                |
+| 📗 | ➖ | [Interview](/web_development/skills/interview/) <br /> You can present yourself as a competent person in a given area                                                                   |
 | 📗 | 2️⃣ | [Testing analysis](/qa/skills/testing_analysis/) <br /> You enhance manual testing with analysing risk, understanding implementation details and testing requirements                   |
 | 📙 | 2️⃣ | [Improving the process](/qa/skills/improving_the_process/) <br /> You can implement improvements to an existing process on a project                                                    |
 | 📙 | 2️⃣ | [Test automation](/qa/skills/test_automation/) <br /> You understand the value of test automation and can cover critical paths with automated scripts                                   |
