@@ -23,5 +23,5 @@ title = "ISTQB® Certified Tester Foundation Level (CTFL)"
 
 ### 🎓 Remarks
 
-- It is a nice option to allow the exam provider for display the certificate on the official ISTQB register, so it is visible on http://scr.istqb.org/. Although it is optional and up to candidate's call.
+- It is a nice option to allow the exam provider to display the certificate on the official ISTQB register, so it is visible on http://scr.istqb.org/. Although it is optional and up to candidate's call
 - It is recommended to pass the exam in English
