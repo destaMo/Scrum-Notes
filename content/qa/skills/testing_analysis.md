@@ -28,7 +28,8 @@ title = "Testing analysis"
 - 📗 [QA approach video](https://www.youtube.com/watch?v=JYk6p5it6dk&feature=emb_title&ab_channel=SelleoSoftwareOutsourcing)
 - 📗 [understanigng implementation details](https://sqa.stackexchange.com/questions/8110/how-much-should-a-tester-understand-and-rely-on-implementation-details)
 - 📗 [business requirements - good and bad examples](https://blog.anvileight.com/posts/software-requirements-specifications-good-and-bad-examples/)
-
+- 📙 [impact analysis](https://www.apriorit.com/qa-blog/252-impact-analysis)
+- 📙 [example end-user requirements](https://help.totaralearning.com/display/TH13/End-user+system+requirements) ([and some more](https://www.ibm.com/docs/en/spectrum-protect/8.1.11?topic=center-web-browser-requirements))
 ### **🎤 Interview**
 
 - What is the relation between bug's severity and priority?
