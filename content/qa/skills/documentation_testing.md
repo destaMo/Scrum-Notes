@@ -4,15 +4,14 @@ title = "Documentation testing"
 
 {{%bubble %}}
 
-**Description:** You can learn best practises in prepare documentation and testing application more specifically.
-
+**Description:** You can maintain documentation according to best practices and also enrich your testing process with proper documents
 
 **Person who successfully completed requirement for given block can:**
+
 - Prepare valuable documentation
 - Improve communication with the team
 - Test project in more detail
 - Prepare test plan
-
 
 {{% /bubble%}}
 
@@ -30,7 +29,7 @@ title = "Documentation testing"
 - 📙 [Test execution report](https://www.softwaretestinghelp.com/test-execution-report/)
 - 📙 [Bug report](https://www.globalapptesting.com/blog/bug-triage-is-it-delaying-your-releases)
 
-### **🎤  Interview**
+### **🎤 Interview**
 
 - How to create good tests cases?
 - How write a test plan?
@@ -43,6 +42,7 @@ title = "Documentation testing"
 - What the bug report should look like?
 
 ### **📝 Katas**
+
 - Prepare test plan using templates (the plan can be based on the project you are working on)
 - Set up Mintlify and integrate with Github
 - Prepare a test report using templates listed below
@@ -56,7 +56,7 @@ title = "Documentation testing"
 - 📗 [User documentation](https://helpjuice.com/blog/user-documentation)
 - 📗 [Process documentation](https://helpjuice.com/blog/process-documentation)
 
-### **🎤  Interview**
+### **🎤 Interview**
 
 - What is technical documentation?
 - What are the benefits of technical documentation?
@@ -68,10 +68,12 @@ title = "Documentation testing"
 - How to solve the common documentation problem of outdated content (i.e. how to schedule updates)?
 
 ### **📝 Katas**
+
 - Prepare example of user documentation
 - Show where you keep your documentation
 
 ### **📦 Useful Tools**
+
 - 📗 [Mintlify](https://www.mintlify.com/)
 - 📙 [Notion](https://www.notion.so/)
 - 📙 [Templates](https://geteasyqa.com/qa/best-test-plan-template/)
