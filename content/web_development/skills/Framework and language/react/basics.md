@@ -58,9 +58,10 @@ After this section you will know what is React and what it's used for.
 
 - 📗 [react main page](https://reactjs.org/)
 - 📗 [virtual DOM](https://reactjs.org/docs/faq-internals.html#what-is-the-virtual-dom)
-- 📗 [Unidirectional data flow](https://medium.com/@lizdenhup/understanding-unidirectional-data-flow-in-react-3e3524c09d8e)
+- 📗 [Unidirectional data flow](https://coderpad.io/blog/development/master-react-unidirectional-data-flow/#:~:text=Child%20components%20should%20only%20call%20functions%20from%20parent%20components%2C%20while%20parent%20components%20should%20only%20set/pass%20data%20to%20their%20children.)
 - 📗 [Create React App](https://github.com/facebook/create-react-app)
 - 📗 [How to organize application](https://engineering.udacity.com/react-folder-structure-for-enterprise-level-applications-f8384eff162b)
+- 📙 [Selleo React app template (folders explained in the README)](https://github.com/Selleo/workplace-organizer/tree/67e39bb1ff7eb1bc0b5a019b7c750b79f0ec7321/packages/client)
 - 📗 [Eslint & Prettier](https://github.com/alan2207/bulletproof-react/blob/master/docs/project-configuration.md)
 
 ### 🎤 Interview
@@ -125,12 +126,13 @@ After this section you will know commonly used React hooks and React-Use package
 
 ### 🎓 Learn
 
-- 📗 [Getting current state in setState with function argument](https://stackoverflow.com/questions/42494985/setstate-in-react-based-on-current-state/42496452#42496452)
-- 📗 [Preventing memory leaks](https://egghead.io/lessons/react-stop-memory-leaks-with-componentwillunmount-lifecycle-method-in-react)
+- 📗 [Getting current state in setState with function argument](https://reactjs.org/docs/hooks-reference.html#functional-updates)
+- 📗 [Preventing memory leaks](https://reactjs.org/docs/hooks-effect.html#example-using-hooks-1)
 - 📗 [When to use state and when reducer](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)
 - 📗 [React refs guide](https://dmitripavlutin.com/react-useref-guide/)
 - 📗 [React-Use](https://github.com/streamich/react-use)
 - 📗 [Stale closure](https://dmitripavlutin.com/react-hooks-stale-closures/)
+- 📗 [Lifting state up](https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/)
 - 🔎 [Template for context Provider (code)](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/ContextExample/MyContext.js)
 - 🔎 [Template for context Provider (app)](https://react-devpath-examples.netlify.app/basics/contextExample)
 - 🔎 [Example of useEffect cleanup function (code)](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/UseEffectFlow/UseEffectFlow.js)
@@ -148,6 +150,7 @@ After this section you will know commonly used React hooks and React-Use package
 - What does the useReducer hook do and when to use it?
 - What is React Context, and what is its use-case?
 - What is stale closure, and when it happens?
+- In React we cannot pass data up (to parents) or sideways (to siblings), so what to do when you need the data in parent/sibling component?
 
 ### 📝 Katas
 
@@ -220,9 +223,9 @@ After this section you will know how to implement routing in React SPA applicati
 
 ### 🎓 Learn
 
-- 📗 [React router](https://reacttraining.com/react-router/web/guides/quick-start)
+- 📗 [React router](https://v5.reactrouter.com/web/guides/quick-start)
 - 📗 [Router concepts](https://blog.bitsrc.io/must-know-concepts-of-react-router-fb9c8cc3c12)
-- 📗 [History](https://medium.com/@pshrmn/a-little-bit-of-history-f245306f48dd)
+- 📗 [History](https://medium.com/@pshrmn/a-little-bit-of-history-f245306f48dd#:~:text=With%20our%20powers%20combined)
 
 ### 🎤 Interview
 
