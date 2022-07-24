@@ -58,9 +58,11 @@ After this section you will know what is React and what it's used for.
 
 - 📗 [react main page](https://reactjs.org/)
 - 📗 [virtual DOM](https://reactjs.org/docs/faq-internals.html#what-is-the-virtual-dom)
-- 📗 [Unidirectional data flow](https://medium.com/@lizdenhup/understanding-unidirectional-data-flow-in-react-3e3524c09d8e)
+- 📗 [Unidirectional data flow](https://coderpad.io/blog/development/master-react-unidirectional-data-flow/#:~:text=Child%20components%20should%20only%20call%20functions%20from%20parent%20components%2C%20while%20parent%20components%20should%20only%20set/pass%20data%20to%20their%20children.)
 - 📗 [Create React App](https://github.com/facebook/create-react-app)
 - 📗 [How to organize application](https://engineering.udacity.com/react-folder-structure-for-enterprise-level-applications-f8384eff162b)
+- 📙 [Selleo React app template (folders explained in the README)](https://github.com/Selleo/workplace-organizer/tree/67e39bb1ff7eb1bc0b5a019b7c750b79f0ec7321/packages/client)
+- 📗 [Eslint & Prettier](https://github.com/alan2207/bulletproof-react/blob/master/docs/project-configuration.md)
 
 ### 🎤 Interview
 
@@ -70,11 +72,19 @@ After this section you will know what is React and what it's used for.
   - Using Virtual DOM
   - Using declarative paradigm 
   - Unidirectional data flow
+- What is Eslint and Prettier?
+  - how they help the development process
 
 ### 📝 Katas
 
 - Setup application using CRA
-- Organize project files according to suggested pattern.
+- Add Prettier and Eslint to the application tooling
+  - show how to configure them
+  - integrate eslint & prettier with your IDE so that
+    - the autofixes are applied on file save
+    - you can use shortcut to autofix a file
+  - what to do if their rules contradict each other
+- Organize project files according to suggested pattern
 
 ---
 
@@ -116,12 +126,13 @@ After this section you will know commonly used React hooks and React-Use package
 
 ### 🎓 Learn
 
-- 📗 [Getting current state in setState with function argument](https://stackoverflow.com/questions/42494985/setstate-in-react-based-on-current-state/42496452#42496452)
-- 📗 [Preventing memory leaks](https://egghead.io/lessons/react-stop-memory-leaks-with-componentwillunmount-lifecycle-method-in-react)
+- 📗 [Getting current state in setState with function argument](https://reactjs.org/docs/hooks-reference.html#functional-updates)
+- 📗 [Preventing memory leaks](https://reactjs.org/docs/hooks-effect.html#example-using-hooks-1)
 - 📗 [When to use state and when reducer](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)
 - 📗 [React refs guide](https://dmitripavlutin.com/react-useref-guide/)
 - 📗 [React-Use](https://github.com/streamich/react-use)
 - 📗 [Stale closure](https://dmitripavlutin.com/react-hooks-stale-closures/)
+- 📗 [Lifting state up](https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/)
 - 🔎 [Template for context Provider (code)](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/ContextExample/MyContext.js)
 - 🔎 [Template for context Provider (app)](https://react-devpath-examples.netlify.app/basics/contextExample)
 - 🔎 [Example of useEffect cleanup function (code)](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Basic/UseEffectFlow/UseEffectFlow.js)
@@ -139,6 +150,7 @@ After this section you will know commonly used React hooks and React-Use package
 - What does the useReducer hook do and when to use it?
 - What is React Context, and what is its use-case?
 - What is stale closure, and when it happens?
+- In React we cannot pass data up (to parents) or sideways (to siblings), so what to do when you need the data in parent/sibling component?
 
 ### 📝 Katas
 
@@ -211,9 +223,9 @@ After this section you will know how to implement routing in React SPA applicati
 
 ### 🎓 Learn
 
-- 📗 [React router](https://reacttraining.com/react-router/web/guides/quick-start)
+- 📗 [React router](https://v5.reactrouter.com/web/guides/quick-start)
 - 📗 [Router concepts](https://blog.bitsrc.io/must-know-concepts-of-react-router-fb9c8cc3c12)
-- 📗 [History](https://medium.com/@pshrmn/a-little-bit-of-history-f245306f48dd)
+- 📗 [History](https://medium.com/@pshrmn/a-little-bit-of-history-f245306f48dd#:~:text=With%20our%20powers%20combined)
 
 ### 🎤 Interview
 
@@ -262,31 +274,31 @@ After this section you will know how to test React application
 
 - 📗 [Jest.js](https://jestjs.io/)
 - 📗 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- 📗 [Jest Preview](https://github.com/nvh95/jest-preview)
+- 📙 [RTL query helper Chrome plugin](https://chrome.google.com/webstore/detail/testing-library-which-que/olmmagdolfehlpjmbkmondggbebeimoh)
+- 📙 [RTL query helper webpage](https://testing-playground.com/)
 - 📗 [Testing React cheatsheet](https://docs.google.com/presentation/d/10u5q9tKzWq-HDpC3YV-on1gH2jVipVpCiaxxZFvForc/edit#slide=id.g96256219f6_0_4)
 - 📙 [Testing React cheatsheet slides](https://docs.google.com/presentation/d/10u5q9tKzWq-HDpC3YV-on1gH2jVipVpCiaxxZFvForc/edit)
 - 📙 [Testing React presentation slides](https://docs.google.com/presentation/d/1L2JJ64hksvaU8Zi1omqs4IUiw5TPj3kgAq4_D9bxpRE/edit#slide=id.g96256219f6_0_4)
 - 📙 [Testing React presentation recording](https://drive.google.com/file/d/1pNB8yqBDuFk0EaqqdDdpuKSPQrHbv-VD/view?usp=sharing)
 - 📗 [Jest timer mocks](https://jestjs.io/docs/en/timer-mocks)
-- 📗 [MockDate](https://github.com/boblauer/MockDate)
 - 📗 [Axios mock adapter](https://www.npmjs.com/package/axios-mock-adapter)
-- 📗 [Factory girl](https://github.com/aexmachina/factory-girl)
+- 📙 [Testing examples based on challenges in real projects](https://github.com/Selleo/react_testing_example/)
 
 ### 🎤 Interview
 
 - What does Jest and React Testing Library do?
 - When to use integration and when unit tests?
+- How RTL query helper Chrome plugin or webpage support writing tests?
 - Does it make sense to add tests for every single component?
 - What is the use-case for axios-mock-adapter library
-- What is the use-case for factory-girl library
 
 ### 📝 Katas
 
 - Create tests for a few components using the user perspective
+- Setup Jest Preview and debug the test
 - Create test for code making backend requests
   - delay the mocked responses for 1,5s
-  - create the response data using factory girl library
-- Create test for code dependent on time
-  - displaying datetime or for logic using datetime
 - Create test for code dependent on the passing of time
   - timeouts or intervals
 - Wait for element to appear/disappear asynchronously
@@ -301,7 +313,8 @@ After this section you will know what is Server State and what challenges it pre
 
 - 📗 [Server state challenges](https://redux-toolkit.js.org/rtk-query/overview#motivation)
 - 📗 [Server vs Client state presentation slides (slides 5 to 9)](https://docs.google.com/presentation/d/1Cohzlon3ZDFdKYSQ0_P0x9STEgSDMxQgK8ylVsZ6UpY/edit?usp=sharing)
-- 📗 [TODO Server vs Client state presentation recording]()
+
+[comment]: <> (- 📗 [TODO Server vs Client state presentation recording]&#40;&#41;)
 
 ### 🎤 Interview
 
@@ -376,7 +389,8 @@ After this section you will know what is Client State and Global Client State.
 
 - 📗 [8 ways to handle Client State](https://twitter.com/housecor/status/1437765667906854915?lang=en)
 - 📗 [Server vs Client state presentation (slides 5 to 9)](https://docs.google.com/presentation/d/1Cohzlon3ZDFdKYSQ0_P0x9STEgSDMxQgK8ylVsZ6UpY/edit#slide=id.gebf84830b7_0_0)
-- 📗 [TODO Server vs Client state presentation (recording)]()
+
+[comment]: <> (- 📗 [TODO Server vs Client state presentation &#40;recording&#41;]&#40;&#41;)
 
 ### 🎤 Interview
 
@@ -397,11 +411,9 @@ After this section you will know how to manage Global Client State.
 - 📗 [When Redux is not needed](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 - 📗 [Reselect](https://github.com/reduxjs/reselect)
 - 📗 [Selectors v2](https://blog.brainsandbeards.com/advanced-redux-patterns-selectors-cb9f88381d74)
-
 - 📗 [Mobx devtools](https://www.npmjs.com/package/mobx-react-devtools)
 - 📗 [Redux devtools](https://github.com/reduxjs/redux-devtools)
 - 📗 [Redux devtools debugging tips](https://blog.logrocket.com/redux-devtools-tips-tricks-for-faster-debugging/)
-
 - 📗 [When to add unit tests for Global Client State](https://docs.google.com/presentation/d/1L2JJ64hksvaU8Zi1omqs4IUiw5TPj3kgAq4_D9bxpRE/edit#slide=id.g1018d1a4257_1_81)
 
 ### 🎤 Interview
