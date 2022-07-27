@@ -34,7 +34,8 @@ title = "Styling 2 (intermediate)"
 
 ### 🎓 Learn
 
-* 📗 [Intro to Zeplin](https://www.youtube.com/watch?v=x1RPNx8Jsp4)
+* 📗 [Handoff from figma](https://www.figma.com/best-practices/tips-on-developer-handoff/an-overview-of-figma-for-developers/)
+* 📗 [Tutorial how to use figma in view mode](https://www.youtube.com/watch?v=B242nuM3y2s&ab_channel=Figma)
 * 📗 [How to implement designs from handoff tools](https://gist.github.com/ArekJanik/7aa1bc4dae4720ecea05bbde7bd034dd)
 
 
@@ -46,13 +47,16 @@ title = "Styling 2 (intermediate)"
 ## 📦 Frameworks
 
 ### 🎓 Learn
-
-* 📗 [Basic Bootstrap knowledge](http://getbootstrap.com/)
-* 📗 [Overview](http://getbootstrap.com/docs/4.1/layout/overview/)
-* 📗 [Grid](http://getbootstrap.com/docs/4.1/layout/grid/)
-* 📗 [Utilities](http://getbootstrap.com/docs/4.1/layout/utilities-for-layout/)
-* 📗 [Components](http://getbootstrap.com/docs/4.1/components)
+* 📗 [Grid](https://getbootstrap.com/docs/5.2/layout/grid/)
 * 📗 [Common mistakes](https://medium.com/selleo/bootstrap-is-easy-c59578652d8f)
+* 📗 [Ant Design *](https://ant.design/)
+* 📗 [Material UI *](https://material-ui.com/)
+* 📗 [Materialize *](https://materializecss.com/)
+* 📗 [Semantic UI *](https://semantic-ui.com/)
+* 📗 [UIkit *](https://getuikit.com/)
+* 📗 [Foundation *](https://foundation.zurb.com/)
+* 📗 [Bulma *](https://bulma.io/)
+* 📗 [React bootstrap *](https://react-bootstrap.github.io/)
 
 
 ### 🎤 Interview

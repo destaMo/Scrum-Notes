@@ -38,18 +38,21 @@ title = "Design 1 (basics)"
 
 ## 📦 Tools
 
-### 🎓 Learn
+### 🎓 OSX & GIT
+- 📗 [Mac setup](https://docs.google.com/document/d/1qanfu5n7HUv7D0iLVdlm6VkTz0ku7a8dYONE4HxiE38/edit?usp=sharing)
+- 📗 [Git](/common/git/)
+- 📗 [Git commands/aliases](https://drive.google.com/file/d/1JtJA-EGDZVupjbSFhWh2WZDmYa-_wJ3e/view?usp=sharing)
+- 📗 `gfa`: `git fetch --all --prune` - remove local branches that are not on remote
+
+### 🎓 Design Tools
 - 📗 [Figma ninja](https://www.figma.com/community/file/769694576496801916)
 - 📗 [10 Figma tricks](https://uxdesign.cc/10-figma-tricks-i-wish-i-knew-earlier-698e66a893f8)
 - 📗 [Figma layout grid](https://www.youtube.com/watch?v=zd8wrAdURN0)
 - 📗 [Figma styles](https://www.youtube.com/watch?v=gtQ_A3imzsg)
 - 📗 [Figma auto layout](https://www.youtube.com/watch?v=Do6HJBj984I)
-- 📗 [Figma variants](https://www.youtube.com/watch?v=6XcDHOlBARc)
-- 📗 [Figma resources](https://www.figmaresources.com/)
-- 📗 [Mac setup](https://docs.google.com/document/d/1qanfu5n7HUv7D0iLVdlm6VkTz0ku7a8dYONE4HxiE38/edit?usp=sharing)
-- 📗 [Git](/common/git/)
-- 📗 [Git commands/aliases](https://drive.google.com/file/d/1JtJA-EGDZVupjbSFhWh2WZDmYa-_wJ3e/view?usp=sharing)
-- 📗 `gfa`: `git fetch --all --prune` - remove local branches that are not on remote
+- 📗 [Figma Variants & properties](https://www.youtube.com/watch?v=rNKD2w3o-eI&ab_channel=MaviDesign)
+- 📗 [Figma resources](https://www.figmaresources.com)
+- 📗 [Figma properties](https://drive.google.com/file/d/1UcVyZH9XRRcIqCM72XhvUcH-zUHiSOPL/view)
 
 ---
 
@@ -64,9 +67,8 @@ title = "Design 1 (basics)"
 - 📗 [Variable "x"](https://uxdesign.cc/users-will-break-your-design-and-its-not-their-fault-57f2085c1c9e)
 - 📗 [Mistakes to avoid as junior designer](https://uxplanet.org/7-mistakes-i-used-to-make-as-a-junior-designer-what-not-to-do-cee33958a57e)
 - 📗 [10 common mistakes](https://uxdesign.cc/10-common-mistakes-ui-designers-make-7c95bb5436b5)
-- 📗 [Soft skills](https://dribbble.com/stories/2019/09/13/5-soft-skills-every-ui-ux-designer-should-master)
-- 📗 [Soft skills](https://uxdesign.cc/10-soft-skills-for-ui-ux-designers-11b948739a34)
-- 📗 [Checklists](https://www.checklist.design/)
+- 📗 [5 Soft skills](https://dribbble.com/stories/2019/09/13/5-soft-skills-every-ui-ux-designer-should-master)
+- 📗 [10 Soft skills](https://uxdesign.cc/10-soft-skills-for-ui-ux-designers-11b948739a34)
 
 ### 🎤 Interview
 - what is screen density?
@@ -140,6 +142,7 @@ You need LastPass to get access to those.
 - [Freepik](https://freepik.com/)
 - [MyIcons](https://gumroad.com/library?creator_external_ids=9015975858229)
 - [Adobe Fonts](https://fonts.adobe.com/)
+- [Checklists](https://www.checklist.design/)
 
 ##### Apps:
 - [Photoshop and Lightroom](https://www.adobe.com/pl/creativecloud.html)

@@ -68,20 +68,6 @@ title = "Styling 3 (advanced)"
 * How to style all 3 elements: `.selleo1` `.selleo2` `.selleo3` with 1 attribute selector
 
 
-## 📦 Frameworks (just be aware that these exist)
-
-### 🎓 Learn
-
-* 📗 [Ant Design *](https://ant.design/)
-* 📗 [Material UI *](https://material-ui.com/)
-* 📗 [Materialize *](https://materializecss.com/)
-* 📗 [Semantic UI *](https://semantic-ui.com/)
-* 📗 [UIkit *](https://getuikit.com/)
-* 📗 [Foundation *](https://foundation.zurb.com/)
-* 📗 [Bulma *](https://bulma.io/)
-* 📗 [React bootstrap *](https://react-bootstrap.github.io/)
-
-
 ## 📦 Advanced flex
 
 ### 🎓 Learn
