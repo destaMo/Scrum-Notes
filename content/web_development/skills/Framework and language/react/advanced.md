@@ -35,11 +35,9 @@ weight = 2
 - Code-smells
 - Testing
 
-**Redux**
+**Server State management**
 
 - Usage
-- Tools
-- Debugging
 
 **Application Features**
 
@@ -62,26 +60,22 @@ After this section you will know how to setup and use TypeScript in React.
 
 - 📗 [CRA with TS](https://create-react-app.dev/docs/adding-typescript/)
 - 📗 [React TS Cheatsheet](https://github.com/typescript-cheatsheets/react)
-- 📗 [Typescript React tips](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
+- 📗 [PropsWithChildren](https://selleo.com/til/posts/3j2moxjscu-react-propswithchildren-shortcut)
 - 📗 [Typesync](https://github.com/jeffijoe/typesync)
 - 📗 [Generic components](https://react-typescript-cheatsheet.netlify.app/docs/advanced/patterns_by_usecase#generic-components)
-- 📗 ["as" type assertion](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions)
-- 📗 ["is" type guard](https://www.typescriptlang.org/docs/handbook/advanced-types.html#user-defined-type-guards)
 
 ### 🎤 Interview
 
-- How to setup app using CRA with TS?
-- How to add TS to existing CRA app?
 - What's the difference between JSX.Element vs React.ReactNode types, and which one should be used to type props.children?
 - How to type component props?
-- How to type context when default value is 'undefined'?
+- What does PropsWithChildren type does?
 - Typescript Enums usage is discouraged. What should we do instead?
 - What does the Typesync package do?
-- Explain what does (as, is, in, typeof, keyof, !, ?) operators do?
 
 ### 📝 Katas
 
-- Setup or add TS to evaluation application
+- Setup or add TS to evaluation application 
+- Type a context with default 'undefined' as default value
 - Have the app typed without 'any' keyword
 
 ---
@@ -93,13 +87,15 @@ After this section you will know how to use less common React hooks and create o
 ### 🎓 Learn
 
 - 📗 [React hooks](https://reactjs.org/docs/hooks-reference.html)
-- 📗 [Stale closure in react hooks](https://dmitripavlutin.com/react-hooks-stale-closures/)
 
 ### 🎤 Interview
 
 - Explain how does useImperativeHandle, useLayoutEffect, useDebugValue hooks work and when to use them.
-- What is stale closure and how to prevent it in react hooks?
-- What are the rules of hooks?
+- Explain rules for hooks related to:
+  - their name
+  - their position in the component
+  - where they can be used, and where don't
+- You can create your own hooks. When and why is this useful?
 
 ### 📝 Katas
 
@@ -115,10 +111,11 @@ After this section you will know how to optimize React and measure the applicati
 
 - 📗 [React profiler](https://kentcdodds.com/blog/profile-a-react-app-for-performance)
 - 📗 [React memo](https://dmitripavlutin.com/use-react-memo-wisely/)
-- 📗 [React virtualized](https://blog.theodo.fr/2018/09/use-react-virtualized/)
+- 📗 [React virtualized](https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3/)
 - 📗 [Lists in memoized component](https://selleo.com/til/posts/tiqujjynoi-react-optimization-of-lists-in-big-components)
 - 📗 [useRef as optimization technique](https://hackernoon.com/how-to-optimize-react-performace-by-using-useref-hooks-4t1n315h)
 - 📗 [Forwarding refs](https://reactjs.org/docs/forwarding-refs.html)
+- 📗 [Batching state updates in react](https://github.com/reactwg/react-18/discussions/21)
 
 ### 🎤 Interview
 
@@ -128,6 +125,9 @@ After this section you will know how to optimize React and measure the applicati
 - Why extracting lists to separate component might improve performance, and when it should be done?
 - When and how use refs for optimization?
 - What is refForwarding, and when to use it?
+- What is setState batching, and when it happens?
+  - before v18
+  - in v18
 
 ### 📝 Katas
 
@@ -150,16 +150,20 @@ After this section you will know how to handle errors on production.
 
 ### 🎤 Interview
 
-- What are error boundaries? What methods does error boundary has?
+- What are error boundaries?
 - Which errors cannot be caught by error boundary?
+- How to catch errors in:
+  - event handlers
+  - async code
+  - inside error boundary
 - What are sourcemaps?
 - Why we need external services for error tracking in production?
 
-### 📝 Katas
+### 📝 Katas 
 
-- Add error boundary to your app, so the application handles UI errors gracefully.
+- Add error boundary to your app. And demonstrate how it handles error from the child component.
 - Make sure your production build has source maps.
-- Use free plan of Sentry to monitor errors in deployed application.
+- Use free plan of Sentry to monitor errors in deployed application. Demonstrate error logs for production environment (you can easily deploy react app with netlify)
 
 ---
 
@@ -167,26 +171,23 @@ After this section you will know how to handle errors on production.
 
 After this section you will know common react patterns.
 
-- 📗 [HOC-in-depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e)
 - 📗 [RenderProps](https://tylermcginnis.com/react-render-props/)
 - 📗 [Containment part1](https://twitter.com/dan_abramov/status/1021850251865587712)
 - 📗 [Containment part2](https://twitter.com/a_wazard/status/1021861930603036672)
 - 📗 [Containment & Specialization](https://reactjs.org/docs/composition-vs-inheritance.html)
 - 📗 [Containment (here called Compound)](https://medium.com/@Dane_s/react-js-compound-components-a6e54b5c9992)
-- 📗 [Components golden rule](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb)
+- 🔎 [Containment vs RenderProps (code)](https://github.com/Selleo/react_devpath_examples/blob/master/src/pages/Advanced/ContainmentAndRenderProps/ContainmentAndRenderProps.js)
+- 🔎 [Containment vs RenderProps (app)](https://react-devpath-examples.netlify.app/advanced/containmentAndRenderProps)
 
 ### 🎤 Interview
 
-- How does HOC’s work, and how to share functionality between components?
-- What about general purpose functions needed in different components? e.g date formatting
 - How does RenderProps work?
 - How does the Specialization work?
 - How does the Containment work?
-- What’s the difference between Containment and RenderProps patterns?
+- What’s the difference between Containment and RenderProps patterns? (example above)
 
 ### 📝 Katas
 
-- Create HOC and use it a few times to share the behaviour between multiple components
 - Share functionality with render prop
 - Create a generic component used by at least 2 specialized components
 - Create a component according to containment pattern
@@ -208,14 +209,21 @@ After this section you will be able to spot common code-smells in React and know
 
 ### 🎤 Interview
 
-- What can we do with Big/Complex components > ~300LOC? (3 solutions)
+- Explain how those 4 approaches help us deal with Big/Complex components > ~300LOC?
+  - Hooks
+  - Sub components
+  - Sibling components
+  - Wrapper components
 - What can we do when mapped UI has methods for mapped items?
 - What can we do when component receives lots of props? (3 solutions)
+  - If some props are used for configuring the component, then the props can be combined into single `config` prop.
+  - If multiple props are passed only to make a calculation in the component, make the calculation in a parent component and pass only the  result
+  - If component could be split into two siblings, then each of them would likely need less props
 - Why handling data preparation in component (when having redux) is an antipattern?
 - What can we do when having multiple useState in component?
 - In which cases below storing data from props in state is an antipattern? What are possible fixes?
-  - when child stores transformed props.
-  - when child needs to change value of props
+  - when child stores transformed props
+  - when child needs to change value of props and can change it for parent as well
   - when child should be able to change value from props, but should not change parent data
 
 ---
@@ -226,28 +234,27 @@ After this section you will know how to test async code.
 
 ### 🎓 Learn
 
-- 📗 [Use debugger in jest tests](https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/)
-- 📗 [Use breakpoints and logpoints](https://selleo.com/til/posts/mxkd8fpqbw-debug-prod-app-with-logpoints-conditional-breakpoints)
-- 📗 [Jest ES6 Mock](https://jestjs.io/docs/es6-class-mocks)
 - 📗 [TDD with React Testing Library](https://typeofweb.com/tdd-react-testing-library/)
 - 📗 [When to use TDD](https://kentcdodds.com/blog/when-i-follow-tdd)
+- 📗 [Jest ES6 Mock](https://jestjs.io/docs/es6-class-mocks)
+- 📗 [Jest Preview](https://github.com/nvh95/jest-preview)
+- 📗 [Use debugger in jest tests](https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/)
 - 📗 [MockDate](https://github.com/boblauer/MockDate)
 - 📗 [Fishery](https://thoughtbot.com/blog/announcing-fishery-a-javascript-and-typescript-factory-library)
 - 📙 [use React Devtools in Cypress tests](https://selleo.com/til/posts/rvajzbhbww-loading-react-redux-dev-tools-in-cypress)
 
 ### 🎤 Interview
 
-- What are the challenges when testing async code?
-- What are the challenges when testing time dependent code?
-- Is mocking in tests good or bad practice? Why?
+- What is TDD?
+- When to use TDD?
 - What is the use-case for fishery
 
 ### 📝 Katas
 
-- What is TDD?
-- When to use TDD?
 - Develop a few components or the whole app using TDD (should be verifiable by commit history)
 - Mock imported library using Jest ES6 Mocks
+- Use Jest Preview to show/debug UI rendered in the test
+- Use `debugger` in the test and show the results in a chrome console
 - Generate data for the test using the fishery package
 - Create test for code dependent on time
   - displaying datetime
@@ -257,80 +264,31 @@ After this section you will know how to test async code.
 
 ---
 
-## 📦 Redux / Usage
+## 📦 Server State management / Usage
 
-After this section you will know what are best practices in redux, what is redux toolkit and how to use re-reselect.
-
-### 🎓 Learn
-
-- 📗 [Redux style guide](https://redux.js.org/style-guide/style-guide)
-- 📗 [Suggested redux store structure](https://selleo.com/til/posts/csah7dmbxh-redux-suggested-store-structure)
-
-### 🎤 Interview
-
-- What is the preferred redux file structure?
-- Should redux store be structured based on UI or data types?
-- Why data in redux should be normalized? What is the preferred structure?
-
-### 📝 Katas
-
-- Implement redux in your application according to style guides. What have you changed?
-- Implement backend data normalization.
-
----
-
-## 📦 Redux / Tools
-
-After this section you will know how to use more advanced middleware than redux thunk.
+After this section you will know how to .
 
 ### 🎓 Learn
 
-- 📗 [Redux toolkit](https://redux-toolkit.js.org/)
-- 📗 [Redux toolkit devtools default](https://selleo.com/til/posts/tevlm7o3lb-redux-devtools-config-with-redux-toolkit)
-- 📗 [re-reselect](https://github.com/toomuchdesign/re-reselect)
-- 📗 [Custom redux middleware](https://medium.com/@jacobp100/you-arent-using-redux-middleware-enough-94ffe991e6)
-- 📗 [Redux-observable](https://redux-observable.js.org/)
-  OR
-- 📗 [Redux-saga](https://redux-saga.js.org/)
+[comment]: <> (- 📗 [Dangers of using the same hook for fetching data]&#40;TODO: til&#41;)
+- 📗 [Simple backend with json-server](https://github.com/typicode/json-server)
+- 📙 [React Query](https://react-query.tanstack.com)
+- 📙 [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
+- 📙 [Apollo Graphql](https://www.apollographql.com/docs/react/)
+
 
 ### 🎤 Interview
 
-- What is redux toolkit and how it simplifies working with redux?
-- What is re-reselect? How it differs with reselect?
-- How does redux middlewares work? How can you create your own middleware?
-- What are use cases for middlewares like redux-observable or redux-saga compared to thunk?
-- How does redux-observable or redux-saga works?
+- What is Optimistic UI
+- What is Query Cancellation
 
 ### 📝 Katas
 
-- Implement redux using redux toolkit.
-- Implement selector using re-reselect in situation when it is appropriate.
-- Implement selector with custom equality check.
-- Use redux-observable or redux-saga to implement some complex flow in redux.
+- Implement Optimistic UI
+  - demonstrate rollback behavior on server error
+- Implement request that can be cancelled by user interaction, or navigation out of the page
 
----
-
-## 📦 Redux / Debugging
-
-After this section you will know how to debug redux store in production.
-
-### 🎓 Learn
-
-- 📗 [Redux middleware for sentry](https://docs.sentry.io/platforms/javascript/guides/react/configuration/integrations/redux/)
-- 📗 [Using redux devtools in production](https://medium.com/@zalmoxis/using-redux-devtools-in-production-4c5b56c5600f)
-- 📗 [Monitor store on production without devtools](https://selleo.com/til/posts/ksyni8azo6-monitor-redux-store-on-production)
-- 📗 [Access store on production without devtools](https://stackoverflow.com/a/44318447/4349813)
-
-### 🎤 Interview
-
-- Why integrate redux with sentry?
-- What do you think about enabling redux devtools on production?
-- How to display and monitor store on production when redux devtools are not enabled?
-
-### 📝 Katas
-
-- Add sentry middleware to redux.
-- In sentry middleware use state and action transformers.
+[comment]: <> (- Why you have to be careful when using hook to get data in multiple places &#40;enabled & staleTime&#41;)
 
 ---
 
@@ -397,17 +355,15 @@ After this section you will know how to use graphql queries and mutations.
 
 - What is GraphQL and how it’s different from the REST?
 - What is Apollo?
-- How do you get data?
-- How do you update data?
-- How to use Fragments to simplify queries and mutations?
-- What Aliases in graphql query?
-- What are @include @skip Directives? What they do?
 
 ### 📝 Katas
 
 - Create example CRUD app using GraphQL
+- Use a Fragment to simplify queries and mutations
+- Use an Alias in a query
+- Fetch parts of query conditionally using @include and @skip directives
 - 📗 [easy to setup Graphql local server](https://www.npmjs.com/package/json-graphql-server) you can create your own
-- 📗 [example DB](https://gist.github.com/pokiujf/c466843979fda7c640518b58278a0dfd) you can create your own
+- 📗 [example DB](https://gist.github.com/ar-mac/c466843979fda7c640518b58278a0dfd) you can create your own
 
 ---
 
