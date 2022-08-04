@@ -77,7 +77,6 @@ Ruby language fundamentals. The Goal is to learn how to use Ruby in an efficient
 - What is and what can lambda/Proc be used for?
 - Explain what blocks are for and how do you implement methods that leverage them?
 - What is variable scope? Explain global/class/instance/local variable scopes.
-- How many variables are used in Ruby and what are they?
 - Can you explain to me how to handle exceptions in Ruby?
 - How can you benchmark ruby code?
 - What is the difference between calling super and calling super()?
@@ -238,7 +237,6 @@ In this section we will build a Rails application with most common features and 
 - implement authorization on top of this application, use it in proper places
 - implement a view with statistics that is available for admin
 - implement a state machine for purchases
-- implement Null Object
 - implement Decorator
 - use exception handling in controller and in one of your service objects
 - set up 3 static code analysis gems
