@@ -28,7 +28,7 @@ title = "Designer"
 - 📙 1️⃣ [Icons & Logos [WIP]](/designer/skills/icons_logos)
 - 📙 1️⃣ [Performance [WIP]](/designer/skills/performance/)
 - 📙 1️⃣ [Styling 4 (mastery)](/designer/skills/styling_04/)
-- 📙 1️⃣ [Styling 5 (on the adge)](/designer/skills/styling_05/)
+- 📙 1️⃣ [Styling 5 (on the edge)](/designer/skills/styling_05/)
 - 📙 2️⃣ [Video (responsible: @michal)](/designer/skills/video/)
 
 ## Alternative path
