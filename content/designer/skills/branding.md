@@ -1,5 +1,5 @@
 +++
-title = "Logo design"
+title = "Branding & Logo design"
 +++
 
 {{%bubble %}}
