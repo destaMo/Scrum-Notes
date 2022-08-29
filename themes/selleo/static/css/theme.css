@@ -1110,7 +1110,7 @@ td {
 }
 
 #breadcrumbs .links span:last-child i {
-  display: none;
+  /* display: none; */
 }
 
 @media only all and (max-width: 59.938em) {
