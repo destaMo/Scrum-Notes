@@ -20,6 +20,7 @@ title = "IaaC Advanced"
 ### 🎓 Learn
 - 📗 [Terraform](https://www.terraform.io/)
 - 📗 [Terraform certification review guide](https://learn.hashicorp.com/tutorials/terraform/associate-review?in=terraform/certification)
+- 📗 [HashiCorp Terraform Associate Certification Course - Pass the Exam!](https://youtu.be/V4waklkBC38) 📹
 - 📗 [Terraform providers](https://www.terraform.io/docs/providers/index.html)
 - 📗 [Terraform CLI Documentation](https://www.terraform.io/docs/cli-index.html)
 ### 📝 Katas
