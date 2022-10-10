@@ -7,7 +7,7 @@ title = "Designer"
 
 ## Junior 1
 - 📗 [Design 1 (basics)](/designer/skills/design_01/)
-- 📗 [Styling 1 (basics)](/web_development/skills/styling/01_junior_i/)
+- 📗 [Styling Essentials 1](/designer/skills/styling_essentials_01/)
 
 ## Junior 2
 - 📗 [Interview](/web_development/skills/interview/)
